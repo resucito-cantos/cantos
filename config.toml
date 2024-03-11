@@ -1,0 +1,4 @@
+baseURL = 'https://resucito.co'
+languageCode = 'es'
+title = 'Resucitó'
+theme = 'resucito'

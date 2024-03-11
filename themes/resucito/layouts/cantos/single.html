@@ -1,0 +1,47 @@
+{{ define "main" }}
+<main class="song">
+	<header class="header">
+		<h1 class="header__title">{{ .Title }}</h1>
+		<p class="header__subtitle">{{ .Page.Param "subtitle" }}</p>
+	</header>
+	<section class="content">
+		{{ .Content }}
+	</section>
+  {{ with .Resources.Get "audio" }}
+    <div class="audio-player">
+      <audio id="audio-player-source" controls>
+        <source src="{{ .RelPermalink }}" type="audio/mpeg">
+        <p>No se puede reproducir el audio, <a download="{{ .RelPermalink }}" rel="">descarguelo aquí</a></p>
+      </audio>
+    </div>
+    <script>
+      function toMS(str) {
+        if(!str.includes(":"))
+          return parseFloat(str);
+        const [mins, secms] = str.split(":");
+        const [sec, ms] = secms.split(".");
+        return ((+mins * 60) + +sec) * 1000 + +ms;
+      }
+
+      function setupPlayer(elementId) {
+        const audioMedia = document.getElementById(elementId);
+        if (!audioMedia) {
+          return;
+        }
+        audioMedia.controls = true;
+
+        var syncElements = document.querySelectorAll('[data-sync-from]');
+        syncElements.forEach(function (el) {
+          el.addEventListener('click', function () {
+            var time = el.getAttribute('data-sync-from');
+            audioMedia.currentTime = toMS(time) / 1000;
+            audioMedia.play();
+          });
+        });
+      }
+
+      setupPlayer('audio-player-source');	
+    </script>
+    {{ end }}
+</main>
+{{ end }}

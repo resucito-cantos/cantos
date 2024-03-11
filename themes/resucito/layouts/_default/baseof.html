@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body class="bg-white">
+        {{- partial "header.html" . -}}
+        <div id="content" class="container mx-auto">
+        {{- block "main" . }}{{- end }}
+        </div>
+        {{- partial "footer.html" . -}}
+    </body>
+</html>

@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.song-chords {
+  @apply text-base grid grid-cols-1 md:grid-cols-2; 
+}
+
+.song {
+  @apply lg:max-w-screen-lg antialiased mx-auto mb-8;
+}
+
+.song header {
+  text-align: center;
+  @apply my-8;
+}
+
+.song .header__title {
+  @apply text-lg text-red-500 uppercase font-bold;
+}
+
+.song .header__subtitle {
+  @apply text-base text-gray-800;
+}
+
+.song-chords {
+  @apply leading-10 px-8 md:px-6;
+  cursor: default;
+}
+
+.song-chords .capo {
+  @apply text-xs -mt-8 mb-4;
+}
+
+.song-chords .chorus {
+  @apply uppercase font-bold relative;
+  @apply my-4;
+}
+
+.song-chords .chorus::before {
+  content: "A.";
+  @apply font-bold text-gray-500 absolute top-0 -left-6;
+}
+
+.song-chords .verse {
+  @apply relative;
+  @apply my-6;
+}
+
+.song-chords .verse::before {
+  content: "S.";
+  @apply font-bold text-gray-500 absolute top-0 -left-6;
+}
+
+.song-chords .voice {
+  @apply relative hover:text-gray-700;
+}
+
+.song-chords .chord {
+  @apply text-sm text-red-500 font-bold absolute -top-1;
+}
+
+.song .audio-player {
+  @apply fixed w-screen left-0 bottom-0;
+}
+
+.audio-player audio {
+  @apply w-full;
+}
