@@ -1,62 +1,64 @@
 {{- $commandsRE := `\{([a-z\_]+):?\s*([\S\d]+)?\s*([\S\d]+)?\s*([\S\d]+)?\}` -}}
-{{- $chordReplaceExp := `\[([A-Za-z\-\d]{1,6})\]` -}}
+{{- $chordReplaceExp1 := `\[([A-Za-z\-\d]{1,6})\]` -}}
+{{- $chordReplaceExp := `(\S*)\[(.*?)\](\S*)` -}}
 {{- $lrcDataExp := `^\[([0-9]{2}\:[0-9]{2}\.[0-9]{2,3})\](.*)` -}}
 {{- $lines := split .Inner "\n" -}}
 {{- $inVerse := false -}}
 {{- $inChorus := false -}}
 
 <div class="song-chords">
-<div class="column">
-{{- range $i, $line := $lines -}}
-	{{- $line = trim $line "\n\r" -}}
-        {{- if eq $line "" -}}
-		{{- continue -}}
-	{{- end -}}
-	{{- $directiveLine := findRESubmatch $commandsRE $line -}}
-	{{- if gt ($directiveLine | len) 0 -}}
-		{{- $directiveCmdParts := index $directiveLine 0 -}}
-		{{ $directiveCmd := index $directiveCmdParts 1 }}
-		{{- if eq $directiveCmd "capo" -}}
-			{{ $directiveArg := index $directiveCmdParts 2 }}
-			<div class="capo">Cejilla {{ $directiveArg }}º traste</div>
-			{{- continue -}}
-		{{- end -}}
-		{{- if eq $directiveCmd "column_break" -}}
-			</div>
-			<div class="column">
-			{{- continue -}}
-		{{- end -}}
-		{{- if eq $directiveCmd "start_of_chorus" -}}
-			<section class="chorus">
-			{{- $inChorus = true -}}
-			{{- continue -}}
-		{{- end -}}
-		{{- if eq $directiveCmd "start_of_verse" -}}
-			<div class="verse">
-			{{- $inVerse = true -}}
-			{{- continue -}}
-		{{- end -}}
-		{{- if (eq $directiveCmd "end_of_chorus") -}}
-			</section><!-- .chorus -->
-			{{- $inChorus = false -}}
-			{{- continue -}}
-		{{- end -}}
-		{{- if (eq $directiveCmd "end_of_verse") -}}
-			</div><!-- .verse -->
-			{{- $inVerse = false -}}
-			{{- continue -}}
-		{{- end -}}
-	{{- end -}}
-	{{- $lyrics := $line -}}
-	{{- $syncTime := "" -}}
-	{{- $lrcParsedLine := findRESubmatch $lrcDataExp $line -}}
-	{{- if gt ($lrcParsedLine | len) 0 -}}
-		{{- $lrcData := index $lrcParsedLine 0 -}}			
-		{{ $syncTime = index $lrcData 1 }}
-		{{ $lyrics = index $lrcData 2 }}
-	{{- end -}}
-	{{ $parsedLine := replaceRE $chordReplaceExp `<span class="chord" data-chord="$1">$1</span>` $lyrics }}
-	<p {{with $syncTime }}data-sync-from="{{.}}"{{end}} class="voice">{{- $parsedLine | safeHTML -}}</p>
-{{- end -}}
-</div>
+  <div class="column">
+    {{- range $i, $line := $lines -}}
+    {{- $line = trim $line "\n\r" -}}
+    {{- if eq $line "" -}}
+    {{- continue -}}
+    {{- end -}}
+    {{- $directiveLine := findRESubmatch $commandsRE $line -}}
+    {{- if gt ($directiveLine | len) 0 -}}
+    {{- $directiveCmdParts := index $directiveLine 0 -}}
+    {{ $directiveCmd := index $directiveCmdParts 1 }}
+    {{- if eq $directiveCmd "capo" -}}
+    {{ $directiveArg := index $directiveCmdParts 2 }}
+    <div class="capo">Cejilla {{ $directiveArg }}º traste</div>
+    {{- continue -}}
+    {{- end -}}
+    {{- if eq $directiveCmd "column_break" -}}
+  </div>
+  <div class="column">
+    {{- continue -}}
+    {{- end -}}
+    {{- if eq $directiveCmd "start_of_chorus" -}}
+    <div class="chorus">
+      {{- $inChorus = true -}}
+      {{- continue -}}
+      {{- end -}}
+      {{- if eq $directiveCmd "start_of_verse" -}}
+      <div class="verse">
+        {{- $inVerse = true -}}
+        {{- continue -}}
+        {{- end -}}
+        {{- if (eq $directiveCmd "end_of_chorus") -}}
+      </div><!-- .chorus -->
+      {{- $inChorus = false -}}
+      {{- continue -}}
+      {{- end -}}
+      {{- if (eq $directiveCmd "end_of_verse") -}}
+    </div><!-- .verse -->
+    {{- $inVerse = false -}}
+    {{- continue -}}
+    {{- end -}}
+    {{- end -}}
+    {{- $lyrics := $line -}}
+    {{- $syncTime := "" -}}
+    {{- $lrcParsedLine := findRESubmatch $lrcDataExp $line -}}
+    {{- if gt ($lrcParsedLine | len) 0 -}}
+    {{- $lrcData := index $lrcParsedLine 0 -}}
+    {{ $syncTime = index $lrcData 1 }}
+    {{ $lyrics = index $lrcData 2 }}
+    {{- end -}}
+    {{ $parsedLine := replaceRE $chordReplaceExp `<span class="chord-a">$1<span class="chord"
+        data-chord="$2">$2</span>$3</span>` $lyrics }}
+    <p {{with $syncTime }}data-sync-from="{{.}}" {{end}} class="voice">{{- $parsedLine | safeHTML -}}</p>
+    {{- end -}}
+  </div>
 </div>

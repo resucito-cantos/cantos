@@ -5,7 +5,7 @@
 
 
 .song-chords {
-  @apply text-base grid grid-cols-1 md:grid-cols-2; 
+  @apply text-base grid grid-cols-1 md:grid-cols-2;
 }
 
 .song {
@@ -56,6 +56,14 @@
 
 .song-chords .voice {
   @apply relative hover:text-gray-700;
+}
+
+.song-chords .chord-a {
+  @apply inline-block relative;
+}
+
+.song-chords .chorus .chord {
+  @apply normal-case;
 }
 
 .song-chords .chord {

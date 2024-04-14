@@ -1199,6 +1199,15 @@ select {
   color: rgb(55 65 81 / var(--tw-text-opacity));
 }
 
+.song-chords .chord-a {
+  position: relative;
+  display: inline-block;
+}
+
+.song-chords .chorus .chord {
+  text-transform: none;
+}
+
 .song-chords .chord {
   position: absolute;
   top: -0.25rem;
