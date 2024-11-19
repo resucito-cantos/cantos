@@ -2,7 +2,6 @@
 title: "Himno a la cruz gloriosa"
 subtitle: "Kiko Argüello"
 category: "Catecumenado"
-draft: true
 tags:
   - Azul
 resources:
