@@ -2,8 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-
-
 .song-chords {
   @apply text-base grid grid-cols-1 md:grid-cols-2;
 }
@@ -12,13 +10,21 @@
   @apply lg:max-w-screen-lg antialiased mx-auto mb-8;
 }
 
+body.catecumenado {
+  background-color: #cdedf5;
+}
+
+.song.catecumenado {
+  background-color: #cdedf5;
+}
+
 .song header {
   text-align: center;
   @apply my-8;
 }
 
 .song .header__title {
-  @apply text-lg text-red-500 uppercase font-bold;
+  @apply text-lg text-red-600 uppercase font-bold;
 }
 
 .song .header__subtitle {
@@ -32,6 +38,10 @@
 
 .song-chords .capo {
   @apply text-xs -mt-8 mb-4;
+}
+
+.song-chords .column {
+  @apply md:ml-28 sm:ml-0;
 }
 
 .song-chords .chorus {
@@ -67,7 +77,7 @@
 }
 
 .song-chords .chord {
-  @apply text-sm text-red-500 font-bold absolute -top-1;
+  @apply text-sm text-red-600 font-bold absolute -top-2;
 }
 
 .song .audio-player {

@@ -3,22 +3,23 @@ title: "A tí señor, levanto mi alma"
 subtitle: "Salmo 25 (24)"
 category: "Precatecumenado"
 draft: true
-tags: 
-- Pascua
+tags:
+  - Pascua
 resources:
-- name: audio
-  src: a-ti-senor-levanto-mi-alma.mp3
+  - name: audio
+    src: a-ti-senor-levanto-mi-alma.mp3
 ---
+
 ```chordpro
 {capo: 3}
-{start_of_verse}
+{start_of_chorus}
 [Lam]A TI, SEÑOR, LEVANTO MI [Mi]ALMA,
 A TI, [Re-]OH D[Fa]IOS M[Mi]ÍO.
-{end_of_verse}
+{end_of_chorus}
 
 {start_of_verse}
 [Lam]En ti confío, Señ[Mi]or,
-¡no triunfen sobre mí [Rem]mis [Fa]enem[Mi]igos!
+¡no triunfen sobre mí [Rem]mis e[Fa]nem[Mi]igos!
 [Lam]Muéstrame, Señor, tu cam[Mi]ino,
 enséñame, Señor, [Rem]tu se[Fa]nd[Mi]ero.
 {end_of_verse}
