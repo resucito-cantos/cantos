@@ -6,17 +6,8 @@ $category = . }} {{ end }}
     <p class="header__subtitle">{{ .Page.Param "subtitle" }}</p>
   </header>
   <section class="content">{{ .Content }}</section>
-  {{ with .Resources.Get "audio" }}
-  <div class="audio-player">
-    <link rel="prefetch" href="{{ .RelPermalink }}" />
-    <audio id="audio-player-source" controls>
-      <source src="{{ .RelPermalink }}" type="audio/mpeg" />
-      <p>
-        No se puede reproducir el audio,
-        <a download="{{ .RelPermalink }}" rel="">descarguelo aquí</a>
-      </p>
-    </audio>
-  </div>
+  {{ with .Resources.Get "audio" }} {{ partial "player.html" . }}
+  <link rel="prefetch" href="{{ .RelPermalink }}" />
   <script>
     function toMS(str) {
       if (!str.includes(":")) return parseFloat(str);
