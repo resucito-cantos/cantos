@@ -12,60 +12,60 @@ resources:
 
 ```chordpro
 {start_of_verse}
-[Do]Señor, escucha, mi [Re]oración,
-[Do-]presta oídos a mi sú[Re]plica.
+[00:02.00] [Do]Señor, escucha, mi [Re]oración,
+[00:16.00] [Do-]presta oídos a mi sú[Re]plica.
 {end_of_verse}
 
 {start_of_chorus}
-[Sol-]TÚ QUE ERES FI[Do-]EL,*
-[Sol-]TÚ QUE ERES FI[Do-]EL RESP[Re7]ÓNDEME,
-POR TU JUST[Do-]ICIA RESP[Re7]ÓNDEME.
+[00:28.00] [Sol-]TÚ QUE ERES FI[Do-]EL,*
+[00:37.00] [Sol-]TÚ QUE ERES FI[Do-]EL RESP[Re7]ÓNDEME,
+[00:52.00] POR TU JUST[Do-]ICIA RESP[Re7]ÓNDEME.
 {end_of_chorus}
 
 {start_of_verse}
-[Sol-]No llames a juicio a tu si[Re7]ervo,
-ningún hombre es inocente frente a t[Sol-]i.
-El enemigo me per[Re7]sigue,
-[Do-]estrella mi vida contra el su[Re7]elo.
+[01:06.00] [Sol-]No llames a juicio a tu si[Re7]ervo,
+[01:10.00] ningún hombre es inocente frente a t[Sol-]i.
+[01:15.00] El enemigo me per[Re7]sigue,
+[01:19.00] [Do-]estrella mi vida contra el su[Re7]elo.
 {end_of_verse}
 
 {start_of_chorus}
-[Sol-]TÚ QUE ERES FI[Do-]EL...
+[01:26.00] [Sol-]TÚ QUE ERES FI[Do-]EL...
 {end_of_chorus}
 
 {start_of_verse}
-[Sol-]Extiendo mis manos hacia t[Re7]i,
-tengo sed de ti como tierra res[Sol-]eca.
-¡Escúchame pronto, Señ[Re7]or,
-[Do-]que me falta el ali[Re7]ento!
+[02:03.00] [Sol-]Extiendo mis manos hacia t[Re7]i,
+[02:07.00] tengo sed de ti como tierra res[Sol-]eca.
+[02:13.00] ¡Escúchame pronto, Señ[Re7]or,
+[02:20.00] [Do-]que me falta el ali[Re7]ento!
 {end_of_verse}
 
 {start_of_chorus}
-[Sol-]TÚ QUE ERES FI[Do-]EL...
+[02:27.00] [Sol-]TÚ QUE ERES FI[Do-]EL...
 {end_of_chorus}
 
 {column_break}
 
 {start_of_verse}
-[Sol-]Hazme conocer el cami[Re7]no,
-la vía que he de segu[Sol-]ir.
-Líbrame de mis enem[Re7]igos,
-[Do-]Señor, que me refugio en t[Re7]i.
+[03:08.00] [Sol-]Hazme conocer el cami[Re7]no,
+[03:14.00] la vía que he de segu[Sol-]ir.
+[03:19.00] Líbrame de mis enem[Re7]igos,
+[03:23.00] [Do-]Señor, que me refugio en t[Re7]i.
 {end_of_verse}
 
 {start_of_chorus}
-[Sol-]TÚ QUE ERES FI[Do-]EL...
+[03:34.00] [Sol-]TÚ QUE ERES FI[Do-]EL...
 {end_of_chorus}
 
 {start_of_verse}
-[Sol-]Enséñame a cumplir tu volunt[Re7]ad,
-porque tú eres mi Di[Sol-]os;
-tu Espíritu me gu[Re7]íe,
-[Do-]tu Espíritu me guíe por tierra ll[Re7]ana.
+[04:11.00] [Sol-]Enséñame a cumplir tu volunt[Re7]ad,
+[04:18.00] porque tú eres mi Di[Sol-]os;
+[04:23.00] tu Espíritu me gu[Re7]íe,
+[04:28.00] [Do-]tu Espíritu me guíe por tierra ll[Re7]ana.
 {end_of_verse}
 
 {start_of_chorus}
-[Sol-]TÚ QUE ERES FI[Do-]EL...
+[04:38.00] [Sol-]TÚ QUE ERES FI[Do-]EL...
 {end_of_chorus}
 
 ```
