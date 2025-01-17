@@ -1,6 +1,5 @@
 ---
-draft: true
-title: "Tu que eres fiel"
+title: "Tú que eres fiel"
 subtitle: "Salmo 143 (142)"
 category: "Precatecumenado"
 tags:
@@ -12,49 +11,61 @@ resources:
 ---
 
 ```chordpro
-{start_verse}
-Señor, escucha, mi oración,
-presta oídos a mi súplica.
-{end_verse}
+{start_of_verse}
+[Do]Señor, escucha, mi [Re]oración,
+[Do-]presta oídos a mi sú[Re]plica.
+{end_of_verse}
 
-TÚ QUE ERES FIEL, *
-TÚ QUE ERES FIEL RESPÓNDEME,
-POR TU JUSTICIA RESPÓNDEME.
+{start_of_chorus}
+[Sol-]TÚ QUE ERES FIEL,*
+[Do-]TÚ QUE ERES FIEL [Re7]RESPÓNDEME,
+[Do-]POR TU JUSTICIA [Re7]RESPÓNDEME.
+{end_of_chorus}
 
-{start_verse}
-No llames a juicio a tu siervo,
-ningún hombre es inocente frente a ti.
-El enemigo me persigue,
-estrella mi vida contra el suelo.
-{end_verse}
+{start_of_verse}
+[Sol-]No llames a juicio a tu [Re7]siervo,
+ningún hombre es in[Sol-]ocente frente a ti.
+El enemigo me per[Re7]sigue,
+[Do-]estrella mi vida contra el [Re7]suelo.
+{end_of_verse}
 
-TÚ QUE ERES FIEL …
+{start_of_chorus}
+[Sol-]TÚ QUE ERES FIEL...
+{end_of_chorus}
 
-{start_verse}
-Extiendo mis manos hacia ti,
-tengo sed de ti como tierra reseca.
-¡Escúchame pronto, Señor,
-que me falta el aliento!
-{end_verse}
+{start_of_verse}
+[Sol-]Extiendo mis manos hacia [Re7]ti,
+tengo sed de ti como [Sol-]tierra reseca.
+¡[Re7]Escúchame pronto, Señor,
+[Do-]que me falta el [Re7]aliento!
+{end_of_verse}
 
-TÚ QUE ERES FIEL …
+{start_of_chorus}
+[Sol-]TÚ QUE ERES FIEL...
+{end_of_chorus}
 
-{start_verse}
-Hazme conocer el camino,
-la vía que he de seguir.
-Líbrame de mis enemigos,
-Señor, que me refugio en ti.
-{end_verse}
+{column_break}
 
-TÚ QUE ERES FIEL …
+{start_of_verse}
+[Sol-]Hazme conocer el cami[Re7]no,
+la vía que he de [Sol-]seguir.
+Líbrame de mis ene[Re7]migos,
+[Do-]Señor, que me refugio en [Re7]ti.
+{end_of_verse}
 
-{start_verse}
-Enséñame a cumplir tu voluntad,
-porque tú eres mi Dios;
-tu Espíritu me guíe,
-tu Espíritu me guíe por tierra llana.
-{end_verse}
+{start_of_chorus}
+[Sol-]TÚ QUE ERES FIEL...
+{end_of_chorus}
 
-TÚ QUE ERES FIEL …
+{start_of_verse}
+[Sol-]Enséñame a cumplir tu vo[Re7]luntad,
+porque tú eres mi [Sol-]Dios;
+tu Espíritu me [Re7]guíe,
+[Do-]tu Espíritu me guíe por [Re7]tierra llana.
+{end_of_verse}
+
+{start_of_chorus}
+[Sol-]TÚ QUE ERES FIEL...
+{end_of_chorus}
 
 ```
