@@ -12,8 +12,8 @@ resources:
 
 ```chordpro
 {start_of_verse}
-[00:02.00] [Do]Señor, escucha, mi [Re]oración,
-[00:16.00] [Do-]presta oídos a mi sú[Re]plica.
+[00:02.00] [Do]Señor, [Re]escucha, m[Do-]i oración,
+[00:16.00] [Re]presta oídos [Do-]a mi súplica. [Re]&nbsp;
 {end_of_verse}
 
 {start_of_chorus}
