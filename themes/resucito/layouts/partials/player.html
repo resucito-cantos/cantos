@@ -1,92 +1,115 @@
-<script>
-  window.resucito = {
-    audio: { src: "{{ .RelPermalink }}" },
-  };
-</script>
-<script
-  defer
-  src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.4/howler.min.js"
-></script>
-<script defer src="/js/player.js"></script>
-<div id="audio-player" class="audio-player">
-  <button id="play-pause" class="btn" aria-label="Play/Pause">
-    <svg
-      xmlns="http://www.w3.org/2000/svg"
-      width="24"
-      height="24"
-      viewBox="0 0 24 24"
-      fill="none"
-      stroke="currentColor"
-      stroke-width="2"
-      stroke-linecap="round"
-      stroke-linejoin="round"
-      class="play-icon"
+<link rel="preload" href="{{ .RelPermalink }}" as="audio" />
+<div
+  id="audioPlayerContainer"
+  class="fixed bottom-0 left-0 right-0 mix-blend-multiply shadow-lg transition-all duration-300 ease-in-out"
+>
+  <div class="absolute -top-6 left-1/2 transform -translate-x-1/2">
+    <button
+      id="togglePlayerBtn"
+      class="bg-white px-3 py-1"
+      title="Toggle Player"
     >
-      <polygon points="5 3 19 12 5 21 5 3"></polygon>
-    </svg>
-    <svg
-      xmlns="http://www.w3.org/2000/svg"
-      width="24"
-      height="24"
-      viewBox="0 0 24 24"
-      fill="none"
-      stroke="currentColor"
-      stroke-width="2"
-      stroke-linecap="round"
-      stroke-linejoin="round"
-      class="pause-icon hidden"
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        class="h-6 w-6 transform transition-transform duration-300"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke="currentColor"
+      >
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          d="M5 15l7-7 7 7"
+        />
+      </svg>
+    </button>
+  </div>
+  <div
+    id="audioPlayer"
+    class="container mx-auto px-4 py-3 flex items-center space-x-4"
+  >
+    <audio id="audio" src="{{ .RelPermalink }}" preload="metadata"></audio>
+    <button
+      id="playPauseBtn"
+      class="text-gray-700 hover:text-gray-900 focus:outline-none"
+      title="Play/Pause"
     >
-      <rect x="6" y="4" width="4" height="16"></rect>
-      <rect x="14" y="4" width="4" height="16"></rect>
-    </svg>
-  </button>
-  <button id="loop" class="btn" aria-label="Toggle Loop">
-    <svg
-      xmlns="http://www.w3.org/2000/svg"
-      width="24"
-      height="24"
-      viewBox="0 0 24 24"
-      fill="none"
-      stroke="currentColor"
-      stroke-width="2"
-      stroke-linecap="round"
-      stroke-linejoin="round"
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        class="h-8 w-8"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke="currentColor"
+      >
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z"
+        />
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+        />
+      </svg>
+    </button>
+    <button
+      id="loopBtn"
+      class="text-gray-700 hover:text-gray-900 focus:outline-none"
+      title="Toggle Loop"
     >
-      <path d="M17 2l4 4-4 4"></path>
-      <path d="M3 11v-1a4 4 0 0 1 4-4h14"></path>
-      <path d="M7 22l-4-4 4-4"></path>
-      <path d="M21 13v1a4 4 0 0 1-4 4H3"></path>
-    </svg>
-  </button>
-  <input
-    type="range"
-    id="progress-bar"
-    min="0"
-    max="100"
-    value="0"
-    class="progress-bar"
-    aria-label="Audio progress"
-  />
-  <button id="kebab-menu" class="btn" aria-label="More options">
-    <svg
-      xmlns="http://www.w3.org/2000/svg"
-      width="24"
-      height="24"
-      viewBox="0 0 24 24"
-      fill="none"
-      stroke="currentColor"
-      stroke-width="2"
-      stroke-linecap="round"
-      stroke-linejoin="round"
-    >
-      <circle cx="12" cy="12" r="1"></circle>
-      <circle cx="12" cy="5" r="1"></circle>
-      <circle cx="12" cy="19" r="1"></circle>
-    </svg>
-  </button>
-  <div id="dropdown-menu" class="dropdown-menu hidden">
-    <button class="dropdown-item">Add to playlist</button>
-    <button class="dropdown-item">Share</button>
-    <button class="dropdown-item">View album</button>
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        class="h-6 w-6"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke="currentColor"
+      >
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"
+        />
+      </svg>
+    </button>
+    <div class="flex-grow">
+      <input
+        type="range"
+        id="seekSlider"
+        class="w-full"
+        min="0"
+        max="100"
+        value="0"
+      />
+    </div>
+    <div class="flex items-center space-x-2">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        class="h-5 w-5 text-gray-700"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke="currentColor"
+      >
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z"
+        />
+      </svg>
+      <input
+        type="range"
+        id="volumeSlider"
+        class="w-24"
+        min="0"
+        max="100"
+        value="100"
+      />
+    </div>
   </div>
 </div>
+<script src="/js/player.js"></script>
