@@ -1,66 +1,31 @@
-<link rel="preload" href="{{ .RelPermalink }}" as="audio" />
 <div
-  id="audioPlayerContainer"
-  class="fixed bottom-0 left-0 right-0 mix-blend-multiply shadow-lg transition-all duration-300 ease-in-out"
+  id="player"
+  class="fixed bottom-0 left-0 w-full bg-transparent text-gray-600"
 >
-  <div class="absolute -top-6 left-1/2 transform -translate-x-1/2">
-    <button
-      id="togglePlayerBtn"
-      class="bg-white px-3 py-1"
-      title="Toggle Player"
-    >
-      <svg
-        xmlns="http://www.w3.org/2000/svg"
-        class="h-6 w-6 transform transition-transform duration-300"
-        fill="none"
-        viewBox="0 0 24 24"
-        stroke="currentColor"
-      >
-        <path
-          stroke-linecap="round"
-          stroke-linejoin="round"
-          stroke-width="2"
-          d="M5 15l7-7 7 7"
-        />
-      </svg>
-    </button>
-  </div>
-  <div
-    id="audioPlayer"
-    class="container mx-auto px-4 py-3 flex items-center space-x-4"
-  >
-    <audio id="audio" src="{{ .RelPermalink }}" preload="metadata"></audio>
+  <audio id="audio" src="{{.RelPermalink}}" class="hidden"></audio>
+  <div class="flex items-center gap-4 px-4 py-2">
+    <!-- Play/Pause Button -->
     <button
       id="playPauseBtn"
-      class="text-gray-700 hover:text-gray-900 focus:outline-none"
-      title="Play/Pause"
+      class="flex items-center tooltip"
+      data-tooltip="Play/Pause"
     >
       <svg
+        class="w-6 h-6 fill-current"
         xmlns="http://www.w3.org/2000/svg"
-        class="h-8 w-8"
-        fill="none"
         viewBox="0 0 24 24"
-        stroke="currentColor"
       >
+        <path id="playIcon" d="M5 3v18l15-9L5 3z" />
         <path
-          stroke-linecap="round"
-          stroke-linejoin="round"
-          stroke-width="2"
-          d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z"
-        />
-        <path
-          stroke-linecap="round"
-          stroke-linejoin="round"
-          stroke-width="2"
-          d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+          id="pauseIcon"
+          class="hidden"
+          d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"
         />
       </svg>
     </button>
-    <button
-      id="loopBtn"
-      class="text-gray-700 hover:text-gray-900 focus:outline-none"
-      title="Toggle Loop"
-    >
+
+    <!-- Loop Button -->
+    <button id="loopBtn" class="flex items-center tooltip" data-tooltip="Loop">
       <svg
         xmlns="http://www.w3.org/2000/svg"
         class="h-6 w-6"
@@ -76,20 +41,22 @@
         />
       </svg>
     </button>
-    <div class="flex-grow">
-      <input
-        type="range"
-        id="seekSlider"
-        class="w-full"
-        min="0"
-        max="100"
-        value="0"
-      />
-    </div>
-    <div class="flex items-center space-x-2">
+
+    <!-- Seek Slider -->
+    <input
+      id="seekSlider"
+      type="range"
+      min="0"
+      max="100"
+      value="0"
+      class="flex-1 mx-2 h-2 bg-gray-700 rounded-lg"
+    />
+
+    <!-- Volume Slider -->
+    <div class="flex items-center">
       <svg
         xmlns="http://www.w3.org/2000/svg"
-        class="h-5 w-5 text-gray-700"
+        class="h-5 w-5 fill-current"
         fill="none"
         viewBox="0 0 24 24"
         stroke="currentColor"
@@ -102,12 +69,13 @@
         />
       </svg>
       <input
-        type="range"
         id="volumeSlider"
-        class="w-24"
+        type="range"
         min="0"
-        max="100"
-        value="100"
+        max="1"
+        step="0.01"
+        value="0.5"
+        class="h-2 bg-gray-700 rounded-lg"
       />
     </div>
   </div>

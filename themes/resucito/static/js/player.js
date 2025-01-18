@@ -1,74 +1,57 @@
+function toMS(str) {
+  if (!str.includes(":")) return parseFloat(str);
+  const [mins, secms] = str.split(":");
+  const [sec, ms] = secms.split(".");
+  return (+mins * 60 + +sec) * 1000 + +ms;
+}
 document.addEventListener("DOMContentLoaded", () => {
-  const audio = document.getElementById("audio");
   const playPauseBtn = document.getElementById("playPauseBtn");
   const loopBtn = document.getElementById("loopBtn");
   const seekSlider = document.getElementById("seekSlider");
   const volumeSlider = document.getElementById("volumeSlider");
-  const togglePlayerBtn = document.getElementById("togglePlayerBtn");
-  const audioPlayerContainer = document.getElementById("audioPlayerContainer");
-  const audioPlayer = document.getElementById("audioPlayer");
+  const playIcon = document.getElementById("playIcon");
+  const pauseIcon = document.getElementById("pauseIcon");
 
-  // Play/Pause functionality
+  let audio = document.getElementById("audio");
+  let isPlaying = false;
+  let isLooping = false;
+
+  // Play/Pause
   playPauseBtn.addEventListener("click", () => {
-    if (audio.paused) {
-      audio.play();
-      playPauseBtn.innerHTML = `
-                    <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 9v6m4-6v6m7-3a9 9 0 11-18 0 9 9 0 0118 0z" />
-                    </svg>
-                `;
-    } else {
+    if (isPlaying) {
       audio.pause();
-      playPauseBtn.innerHTML = `
-                    <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z" />
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-                    </svg>
-                `;
+    } else {
+      audio.play();
     }
+    isPlaying = !isPlaying;
+    playIcon.classList.toggle("hidden", isPlaying);
+    pauseIcon.classList.toggle("hidden", !isPlaying);
   });
 
-  // Loop functionality
+  // Loop
   loopBtn.addEventListener("click", () => {
-    audio.loop = !audio.loop;
-    loopBtn.classList.toggle("text-red-500");
+    isLooping = !isLooping;
+    audio.loop = isLooping;
+    loopBtn.classList.toggle("text-green-500", isLooping);
   });
 
-  // Seek slider functionality
-  seekSlider.addEventListener("input", () => {
-    const seekTo = audio.duration * (seekSlider.value / 100);
+  // Volume
+  volumeSlider.addEventListener("input", (e) => {
+    audio.volume = e.target.value;
+  });
+
+  // Seek
+  seekSlider.addEventListener("input", (e) => {
+    const seekTo = audio.duration * (e.target.value / 100);
     audio.currentTime = seekTo;
   });
 
   // Update seek slider as audio plays
   audio.addEventListener("timeupdate", () => {
-    const value = (100 / audio.duration) * audio.currentTime;
-    seekSlider.value = value;
+    seekSlider.value = (audio.currentTime / audio.duration) * 100 || 0;
   });
 
-  // Volume slider functionality
-  volumeSlider.addEventListener("input", () => {
-    audio.volume = volumeSlider.value / 100;
-  });
-
-  // Initialize volume
-  audio.volume = volumeSlider.value / 100;
-
-  // Toggle player visibility
-  togglePlayerBtn.addEventListener("click", () => {
-    audioPlayer.classList.toggle("hidden");
-    togglePlayerBtn.querySelector("svg").classList.toggle("rotate-180");
-  });
-
-  function toMS(str) {
-    if (!str.includes(":")) return parseFloat(str);
-    const [mins, secms] = str.split(":");
-    const [sec, ms] = secms.split(".");
-    return (+mins * 60 + +sec) * 1000 + +ms;
-  }
-
-  function setupPlayer(elementId) {
-    const audioMedia = document.getElementById(elementId);
+  function setupPlayer(audioMedia) {
     if (!audioMedia) {
       return;
     }
@@ -79,9 +62,29 @@ document.addEventListener("DOMContentLoaded", () => {
         var time = el.getAttribute("data-sync-from");
         audioMedia.currentTime = toMS(time) / 1000;
         audioMedia.play();
+        isPlaying = true;
       });
     });
   }
 
-  setupPlayer("audio");
+  setupPlayer(audio);
+
+  // Keyboard shortcuts
+  document.addEventListener("keydown", (e) => {
+    switch (e.code) {
+      case "Space":
+        e.preventDefault();
+        playPauseBtn.click();
+        break;
+      case "KeyL":
+        loopBtn.click();
+        break;
+      case "ArrowLeft":
+        audio.currentTime = Math.max(0, audio.currentTime - 1);
+        break;
+      case "ArrowRight":
+        audio.currentTime = Math.min(audio.duration, audio.currentTime + 1);
+        break;
+    }
+  });
 });
