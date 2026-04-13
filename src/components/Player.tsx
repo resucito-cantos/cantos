@@ -3,9 +3,10 @@ import { useCallback, useEffect, useRef, useState } from "react";
 
 type PlayerProps = {
 	src: string;
+	title: string;
 };
 
-export function Player({ src }: PlayerProps) {
+export function Player({ src, title }: PlayerProps) {
 	const audioRef = useRef<HTMLAudioElement>(null);
 	const [isPlaying, setIsPlaying] = useState(false);
 	const [isLooping, setIsLooping] = useState(false);
@@ -76,6 +77,14 @@ export function Player({ src }: PlayerProps) {
 		function onTimeUpdate() {
 			if (!audio) return;
 			setSeekValue((audio.currentTime / audio.duration) * 100 || 0);
+
+			if ("mediaSession" in navigator && audio.duration) {
+				navigator.mediaSession.setPositionState({
+					duration: audio.duration,
+					playbackRate: audio.playbackRate,
+					position: audio.currentTime,
+				});
+			}
 		}
 
 		function onEnded() {
@@ -136,6 +145,68 @@ export function Player({ src }: PlayerProps) {
 		document.addEventListener("keydown", onKeyDown);
 		return () => document.removeEventListener("keydown", onKeyDown);
 	}, [togglePlay, toggleLoop]);
+
+	// Media Session API — lock screen / OS media controls
+	useEffect(() => {
+		if (!("mediaSession" in navigator)) return;
+
+		navigator.mediaSession.metadata = new MediaMetadata({
+			title,
+			artist: "Resucitó",
+			album: "Cantos para las Comunidades Neocatecumenales",
+			artwork: [96, 128, 192, 256, 512].map((size) => ({
+				src: "/resucito-cover.png",
+				sizes: `${size}x${size}`,
+				type: "image/png",
+			})),
+		});
+
+		const actions: [MediaSessionAction, MediaSessionActionHandler][] = [
+			["play", () => { audioRef.current?.play(); setIsPlaying(true); }],
+			["pause", () => { audioRef.current?.pause(); setIsPlaying(false); }],
+			[
+				"seekto",
+				(details) => {
+					const audio = audioRef.current;
+					if (audio && details.seekTime != null) {
+						audio.currentTime = details.seekTime;
+					}
+				},
+			],
+			[
+				"seekbackward",
+				() => {
+					const audio = audioRef.current;
+					if (audio) audio.currentTime = Math.max(0, audio.currentTime - 5);
+				},
+			],
+			[
+				"seekforward",
+				() => {
+					const audio = audioRef.current;
+					if (audio) audio.currentTime = Math.min(audio.duration, audio.currentTime + 5);
+				},
+			],
+		];
+
+		for (const [action, handler] of actions) {
+			try {
+				navigator.mediaSession.setActionHandler(action, handler);
+			} catch {
+				// Action not supported by this browser
+			}
+		}
+
+		return () => {
+			for (const [action] of actions) {
+				try {
+					navigator.mediaSession.setActionHandler(action, null);
+				} catch {
+					// Ignore
+				}
+			}
+		};
+	}, [title]);
 
 	return (
 		<>

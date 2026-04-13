@@ -119,7 +119,7 @@ function CantoPage() {
 			<footer className="song-footer">
 				SOLO para uso interno del Camino Neocatecumenal
 			</footer>
-			{canto.audioSrc && <Player src={canto.audioSrc} />}
+			{canto.audioSrc && <Player src={canto.audioSrc} title={canto.title} />}
 		</main>
 	);
 }
