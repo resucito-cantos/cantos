@@ -94,22 +94,60 @@ Looks correct. Two-column layout matches PDF.
 
 ---
 
+### 16. Amén, amén, amén (p.36) ⚠️
+- [ ] Missing accents: "AMEN"→"AMÉN", "Bendicion"→"Bendición", "sabiduria"→"sabiduría", "ACCION"→"ACCIÓN", "TRIBULACION"→"TRIBULACIÓN", "TUNICAS"→"TÚNICAS", "Quienes"→"Quiénes"
+- [ ] Title missing accents
+
+### 17. Amo al Señor (p.37) ⚠️
+- [ ] Extensive missing accents (~20): "OIDO"→"OÍDO", "DIA"→"DÍA", "Tenia"→"Tenía", "pagare"→"pagaré", "Alzare"→"Alzaré", "bendicion"→"bendición", "invocare"→"invocaré", "envolvian"→"envolvían", "invoque"→"invoqué", "salvame"→"sálvame", "CAIDA"→"CAÍDA", "MIA"→"MÍA"
+- [ ] Missing "BIS A." on opening verse section
+
+### 18. Aquedah (p.38) ⚠️
+- [ ] Missing accents: "todavia"→"todavía", "disponia"→"disponía", "mio"→"mío", "MIO"→"MÍO", "valido"→"válido", "Genesis"→"Génesis" (subtitle)
+- [ ] Missing BIS on first chorus "AQUEDAH, AQUEDAH"
+- [ ] Missing "BIS Asamblea" on final chorus "ÁTAME, ÁTAME FUERTE..."
+- [ ] Verify «» guillemet quotes on quoted speech
+
+### 19. Ave María I (p.39) ⚠️
+- [ ] **Trailing chord bug**: "María, La-", "gracia, La-", "DIOS, La-", "AMEN. La-"
+- [ ] Missing accents: "Maria"→"María", "MARIA"→"MARÍA", "AMEN"→"AMÉN", "Jesus"→"Jesús"
+
+### 20. Ave María II (1984) (p.40) ⚠️
+- [ ] **Trailing chord bug**: multiple trailing "Mi" chords rendered inline
+- [ ] Missing accents: same as Ave María I
+- [ ] Compound chords "Do|Mi|Fa" rendered as merged "DoMi Fa" — needs proper handling
+
+### 21. Babilonia criminal (p.41) ⚠️
+- [ ] Massive accent problems (~15+): "ACORDANDONOS", "cantico", "Jerusalen", "alegria", "DECIAN", "DIVERTIERAMOS"
+- [ ] Missing "¡" on exclamations: "!ARRASADLA"→"¡ARRASADLA", "!Que"→"¡Que"
+- [ ] Missing "¿" on questions
+
+### 22. Balaam (p.42) ⚠️
+- [ ] Missing accents: "Numeros"→"Números" (subtitle), "leon"→"león", "hara"→"hará", "oido"→"oído", "estas"→"estás"
+- [ ] Missing "¡" on "!QUE BELLAS"→"¡QUE BELLAS"
+- [ ] Missing "¿" on questions
+
+### 23. Bendeciré al Señor en todo tiempo (p.43) ⚠️
+- [ ] Missing accents: "angel"→"ángel", "QUE"→"QUÉ" (exclamatory)
+- [ ] Missing "¡" on "!LO ESCUCHEN"
+
+---
+
 ## Not Yet Reviewed
 
 Continue from:
-- Amén, amén, amén (p.36)
-- Amo al Señor (p.37)
-- Aquedah (p.38)
-- Ave María I (p.39)
-- Ave María II (1984) (p.40)
-- Babilonia criminal (p.41)
-- Balaam (p.42)
-- ... (continue through all remaining songs)
+- Bendice, alma mía, a Yahveh (p.44)
+- Bendita eres tú, María (p.45)
+- Bendito eres, Señor (p.46)
+- Benedictus (p.47)
+- ... (continue through all remaining ~190 songs)
 
 ## Priority Fixes
 
-1. **Trailing chord rendering bug** — parser/renderer issue, affects many songs
-2. **Bulk accent fix** — programmatic pass for common missing accents
-3. **Empty songs** — transcribe from PDF (a-ti-senor-en-mi-clamor-imploro)
-4. **BIS markers** — add missing BIS to songs that have it in PDF
-5. **Chord name standardization** — convert "Lam"→"La-" etc.
+1. **Trailing chord rendering bug** — parser/renderer issue, affects many songs. Chords at end of line with no following text render inline as plaintext.
+2. **Bulk accent fix** — programmatic pass needed. Patterns: missing ´ on past tenses (-ó, -ió, -é), missing ñ, missing ¨, missing ¡¿ openers. Affects ~100+ songs.
+3. **Empty songs** — transcribe from PDF: a-ti-senor-en-mi-clamor-imploro (p.24)
+4. **BIS markers** — add missing BIS to: a-ti-levanto-mis-ojos, aclamad-al-senor, amo-al-senor, aquedah, alegria-ha-nacido-el-salvador
+5. **Chord name standardization** — convert "Lam"→"La-", "Rem"→"Re-" etc.
+6. **Compound chord notation** — handle "Do|Mi|Fa" pipe notation (ave-maria-ii-1984)
+7. **Missing ¡¿ openers** — widespread, needs programmatic fix
