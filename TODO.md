@@ -8,6 +8,12 @@ Issues found during comparison of markdown content files against the Resucitó X
 - **Common accents fixed**: ángeles, ejércitos, órdenes, árboles, pájaros, domésticos, jóvenes, único, cetáceos, pasará
 - **196 files**: Updated categories from "TODO" to proper values (Precatecumenado, Catecumenado, Elección, Litúrgico)
 - **194 files**: Added liturgical tags (Cuaresma, Pascua, Navidad, etc.) from PDF indices
+- **a-la-victima-pascual**: subtitle fixed "Canto de entrada" → "Secuencia de Pascua"
+- **a-nadie-demos-ocasion-de-tropiezo**: subtitle fixed "2a Corintios" → "2ª Corintios"
+- **a-ti-senor-en-mi-clamor-imploro**: subtitle fixed "Canto" → "Salmo 142 (141)", title fixed missing comma
+- **a-ti-senor-se-debe-la-alabanza-en-sion**: lyrics typo "se debe a alabanza" → "se debe la alabanza"
+- **abraham**: 15+ missing accents fixed (día, miró, inclinó, traeré, lavaré, etc.)
+- **al-despertar**: 30+ missing accents fixed throughout
 
 ## Needs Human Review
 
@@ -38,17 +44,19 @@ Many songs from the scrapper are missing Spanish diacritical marks throughout th
 
 Some subtitles may not match the PDF. Spot-check these:
 
-- [ ] a-ti-senor-se-debe-la-alabanza-en-sion — PDF says "Salmo 65 (64)", verify markdown matches
-- [ ] abraham — PDF says "Teofanía de Mambré – Génesis 18,1-5"
-- [ ] aclamad-al-senor — PDF says "Salmo 100 (99)"
-- [ ] All 214 songs need subtitle verification against PDF
+- [x] a-ti-senor-se-debe-la-alabanza-en-sion — "Salmo 65 (64)" ✓ matches
+- [x] abraham — subtitle has accents, needs dash style check (PDF: "–", md: "-")
+- [x] aclamad-al-senor — "Salmo 100 (99)" ✓ matches
+- [ ] All remaining songs need subtitle verification against PDF
 
 ### Lyrics Text Accuracy (MEDIUM PRIORITY)
 
 Songs that need line-by-line verification against the PDF:
 
-- [ ] a-ti-senor-se-debe-la-alabanza-en-sion — line 14 has "se debe a alabanza" (should be "se debe la alabanza")
-- [ ] alabad-al-senor-en-el-cielo — title in frontmatter missing accent: "Senor" should be "Señor"  
+- [ ] a-ti-levanto-mis-ojos — PDF says "los ojos de los siervos **están fijos en** las manos" but markdown says "**miran a** las manos". May be a translation variant — needs human verification
+- [ ] a-ti-senor-en-mi-clamor-imploro — verify lyrics content is complete (was originally a draft)
+- [ ] a-ti-senor-levanto-mi-alma — was marked `draft: true`, verify content completeness
+- [ ] al-despertar — line with standalone `[Mi-]` chord and no lyrics text, verify against PDF
 - [ ] All songs from the scrapper need lyrics verification — the scrapper may have introduced OCR-style errors
 
 ### Chord Name Consistency (LOW PRIORITY)
