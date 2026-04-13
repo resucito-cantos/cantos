@@ -12,3 +12,5 @@ dist-ssr
 __unconfig*
 todos.json
 .content-collections
+public/audio
+content/cantos/**/*.mp3
