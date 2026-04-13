@@ -1,7 +1,7 @@
-import { afterEach, describe, expect, it } from "vitest";
 import { cleanup, render, screen } from "@testing-library/react";
-import { SongSheet } from "./SongSheet";
+import { afterEach, describe, expect, it } from "vitest";
 import type { CantoAST } from "../lib/chordpro";
+import { SongSheet } from "./SongSheet";
 
 const sampleAST: CantoAST = {
 	capo: 5,
@@ -54,23 +54,13 @@ describe("SongSheet", () => {
 	});
 
 	it("renders capo indicator", () => {
-		render(
-			<SongSheet
-				title="Test"
-				ast={sampleAST}
-			/>,
-		);
+		render(<SongSheet title="Test" ast={sampleAST} />);
 
 		expect(screen.getByText("Cejilla 5º traste")).toBeDefined();
 	});
 
 	it("renders chord names above lyrics", () => {
-		render(
-			<SongSheet
-				title="Test"
-				ast={sampleAST}
-			/>,
-		);
+		render(<SongSheet title="Test" ast={sampleAST} />);
 
 		expect(screen.getByText("La-")).toBeDefined();
 		expect(screen.getByText("La7")).toBeDefined();
@@ -78,24 +68,14 @@ describe("SongSheet", () => {
 	});
 
 	it("renders two columns split at columnBreak", () => {
-		const { container } = render(
-			<SongSheet
-				title="Test"
-				ast={sampleAST}
-			/>,
-		);
+		const { container } = render(<SongSheet title="Test" ast={sampleAST} />);
 
 		const columns = container.querySelectorAll(".column");
 		expect(columns.length).toBe(2);
 	});
 
 	it("renders timecode as data attribute on voice paragraphs", () => {
-		const { container } = render(
-			<SongSheet
-				title="Test"
-				ast={sampleAST}
-			/>,
-		);
+		const { container } = render(<SongSheet title="Test" ast={sampleAST} />);
 
 		const voices = container.querySelectorAll("[data-sync-from]");
 		expect(voices.length).toBe(2);

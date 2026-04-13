@@ -1,11 +1,14 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { allCantos } from "content-collections";
-import { SongSheet } from "../../components/SongSheet";
 import { ChordDiagrams } from "../../components/ChordDiagram";
 import { Player } from "../../components/Player";
+import { SongSheet } from "../../components/SongSheet";
 import type { CantoEntry } from "../../hooks/useSearch";
 
 export const Route = createFileRoute("/cantos/$slug")({
+	staticData: {
+		prerender: true,
+	},
 	loader: ({ params }) => {
 		const canto = (allCantos as CantoEntry[]).find(
 			(c) => c.slug === params.slug,
@@ -25,7 +28,9 @@ function CantoPage() {
 	const canto = Route.useLoaderData();
 
 	return (
-		<main className={`pb-24 ${canto.category?.toLowerCase() === "catecumenado" ? "bg-[#cdedf5]" : ""}`}>
+		<main
+			className={`pb-24 ${canto.category?.toLowerCase() === "catecumenado" ? "bg-[#cdedf5]" : ""}`}
+		>
 			<SongSheet
 				title={canto.title}
 				subtitle={canto.subtitle}

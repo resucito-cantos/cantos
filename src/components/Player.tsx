@@ -1,5 +1,5 @@
-import { useCallback, useEffect, useRef, useState } from "react";
 import { Pause, Play, Repeat, Volume2 } from "lucide-react";
+import { useCallback, useEffect, useRef, useState } from "react";
 
 type PlayerProps = {
 	src: string;
@@ -38,16 +38,13 @@ export function Player({ src }: PlayerProps) {
 		setSeekValue(val);
 	}, []);
 
-	const handleVolume = useCallback(
-		(e: React.ChangeEvent<HTMLInputElement>) => {
-			const audio = audioRef.current;
-			if (!audio) return;
-			const val = Number(e.target.value);
-			audio.volume = val;
-			setVolume(val);
-		},
-		[],
-	);
+	const handleVolume = useCallback((e: React.ChangeEvent<HTMLInputElement>) => {
+		const audio = audioRef.current;
+		if (!audio) return;
+		const val = Number(e.target.value);
+		audio.volume = val;
+		setVolume(val);
+	}, []);
 
 	// Seek to a specific timecode (called from SongSheet lyric clicks)
 	useEffect(() => {
@@ -121,10 +118,7 @@ export function Player({ src }: PlayerProps) {
 					break;
 				case "ArrowRight":
 					e.preventDefault();
-					audio.currentTime = Math.min(
-						audio.duration,
-						audio.currentTime + 5,
-					);
+					audio.currentTime = Math.min(audio.duration, audio.currentTime + 5);
 					break;
 				case "ArrowUp":
 					e.preventDefault();

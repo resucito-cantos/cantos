@@ -1,4 +1,4 @@
-import type { CantoAST, Section, Line, Segment } from "../lib/chordpro";
+import type { CantoAST, Line, Section, Segment } from "../lib/chordpro";
 
 type SongSheetProps = {
 	title: string;
@@ -22,7 +22,10 @@ function ChordSegment({ segment }: { segment: Segment }) {
 function VoiceLine({
 	line,
 	onLineClick,
-}: { line: Line; onLineClick?: (timecode: string) => void }) {
+}: {
+	line: Line;
+	onLineClick?: (timecode: string) => void;
+}) {
 	return (
 		<p
 			className="voice"
@@ -44,7 +47,10 @@ function VoiceLine({
 function SongSection({
 	section,
 	onLineClick,
-}: { section: Section; onLineClick?: (timecode: string) => void }) {
+}: {
+	section: Section;
+	onLineClick?: (timecode: string) => void;
+}) {
 	return (
 		<div className={section.type}>
 			{section.lines.map((line, i) => (
@@ -78,9 +84,7 @@ export function SongSheet({
 
 			<div className="song-chords">
 				{ast.capo !== null && (
-					<div className="text-xs -mt-8 mb-4">
-						Cejilla {ast.capo}º traste
-					</div>
+					<div className="text-xs -mt-8 mb-4">Cejilla {ast.capo}º traste</div>
 				)}
 				{columns.map((sections, colIdx) => (
 					<div key={colIdx} className="column">

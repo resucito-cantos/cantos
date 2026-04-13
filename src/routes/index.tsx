@@ -1,10 +1,15 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { allCantos } from "content-collections";
 import { SearchBar } from "../components/SearchBar";
-import { useSearch } from "../hooks/useSearch";
 import type { CantoEntry } from "../hooks/useSearch";
+import { useSearch } from "../hooks/useSearch";
 
-export const Route = createFileRoute("/")({ component: HomePage });
+export const Route = createFileRoute("/")({
+	staticData: {
+		prerender: true,
+	},
+	component: HomePage,
+});
 
 function HomePage() {
 	const cantos = allCantos as CantoEntry[];

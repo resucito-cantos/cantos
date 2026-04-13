@@ -72,9 +72,7 @@ export function parseChordPro(input: string): CantoAST {
 		if (line === "") continue;
 
 		// Directives
-		const directiveMatch = line.match(
-			/^\{([a-z_]+):?\s*([\S\d]*)\s*\}$/,
-		);
+		const directiveMatch = line.match(/^\{([a-z_]+):?\s*([\S\d]*)\s*\}$/);
 		if (directiveMatch) {
 			const cmd = directiveMatch[1];
 			const arg = directiveMatch[2];
