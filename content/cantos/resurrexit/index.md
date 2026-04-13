@@ -2,7 +2,7 @@
 title: "Resurrexit"
 subtitle: "Juan 11, 25-27"
 category: "Precatecumenado"
-tags:
+tags: []
 resources:
 - name: audio
   src: resurrexit.mp3

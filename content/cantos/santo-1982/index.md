@@ -2,7 +2,7 @@
 title: "Santo 1982"
 subtitle: "Tiempo Ordinario"
 category: "Litúrgico"
-tags:
+tags: []
 resources:
 - name: audio
   src: santo-1982.mp3

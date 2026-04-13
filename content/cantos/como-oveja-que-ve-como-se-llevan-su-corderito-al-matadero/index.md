@@ -2,7 +2,7 @@
 title: "¿Como Oveja ¿Que Ve ¿Como Se Llevan Su Corderito Al Matadero"
 subtitle: "Kontakion con motivo del Viernes de Pasion, de san Romano el Meloda"
 category: "Litúrgico"
-tags:
+tags: []
 resources:
 - name: audio
   src: como-oveja-que-ve-como-se-llevan-su-corderito-al-matadero.mp3

@@ -2,7 +2,7 @@
 title: "Yo Te Amo, Señor"
 subtitle: "Salmo 18 (17)"
 category: "Precatecumenado"
-tags:
+tags: []
 resources:
 - name: audio
   src: yo-te-amo-senor.mp3

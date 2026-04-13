@@ -2,7 +2,7 @@
 title: "Oh Dios, Tú Eres Mi Dios"
 subtitle: "Salmo 63 (62)"
 category: "Precatecumenado"
-tags:
+tags: []
 ---
 ```chordpro
 {start_of_verse}

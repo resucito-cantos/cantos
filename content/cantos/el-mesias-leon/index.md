@@ -2,7 +2,7 @@
 title: "El Mesías León"
 subtitle: "Comentario al Apocalipsis (Victorino de Pettau)"
 category: "Precatecumenado"
-tags: 
+tags: []
 resources:
 - name: audio
   src: el-mesias-leon.mp3

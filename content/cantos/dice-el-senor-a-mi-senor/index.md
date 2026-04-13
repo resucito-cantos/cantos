@@ -2,7 +2,7 @@
 title: "Dice el Señor a mi Señor"
 subtitle: "Salmo 110 (109)"
 category: "Precatecumenado"
-tags:
+tags: []
 resources:
 - name: audio
   src: dice-el-senor-a-mi-senor.mp3

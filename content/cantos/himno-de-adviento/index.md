@@ -2,7 +2,7 @@
 title: "Himno de Adviento"
 subtitle: "Kiko Argüello"
 category: "Precatecumenado"
-tags:
+tags: []
 resources:
 - name: audio
   src: himno-de-adviento.mp3

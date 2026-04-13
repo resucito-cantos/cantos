@@ -2,7 +2,7 @@
 title: "Ven, Hijo del Hombre"
 subtitle: "Apocalipsis 21, 17ss"
 category: "Precatecumenado"
-tags:
+tags: []
 resources:
 - name: audio
   src: ven-hijo-del-hombre.mp3

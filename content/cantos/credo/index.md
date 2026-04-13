@@ -2,7 +2,7 @@
 title: "Credo"
 subtitle: "Símbolo Apostólico"
 category: "Litúrgico"
-tags:
+tags: []
 resources:
 - name: audio
   src: credo.mp3

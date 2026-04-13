@@ -2,7 +2,7 @@
 title: "Padre Nuestro"
 subtitle: "Tiempo de la Elección"
 category: "Litúrgico"
-tags:
+tags: []
 resources:
 - name: audio
   src: padre-nuestro.mp3

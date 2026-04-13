@@ -2,7 +2,7 @@
 title: "Señor, Tu Me Escrutas y Conoces"
 subtitle: "Salmo 139 (138)"
 category: "Catecumenado"
-tags:
+tags: []
 resources:
 - name: audio
   src: senor-tu-me-escrutas-y-conoces.mp3

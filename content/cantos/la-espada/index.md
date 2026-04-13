@@ -2,7 +2,7 @@
 title: "La espada"
 subtitle: "TODO"
 category: "Precatecumenado"
-tags: 
+tags: []
 resources:
 - name: audio
   src: la-espada.mp3

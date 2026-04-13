@@ -2,7 +2,7 @@
 title: "Vosotros Sois la Luz del Mundo"
 subtitle: "Mateo 5,14-16"
 category: "Precatecumenado"
-tags:
+tags: []
 resources:
 - name: audio
   src: vosotros-sois-la-luz-del-mundo.mp3

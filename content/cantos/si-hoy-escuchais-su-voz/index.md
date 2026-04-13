@@ -2,9 +2,7 @@
 title: "Si hoy escucháis su voz"
 subtitle: "Salmo 95 (94)"
 category: "Precatecumenado"
-tags:
-  - Blanco
-  - Convivencia
+tags: []
 resources:
   - name: audio
     src: si-hoy-escuchais-su-voz.mp3

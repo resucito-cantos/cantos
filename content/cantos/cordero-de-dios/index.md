@@ -2,7 +2,7 @@
 title: "Cordero De Dios"
 subtitle: "Letanía del Cordero de Dios"
 category: "Litúrgico"
-tags:
+tags: []
 resources:
 - name: audio
   src: cordero-de-dios.mp3

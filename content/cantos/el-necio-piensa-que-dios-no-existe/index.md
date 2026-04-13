@@ -2,7 +2,7 @@
 title: "El Necio Piensa ¿Que Dios No Existe"
 subtitle: "Salmo 14 (13)"
 category: "Precatecumenado"
-tags: 
+tags: []
 resources:
 - name: audio
   src: el-necio-piensa-que-dios-no-existe.mp3

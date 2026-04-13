@@ -2,7 +2,7 @@
 title: "Señor, No Me Corrijas en Tu Colera"
 subtitle: "Salmo 6"
 category: "Precatecumenado"
-tags:
+tags: []
 resources:
 - name: audio
   src: senor-no-me-corrijas-en-tu-colera.mp3

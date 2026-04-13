@@ -2,7 +2,7 @@
 title: "Te Deum"
 subtitle: "Himno"
 category: "Litúrgico"
-tags:
+tags: []
 resources:
 - name: audio
   src: te-deum.mp3

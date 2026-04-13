@@ -2,7 +2,7 @@
 title: "He aqui mi siervo"
 subtitle: "Primer canto del Siervo de Yahveh - Isaias 42"
 category: "Catecumenado"
-tags:
+tags: []
 resources:
 - name: audio
   src: he-aqui-mi-siervo.mp3

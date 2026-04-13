@@ -2,7 +2,7 @@
 title: "El Lagarero"
 subtitle: "Isaias 63,1-6"
 category: "Catecumenado"
-tags: 
+tags: []
 resources:
 - name: audio
   src: el-lagarero.mp3

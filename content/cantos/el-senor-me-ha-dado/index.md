@@ -2,7 +2,7 @@
 title: "El Señor Me Ha Dado"
 subtitle: "Tercer canto del Siervo de Yahveh - Isaías 50, 4-10"
 category: "Catecumenado"
-tags:
+tags: []
 resources:
 - name: audio
   src: el-senor-me-ha-dado.mp3

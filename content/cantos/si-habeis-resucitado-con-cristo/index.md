@@ -2,7 +2,7 @@
 title: "Si Habéis Resucitado con Cristo"
 subtitle: "Colosenses 3,1-4"
 category: "Precatecumenado"
-tags:
+tags: []
 resources:
 - name: audio
   src: si-habeis-resucitado-con-cristo.mp3

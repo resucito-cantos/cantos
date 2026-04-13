@@ -2,7 +2,7 @@
 title: "Te Estoy Llamando, Señor"
 subtitle: "Salmo 141 (140)"
 category: "Precatecumenado"
-tags:
+tags: []
 resources:
 - name: audio
   src: te-estoy-llamando-senor.mp3

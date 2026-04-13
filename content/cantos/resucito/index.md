@@ -2,7 +2,7 @@
 title: "Resucito"
 subtitle: "1 Corintios 15"
 category: "Precatecumenado"
-tags:
+tags: []
 resources:
 - name: audio
   src: resucito.mp3

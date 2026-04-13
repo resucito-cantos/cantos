@@ -2,7 +2,7 @@
 title: "Dichoso el Hombre"
 subtitle: "Salmo 1"
 category: "Precatecumenado"
-tags:
+tags: []
 resources:
 - name: audio
   src: dichoso-el-hombre.mp3

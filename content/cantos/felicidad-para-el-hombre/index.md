@@ -2,7 +2,7 @@
 title: "Felicidad para el hombre"
 subtitle: "Salmo 128 (127)"
 category: "Precatecumenado"
-tags:
+tags: []
 resources:
 - name: audio
   src: felicidad-para-el-hombre.mp3

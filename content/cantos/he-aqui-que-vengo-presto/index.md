@@ -2,7 +2,7 @@
 title: "He aqui que vengo presto"
 subtitle: "Apocalipsis 22, 12-16"
 category: "Precatecumenado"
-tags:
+tags: []
 resources:
 - name: audio
   src: he-aqui-que-vengo-presto.mp3

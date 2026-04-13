@@ -2,7 +2,7 @@
 title: "Bendito sea Dios"
 subtitle: "Efesios 1,3-13"
 category: "Catecumenado"
-tags:
+tags: []
 resources:
 - name: audio
   src: bendito-sea-dios.mp3

@@ -2,7 +2,7 @@
 title: "A tu luz, Señor, vemos la luz"
 subtitle: "Salmo 36"
 category: "Litúrgico"
-tags:
+tags: []
 resources:
 - name: audio
   src: a-tu-luz-senor-vemos-la-luz.mp3

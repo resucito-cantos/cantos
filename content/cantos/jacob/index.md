@@ -2,7 +2,7 @@
 title: "Jacob"
 subtitle: "Génesis 32,23-29"
 category: "Catecumenado"
-tags:
+tags: []
 resources:
 - name: audio
   src: jacob.mp3

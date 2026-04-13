@@ -2,7 +2,7 @@
 title: "Por Qué las Gentes Conjuran"
 subtitle: "Salmo 2"
 category: "Precatecumenado"
-tags: 
+tags: []
 resources:
 - name: audio
   src: por-que-las-gentes-conjuran.mp3
