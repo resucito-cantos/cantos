@@ -57,7 +57,14 @@ function HomePage() {
 				type="application/ld+json"
 				dangerouslySetInnerHTML={{ __html: JSON.stringify(siteJsonLd) }}
 			/>
-			<h1 className="mb-8 text-4xl font-bold text-red-600">Resucitó</h1>
+			<h1 className="mb-2 text-5xl font-bold uppercase tracking-tight text-red-600">
+				Resucitó
+			</h1>
+			<img
+				src="/resucito.png"
+				alt="Cantos del camino neocatecumenal"
+				className="mb-8 h-10 w-auto"
+			/>
 			<CommandPaletteInline cantos={cantos} />
 		</main>
 	);
