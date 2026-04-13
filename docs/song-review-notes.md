@@ -4,39 +4,43 @@ Comparing rendered pages against PDF (Resucitó XX Edición 2014) and scrapper i
 
 **Legend:**
 - ✅ = matches PDF, no issues
-- ⚠️ = minor issues
+- ⚠️ = minor issues remaining
 - ❌ = major issues (missing content, wrong layout)
+- ~~strikethrough~~ = fixed
 
 ## Systemic Issues (affect multiple songs)
 
-### Trailing chord rendering bug
-When a chord appears at end of line with no text after it (e.g., `templo, [Re] [La]`), the chord name renders inline as plaintext instead of above. Affects: aleluya-alabad-al-senor, aleluya-bendecid-al-senor, aleluya-ya-llego-el-reino, alzaos-puertas, and likely many more. **Needs parser/renderer fix.**
+### ~~Trailing chord rendering bug~~ ✅ FIXED
+~~When a chord appears at end of line with no text after it, the chord name renders inline.~~
+Fixed: empty chord segments now render with non-breaking space.
 
-### Missing accents (widespread)
-Many songs from the scrapper are missing Spanish diacritical marks. Common patterns:
-- "SENOR" → "SEÑOR", "CORAZON" → "CORAZÓN"  
-- "Quien" → "Quién", "SUBIRA" → "SUBIRÁ"
-- "ejercitos" → "ejércitos", "El" → "Él" (pronoun)
-- "Alegria" → "Alegría", "Belen" → "Belén"
+### ~~Missing accents (widespread)~~ ✅ MOSTLY FIXED
+Bulk accent fix applied: AMÉN, SEÑOR, MARÍA, JESÚS, CORAZÓN, ORACIÓN, ángeles, ejércitos, Jerusalén, Belén, Alegría, pañales, and many verb forms. Some songs may still have individual accent issues.
 
-### Chord name inconsistency
-Some songs use "Lam", "Rem", "Mim" (e.g., a-ti-senor-levanto-mi-alma) while most use "La-", "Re-", "Mi-". Should standardize.
+### ~~Chord name inconsistency~~ ✅ FIXED
+Converted "Lam"→"La-", "Rem"→"Re-", etc. across 11 files.
 
-### Missing BIS markers
-Several songs in the PDF have "BIS" or "BIS Asamblea" labels that aren't in the markdown content.
+### ~~Missing ¡¿ openers~~ ✅ MOSTLY FIXED
+Programmatic fix applied for common patterns. Some edge cases may remain.
 
-### Missing voice labels
-PDF uses "Mujeres:", "Hombres:", "Niños:" labels on some songs. Not supported in the ChordPro parser or renderer.
+### Missing BIS markers — STILL OPEN
+Several songs in the PDF have "BIS" or "BIS Asamblea" labels not in the markdown.
+
+### Missing voice labels — STILL OPEN (feature needed)
+PDF uses "Mujeres:", "Hombres:", "Niños:" labels. Not supported in parser/renderer.
+
+### Compound chord notation — STILL OPEN
+"Do|Mi|Fa" pipe notation in ave-maria-ii-1984 renders as merged text.
 
 ---
 
 ## Reviewed Songs
 
 ### 1. A la víctima pascual (p.21) ✅
-No issues found.
+No issues.
 
 ### 2. A nadie demos ocasión de tropiezo (p.22) ✅
-No issues found.
+No issues.
 
 ### 3. A ti levanto mis ojos (p.23) ⚠️
 - [ ] Missing "BIS Asamblea" on opening chorus
@@ -45,109 +49,95 @@ No issues found.
 
 ### 4. A ti, Señor, en mi clamor imploro (p.24) ❌
 - [ ] **EMPTY** — no chordpro content. Entire song needs transcription from PDF p.24
-- PDF: two-column, Cejilla 2º traste, chorus "A TI, SEÑOR, EN MI CLAMOR IMPLORO" / "A TI, YO CLAMO SEÑOR"
 
-### 5. A ti, Señor, levanto mi alma (p.25) ⚠️
-- [ ] Chord names use "Lam", "Rem" instead of "La-", "Re-" (inconsistent)
-- Layout and lyrics correct ✓
+### 5. A ti, Señor, levanto mi alma (p.25) ✅
+- [x] ~~Chord names "Lam"→"La-"~~ FIXED
 
 ### 6. A ti, Señor, se debe la alabanza en Sión (p.26) ✅
-No issues found.
+No issues.
 
 ### 7. Abraham (p.27) ⚠️
 - [ ] Verify guillemets «» around quoted speech match PDF
 
 ### 8. Aclamad al Señor (p.28) ⚠️
 - [ ] Missing "BIS Asamblea" on opening chorus
-- [ ] Check accent: "¡Acercaos a él" (accent on él)
+- [ ] Check accent on "él"
 
 ### 9. Al despertar (p.29) ✅
-Looks correct. Two-column layout matches PDF.
+No issues.
 
 ### 10. Alabad al Señor en el cielo (p.30) ⚠️
-- [ ] Unique responsive layout in PDF: "¡ALABADLO!" appears to the RIGHT of each verse line (call-and-response). Current rendering stacks them vertically.
-- [ ] Missing accents: "Él", "mandó"
+- [ ] Unique call-and-response layout in PDF not reproducible with current structure
+- [x] ~~Missing accents~~ MOSTLY FIXED
 
 ### 11. Alegría, ha nacido el salvador (p.31) ⚠️
-- [ ] Missing accents: "Alegria" → "Alegría", "Belen" → "Belén", "panales" → "pañales"
-- [ ] Missing BIS on "¡ALEGRÍA, ALEGRÍA, ALEGRÍA..." chorus
-- [ ] Title missing accent: "ALEGRIA" → "ALEGRÍA"
+- [x] ~~Missing accents: Alegría, Belén, pañales~~ FIXED
+- [ ] Missing BIS on chorus
+- [x] ~~Title accent~~ FIXED
 
-### 12. Aleluya, alabad al Señor (p.32) ⚠️
-- [ ] **Trailing chord bug**: chords at end of lines render inline (e.g., "templo, ReLa")
-- Layout otherwise matches PDF ✓
+### 12. Aleluya, alabad al Señor (p.32) ✅
+- [x] ~~Trailing chord bug~~ FIXED (renderer)
 
 ### 13. Aleluya, bendecid al Señor (p.33) ⚠️
-- [ ] **Trailing chord bug**: "YA,La" inline
-- [ ] Missing "Niños:" voice label on opening section
-- [ ] Missing accent: "Alzad a El" → "Alzad a Él"
-- [ ] Verify Cejilla 2º traste present
+- [x] ~~Trailing chord bug~~ FIXED
+- [ ] Missing "Niños:" voice label
+- [x] ~~Missing accent "Él"~~ FIXED
 
-### 14. Aleluya, ya llegó el reino (p.34) ⚠️
-- [ ] **Trailing chord bug** on multiple lines
-- [ ] Title missing accent: "LLEGO" → "LLEGÓ"
+### 14. Aleluya, ya llegó el reino (p.34) ✅
+- [x] ~~Trailing chord bug~~ FIXED
+- [x] ~~Title accent "llegó"~~ FIXED
 
 ### 15. Alzaos puertas (p.35) ⚠️
-- [ ] Missing accents: "SENOR", "CORAZON", "ejercitos", "SUBIRA", "Quien" → "Quién"
-- [ ] **Trailing chord bug**: "gloria?Mi-"
-- [ ] Missing opening "¿" on questions
+- [x] ~~Most accents~~ FIXED
+- [x] ~~Trailing chord bug~~ FIXED
+- [x] ~~Missing ¡¿~~ FIXED
+- [ ] Some individual accents may remain
 
----
-
-### 16. Amén, amén, amén (p.36) ⚠️
-- [ ] Missing accents: "AMEN"→"AMÉN", "Bendicion"→"Bendición", "sabiduria"→"sabiduría", "ACCION"→"ACCIÓN", "TRIBULACION"→"TRIBULACIÓN", "TUNICAS"→"TÚNICAS", "Quienes"→"Quiénes"
-- [ ] Title missing accents
+### 16. Amén, amén, amén (p.36) ✅
+- [x] ~~All accents~~ FIXED
+- [x] ~~Title~~ FIXED
 
 ### 17. Amo al Señor (p.37) ⚠️
-- [ ] Extensive missing accents (~20): "OIDO"→"OÍDO", "DIA"→"DÍA", "Tenia"→"Tenía", "pagare"→"pagaré", "Alzare"→"Alzaré", "bendicion"→"bendición", "invocare"→"invocaré", "envolvian"→"envolvían", "invoque"→"invoqué", "salvame"→"sálvame", "CAIDA"→"CAÍDA", "MIA"→"MÍA"
-- [ ] Missing "BIS A." on opening verse section
+- [x] ~~Most accents (MÍA, Tenía, aún)~~ FIXED
+- [ ] Missing "BIS A." on opening verse
+- [ ] Some individual accents may remain
 
 ### 18. Aquedah (p.38) ⚠️
-- [ ] Missing accents: "todavia"→"todavía", "disponia"→"disponía", "mio"→"mío", "MIO"→"MÍO", "valido"→"válido", "Genesis"→"Génesis" (subtitle)
-- [ ] Missing BIS on first chorus "AQUEDAH, AQUEDAH"
-- [ ] Missing "BIS Asamblea" on final chorus "ÁTAME, ÁTAME FUERTE..."
-- [ ] Verify «» guillemet quotes on quoted speech
+- [x] ~~Some accents~~ FIXED by bulk pass
+- [ ] Missing BIS on choruses
+- [ ] Verify «» guillemet quotes
 
-### 19. Ave María I (p.39) ⚠️
-- [ ] **Trailing chord bug**: "María, La-", "gracia, La-", "DIOS, La-", "AMEN. La-"
-- [ ] Missing accents: "Maria"→"María", "MARIA"→"MARÍA", "AMEN"→"AMÉN", "Jesus"→"Jesús"
+### 19. Ave María I (p.39) ✅
+- [x] ~~Trailing chord bug~~ FIXED
+- [x] ~~Accents (María, Jesús, Amén)~~ FIXED
 
 ### 20. Ave María II (1984) (p.40) ⚠️
-- [ ] **Trailing chord bug**: multiple trailing "Mi" chords rendered inline
-- [ ] Missing accents: same as Ave María I
-- [ ] Compound chords "Do|Mi|Fa" rendered as merged "DoMi Fa" — needs proper handling
+- [x] ~~Trailing chord bug~~ FIXED
+- [x] ~~Accents~~ FIXED
+- [ ] Compound chords "Do|Mi|Fa" still render merged
 
 ### 21. Babilonia criminal (p.41) ⚠️
-- [ ] Massive accent problems (~15+): "ACORDANDONOS", "cantico", "Jerusalen", "alegria", "DECIAN", "DIVERTIERAMOS"
-- [ ] Missing "¡" on exclamations: "!ARRASADLA"→"¡ARRASADLA", "!Que"→"¡Que"
-- [ ] Missing "¿" on questions
+- [x] ~~¡ openers~~ FIXED
+- [ ] Some individual accents may remain (ACORDÁNDONOS, cántico, DIVIRTIÉRAMOS)
 
 ### 22. Balaam (p.42) ⚠️
-- [ ] Missing accents: "Numeros"→"Números" (subtitle), "leon"→"león", "hara"→"hará", "oido"→"oído", "estas"→"estás"
-- [ ] Missing "¡" on "!QUE BELLAS"→"¡QUE BELLAS"
-- [ ] Missing "¿" on questions
+- [x] ~~Números subtitle, ¡QUE BELLAS~~ FIXED
+- [ ] Some accents may remain (león, hará, estás)
 
-### 23. Bendeciré al Señor en todo tiempo (p.43) ⚠️
-- [ ] Missing accents: "angel"→"ángel", "QUE"→"QUÉ" (exclamatory)
-- [ ] Missing "¡" on "!LO ESCUCHEN"
+### 23. Bendeciré al Señor en todo tiempo (p.43) ✅
+- [x] ~~ángel, ¡LO ESCUCHEN~~ FIXED
 
 ---
 
 ## Not Yet Reviewed
 
-Continue from:
-- Bendice, alma mía, a Yahveh (p.44)
-- Bendita eres tú, María (p.45)
-- Bendito eres, Señor (p.46)
-- Benedictus (p.47)
-- ... (continue through all remaining ~190 songs)
+~190 songs remaining from Bendice, alma mía (p.44) onwards.
 
-## Priority Fixes
+## Remaining Priority Fixes
 
-1. **Trailing chord rendering bug** — parser/renderer issue, affects many songs. Chords at end of line with no following text render inline as plaintext.
-2. **Bulk accent fix** — programmatic pass needed. Patterns: missing ´ on past tenses (-ó, -ió, -é), missing ñ, missing ¨, missing ¡¿ openers. Affects ~100+ songs.
-3. **Empty songs** — transcribe from PDF: a-ti-senor-en-mi-clamor-imploro (p.24)
-4. **BIS markers** — add missing BIS to: a-ti-levanto-mis-ojos, aclamad-al-senor, amo-al-senor, aquedah, alegria-ha-nacido-el-salvador
-5. **Chord name standardization** — convert "Lam"→"La-", "Rem"→"Re-" etc.
-6. **Compound chord notation** — handle "Do|Mi|Fa" pipe notation (ave-maria-ii-1984)
-7. **Missing ¡¿ openers** — widespread, needs programmatic fix
+1. **Empty songs** — a-ti-senor-en-mi-clamor-imploro needs full transcription
+2. **Missing BIS markers** — a-ti-levanto-mis-ojos, aclamad-al-senor, amo-al-senor, aquedah, alegria-ha-nacido-el-salvador
+3. **Voice labels** — feature needed for Mujeres/Hombres/Niños
+4. **Compound chord notation** — Do|Mi|Fa pipe handling
+5. **Individual accent review** — some songs still have scattered missing accents
+6. **Guillemets «»** — verify quoted speech in Abraham and others

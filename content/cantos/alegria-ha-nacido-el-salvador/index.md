@@ -11,7 +11,7 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [Re-]Alegria, alegría, alegría,
+[00:00.00] [Re-]Alegría, alegría, alegría,
 [00:00.00] alegría, ha nacido el [Re-]Salvador.
 {end_of_verse}
 
@@ -39,7 +39,7 @@ resources:
 {end_of_chorus}
 
 {start_of_verse}
-[00:00.00] [Reb]envuelto en [Re-]panales.
+[00:00.00] [Reb]envuelto en [Re-]pañales.
 {end_of_verse}
 
 {start_of_chorus}
@@ -48,7 +48,7 @@ resources:
 
 {start_of_verse}
 [00:00.00] [Do7]
-[00:00.00] [Re-]Alegria, alegría, alegría,
+[00:00.00] [Re-]Alegría, alegría, alegría,
 [00:00.00] alegría, ha nacido el [Re-]Salvador.
 {end_of_verse}
 
@@ -78,7 +78,7 @@ resources:
 {column_break}
 
 {start_of_verse}
-[00:00.00] [Re-]Alegria, alegría, alegría,
+[00:00.00] [Re-]Alegría, alegría, alegría,
 [00:00.00] alegría, ha nacido el [Re-]Salvador.
 {end_of_verse}
 

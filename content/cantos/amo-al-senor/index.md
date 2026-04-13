@@ -24,7 +24,7 @@ resources:
 [00:00.00] [Re]"Te ruego, Señor, sálvame!".
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Re]RECOBRA ALMA MIA TU [Fa#-]REPOSO,
+[00:00.00] [Re]RECOBRA ALMA MÍA TU [Fa#-]REPOSO,
 [00:00.00] [Sol]POR¿QUE EL SEÑOR FUE [Mi-6]BUENO [La7]CONTIGO.
 {end_of_chorus}
 {start_of_chorus}
@@ -37,7 +37,7 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [Re]Tenia fe, aun cuando [Fa#-]dije:
+[00:00.00] [Re]Tenía fe, aún cuando [Fa#-]dije:
 [00:00.00] "Yo soy un desgraciado!,
 [00:00.00] y pensaba lleno de [Sol]angustia:
 [00:00.00] [Mi-6]"todo hombre es [La7]falso".
@@ -49,6 +49,6 @@ resources:
 [00:00.00] [La7]e invocaré el nombre del Señor.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Re]RECOBRA ALMA MIA ...
+[00:00.00] [Re]RECOBRA ALMA MÍA ...
 {end_of_chorus}
 ```

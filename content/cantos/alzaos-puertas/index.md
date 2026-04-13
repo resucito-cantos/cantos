@@ -112,7 +112,7 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [Mi-]El Señor de los [Si-]ejercitos.
+[00:00.00] [Mi-]El Señor de los [Si-]ejércitos.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Mi-]EL SEÑOR DE LOS [Si-]EJERCITOS.

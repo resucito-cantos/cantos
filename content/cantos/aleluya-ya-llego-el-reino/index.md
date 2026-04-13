@@ -1,5 +1,5 @@
 ---
-title: "Aleluya, ya llego el reino"
+title: "Aleluya, ya llegó el reino"
 subtitle: "Apocalipsis 19,6-9"
 category: "Precatecumenado"
 tags:
