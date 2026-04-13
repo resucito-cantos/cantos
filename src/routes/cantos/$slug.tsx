@@ -2,6 +2,7 @@ import { createFileRoute, notFound } from "@tanstack/react-router";
 import { allCantos } from "content-collections";
 import { CheckCircle, Download, Loader2 } from "lucide-react";
 import { ChordDiagrams } from "../../components/ChordDiagram";
+import { NotFound } from "../../components/NotFound";
 import { Player } from "../../components/Player";
 import { SongSheet } from "../../components/SongSheet";
 import { useChordsVisible } from "../../hooks/useChordsVisible";
@@ -70,26 +71,31 @@ export const Route = createFileRoute("/cantos/$slug")({
 		}
 		return canto;
 	},
-	head: ({ loaderData }) => ({
-		meta: [
-			{ title: `${loaderData.title} — Resucitó` },
-			{
-				name: "description",
-				content: loaderData.subtitle
-					? `${loaderData.title} — ${loaderData.subtitle}. Canto del Camino Neocatecumenal.`
-					: `${loaderData.title}. Canto del Camino Neocatecumenal con acordes y letra.`,
-			},
-			{ property: "og:title", content: `${loaderData.title} — Resucitó` },
-			{
-				property: "og:description",
-				content: loaderData.subtitle
-					? `${loaderData.title} — ${loaderData.subtitle}`
-					: loaderData.title,
-			},
-			{ property: "og:type", content: "music.song" },
-		],
-	}),
+	head: ({ loaderData }) => {
+		if (!loaderData) return {};
+		return {
+			meta: [
+				{ title: `${loaderData.title} — Resucitó` },
+				{
+					name: "description",
+					content: loaderData.subtitle
+						? `${loaderData.title} — ${loaderData.subtitle}. Canto del Camino Neocatecumenal.`
+						: `${loaderData.title}. Canto del Camino Neocatecumenal con acordes y letra.`,
+				},
+				{ property: "og:title", content: `${loaderData.title} — Resucitó` },
+				{
+					property: "og:description",
+					content: loaderData.subtitle
+						? `${loaderData.title} — ${loaderData.subtitle}`
+						: loaderData.title,
+				},
+				{ property: "og:type", content: "music.song" },
+			],
+		};
+	},
 	component: CantoPage,
+	notFoundComponent: NotFound,
+	errorComponent: NotFound,
 });
 
 const CATEGORY_BG: Record<string, string> = {
