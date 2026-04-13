@@ -10,6 +10,7 @@ import { allCantos } from "content-collections";
 import { Bars3Icon } from "@heroicons/react/24/outline";
 import { useCallback, useEffect, useState } from "react";
 import { CommandPaletteDialog } from "../components/CommandPalette";
+import { NotFound } from "../components/NotFound";
 import {
 	ChordsVisibleContext,
 	loadSettings,
@@ -33,6 +34,7 @@ export const Route = createRootRouteWithContext<MyRouterContext>()({
 	}),
 	shellComponent: RootDocument,
 	component: RootComponent,
+	notFoundComponent: NotFound,
 });
 
 function RootDocument({ children }: { children: React.ReactNode }) {
