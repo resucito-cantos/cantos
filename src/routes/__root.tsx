@@ -76,6 +76,12 @@ function RootComponent() {
 		return () => document.removeEventListener("keydown", handleKeyDown);
 	}, [handleKeyDown]);
 
+	useEffect(() => {
+		if ("serviceWorker" in navigator) {
+			navigator.serviceWorker.register("/sw.js");
+		}
+	}, []);
+
 	return (
 		<ChordsVisibleContext value={{ chordsVisible, toggleChords }}>
 			{!isHomePage && (
