@@ -3,6 +3,9 @@ title: "Oh Dios, Tú Eres Mi Dios"
 subtitle: "Salmo 63 (62)"
 category: "Precatecumenado"
 tags: []
+resources:
+- name: audio
+  src: oh-dios-tu-eres-mi-dios.mp3
 ---
 ```chordpro
 {start_of_verse}

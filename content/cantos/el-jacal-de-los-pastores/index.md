@@ -6,6 +6,9 @@ tags:
 - Pascua
 - Comunión
 
+resources:
+- name: audio
+  src: el-jacal-de-los-pastores.mp3
 ---
 ```chordpro
 {start_of_verse}

@@ -5,6 +5,9 @@ category: "Precatecumenado"
 tags:
 - Final
 
+resources:
+- name: audio
+  src: escondeme-en-lo-oculto-de-tu-tienda.mp3
 ---
 ```chordpro
 {start_of_chorus}

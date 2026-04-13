@@ -5,6 +5,9 @@ category: "Precatecumenado"
 tags:
 - Cuaresma
 
+resources:
+- name: audio
+  src: eli-eli-lama-sabactani.mp3
 ---
 ```chordpro
 {start_of_chorus}

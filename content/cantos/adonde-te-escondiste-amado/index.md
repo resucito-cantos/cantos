@@ -5,6 +5,9 @@ category: "Elección"
 tags:
 - Pascua
 
+resources:
+- name: audio
+  src: adonde-te-escondiste-amado.mp3
 ---
 ```chordpro
 {start_of_verse}

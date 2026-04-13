@@ -6,6 +6,9 @@ tags:
 - Pascua
 - Comunión
 
+resources:
+- name: audio
+  src: como-destila-la-miel.mp3
 ---
 ```chordpro
 {start_of_chorus}

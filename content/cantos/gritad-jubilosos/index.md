@@ -5,6 +5,9 @@ category: "Precatecumenado"
 tags:
 - Final
 
+resources:
+- name: audio
+  src: gritad-jubilosos.mp3
 ---
 ```chordpro
 {start_of_chorus}

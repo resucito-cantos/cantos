@@ -5,6 +5,9 @@ category: "Precatecumenado"
 tags:
 - Pentecostés
 
+resources:
+- name: audio
+  src: llevame-al-cielo.mp3
 ---
 ```chordpro
 {start_of_verse}

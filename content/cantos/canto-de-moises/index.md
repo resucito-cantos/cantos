@@ -5,6 +5,9 @@ category: "Precatecumenado"
 tags:
 - Pascua
 
+resources:
+- name: audio
+  src: canto-de-moises.mp3
 ---
 ```chordpro
 {start_of_verse}
