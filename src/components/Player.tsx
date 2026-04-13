@@ -1,15 +1,24 @@
-import { Pause, Play, Repeat, Volume2 } from "lucide-react";
+import {
+	Pause,
+	Play,
+	Repeat,
+	RotateCcw,
+	RotateCw,
+	Volume2,
+	VolumeX,
+} from "lucide-react";
 import { useCallback, useEffect, useRef, useState } from "react";
 
 type PlayerProps = {
 	src: string;
-	title: string;
+	title?: string;
 };
 
 export function Player({ src, title }: PlayerProps) {
 	const audioRef = useRef<HTMLAudioElement>(null);
 	const [isPlaying, setIsPlaying] = useState(false);
 	const [isLooping, setIsLooping] = useState(false);
+	const [isMuted, setIsMuted] = useState(false);
 	const [seekValue, setSeekValue] = useState(0);
 	const [volume, setVolume] = useState(0.8);
 	const isVisibleRef = useRef(true);
@@ -32,6 +41,22 @@ export function Player({ src, title }: PlayerProps) {
 		setIsLooping(!isLooping);
 	}, [isLooping]);
 
+	const toggleMute = useCallback(() => {
+		const audio = audioRef.current;
+		if (!audio) return;
+		audio.muted = !isMuted;
+		setIsMuted(!isMuted);
+	}, [isMuted]);
+
+	const seekBy = useCallback((seconds: number) => {
+		const audio = audioRef.current;
+		if (!audio) return;
+		audio.currentTime = Math.max(
+			0,
+			Math.min(audio.duration, audio.currentTime + seconds),
+		);
+	}, []);
+
 	const handleSeek = useCallback((e: React.ChangeEvent<HTMLInputElement>) => {
 		const audio = audioRef.current;
 		if (!audio) return;
@@ -40,13 +65,20 @@ export function Player({ src, title }: PlayerProps) {
 		setSeekValue(val);
 	}, []);
 
-	const handleVolume = useCallback((e: React.ChangeEvent<HTMLInputElement>) => {
-		const audio = audioRef.current;
-		if (!audio) return;
-		const val = Number(e.target.value);
-		audio.volume = val;
-		setVolume(val);
-	}, []);
+	const handleVolume = useCallback(
+		(e: React.ChangeEvent<HTMLInputElement>) => {
+			const audio = audioRef.current;
+			if (!audio) return;
+			const val = Number(e.target.value);
+			audio.volume = val;
+			setVolume(val);
+			if (val > 0 && isMuted) {
+				audio.muted = false;
+				setIsMuted(false);
+			}
+		},
+		[isMuted],
+	);
 
 	// Seek to a specific timecode (called from SongSheet lyric clicks)
 	useEffect(() => {
@@ -77,13 +109,9 @@ export function Player({ src, title }: PlayerProps) {
 
 		function onTimeUpdate() {
 			if (!audio) return;
-
-			// Only update the slider UI when the tab is visible
 			if (isVisibleRef.current) {
 				setSeekValue((audio.currentTime / audio.duration) * 100 || 0);
 			}
-
-			// Always update OS position state (works in background)
 			if ("mediaSession" in navigator && audio.duration) {
 				navigator.mediaSession.setPositionState({
 					duration: audio.duration,
@@ -108,7 +136,6 @@ export function Player({ src, title }: PlayerProps) {
 	// Keyboard shortcuts
 	useEffect(() => {
 		function onKeyDown(e: KeyboardEvent) {
-			// Don't capture when typing in an input
 			if (
 				e.target instanceof HTMLInputElement ||
 				e.target instanceof HTMLTextAreaElement
@@ -127,13 +154,16 @@ export function Player({ src, title }: PlayerProps) {
 				case "KeyL":
 					toggleLoop();
 					break;
+				case "KeyM":
+					toggleMute();
+					break;
 				case "ArrowLeft":
 					e.preventDefault();
-					audio.currentTime = Math.max(0, audio.currentTime - 5);
+					seekBy(e.shiftKey ? -5 : -10);
 					break;
 				case "ArrowRight":
 					e.preventDefault();
-					audio.currentTime = Math.min(audio.duration, audio.currentTime + 5);
+					seekBy(e.shiftKey ? 5 : 10);
 					break;
 				case "ArrowUp":
 					e.preventDefault();
@@ -150,14 +180,14 @@ export function Player({ src, title }: PlayerProps) {
 
 		document.addEventListener("keydown", onKeyDown);
 		return () => document.removeEventListener("keydown", onKeyDown);
-	}, [togglePlay, toggleLoop]);
+	}, [togglePlay, toggleLoop, toggleMute, seekBy]);
 
-	// Media Session API — lock screen / OS media controls
+	// Media Session API
 	useEffect(() => {
 		if (!("mediaSession" in navigator)) return;
 
 		navigator.mediaSession.metadata = new MediaMetadata({
-			title,
+			title: title ?? "Resucitó",
 			artist: "Resucitó",
 			album: "Cantos para las Comunidades Neocatecumenales",
 			artwork: [96, 128, 192, 256, 512].map((size) => ({
@@ -170,104 +200,126 @@ export function Player({ src, title }: PlayerProps) {
 		const actions: [MediaSessionAction, MediaSessionActionHandler][] = [
 			["play", () => { audioRef.current?.play(); setIsPlaying(true); }],
 			["pause", () => { audioRef.current?.pause(); setIsPlaying(false); }],
-			[
-				"seekto",
-				(details) => {
-					const audio = audioRef.current;
-					if (audio && details.seekTime != null) {
-						audio.currentTime = details.seekTime;
-					}
-				},
-			],
-			[
-				"seekbackward",
-				() => {
-					const audio = audioRef.current;
-					if (audio) audio.currentTime = Math.max(0, audio.currentTime - 5);
-				},
-			],
-			[
-				"seekforward",
-				() => {
-					const audio = audioRef.current;
-					if (audio) audio.currentTime = Math.min(audio.duration, audio.currentTime + 5);
-				},
-			],
+			["seekto", (d) => { if (audioRef.current && d.seekTime != null) audioRef.current.currentTime = d.seekTime; }],
+			["seekbackward", () => seekBy(-10)],
+			["seekforward", () => seekBy(10)],
 		];
 
 		for (const [action, handler] of actions) {
-			try {
-				navigator.mediaSession.setActionHandler(action, handler);
-			} catch {
-				// Action not supported by this browser
-			}
+			try { navigator.mediaSession.setActionHandler(action, handler); } catch { /* unsupported */ }
 		}
 
 		return () => {
 			navigator.mediaSession.metadata = null;
 			for (const [action] of actions) {
-				try {
-					navigator.mediaSession.setActionHandler(action, null);
-				} catch {
-					// Ignore
-				}
+				try { navigator.mediaSession.setActionHandler(action, null); } catch { /* */ }
 			}
 		};
-	}, [title]);
+	}, [title, seekBy]);
 
-	// Page Visibility — skip UI updates when tab is hidden
+	// Page Visibility
 	useEffect(() => {
 		function onVisibilityChange() {
 			isVisibleRef.current = document.visibilityState === "visible";
 		}
 		document.addEventListener("visibilitychange", onVisibilityChange);
-		return () => document.removeEventListener("visibilitychange", onVisibilityChange);
+		return () =>
+			document.removeEventListener("visibilitychange", onVisibilityChange);
 	}, []);
 
 	return (
 		<>
 			<audio ref={audioRef} src={src} preload="metadata" />
 			<div className="player-bar">
-				<button
-					type="button"
-					className="player-btn"
-					onClick={togglePlay}
-					aria-label={isPlaying ? "Pause" : "Play"}
-				>
-					{isPlaying ? <Pause size={18} /> : <Play size={18} />}
-				</button>
+				{/* Progress bar as top border */}
+				<div className="player-progress">
+					<div
+						className="player-progress-fill"
+						style={{ width: `${seekValue}%` }}
+					/>
+					<input
+						type="range"
+						min="0"
+						max="100"
+						step="0.1"
+						value={seekValue}
+						onChange={handleSeek}
+						className="player-progress-input"
+						aria-label="Seek"
+					/>
+				</div>
 
-				<button
-					type="button"
-					className={`player-btn ${isLooping ? "active" : ""}`}
-					onClick={toggleLoop}
-					aria-label="Toggle loop"
-				>
-					<Repeat size={16} />
-				</button>
+				{/* Controls */}
+				<div className="player-controls">
+					{/* Left: loop */}
+					<div className="player-left">
+						<button
+							type="button"
+							className={`player-btn ${isLooping ? "active" : ""}`}
+							onClick={toggleLoop}
+							aria-label="Toggle loop"
+							title="Loop (L)"
+						>
+							<Repeat size={16} />
+						</button>
+					</div>
 
-				<input
-					type="range"
-					min="0"
-					max="100"
-					step="0.1"
-					value={seekValue}
-					onChange={handleSeek}
-					className="flex-1"
-					aria-label="Seek"
-				/>
+					{/* Center: -10s, play/pause, +10s */}
+					<div className="player-center">
+						<button
+							type="button"
+							className="player-btn"
+							onClick={() => seekBy(-10)}
+							aria-label="Rewind 10 seconds"
+							title="-10s (←)"
+						>
+							<RotateCcw size={16} />
+						</button>
 
-				<Volume2 size={16} className="text-gray-400 ml-2" />
-				<input
-					type="range"
-					min="0"
-					max="1"
-					step="0.01"
-					value={volume}
-					onChange={handleVolume}
-					className="w-20"
-					aria-label="Volume"
-				/>
+						<button
+							type="button"
+							className="player-btn player-btn-play"
+							onClick={togglePlay}
+							aria-label={isPlaying ? "Pause" : "Play"}
+							title="Play/Pause (Space)"
+						>
+							{isPlaying ? <Pause size={20} /> : <Play size={20} />}
+						</button>
+
+						<button
+							type="button"
+							className="player-btn"
+							onClick={() => seekBy(10)}
+							aria-label="Forward 10 seconds"
+							title="+10s (→)"
+						>
+							<RotateCw size={16} />
+						</button>
+					</div>
+
+					{/* Right: volume + mute */}
+					<div className="player-right">
+						<button
+							type="button"
+							className={`player-btn ${isMuted ? "active" : ""}`}
+							onClick={toggleMute}
+							aria-label={isMuted ? "Unmute" : "Mute"}
+							title="Mute (M)"
+						>
+							{isMuted ? <VolumeX size={16} /> : <Volume2 size={16} />}
+						</button>
+						<input
+							type="range"
+							min="0"
+							max="1"
+							step="0.01"
+							value={isMuted ? 0 : volume}
+							onChange={handleVolume}
+							className="player-volume"
+							aria-label="Volume"
+						/>
+					</div>
+				</div>
 			</div>
 		</>
 	);
