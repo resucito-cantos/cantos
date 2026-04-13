@@ -204,6 +204,7 @@ export function Player({ src, title }: PlayerProps) {
 		}
 
 		return () => {
+			navigator.mediaSession.metadata = null;
 			for (const [action] of actions) {
 				try {
 					navigator.mediaSession.setActionHandler(action, null);
