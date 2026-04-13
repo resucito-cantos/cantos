@@ -1,7 +1,7 @@
 ---
 title: "Es Paciente - Himno al Espíritu Santo"
 subtitle: "Kiko Argüello"
-category: "Litúrgico"
+category: "Precatecumenado"
 tags:
 - Pentecostés
 resources:
