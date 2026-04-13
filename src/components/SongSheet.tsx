@@ -77,15 +77,17 @@ export function SongSheet({
 
 	return (
 		<div className="song">
-			<header className="my-8 text-center">
-				<h1 className="text-lg font-bold uppercase text-red-600">{title}</h1>
-				{subtitle && <p className="text-base text-gray-800">{subtitle}</p>}
+			<header className="song-header">
+				{ast.capo !== null && (
+					<span className="song-capo">Cejilla {ast.capo}º traste</span>
+				)}
+				<div className="song-title-block">
+					<h1 className="song-title">{title}</h1>
+					{subtitle && <p className="song-subtitle">{subtitle}</p>}
+				</div>
 			</header>
 
 			<div className="song-chords">
-				{ast.capo !== null && (
-					<div className="text-xs -mt-8 mb-4">Cejilla {ast.capo}º traste</div>
-				)}
 				{columns.map((sections, colIdx) => (
 					<div key={colIdx} className="column">
 						{sections.map((section, secIdx) => (

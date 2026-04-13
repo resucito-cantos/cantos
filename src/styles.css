@@ -24,13 +24,46 @@ body {
 .song {
 	max-width: 64rem;
 	margin: 0 auto 2rem;
+	padding: 0 1rem;
+}
+
+.song-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	padding: 1.5rem 2rem 1rem;
+}
+
+.song-capo {
+	font-size: 0.75rem;
+	color: #6b7280;
+	white-space: nowrap;
+	padding-top: 0.25rem;
+}
+
+.song-title-block {
+	text-align: right;
+}
+
+.song-title {
+	font-size: 1.125rem;
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #dc2626;
+	margin: 0;
+}
+
+.song-subtitle {
+	font-size: 0.875rem;
+	color: #6b7280;
+	margin: 0.125rem 0 0;
 }
 
 .song-chords {
 	display: grid;
 	grid-template-columns: 1fr;
-	font-size: 1rem;
-	line-height: 2.5rem;
+	font-size: 0.9375rem;
+	line-height: 2.8;
 	padding: 0 2rem;
 	cursor: default;
 }
@@ -38,23 +71,16 @@ body {
 @media (min-width: 768px) {
 	.song-chords {
 		grid-template-columns: 1fr 1fr;
-		padding: 0 1.5rem;
 	}
 }
 
 .song-chords .column {
-	margin-left: 0;
-}
-
-@media (min-width: 768px) {
-	.song-chords .column {
-		margin-left: 7rem;
-	}
+	padding-left: 2rem;
 }
 
 .song-chords .verse {
 	position: relative;
-	margin: 1.5rem 0;
+	margin: 1rem 0;
 }
 
 .song-chords .verse::before {
@@ -63,7 +89,7 @@ body {
 	color: #6b7280;
 	position: absolute;
 	top: 0;
-	left: -1.5rem;
+	left: -1.75rem;
 }
 
 .song-chords .chorus {
@@ -79,11 +105,13 @@ body {
 	color: #6b7280;
 	position: absolute;
 	top: 0;
-	left: -1.5rem;
+	left: -1.75rem;
 }
 
 .song-chords .voice {
 	position: relative;
+	margin: 0;
+	padding-top: 0.25rem;
 }
 
 .song-chords .voice:hover {
@@ -96,12 +124,14 @@ body {
 }
 
 .chord {
-	font-size: 0.875rem;
+	font-size: 0.8125rem;
 	color: #dc2626;
 	font-weight: 700;
 	position: absolute;
-	top: -0.5rem;
+	top: -1.4em;
+	left: 0;
 	white-space: nowrap;
+	line-height: 1;
 }
 
 .song-chords .chorus .chord {
