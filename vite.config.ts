@@ -1,4 +1,5 @@
 import { readdirSync } from "node:fs";
+import { resolve } from "node:path";
 import { defineConfig } from "vite";
 import { devtools } from "@tanstack/devtools-vite";
 import tsconfigPaths from "vite-tsconfig-paths";
@@ -17,6 +18,29 @@ const config = defineConfig({
 		environment: "jsdom",
 	},
 	plugins: [
+		{
+			name: "build-sw",
+			apply: "build",
+			closeBundle: {
+				sequential: true,
+				order: "post",
+				async handler() {
+					const { build } = await import("vite");
+					await build({
+						configFile: false,
+						build: {
+							lib: {
+								entry: resolve(import.meta.dirname, "src/sw.ts"),
+								formats: ["es"],
+								fileName: () => "sw.js",
+							},
+							outDir: "dist/client",
+							emptyOutDir: false,
+						},
+					});
+				},
+			},
+		},
 		contentCollections(),
 		devtools(),
 		tsconfigPaths({ projects: ["./tsconfig.json"] }),
