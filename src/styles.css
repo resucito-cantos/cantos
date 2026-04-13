@@ -28,21 +28,18 @@ body {
 }
 
 .song-header {
-	display: flex;
-	justify-content: space-between;
-	align-items: flex-start;
-	padding: 1.5rem 2rem 1rem;
+	position: relative;
+	text-align: center;
+	padding: 1.5rem 2rem 0.5rem;
 }
 
 .song-capo {
+	position: absolute;
+	left: 2rem;
+	top: 1.5rem;
 	font-size: 0.75rem;
 	color: #6b7280;
 	white-space: nowrap;
-	padding-top: 0.25rem;
-}
-
-.song-title-block {
-	text-align: right;
 }
 
 .song-title {
@@ -63,7 +60,7 @@ body {
 	display: grid;
 	grid-template-columns: 1fr;
 	font-size: 0.9375rem;
-	line-height: 2.8;
+	line-height: 2.4;
 	padding: 0 2rem;
 	cursor: default;
 }
@@ -111,7 +108,6 @@ body {
 .song-chords .voice {
 	position: relative;
 	margin: 0;
-	padding-top: 0.25rem;
 }
 
 .song-chords .voice:hover {
@@ -128,7 +124,7 @@ body {
 	color: #dc2626;
 	font-weight: 700;
 	position: absolute;
-	top: -1.4em;
+	top: -1.15em;
 	left: 0;
 	white-space: nowrap;
 	line-height: 1;

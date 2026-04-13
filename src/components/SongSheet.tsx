@@ -81,10 +81,8 @@ export function SongSheet({
 				{ast.capo !== null && (
 					<span className="song-capo">Cejilla {ast.capo}º traste</span>
 				)}
-				<div className="song-title-block">
-					<h1 className="song-title">{title}</h1>
-					{subtitle && <p className="song-subtitle">{subtitle}</p>}
-				</div>
+				<h1 className="song-title">{title}</h1>
+				{subtitle && <p className="song-subtitle">{subtitle}</p>}
 			</header>
 
 			<div className="song-chords">
