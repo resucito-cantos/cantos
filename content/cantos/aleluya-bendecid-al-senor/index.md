@@ -1,5 +1,5 @@
 ---
-title: "Aleluya, bendecid al Senor"
+title: "Aleluya, bendecid al Señor"
 subtitle: "Salmo 134 (133)"
 category: "Precatecumenado"
 tags:
@@ -20,29 +20,29 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [Re-]Bendecid al Senor, bendecid al Senor
+[00:00.00] [Re-]Bendecid al Señor, bendecid al Señor
 {end_of_verse}
 {start_of_verse}
-[00:00.00] vosotros los siervos del [La7]Senor,
+[00:00.00] vosotros los siervos del [La7]Señor,
 {end_of_verse}
 {start_of_verse}
-[00:00.00] bendecid al Senor, bendecid al Senor
+[00:00.00] bendecid al Señor, bendecid al Señor
 {end_of_verse}
 {start_of_verse}
-[00:00.00] vosotros que estais en la casa del [Re-]Senor!
+[00:00.00] vosotros que estais en la casa del [Re-]Señor!
 {end_of_verse}
 {column_break}
 {start_of_verse}
 [00:00.00] [Re-]Alzad a El las manos,
 {end_of_verse}
 {start_of_verse}
-[00:00.00] alzad a El las manos y bendecid al [La7]Senor,
+[00:00.00] alzad a El las manos y bendecid al [La7]Señor,
 {end_of_verse}
 {start_of_verse}
 [00:00.00] vosotros que estais
 {end_of_verse}
 {start_of_verse}
-[00:00.00] en la casa del Senor durante la [Re-]noche!
+[00:00.00] en la casa del Señor durante la [Re-]noche!
 {end_of_verse}
 {column_break}
 {start_of_chorus}

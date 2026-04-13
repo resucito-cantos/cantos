@@ -12,7 +12,7 @@ resources:
 {start_of_verse}
 [00:00.00] [La7]Escuchad, islas lejanas,
 [00:00.00] prestad atencion, naciones!
-[00:00.00] Asi habla el Senor, el Santo de Israel:
+[00:00.00] Asi habla el Señor, el Santo de Israel:
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [Re]Aquel que tiene la vida despreciada,

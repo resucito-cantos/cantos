@@ -86,7 +86,7 @@ resources:
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [Re-] [Mi]
-[00:00.00] Porque parecerse al Senor sobre la Cruz
+[00:00.00] Porque parecerse al Señor sobre la Cruz
 [00:00.00] [Re-]
 [00:00.00] es nuestra gloria, es la verdad,
 [00:00.00] [Fa] [Mi]

@@ -10,7 +10,7 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [Mi]Del Senor es la tierra,
+[00:00.00] [Mi]Del Señor es la tierra,
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Sol]DEL SENOR ES LA TIERRA,
@@ -48,13 +48,13 @@ resources:
 [00:00.00] [La-]QUIEN ES ESE [Mi-]REY DE LA GLORIA?
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Si-]El Senor, el fuerte, el valiente,
+[00:00.00] [Si-]El Señor, el fuerte, el valiente,
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] EL SENOR, EL FUERTE, EL VALIENTE,
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Sol]el Senor valiente en la [La]batalla,
+[00:00.00] [Sol]el Señor valiente en la [La]batalla,
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] VALIENTE EN LA [Si]BATALLA.
@@ -71,7 +71,7 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [Mi-]Quien subira al [La-]monte del [Mi-]Senor?
+[00:00.00] [Mi-]Quien subira al [La-]monte del [Mi-]Señor?
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-]QUIEN SUBIRA AL MONTE DEL [Mi-]SENOR?
@@ -112,7 +112,7 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [Mi-]El Senor de los [Si-]ejercitos.
+[00:00.00] [Mi-]El Señor de los [Si-]ejercitos.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Mi-]EL SENOR DE LOS [Si-]EJERCITOS.

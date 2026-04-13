@@ -1,6 +1,6 @@
 ---
 title: "A la víctima pascual"
-subtitle: "Canto de entrada"
+subtitle: "Secuencia de Pascua"
 category: "Precatecumenado"
 tags:
 - Pascua

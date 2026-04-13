@@ -25,7 +25,7 @@ resources:
 [00:00.00] [La-]FELICIDAD PARA EL HOMBRE ...
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Re-]Asi sera bendecido el hombre que teme al [Mi]Senor.
+[00:00.00] [Re-]Asi sera bendecido el hombre que teme al [Mi]Señor.
 [00:00.00] [Re-]iQue te bendiga Dios desde [Mi]Sion,
 [00:00.00] [Fa]que puedas tu ver la prosperidad de [Mi]Jerusalen,
 [00:00.00] [Fa]que puedas tu ver a los hijos de tus hijos!

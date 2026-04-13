@@ -20,7 +20,7 @@ tags:
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Re-]Y de mis labios brota
-[00:00.00] [Mi]un nuevo canto hacia el Senor,
+[00:00.00] [Mi]un nuevo canto hacia el Señor,
 [00:00.00] [Re-]y mi lengua siente
 [00:00.00] [Mi]la dulzura de su nombre,
 [00:00.00] [Re-]y mi cuerpo se deleita

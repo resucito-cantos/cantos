@@ -17,7 +17,7 @@ resources:
 [00:00.00] [Sib]NO HAY QUIEN OBRE EL [La]BIEN.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Re-]El Senor desde el cielo
+[00:00.00] [Re-]El Señor desde el cielo
 [00:00.00] [La]se inclina hacia los hombres,
 [00:00.00] [Re-]para ver si hay alguno que sea justo,
 [00:00.00] [Sol-]un hombre que busque a [La]Dios,
@@ -33,17 +33,17 @@ resources:
 {start_of_verse}
 [00:00.00] [Sol-]No entienden nada los [La]malvados
 [00:00.00] [Sol-]que devoran a mi pueblo como [La]pan.
-[00:00.00] [Sib]No invocan nunca al Senor,
+[00:00.00] [Sib]No invocan nunca al Señor,
 [00:00.00] [La]mas temblaran de espanto.
 {end_of_verse}
 {column_break}
 {start_of_verse}
 [00:00.00] [Fa]Porque Dios esta con el [La]justo:
-[00:00.00] [Sib]el Senor es su [La]refugio.
+[00:00.00] [Sib]el Señor es su [La]refugio.
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [Re-]Porque Dios esta [Do]con el [La]justo:
-[00:00.00] [Sib]el Senor es su [La]refugio.
+[00:00.00] [Sib]el Señor es su [La]refugio.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Re-]PORQUE DIOS ESTA [Do]CON EL [La]JUSTO:

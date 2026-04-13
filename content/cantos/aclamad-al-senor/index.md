@@ -1,5 +1,5 @@
 ---
-title: "Aclamad al señor"
+title: "Aclamad al Señor"
 subtitle: "Salmo 100 (99)"
 category: "Precatecumenado"
 resources:

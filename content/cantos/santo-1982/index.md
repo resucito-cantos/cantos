@@ -35,8 +35,8 @@ resources:
 {column_break}
 {start_of_verse: "S."}
 [00:00.00] [La-]Bendito es el que viene
-[00:00.00] [Re-]en el nombre del [Mi]Senor,
-[00:00.00] [Re-]en el nombre del [Mi]Senor.
+[00:00.00] [Re-]en el nombre del [Mi]Señor,
+[00:00.00] [Re-]en el nombre del [Mi]Señor.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-]HOSANNA, HOSANNA ...

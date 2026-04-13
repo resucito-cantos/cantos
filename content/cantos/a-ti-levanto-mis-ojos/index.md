@@ -23,8 +23,8 @@ resources:
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] [Re-]PIEDAD DE NOSOTROS, [La7]SEÑOR!
-[00:00.00] [Sib7]PIEDAD DE NOSOTROS, [La7]SEÑOR!
+[00:00.00] [Re-]¡PIEDAD DE NOSOTROS, [La7]SEÑOR!
+[00:00.00] [Sib7]¡PIEDAD DE NOSOTROS, [La7]SEÑOR!
 {end_of_chorus}
 
 {start_of_chorus}
@@ -38,8 +38,8 @@ resources:
 {end_of_chorus}
 
 {start_of_chorus}
-[00:00.00] [Re-]PIEDAD DE NOSOTROS, [La7]SEÑOR!
-[00:00.00] [Sib7]PIEDAD DE NOSOTROS, [La7]SEÑOR!
+[00:00.00] [Re-]¡PIEDAD DE NOSOTROS, [La7]SEÑOR!
+[00:00.00] [Sib7]¡PIEDAD DE NOSOTROS, [La7]SEÑOR!
 {end_of_chorus}
 
 {start_of_chorus}

@@ -34,7 +34,7 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [Si-]Como el manzano entre los arboles [Mi-]silvestres,
+[00:00.00] [Si-]Como el manzano entre los árboles [Mi-]silvestres,
 [00:00.00] [Fa#]así es mi amado,
 [00:00.00] [Sol]así es mi amado entre los [Fa#]jovenes.
 {end_of_verse}

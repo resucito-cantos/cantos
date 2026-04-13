@@ -18,7 +18,7 @@ resources:
 [00:00.00] [Mi]AL QUE CABALGA EN LAS NUBES.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Mi]Senor es su Nombre, [Re-9]alegraos ante El.
+[00:00.00] [Mi]Señor es su Nombre, [Re-9]alegraos ante El.
 [00:00.00] Padre de los huerfanos,
 [00:00.00] [Mi]defensor de las viudas, es Dios.
 {end_of_verse}

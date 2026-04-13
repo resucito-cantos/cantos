@@ -66,7 +66,7 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse: "S."}
-[00:00.00] Te dare gracias ante los pueblos, Senor,
+[00:00.00] Te dare gracias ante los pueblos, Señor,
 [00:00.00] cantare, cantare ante las naciones;
 [00:00.00] porque tu amor ha sido grande conmigo,
 [00:00.00] tu bondad mas alta que los cielos.

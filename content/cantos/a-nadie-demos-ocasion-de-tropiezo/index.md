@@ -1,6 +1,6 @@
 ---
 title: "A nadie demos ocasión de tropiezo"
-subtitle: "2a Corintios 6,3ss"
+subtitle: "2ª Corintios 6,3ss"
 category: "Precatecumenado"
 tags: []
 resources:

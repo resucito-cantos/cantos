@@ -1,5 +1,5 @@
 ---
-title: "Senor, Ayudame a No Dudar de Ti"
+title: "Señor, Ayudame a No Dudar de Ti"
 subtitle: "TODO"
 category: "Precatecumenado"
 tags:

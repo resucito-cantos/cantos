@@ -1,5 +1,5 @@
 ---
-title: "Aleluya, alabad al Senor"
+title: "Aleluya, alabad al Señor"
 subtitle: "Salmo 150"
 category: "Precatecumenado"
 tags:

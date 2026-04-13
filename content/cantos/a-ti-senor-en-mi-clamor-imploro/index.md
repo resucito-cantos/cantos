@@ -1,6 +1,6 @@
 ---
-title: "A ti, Señor en mi clamor imploro"
-subtitle: "Canto"
+title: "A ti, Señor, en mi clamor imploro"
+subtitle: "Salmo 142 (141)"
 category: "Precatecumenado"
 draft: true
 resources:

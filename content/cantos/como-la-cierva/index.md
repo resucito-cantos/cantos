@@ -58,7 +58,7 @@ resources:
 [00:00.00] [Mi]!Donde esta tu Dios? !Donde esta ese Dios?
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Fa#-]Senor, enviame tu luz y tu verdad,
+[00:00.00] [Fa#-]Señor, enviame tu luz y tu verdad,
 [00:00.00] [Si7]que ellas me guien, hasta tu monte santo.
 [00:00.00] Entonces podre cantar
 [00:00.00] [Mi]un canto de alegria con mi guitarra.

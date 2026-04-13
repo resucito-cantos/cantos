@@ -1,5 +1,5 @@
 ---
-title: "He aqui que nuestro espejo es el Senor"
+title: "He aqui que nuestro espejo es el Señor"
 subtitle: "Oda XIII de Salomon"
 category: "Catecumenado"
 tags:

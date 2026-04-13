@@ -1,5 +1,5 @@
 ---
-title: "Senor, No Me Corrijas en Tu Colera"
+title: "Señor, No Me Corrijas en Tu Colera"
 subtitle: "Salmo 6"
 category: "Precatecumenado"
 tags:

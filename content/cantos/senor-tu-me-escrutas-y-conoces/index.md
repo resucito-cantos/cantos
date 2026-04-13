@@ -1,5 +1,5 @@
 ---
-title: "Senor, Tu Me Escrutas y Conoces"
+title: "Señor, Tu Me Escrutas y Conoces"
 subtitle: "Salmo 139 (138)"
 category: "Catecumenado"
 tags:

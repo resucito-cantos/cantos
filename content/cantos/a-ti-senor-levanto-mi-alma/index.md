@@ -1,14 +1,14 @@
 ---
-title: "A tí señor, levanto mi alma"
+title: "A ti, Señor, levanto mi alma"
 subtitle: "Salmo 25 (24)"
 category: "Precatecumenado"
 draft: true
 tags:
 - Cuaresma
-  - Pascua
+- Pascua
 resources:
-  - name: audio
-    src: a-ti-senor-levanto-mi-alma.mp3
+- name: audio
+  src: a-ti-senor-levanto-mi-alma.mp3
 ---
 
 ```chordpro

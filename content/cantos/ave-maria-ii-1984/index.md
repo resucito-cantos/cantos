@@ -12,7 +12,7 @@ resources:
 {start_of_verse}
 [00:00.00] [Do]Ave [Mi]Ma[Fa]ria, [Mi]
 [00:00.00] [Do]lle[Mi]na [Fa]de gracia, [Mi]
-[00:00.00] [Fa]el Senor es contigo, [Mi]
+[00:00.00] [Fa]el Señor es contigo, [Mi]
 [00:00.00] [Fa]bendita tu eres [Mi]
 [00:00.00] entre todas las mujeres,
 [00:00.00] [Fa]y bendito es el fruto

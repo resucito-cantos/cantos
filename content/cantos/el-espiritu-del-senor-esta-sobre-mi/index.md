@@ -1,5 +1,5 @@
 ---
-title: "El Espiritu del Senor esta sobre mi"
+title: "El Espiritu del Señor esta sobre mi"
 subtitle: "Lucas 4,18 - Isaias 61,1-3"
 category: "Elección"
 tags:

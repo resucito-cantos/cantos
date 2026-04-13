@@ -1,5 +1,5 @@
 ---
-title: "Dice el Senor a mi Senor"
+title: "Dice el Señor a mi Señor"
 subtitle: "Salmo 110 (109)"
 category: "Precatecumenado"
 tags:

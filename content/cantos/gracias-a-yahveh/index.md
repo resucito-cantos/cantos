@@ -23,7 +23,7 @@ resources:
 [00:00.00] [Do]PORQUE [Mi-]ETERNA ES [Re]SU MISERI[Sol]CORDIA,
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Si-]demos gracias al Senor de los [Mi-]Senores.
+[00:00.00] [Si-]demos gracias al Señor de los [Mi-]Señores.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Mi-]GRACIAS A [Re]YAHVEH [Mi-]...

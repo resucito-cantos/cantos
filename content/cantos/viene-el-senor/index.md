@@ -1,5 +1,5 @@
 ---
-title: "Viene el Senor"
+title: "Viene el Señor"
 subtitle: "Salmo 93 (92) - Apocalipsis 1,5-6"
 category: "Precatecumenado"
 tags:

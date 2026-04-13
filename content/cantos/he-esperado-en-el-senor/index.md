@@ -1,5 +1,5 @@
 ---
-title: "He esperado en el Senor"
+title: "He esperado en el Señor"
 subtitle: "Salmo 40 (39)"
 category: "Precatecumenado"
 tags:

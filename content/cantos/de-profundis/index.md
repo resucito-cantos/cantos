@@ -24,16 +24,16 @@ resources:
 [00:00.00] [Fa]SOLO EN TI SE EN[La-]CUENTRA EL AMOR.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Sol]Yo espero en el [Fa]Senor, [La-]mi alma espera en su palabra;
-[00:00.00] [Sol]mi alma aguarda al [Fa]Senor mas que el centinela la [La-]aurora;
-[00:00.00] Israel espera al Senor mas [Fa]que el centinela espera a la [Mi]aurora.
+[00:00.00] [Sol]Yo espero en el [Fa]Señor, [La-]mi alma espera en su palabra;
+[00:00.00] [Sol]mi alma aguarda al [Fa]Señor mas que el centinela la [La-]aurora;
+[00:00.00] Israel espera al Señor mas [Fa]que el centinela espera a la [Mi]aurora.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Fa]PORQUE SOLO EN EL SENOR ESTA EL A[Mi]MOR,
 [00:00.00] [Fa]SOLO EN EL SE EN[La-]CUENTRA EL PERDON.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [La-]El Senor redime a [Mi]Israel de todos sus [La-]pecados.
+[00:00.00] [La-]El Señor redime a [Mi]Israel de todos sus [La-]pecados.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Mi]EL SENOR REDIME A ISRAEL DE TODOS SUS [La-]PECADOS.

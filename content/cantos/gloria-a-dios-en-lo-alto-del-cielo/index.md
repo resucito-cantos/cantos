@@ -18,13 +18,13 @@ resources:
 [00:00.00] POR TU INMENSA [La]GLORIA.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Sol]Senor Dios, Rey celestial,
+[00:00.00] [Sol]Señor Dios, Rey celestial,
 [00:00.00] [Fa#-]Dios Padre todopoderoso.
-[00:00.00] [Mi-]Senor, Hijo unico,
+[00:00.00] [Mi-]Señor, Hijo unico,
 [00:00.00] [La]JESUCRISTO.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Sol]Senor Dios, Cordero de Dios,
+[00:00.00] [Sol]Señor Dios, Cordero de Dios,
 [00:00.00] [Fa#-]Hijo del Padre:
 [00:00.00] tu que quitas el pecado del [Mi-]mundo,
 [00:00.00] [La]TEN PIEDAD DE NOSOTROS.

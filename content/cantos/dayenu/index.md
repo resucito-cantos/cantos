@@ -11,7 +11,7 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [Mi-]Cuantos bienes nos ha [La-]dado el [Mi-]Senor!
+[00:00.00] [Mi-]Cuantos bienes nos ha [La-]dado el [Mi-]Señor!
 [00:00.00] [Mi-] [La-]
 {end_of_verse}
 {start_of_chorus}
@@ -21,7 +21,7 @@ resources:
 [00:00.00] [Re] [Do] [Mi-]
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] Cuantos bienes nos ha dado el Senor!
+[00:00.00] Cuantos bienes nos ha dado el Señor!
 [00:00.00] [Re]
 {end_of_verse}
 {start_of_chorus}
@@ -97,14 +97,14 @@ resources:
 [00:00.00] [Mi-] [Re] [Do]
 [00:00.00] Si nos hubiera nutrido con el pan de la vida
 [00:00.00] [Si7]
-[00:00.00] y no nos hubiera dado el dia del Senor:
+[00:00.00] y no nos hubiera dado el dia del Señor:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] ESO NOS HABRIA BASTADO ...
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [La-] [Si7]
-[00:00.00] Si nos hubiera dado el dia del Senor
+[00:00.00] Si nos hubiera dado el dia del Señor
 [00:00.00] [Mi-]
 [00:00.00] y no nos hubiera sellado una nueva Alianza:
 {end_of_verse}

@@ -87,7 +87,7 @@ resources:
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Fa#-] [Sol#] [Fa#-] [Sol#]
-[00:00.00] El es tu Senor, ¡entregate a el!
+[00:00.00] El es tu Señor, ¡entregate a el!
 [00:00.00] [Si] [La]
 [00:00.00] Y en lugar de padres, tendras hijos,
 [00:00.00] que seran principes sobre la tierra.

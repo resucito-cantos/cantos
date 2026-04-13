@@ -29,7 +29,7 @@ resources:
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Mi-]Y por ella retornaran
-[00:00.00] [La-]los rescatados del Senor.
+[00:00.00] [La-]los rescatados del Señor.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Mi-]Y POR ELLA RETORNARAN
@@ -38,7 +38,7 @@ resources:
 {column_break}
 {start_of_verse}
 [00:00.00] [Mi-]Todos los pobres, ciegos y cojos,
-[00:00.00] [La-]los alejados del Senor.
+[00:00.00] [La-]los alejados del Señor.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Mi-]TODOS LOS POBRES, CIEGOS Y COJOS,

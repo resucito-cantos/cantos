@@ -1,5 +1,5 @@
 ---
-title: "Amo al Senor"
+title: "Amo al Señor"
 subtitle: "Salmo 116 (114-115)"
 category: "Precatecumenado"
 tags:
@@ -20,8 +20,8 @@ resources:
 [00:00.00] [Re]Me envolvian redes de muerte,
 [00:00.00] me alcanzaron los lazos del [Fa#-]infierno;
 [00:00.00] [Sol]me rodeaban tristeza y [Mi-6]angustia,
-[00:00.00] [La7]invoque el nombre del Senor:
-[00:00.00] [Re]"Te ruego, Senor, salvame!".
+[00:00.00] [La7]invoque el nombre del Señor:
+[00:00.00] [Re]"Te ruego, Señor, salvame!".
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Re]RECOBRA ALMA MIA TU [Fa#-]REPOSO,
@@ -43,10 +43,10 @@ resources:
 [00:00.00] [Mi-6]"todo hombre es [La7]falso".
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Re]Como pagare al Senor
+[00:00.00] [Re]Como pagare al Señor
 [00:00.00] todo el bien que me ha [Fa#-]hecho?
 [00:00.00] [Sol]Alzare la copa de la [Mi-6]bendicion,
-[00:00.00] [La7]e invocare el nombre del Senor.
+[00:00.00] [La7]e invocare el nombre del Señor.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Re]RECOBRA ALMA MIA ...

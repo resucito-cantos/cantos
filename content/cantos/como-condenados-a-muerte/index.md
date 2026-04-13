@@ -52,7 +52,7 @@ resources:
 {start_of_verse}
 [00:00.00] [La-]Puestos como [Sol]espectaculo
 [00:00.00] [La-]para el mundo,
-[00:00.00] [Sol]para los angeles,
+[00:00.00] [Sol]para los ángeles,
 [00:00.00] [Fa]para los hombres, para los [Mi]hombres.
 {end_of_verse}
 {start_of_chorus}

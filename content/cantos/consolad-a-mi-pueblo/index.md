@@ -16,7 +16,7 @@ resources:
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Sol]Ohey! Una voz en el desierto [La]grita:[Si7]
-[00:00.00] [La-]preparad el camino, la [Si7]senda al [Mi-]Senor.
+[00:00.00] [La-]preparad el camino, la [Si7]senda al [Mi-]Señor.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-]PORQUE EL SENOR VIENE CON [Mi-]POTENCIA,

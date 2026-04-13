@@ -11,7 +11,7 @@ resources:
 ```chordpro
 {capo: 3}
 {start_of_verse}
-[00:00.00] [Re-]A ti, Señor, se debe a alabanza, en [La7]Sión.
+[00:00.00] [Re-]A ti, Señor, se debe la alabanza, en [La7]Sión.
 [00:00.00] [Re-]A ti se te cumple el voto, en Jerusalén.
 {end_of_verse}
 

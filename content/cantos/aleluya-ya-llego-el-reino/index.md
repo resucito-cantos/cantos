@@ -18,10 +18,10 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [Do]Ya llego el Reino del [Mi]Senor y su Cristo.[La-]
+[00:00.00] [Do]Ya llego el Reino del [Mi]Señor y su Cristo.[La-]
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Do]Ya llego el [Mi]Reino del Senor nuestro [La-]Dios. [Sol7]
+[00:00.00] [Do]Ya llego el [Mi]Reino del Señor nuestro [La-]Dios. [Sol7]
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Do]ALELUYA ...
@@ -47,7 +47,7 @@ resources:
 [00:00.00] [Do]Bienaventurados los invitados a [Mi]bodas,
 {end_of_verse}
 {start_of_verse}
-[00:00.00] a las bodas con el [La-]Senor. [Sol7]
+[00:00.00] a las bodas con el [La-]Señor. [Sol7]
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Do]ALELUYA ...
