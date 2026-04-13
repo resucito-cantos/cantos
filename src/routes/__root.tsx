@@ -1,9 +1,16 @@
 import type { QueryClient } from "@tanstack/react-query";
 import {
+	Outlet,
 	createRootRouteWithContext,
 	HeadContent,
 	Scripts,
+	useMatches,
 } from "@tanstack/react-router";
+import { allCantos } from "content-collections";
+import { Bars3Icon } from "@heroicons/react/24/outline";
+import { useCallback, useEffect, useState } from "react";
+import { CommandPaletteDialog } from "../components/CommandPalette";
+import type { CantoEntry } from "../hooks/useSearch";
 import appCss from "../styles.css?url";
 
 interface MyRouterContext {
@@ -20,6 +27,7 @@ export const Route = createRootRouteWithContext<MyRouterContext>()({
 		links: [{ rel: "stylesheet", href: appCss }],
 	}),
 	shellComponent: RootDocument,
+	component: RootComponent,
 });
 
 function RootDocument({ children }: { children: React.ReactNode }) {
@@ -33,5 +41,47 @@ function RootDocument({ children }: { children: React.ReactNode }) {
 				<Scripts />
 			</body>
 		</html>
+	);
+}
+
+function RootComponent() {
+	const [paletteOpen, setPaletteOpen] = useState(false);
+	const cantos = allCantos as CantoEntry[];
+	const matches = useMatches();
+	const isHomePage = matches[matches.length - 1]?.fullPath === "/";
+
+	const handleKeyDown = useCallback((e: KeyboardEvent) => {
+		if ((e.metaKey || e.ctrlKey) && e.key === "k") {
+			e.preventDefault();
+			setPaletteOpen(true);
+		}
+	}, []);
+
+	useEffect(() => {
+		document.addEventListener("keydown", handleKeyDown);
+		return () => document.removeEventListener("keydown", handleKeyDown);
+	}, [handleKeyDown]);
+
+	return (
+		<>
+			{!isHomePage && (
+				<button
+					type="button"
+					onClick={() => setPaletteOpen(true)}
+					className="fixed top-4 right-4 z-40 flex size-10 items-center justify-center rounded-lg bg-white shadow-md outline-1 outline-black/5 transition hover:bg-gray-50"
+					aria-label="Buscar cantos"
+				>
+					<Bars3Icon className="size-5 text-gray-600" />
+				</button>
+			)}
+
+			<CommandPaletteDialog
+				cantos={cantos}
+				open={paletteOpen}
+				onClose={() => setPaletteOpen(false)}
+			/>
+
+			<Outlet />
+		</>
 	);
 }
