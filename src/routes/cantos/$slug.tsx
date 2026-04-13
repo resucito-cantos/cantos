@@ -3,6 +3,7 @@ import { allCantos } from "content-collections";
 import { ChordDiagrams } from "../../components/ChordDiagram";
 import { Player } from "../../components/Player";
 import { SongSheet } from "../../components/SongSheet";
+import { useChordsVisible } from "../../hooks/useChordsVisible";
 import type { CantoEntry } from "../../hooks/useSearch";
 
 export const Route = createFileRoute("/cantos/$slug")({
@@ -26,6 +27,7 @@ export const Route = createFileRoute("/cantos/$slug")({
 
 function CantoPage() {
 	const canto = Route.useLoaderData();
+	const { chordsVisible } = useChordsVisible();
 
 	return (
 		<main
@@ -36,7 +38,7 @@ function CantoPage() {
 				subtitle={canto.subtitle}
 				ast={canto.ast}
 			/>
-			<ChordDiagrams chords={canto.ast.chords} />
+			{chordsVisible && <ChordDiagrams chords={canto.ast.chords} />}
 			{canto.audioSrc && <Player src={canto.audioSrc} />}
 		</main>
 	);

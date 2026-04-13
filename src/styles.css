@@ -60,7 +60,7 @@ body {
 	display: grid;
 	grid-template-columns: 1fr;
 	font-size: 0.9375rem;
-	line-height: 2.4;
+	line-height: 2.1;
 	padding: 0 2rem;
 	cursor: default;
 }
@@ -124,7 +124,7 @@ body {
 	color: #dc2626;
 	font-weight: 700;
 	position: absolute;
-	top: -1.15em;
+	top: -0.95em;
 	left: 0;
 	white-space: nowrap;
 	line-height: 1;

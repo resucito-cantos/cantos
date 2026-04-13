@@ -10,6 +10,11 @@ import { allCantos } from "content-collections";
 import { Bars3Icon } from "@heroicons/react/24/outline";
 import { useCallback, useEffect, useState } from "react";
 import { CommandPaletteDialog } from "../components/CommandPalette";
+import {
+	ChordsVisibleContext,
+	loadSettings,
+	saveSettings,
+} from "../hooks/useChordsVisible";
 import type { CantoEntry } from "../hooks/useSearch";
 import appCss from "../styles.css?url";
 
@@ -46,9 +51,18 @@ function RootDocument({ children }: { children: React.ReactNode }) {
 
 function RootComponent() {
 	const [paletteOpen, setPaletteOpen] = useState(false);
+	const [chordsVisible, setChordsVisible] = useState(() => loadSettings().chordsVisible);
 	const cantos = allCantos as CantoEntry[];
 	const matches = useMatches();
 	const isHomePage = matches[matches.length - 1]?.fullPath === "/";
+
+	const toggleChords = useCallback(() => {
+		setChordsVisible((v) => {
+			const next = !v;
+			saveSettings({ chordsVisible: next });
+			return next;
+		});
+	}, []);
 
 	const handleKeyDown = useCallback((e: KeyboardEvent) => {
 		if ((e.metaKey || e.ctrlKey) && e.key === "k") {
@@ -63,7 +77,7 @@ function RootComponent() {
 	}, [handleKeyDown]);
 
 	return (
-		<>
+		<ChordsVisibleContext value={{ chordsVisible, toggleChords }}>
 			{!isHomePage && (
 				<button
 					type="button"
@@ -82,6 +96,6 @@ function RootComponent() {
 			/>
 
 			<Outlet />
-		</>
+		</ChordsVisibleContext>
 	);
 }
