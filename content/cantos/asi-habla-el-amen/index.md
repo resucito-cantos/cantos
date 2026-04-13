@@ -1,5 +1,5 @@
 ---
-title: "Asi habla el Amen"
+title: "Así habla el Amén"
 subtitle: "Apocalipsis 3,14-22"
 category: "Catecumenado"
 tags:
@@ -10,7 +10,7 @@ resources:
 ---
 ```chordpro
 {start_of_chorus}
-[00:00.00] [Mi-]ASI HABLA EL AMEN,
+[00:00.00] [Mi-]ASI HABLA EL AMÉN,
 [00:00.00] [Do]EL TESTIGO FIEL Y [Re7]VERAZ,
 [00:00.00] EL PRINCIPIO
 [00:00.00] [Mi-]DE LAS CRIATURAS DE DIOS.
@@ -31,7 +31,7 @@ resources:
 [00:00.00] [Mi-]pobre, ciego y desnudo.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Mi-]ASI HABLA EL AMEN ...
+[00:00.00] [Mi-]ASI HABLA EL AMÉN ...
 {end_of_chorus}
 {column_break}
 {start_of_verse}
@@ -48,6 +48,6 @@ resources:
 [00:00.00] [Mi-]y cenare con el y el conmigo.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Mi-]ASI HABLA EL AMEN ...
+[00:00.00] [Mi-]ASI HABLA EL AMÉN ...
 {end_of_chorus}
 ```

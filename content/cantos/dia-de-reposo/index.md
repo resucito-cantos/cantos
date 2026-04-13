@@ -15,18 +15,18 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Mi-]TU ERES UNICO, EL [La-]UNICO CON ALE[Mi-]GRIA.
-[00:00.00] QUIEN ES COMO EL SENOR?
+[00:00.00] ¿QUIEN ES COMO EL SEÑOR?
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Mi-]Corona [La-]de [Mi-]salvacion,
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]MEMORIAL [Mi-]DE ALEGRIA.
+[00:00.00] [La-]MEMORIAL [Mi-]DE ALEGRÍA.
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [Mi-]DIA DE REPOSO Y DE [La-]SANTIDAD
 [00:00.00] [Mi-]HAS DADO A TU PUEBLO.
-[00:00.00] DIA DE REPOSO Y DE [La-]SANTIDAD
+[00:00.00] DÍA DE REPOSO Y DE [La-]SANTIDAD
 [00:00.00] [Mi-]HAS DADO A TU PUEBLO.
 {end_of_chorus}
 {start_of_verse}

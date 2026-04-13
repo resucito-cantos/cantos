@@ -37,7 +37,7 @@ resources:
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] [La7]PORQUE EL [Re]PODEROSO
+[00:00.00] [La7]POR¿QUE EL [Re]PODEROSO
 [00:00.00] HA HECHO GRANDES
 [00:00.00] [La]COSAS EN MÍ:
 [00:00.00] [Mi]SU NOMBRE ES [La]SANTO.

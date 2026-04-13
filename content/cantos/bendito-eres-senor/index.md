@@ -58,7 +58,7 @@ resources:
 [00:00.00] [Sol]Criaturas todas [Fa#-]del Señor. [Mi]
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Sol]BENDECID AL [La]SENOR. [Si]
+[00:00.00] [Sol]BENDECID AL [La]SEÑOR. [Si]
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [La-]Ensalzadlo con himnos [Re]por los [La-]siglos.

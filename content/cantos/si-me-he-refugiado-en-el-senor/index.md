@@ -13,8 +13,8 @@ resources:
 [00:00.00] [Sol]SI ME HE REFUGIADO EN EL [Si7]SEÑOR,
 [00:00.00] COMO PODEIS DECIRME,
 [00:00.00] [Mi-]COMO PODEIS DECIRME
-[00:00.00] [Do]QUE HUYA COMO EL PAJARO AL [Si7]MONTE,
-[00:00.00] [Do]QUE HUYA COMO EL PAJARO AL [Si7]MONTE?
+[00:00.00] [Do]¿QUE HUYA COMO EL PAJARO AL [Si7]MONTE,
+[00:00.00] [Do]¿QUE HUYA COMO EL PAJARO AL [Si7]MONTE?
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Do]Yo se que los malvados tensan el [Si7]arco,

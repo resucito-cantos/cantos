@@ -26,7 +26,7 @@ resources:
 [00:00.00] [Mi7]LAS TINIEBLAS DEL MUNDO. {comment: BIS A.}
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [La-]Que se alegre nuestra madre la [Sol]Iglesia,
+[00:00.00] [La-]¿Que se alegre nuestra madre la [Sol]Iglesia,
 [00:00.00] resplandeciente de la [La-]gloria de su [Do]Señor;
 [00:00.00] [Sol]y que en este lugar resuene [La-]unánime
 [00:00.00] la aclamación de un pueblo en fiesta.
@@ -42,7 +42,7 @@ resources:
 [00:00.00] [Fa]Levantemos el [Mi]corazón.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Fa]LO TENEMOS LEVANTADO HACIA EL [Mi]SENOR.
+[00:00.00] [Fa]LO TENEMOS LEVANTADO HACIA EL [Mi]SEÑOR.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Sol]Demos gracias al Señor, nuestro [La-]Dios.
@@ -74,7 +74,7 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] ESTA ES LA NOCHE
-[00:00.00] [Sol]EN QUE CRISTO HA VENCIDO LA MUERTE
+[00:00.00] [Sol]EN ¿QUE CRISTO HA VENCIDO LA MUERTE
 [00:00.00] [Fa]Y DEL INFIERNO RETORNA [Mi]VICTORIOSO. {comment: BIS}
 {end_of_chorus}
 ```

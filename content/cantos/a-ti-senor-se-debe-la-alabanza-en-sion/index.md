@@ -21,7 +21,7 @@ resources:
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] [Sib]A TI QUE ESCUCHAS LA OR[La7]ACIÓN
+[00:00.00] [Sib]A TI ¿QUE ESCUCHAS LA OR[La7]ACIÓN
 [00:00.00] [Sib]VIENE TODO MORTAL,
 [00:00.00] [La7]VIENE TODO MORTAL.
 {end_of_chorus}
@@ -42,7 +42,7 @@ resources:
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] [Sib]A TI QUE ESCUCHAS LA OR[La7]ACIÓN ...
+[00:00.00] [Sib]A TI ¿QUE ESCUCHAS LA OR[La7]ACIÓN ...
 {end_of_chorus}
 
 {column_break}
@@ -65,6 +65,6 @@ resources:
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] [Sib]A TI QUE ESCUCHAS LA OR[La7]ACIÓN ...
+[00:00.00] [Sib]A TI ¿QUE ESCUCHAS LA OR[La7]ACIÓN ...
 {end_of_chorus}
 ```

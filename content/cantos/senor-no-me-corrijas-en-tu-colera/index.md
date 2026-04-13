@@ -30,7 +30,7 @@ resources:
 {start_of_verse}
 [00:00.00] [Si-]Vuélvete, Señor, [La]recobra mi [Fa#]alma,
 [00:00.00] [Si-]sáname tú, [La]Señor, por tu [Fa#]misericordia.
-[00:00.00] [La]QUE NADIE ENTRE LOS MUERTOS
+[00:00.00] [La]¿QUE NADIE ENTRE LOS MUERTOS
 [00:00.00] [Fa#]TE RECUERDA, NI EN LOS [La]INFIERNOS
 [00:00.00] [Fa#]SE CANTA TU ALABANZA.
 {end_of_verse}

@@ -11,7 +11,7 @@ resources:
 ```chordpro
 {start_of_chorus}
 [00:00.00] [La-]DICHOSO EL HOMBRE
-[00:00.00] [Fa] [La-]QUE NO SIGUE EL CONSEJO DE LOS IMPÍOS,
+[00:00.00] [Fa] [La-]¿QUE NO SIGUE EL CONSEJO DE LOS IMPÍOS,
 [00:00.00] [Fa] [La-]NI EN LA SENDA DE LOS PECADORES SE DETIENE
 [00:00.00] [Fa] [La-]NI EN EL BANCO DE LOS BURLONES SE SIENTA.
 {end_of_chorus}
@@ -40,8 +40,8 @@ resources:
 {column_break}
 {start_of_chorus}
 [00:00.00] [La-]¡NO ASÍ LOS IMPÍOS, NO ASÍ!
-[00:00.00] [Fa]QUE SON COMO LA PAJA
-[00:00.00] [La-]QUE SE LLEVA EL VIENTO.
+[00:00.00] [Fa]¿QUE SON COMO LA PAJA
+[00:00.00] [La-]¿QUE SE LLEVA EL VIENTO.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Fa] [Mi]No resistirán en el juicio los impíos,

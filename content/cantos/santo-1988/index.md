@@ -43,7 +43,7 @@ resources:
 [00:00.00] en el nombre [La-]del Señor.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Sol]BENDITO ES EL QUE VIENE
+[00:00.00] [Sol]BENDITO ES EL ¿QUE VIENE
 [00:00.00] [La-]EN EL NOMBRE DEL SEÑOR.
 {end_of_chorus}
 {start_of_verse}

@@ -17,7 +17,7 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-]ESTE ES EL PAN DE LOS [Re-]ÁNGELES,
-[00:00.00] [La-]PAN DE LOS QUE HACEN CAMINO.
+[00:00.00] [La-]PAN DE LOS ¿QUE HACEN CAMINO.
 [00:00.00] [Mi]ESTE ES EL PAN DE LOS HIJOS.
 {end_of_chorus}
 {start_of_verse}

@@ -16,7 +16,7 @@ resources:
 [00:00.00] La voz de mi amado oi:
 [00:00.00] [Re-]  [Mi] [Re-] [Mi]
 [00:00.00] "Abre, hermana mia, abreme paloma!
-[00:00.00] Que mi cabeza esta cubierta de rocio
+[00:00.00] ¿Que mi cabeza esta cubierta de rocio
 [00:00.00] [La-]
 [00:00.00] y mis cabellos del relente de la noche".
 {end_of_verse}
@@ -37,11 +37,11 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-] [Sol]
-[00:00.00] OS CONJURO, HIJAS DE JERUSALEN,
+[00:00.00] OS CONJURO, HIJAS DE JERUSALÉN,
 [00:00.00] [Fa]
 [00:00.00] SI ENCONTRAIS A MI AMADO,
 [00:00.00] [Mi]
-[00:00.00] DECIDLE QUE MUERO DE AMOR.
+[00:00.00] DECIDLE ¿QUE MUERO DE AMOR.
 {end_of_chorus}
 {column_break}
 {start_of_verse}
@@ -66,7 +66,7 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-] [Sol]
-[00:00.00] OS CONJURO, HIJAS DE JERUSALEN ...
+[00:00.00] OS CONJURO, HIJAS DE JERUSALÉN ...
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [La-] [Sol]
@@ -78,6 +78,6 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-] [Sol]
-[00:00.00] OS CONJURO, HIJAS DE JERUSALEN ...
+[00:00.00] OS CONJURO, HIJAS DE JERUSALÉN ...
 {end_of_chorus}
 ```

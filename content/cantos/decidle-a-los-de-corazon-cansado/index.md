@@ -17,12 +17,12 @@ resources:
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [La-]Ya se abren los ojos de los [Re-9]ciegos,
-[00:00.00] se abren [La-]los oidos de los sordos.
+[00:00.00] se abren [La-]los oídos de los sordos.
 [00:00.00] [Fa]El cojo salta como un [Mi]ciervo,
 [00:00.00] [Fa]grita de jubilo la lengua del [Mi]mudo.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Do]PORQUE SE ABRIRA UN [Mi-]CAMINO,[Do]
+[00:00.00] [Do]POR¿QUE SE ABRIRA UN [Mi-]CAMINO,[Do]
 [00:00.00] [Mi-]UN CAMINO DE SALVA[La-]CION;
 [00:00.00] [Do]UNA SENDA, UNA [Mi-]VIA
 [00:00.00] [La-]PARA LOS POBRES.
@@ -33,7 +33,7 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Mi-]Y POR ELLA RETORNARAN
-[00:00.00] [La-]LOS RESCATADOS DEL SENOR.
+[00:00.00] [La-]LOS RESCATADOS DEL SEÑOR.
 {end_of_chorus}
 {column_break}
 {start_of_verse}
@@ -42,7 +42,7 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Mi-]TODOS LOS POBRES, CIEGOS Y COJOS,
-[00:00.00] [La-]LOS ALEJADOS DEL SENOR.
+[00:00.00] [La-]LOS ALEJADOS DEL SEÑOR.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Mi-]Los pecadores!

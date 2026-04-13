@@ -10,9 +10,9 @@ resources:
 ---
 ```chordpro
 {start_of_chorus}
-[00:00.00] [Sol]iEXULTAD, JUSTOS, EN EL [Mi-]SENOR,
+[00:00.00] [Sol]iEXULTAD, JUSTOS, EN EL [Mi-]SEÑOR,
 [00:00.00] [Do]DE LOS SANTOS ES PROPIA LA [Sol]ALABANZA;
-[00:00.00] DAD GRACIAS AL SENOR CON LA [Mi-]CITARA,
+[00:00.00] DAD GRACIAS AL SEÑOR CON LA [Mi-]CITARA,
 [00:00.00] [Do]CON EL ARPA DE DIEZ CUERDAS
 [00:00.00] [Sol]TOCAD PARA EL!
 {end_of_chorus}
@@ -25,7 +25,7 @@ resources:
 [00:00.00] [Re]de su amor esta [Si7]llena la [Do]tie[Si7]rra.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Sol]iEXULTAD, JUSTOS, EN EL [Mi-]SENOR ...
+[00:00.00] [Sol]iEXULTAD, JUSTOS, EN EL [Mi-]SEÑOR ...
 {end_of_chorus}
 {column_break}
 {start_of_verse}
@@ -37,6 +37,6 @@ resources:
 [00:00.00] [Re]del Señor sub[Si7]siste por [Do]siem[Si7]pre.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Sol]iEXULTAD, JUSTOS, EN EL [Mi-]SENOR ...
+[00:00.00] [Sol]iEXULTAD, JUSTOS, EN EL [Mi-]SEÑOR ...
 {end_of_chorus}
 ```

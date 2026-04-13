@@ -10,11 +10,11 @@ tags:
 {start_of_chorus}
 [00:00.00] [Re-]ELI, ELI, LAMA [La-]SABACTANI.
 [00:00.00] [Re-]DIOS MIO, DIOS MIO:
-[00:00.00] ¿POR QUE ME HAS [La-]ABANDONADO?
+[00:00.00] ¿POR ¿QUE ME HAS [La-]ABANDONADO?
 {end_of_chorus}
 
 {start_of_verse}
-[00:00.00] [Re-]Que lejos te siento de mis gritos!
+[00:00.00] [Re-]¿Que lejos te siento de mis gritos!
 [00:00.00] De dia clamo, y no [La-]respondes,
 [00:00.00] grito de noche, y no hay reposo para mi.
 {end_of_verse}
@@ -32,7 +32,7 @@ tags:
 {end_of_verse}
 
 {start_of_verse}
-[00:00.00] Entonces, Dios, ¿por que no me [Re-]ayudas?
+[00:00.00] Entonces, Dios, ¿por qué no me [Re-]ayudas?
 {end_of_verse}
 
 {start_of_verse}
@@ -84,15 +84,15 @@ tags:
 {end_of_verse}
 
 {start_of_verse}
-[00:00.00] !Mas tu, Dios mio, no estes [Re-]lejos, [Mi-]si
+[00:00.00] ¡Mas tu, Dios mio, no estes [Re-]lejos, [Mi-]si
 [00:00.00] ven en mi [La-]ayuda, fuerza mia,
 [00:00.00] libra mi alma de la espada,
-[00:00.00] libra mi vida de las fauces del leon,
+[00:00.00] libra mi vida de las fauces del león,
 [00:00.00] libra mi alma de los cuernos de los bufalos!
 {end_of_verse}
 
 {start_of_verse}
-[00:00.00] !Anunciad, ya, tu nombre a mis hermanos, [Mi-]si
+[00:00.00] ¡Anunciad, ya, tu nombre a mis hermanos, [Mi-]si
 [00:00.00] en medio de la asamblea te cantare!:
 {end_of_verse}
 

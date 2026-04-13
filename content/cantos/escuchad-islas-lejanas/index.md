@@ -53,7 +53,7 @@ resources:
 [00:00.00] [Sol]es que se olvida del hijo de su [Fa#]seno?
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Re]PUES AUNQUE UNA [Fa#-]MADRE
+[00:00.00] [Re]PUES AUN¿QUE UNA [Fa#-]MADRE
 [00:00.00] SE OLVIDASE DE SU [Sol]HIJO,
 [00:00.00] YO JAMAS TE [Fa#]OLVIDARE.
 [00:00.00] [Sol]MIRAME, EN LAS PALMAS DE MIS MANOS

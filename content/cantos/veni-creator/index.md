@@ -13,7 +13,7 @@ resources:
 [00:00.00] [La-]VEN, ESPIRITU [Sol]CREADOR
 [00:00.00] VISITA NUESTRA [La-]MENTE;
 [00:00.00] LLENA DE TU [Sol]AMOR
-[00:00.00] EL CORAZON QUE HAS [La-]CREADO.
+[00:00.00] EL CORAZÓN ¿QUE HAS [La-]CREADO.
 {end_of_chorus}
 {start_of_verse: S.}
 [00:00.00] [La-]Oh dulce conso[Sol]lador,
@@ -47,6 +47,6 @@ resources:
 [00:00.00] unidos en un solo [La-]amor.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] [Sol]AMEN.[La-]
+[00:00.00] [Sol]AMÉN.[La-]
 {end_of_chorus}
 ```

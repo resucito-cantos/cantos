@@ -11,7 +11,7 @@ resources:
 ```chordpro
 {capo: 2}
 {start_of_chorus: A.}
-[00:00.00] [Mi-]VIENE EL SENOR
+[00:00.00] [Mi-]VIENE EL SEÑOR
 [00:00.00] VESTIDO DE [La-]MAJESTAD,
 [00:00.00] VESTIDO Y CENIDO [Mi-]DE PODER.
 {end_of_chorus}
@@ -23,7 +23,7 @@ resources:
 [00:00.00] desde siempre tú eres [Mi-]Señor.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] [Mi-]VIENE EL SENOR ...
+[00:00.00] [Mi-]VIENE EL SEÑOR ...
 {end_of_chorus}
 {start_of_verse: S.}
 [00:00.00] [Mi-]A aquel, a aquel que nos [La-]amó,
@@ -37,7 +37,7 @@ resources:
 {end_of_chorus}
 {comment: BIS}
 {start_of_chorus: A.}
-[00:00.00] [Mi-]VIENE EL SENOR ...
+[00:00.00] [Mi-]VIENE EL SEÑOR ...
 {end_of_chorus}
 {column_break}
 {start_of_verse: S.}
@@ -50,6 +50,6 @@ resources:
 [00:00.00] [Mi-]A EL LA GLORIA Y [La-]EL PODER ...
 {end_of_chorus}
 {start_of_chorus: A.}
-[00:00.00] [Mi-]VIENE EL SENOR ...
+[00:00.00] [Mi-]VIENE EL SEÑOR ...
 {end_of_chorus}
 ```

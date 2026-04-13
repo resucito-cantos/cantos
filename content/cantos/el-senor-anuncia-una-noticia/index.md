@@ -30,7 +30,7 @@ resources:
 {end_of_chorus}
 
 {start_of_verse}
-[00:00.00] [Sol]!Cantad a Dios, cantad,
+[00:00.00] [Sol]¡Cantad a Dios, cantad,
 [00:00.00] [Si-]salmodiad todos al Señor,
 [00:00.00] [La-]que cabalga los cielos, los [Mi-]antiguos cielos:
 [00:00.00] [Sol]ved que viene sobre las nubes,

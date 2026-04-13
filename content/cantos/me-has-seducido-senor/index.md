@@ -14,7 +14,7 @@ resources:
 [00:00.00] [La-]Y ME HE DEJADO SEDUCIR;
 [00:00.00] [Mi7]HAS LUCHADO CONMIGO
 [00:00.00] [La-]Y ME HAS VENCIDO.
-[00:00.00] [Fa]HAS SIDO MÁS FUERTE QUE YO,
+[00:00.00] [Fa]HAS SIDO MÁS FUERTE ¿QUE YO,
 [00:00.00] [Mi7]ME HAS PODIDO.
 {end_of_chorus}
 {start_of_verse}
@@ -30,7 +30,7 @@ resources:
 {start_of_chorus}
 [00:00.00] [Mi7]MAS EN MI CORAZÓN
 [00:00.00] HABÍA UN FUEGO ARDIENTE,
-[00:00.00] [Fa]QUE [Mi]CORRÍA POR MIS HUESOS.
+[00:00.00] [Fa]¿QUE [Mi]CORRÍA POR MIS HUESOS.
 {end_of_chorus}
 {column_break}
 {start_of_verse}

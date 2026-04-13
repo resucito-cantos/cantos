@@ -10,32 +10,32 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [Lam]!Quién nos separará,
+[00:00.00] [La-]¡Quién nos separará,
 [00:00.00] [Sol]quién nos separará
 [00:00.00] [Fa]del amor de [Mi]Dios?
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Mi]!Acaso Cristo [Lam]Jesús, el que murió;
+[00:00.00] [Mi]¡Acaso Cristo [La-]Jesús, el que murió;
 [00:00.00] más aún el que resu[Sol]citó,
 [00:00.00] el que a la derecha de [Fa]Dios
 [00:00.00] intercede por no[Mi]sotros?
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Lam]!QUIEN NOS SEPARARA ...
+[00:00.00] [La-]¡¿QUIEN NOS SEPARARA ...
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Mi]!La tribu[Lam]lación?, ¿la angustia?,
+[00:00.00] [Mi]¡La tribu[La-]lación?, ¿la angustia?,
 [00:00.00] ¿la persecu[Sol]ción?, ¿el hambre?,
 [00:00.00] ¿la des[Fa]nudez?
 [00:00.00] Si en todo vencemos
 [00:00.00] por Aquel que nos a[Mi]mó.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Lam]!QUIEN NOS SEPARARA ...
+[00:00.00] [La-]¡¿QUIEN NOS SEPARARA ...
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [Mi]Si seguros es[Lam]tamos
+[00:00.00] [Mi]Si seguros es[La-]tamos
 [00:00.00] que ni la muerte ni la vida
 [00:00.00] ni lo presente ni lo futuro
 [00:00.00] ni la altura ni la profundi[Sol]dad,
@@ -43,12 +43,12 @@ resources:
 [00:00.00] nos podrá separar de [Mi]Dios.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] NOS PODRA SEPA[Lam]RAR,
+[00:00.00] NOS PODRA SEPA[La-]RAR,
 [00:00.00] NOS PODRA SEPA[Sol]RAR
 [00:00.00] DEL AMOR DE [Fa]DIOS
 [00:00.00] MANIFESTADO EN CRISTO [Mi]JESUS.
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [Lam]!QUIEN NOS SEPARARA ...
+[00:00.00] [La-]¡¿QUIEN NOS SEPARARA ...
 {end_of_chorus}
 ```

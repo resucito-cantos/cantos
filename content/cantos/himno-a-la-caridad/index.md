@@ -33,7 +33,7 @@ resources:
 {end_of_verse}
 {column_break}
 {start_of_chorus}
-[00:00.00] [Do]PORQUE EL AMOR,
+[00:00.00] [Do]POR¿QUE EL AMOR,
 [00:00.00] [La-]EL AMOR, [Do]EL AMOR,
 [00:00.00] ES PACIENTE, ES SERVICIAL;
 [00:00.00] [La-]NO ES ENVIDIOSO,

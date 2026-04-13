@@ -41,11 +41,11 @@ resources:
 [00:00.00] [La-]rompió las coyundas de los mal[Mi]vados.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [La-]¡RETROCEDAN LOS QUE ODIAN A [Mi]SIÓN,
-[00:00.00] RETROCEDAN LOS QUE ODIAN A SIÓN! BIS A.
+[00:00.00] [La-]¡RETROCEDAN LOS ¿QUE ODIAN A [Mi]SIÓN,
+[00:00.00] RETROCEDAN LOS ¿QUE ODIAN A SIÓN! BIS A.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [La-]¡Que sean como la hierba
+[00:00.00] [La-]¡¿Que sean como la hierba
 [00:00.00] [Mi]que crece en el tejado,
 [00:00.00] como la hierba que se seca
 [00:00.00] [La-]antes de arrancarla!
@@ -55,7 +55,7 @@ resources:
 [00:00.00] de ella no llena su regazo el gavilla[La-]dor.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]¡RETROCEDAN LOS QUE ODIAN A [Mi]SIÓN ...
+[00:00.00] [La-]¡RETROCEDAN LOS ¿QUE ODIAN A [Mi]SIÓN ...
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [La-]MUCHO ME HAN PERSEGUIDO ...

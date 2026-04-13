@@ -17,7 +17,7 @@ resources:
 {start_of_chorus}
 [00:00.00] CUANTOS BIENES
 [00:00.00] [Mi-]
-[00:00.00] NOS HA DADO EL SENOR!
+[00:00.00] NOS HA DADO EL SEÑOR!
 [00:00.00] [Re] [Do] [Mi-]
 {end_of_chorus}
 {start_of_verse}
@@ -27,7 +27,7 @@ resources:
 {start_of_chorus}
 [00:00.00] CUANTOS BIENES
 [00:00.00] [Do] [Mi-]
-[00:00.00] NOS HA DADO EL SENOR!
+[00:00.00] NOS HA DADO EL SEÑOR!
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [La-] [Si7]

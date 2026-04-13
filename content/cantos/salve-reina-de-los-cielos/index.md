@@ -17,7 +17,7 @@ resources:
 {end_of_verse}
 {column_break}
 {start_of_chorus}
-[00:00.00] [La-]ALEGRATE, VIRGEN [Mi]MARIA,
+[00:00.00] [La-]ALEGRATE, VIRGEN [Mi]MARÍA,
 [00:00.00] [La-]ENTRE TODAS LA MAS BELLA;
 [00:00.00] [Re-]SALVE, ETERNA [La-]DONCELLA,
 [00:00.00] [Mi]RUEGA A CRISTO POR [La-]NOSOTROS.
@@ -31,6 +31,6 @@ resources:
 [00:00.00] [Mi7]tu, tu, tu abriste el camino a nuestra [La-]luz.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]ALEGRATE, VIRGEN [Mi]MARIA ...
+[00:00.00] [La-]ALEGRATE, VIRGEN [Mi]MARÍA ...
 {end_of_chorus}
 ```

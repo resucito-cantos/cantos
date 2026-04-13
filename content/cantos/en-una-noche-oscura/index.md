@@ -72,7 +72,7 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-] [Re-]
-[00:00.00] ¡OH NOCHE QUE GUIASTE! ...
+[00:00.00] ¡OH NOCHE ¿QUE GUIASTE! ...
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [La-]

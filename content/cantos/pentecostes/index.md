@@ -12,12 +12,12 @@ resources:
 ```chordpro
 {start_of_chorus}
 [00:00.00] [Re-]SI SIENTES UN SOPLO DEL [Do]CIELO,
-[00:00.00] [Re-]UN VIENTO QUE MUEVE LAS [La]PUERTAS,
-[00:00.00] [Re-]ESCUCHA LA VOZ QUE TE [Do]LLAMA,
+[00:00.00] [Re-]UN VIENTO ¿QUE MUEVE LAS [La]PUERTAS,
+[00:00.00] [Re-]ESCUCHA LA VOZ ¿QUE TE [Do]LLAMA,
 [00:00.00] [Re-]TE INVITA A CAMINAR [La]LEJOS.
-[00:00.00] [Re-]ES FUEGO QUE [Sol]NACE
-[00:00.00] [La]EN QUIEN SABE [Re-]ESPERAR,
-[00:00.00] [Fa]EN QUIEN SABE NUTRIR
+[00:00.00] [Re-]ES FUEGO ¿QUE [Sol]NACE
+[00:00.00] [La]EN ¿QUIEN SABE [Re-]ESPERAR,
+[00:00.00] [Fa]EN ¿QUIEN SABE NUTRIR
 [00:00.00] [La7]ESPERANZAS DE [Re-]AMOR.
 {end_of_chorus}
 {start_of_verse}
@@ -28,7 +28,7 @@ resources:
 [00:00.00] [La7]a la puerta de la ciudad.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Re-]Que yo recuerde
+[00:00.00] [Re-]¿Que yo recuerde
 [00:00.00] [Fa]entre ellos no había ningún doctor;
 [00:00.00] [Sib]y aquel que llamaban Maestro
 [00:00.00] [Fa]estaba muerto y [La7]sepultado.

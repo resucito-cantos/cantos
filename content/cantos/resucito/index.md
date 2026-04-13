@@ -36,7 +36,7 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse: "S."}
-[00:00.00] [La-]Alegria, alegria [Sol]hermanos
+[00:00.00] [La-]Alegria, alegría [Sol]hermanos
 [00:00.00] [Fa]que si hoy nos queremos
 [00:00.00] [Mi]es porque resucito.
 {end_of_verse}

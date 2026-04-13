@@ -22,22 +22,22 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Si7]YA ESTAN PISANDO NUESTROS PIES
-[00:00.00] [Mi-]TUS UMBRALES, JERUSALEN!
+[00:00.00] [Mi-]TUS UMBRALES, JERUSALÉN!
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [Mi-]JERUSALEN, JERUSALEN,
+[00:00.00] [Mi-]JERUSALÉN, JERUSALÉN,
 [00:00.00] [La-]DE NUEVO [Mi-]REEDIFICADA.
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] JERUSALEN, JERUSALEN,
+[00:00.00] JERUSALÉN, JERUSALÉN,
 [00:00.00] [Si7]DE NUEVO [Mi-]REEDIFICADA.
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] JERUSALEN, JERUSALEN,
+[00:00.00] JERUSALÉN, JERUSALÉN,
 [00:00.00] [La-]DE NUEVO [Mi-]REEDIFICADA.
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] JERUSALEN, JERUSALEN,
+[00:00.00] JERUSALÉN, JERUSALÉN,
 [00:00.00] [Si7]DE NUEVO [Mi-]REEDIFICADA.
 {end_of_chorus}
 {column_break}
@@ -47,10 +47,10 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Si7]SEGUN LA COSTUMBRE DE ISRAEL
-[00:00.00] [Mi-]PARA CANTAR AL SENOR.
+[00:00.00] [Mi-]PARA CANTAR AL SEÑOR.
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [Mi-]JERUSALEN, JERUSALEN ...
+[00:00.00] [Mi-]JERUSALÉN, JERUSALÉN ...
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Mi-]Por el amor de mis [La-]amigos ...
@@ -61,11 +61,11 @@ resources:
 [00:00.00] [La-]para [Mi-]Jerusalén:
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] QUE SEA LA PAZ, QUE SEA LA PAZ
-[00:00.00] [Si7]CON TODOS LOS QUE [Mi-]TE AMAN!
+[00:00.00] ¿QUE SEA LA PAZ, ¿QUE SEA LA PAZ
+[00:00.00] [Si7]CON TODOS LOS ¿QUE [Mi-]TE AMAN!
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [Mi-]JERUSALEN, JERUSALEN ...
+[00:00.00] [Mi-]JERUSALÉN, JERUSALÉN ...
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [Mi-]LA LALALALALA, LA LALALALALA,

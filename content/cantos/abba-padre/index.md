@@ -23,7 +23,7 @@ resources:
 {start_of_chorus}
 [00:00.00] [La-]ESTE MISMO ESPÍRITU
 [00:00.00] [Re-]DA TESTIMONIO A [La-]NUESTRO [Fa]ESPÍRITU [Mi]
-[00:00.00] [Mi7]DE QUE SOMOS HIJOS DE [La-]DIOS.
+[00:00.00] [Mi7]DE ¿QUE SOMOS HIJOS DE [La-]DIOS.
 {end_of_chorus}
 
 {start_of_chorus}

@@ -47,14 +47,14 @@ resources:
 [00:00.00] [Re]Porque ya nadie hará [Sol]daño.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] [Re]PORQUE YA NADIE HARÁ [Sol]DAÑO.
+[00:00.00] [Re]POR¿QUE YA NADIE HARÁ [Sol]DAÑO.
 {end_of_chorus}
 {start_of_verse: S.}
 [00:00.00] [Re]Porque la tierra estará [Sol]llena
 [00:00.00] del conocimiento del Señor.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] [Re]PORQUE LA TIERRA ESTARÁ LLENA
+[00:00.00] [Re]POR¿QUE LA TIERRA ESTARÁ LLENA
 [00:00.00] DEL CONOCIMIENTO DEL [Sol]SEÑOR.
 {end_of_chorus}
 {start_of_verse: S.}

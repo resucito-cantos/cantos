@@ -1,5 +1,5 @@
 ---
-title: "Alegria, ha nacido el Salvador"
+title: "Alegría, ha nacido el Salvador"
 subtitle: "Villancico (Kiko Arguello)"
 category: "Precatecumenado"
 tags:
@@ -7,17 +7,17 @@ tags:
 - Niños
 resources:
 - name: audio
-  src: alegria-ha-nacido-el-salvador.mp3
+  src: alegría-ha-nacido-el-salvador.mp3
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [Re-]Alegria, alegria, alegria,
-[00:00.00] alegria, ha nacido el [Re-]Salvador.
+[00:00.00] [Re-]Alegria, alegría, alegría,
+[00:00.00] alegría, ha nacido el [Re-]Salvador.
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] ALEGRIA, ALEGRIA, ALEGRIA,
-[00:00.00] ALEGRIA, HA NACIDO EL SALVADOR.
+[00:00.00] ALEGRÍA, ALEGRÍA, ALEGRÍA,
+[00:00.00] ALEGRÍA, HA NACIDO EL SALVADOR.
 {end_of_chorus}
 
 {start_of_verse}
@@ -27,7 +27,7 @@ resources:
 
 {start_of_chorus}
 [00:00.00] EN UN PORTAL,
-[00:00.00] EN UN PORTAL DE BELEN.
+[00:00.00] EN UN PORTAL DE BELÉN.
 {end_of_chorus}
 
 {start_of_verse}
@@ -43,18 +43,18 @@ resources:
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] ENVUELTO EN PANALES.
+[00:00.00] ENVUELTO EN PAÑALES.
 {end_of_chorus}
 
 {start_of_verse}
 [00:00.00] [Do7]
-[00:00.00] [Re-]Alegria, alegria, alegria,
-[00:00.00] alegria, ha nacido el [Re-]Salvador.
+[00:00.00] [Re-]Alegria, alegría, alegría,
+[00:00.00] alegría, ha nacido el [Re-]Salvador.
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] ALEGRIA, ALEGRIA, ALEGRIA,
-[00:00.00] ALEGRIA, HA NACIDO EL SALVADOR.
+[00:00.00] ALEGRÍA, ALEGRÍA, ALEGRÍA,
+[00:00.00] ALEGRÍA, HA NACIDO EL SALVADOR.
 {end_of_chorus}
 
 {start_of_verse}
@@ -64,7 +64,7 @@ resources:
 
 {start_of_chorus}
 [00:00.00] EN UN PORTAL,
-[00:00.00] EN UN PORTAL DE BELEN.
+[00:00.00] EN UN PORTAL DE BELÉN.
 {end_of_chorus}
 
 {start_of_verse}
@@ -78,13 +78,13 @@ resources:
 {column_break}
 
 {start_of_verse}
-[00:00.00] [Re-]Alegria, alegria, alegria,
-[00:00.00] alegria, ha nacido el [Re-]Salvador.
+[00:00.00] [Re-]Alegria, alegría, alegría,
+[00:00.00] alegría, ha nacido el [Re-]Salvador.
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] ALEGRIA, ALEGRIA, ALEGRIA,
-[00:00.00] ALEGRIA, HA NACIDO EL SALVADOR.
+[00:00.00] ALEGRÍA, ALEGRÍA, ALEGRÍA,
+[00:00.00] ALEGRÍA, HA NACIDO EL SALVADOR.
 {end_of_chorus}
 
 {start_of_verse}
@@ -94,7 +94,7 @@ resources:
 
 {start_of_chorus}
 [00:00.00] EN UN PORTAL,
-[00:00.00] EN UN PORTAL DE BELEN.
+[00:00.00] EN UN PORTAL DE BELÉN.
 {end_of_chorus}
 
 {start_of_verse}

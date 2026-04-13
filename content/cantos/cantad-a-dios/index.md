@@ -15,7 +15,7 @@ resources:
 [00:00.00] SALMODIAD PARA SU NOMBRE.
 [00:00.00] CANTAD A DIOS,
 [00:00.00] [Re-9]ALLANAD EL CAMINO
-[00:00.00] [Mi]AL QUE CABALGA EN LAS NUBES.
+[00:00.00] [Mi]AL ¿QUE CABALGA EN LAS NUBES.
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [Mi]Señor es su Nombre, [Re-9]alegraos ante El.
@@ -30,7 +30,7 @@ resources:
 [00:00.00] [Mi]SE LEVANTA DIOS,
 [00:00.00] SUS ENEMIGOS SE DISPERSAN;
 [00:00.00] LOS JUSTOS SE ALEGRAN
-[00:00.00] [Re-9]Y CANTAN DE [Mi]ALEGRIA!
+[00:00.00] [Re-9]Y CANTAN DE [Mi]ALEGRÍA!
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [Mi]CANTAD A DIOS ...

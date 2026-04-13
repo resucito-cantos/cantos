@@ -14,9 +14,9 @@ resources:
 [00:00.00] [Sol]LEVANTO MIS OJOS A LOS [Si-]MONTES:
 [00:00.00] [Do]¿DE DÓNDE ME [Re7]VENDRÁ EL AU[Sol]XILIO?
 [00:00.00] [Do]EL AUXILIO ME VIENE DEL [Sol]SEÑOR,
-[00:00.00] [Re]QUE HIZO EL [Do]CIELO Y LA [Sol]TIERRA,
+[00:00.00] [Re]¿QUE HIZO EL [Do]CIELO Y LA [Sol]TIERRA,
 [00:00.00] [Do]EL AUXILIO ME [Re7]VIENE DEL [Sol]SEÑOR,
-[00:00.00] [Do]QUE HIZO EL CIELO Y LA [Sol]TIERRA.
+[00:00.00] [Do]¿QUE HIZO EL CIELO Y LA [Sol]TIERRA.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Sol]¡No permitirá que resbale tu [Si-]pie!

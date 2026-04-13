@@ -12,8 +12,8 @@ resources:
 {start_of_chorus}
 [00:00.00] [Re]EXTIENDO MIS [Si-]MANOS, [Sol]
 [00:00.00] [Mi]EXTIENDO MIS [La]MANOS,
-[00:00.00] [Sol]Y GRITO AL [Re]SENOR,
-[00:00.00] [La]Y GRITO AL [Re]SENOR.
+[00:00.00] [Sol]Y GRITO AL [Re]SEÑOR,
+[00:00.00] [La]Y GRITO AL [Re]SEÑOR.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Fa#]iAbba, Padre mio! [Sol]iAbba, Padre [Fa#]mio!

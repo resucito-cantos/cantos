@@ -36,7 +36,7 @@ resources:
 {column_break}
 {start_of_verse}
 [00:00.00] [Re-]Por los pecados de su gente
-[00:00.00] [Do7]ella ve a Jesus en [Sib7]tormentos,
+[00:00.00] [Do7]ella ve a Jesús en [Sib7]tormentos,
 [00:00.00] [La]y sometido a los azotes.
 {end_of_verse}
 {start_of_chorus}
@@ -55,6 +55,6 @@ resources:
 [00:00.00] [La]la palma de la victoria.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Re-]AMEN, [Sib7]AMEN, [La7]AMEN.
+[00:00.00] [Re-]AMÉN, [Sib7]AMÉN, [La7]AMÉN.
 {end_of_chorus}
 ```

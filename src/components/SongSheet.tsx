@@ -13,7 +13,7 @@ function ChordSegment({ segment }: { segment: Segment }) {
 		return (
 			<span className="chord-a">
 				<span className="chord">{segment.chord}</span>
-				{segment.text}
+				{segment.text || "\u00A0"}
 			</span>
 		);
 	}

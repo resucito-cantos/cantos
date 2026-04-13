@@ -18,7 +18,7 @@ resources:
 [00:00.00] [La]que esta en el rostro de [Si-]Cristo.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La]QUE ESTA EN EL ROSTRO DE [Si-]CRISTO.
+[00:00.00] [La]¿QUE ESTA EN EL ROSTRO DE [Si-]CRISTO.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Fa#]PERO LLEVAMOS ESTE TESORO
@@ -33,13 +33,13 @@ resources:
 {start_of_chorus}
 [00:00.00] [Si-]LLEVANDO SIEMPRE
 [00:00.00] EN NUESTRO CUERPO
-[00:00.00] [La]EL MORIR DE JESUS,
+[00:00.00] [La]EL MORIR DE JESÚS,
 {end_of_chorus}
 {column_break}
 {start_of_chorus}
-[00:00.00] [Si-]PARA QUE SE [Sol]MANIFIESTE
+[00:00.00] [Si-]PARA ¿QUE SE [Sol]MANIFIESTE
 [00:00.00] EN NUESTRO CUERPO
-[00:00.00] [Fa#]QUE ESTA RESUCITADO.
+[00:00.00] [Fa#]¿QUE ESTA RESUCITADO.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Fa#]Atribulados en todo, mas no desesperados;

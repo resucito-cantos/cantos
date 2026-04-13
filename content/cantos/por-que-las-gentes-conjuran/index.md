@@ -10,11 +10,11 @@ resources:
 ---
 ```chordpro
 {start_of_chorus}
-[00:00.00] [Mi-]POR QUE LAS GENTES [La-]CONJURAN
-[00:00.00] [Mi-]POR QUE CONSPIRAN LOS PUEBLOS?
+[00:00.00] [Mi-]POR ¿QUE LAS GENTES [La-]CONJURAN
+[00:00.00] [Mi-]POR ¿QUE CONSPIRAN LOS PUEBLOS?
 [00:00.00] [La-]SE ALZAN LOS REYES DE LA TIERRA,
 [00:00.00] [Si7]Y LOS PRINCIPES SE REUNEN
-[00:00.00] [Mi-]CONTRA EL SENOR Y CONTRA SU MESIAS.
+[00:00.00] [Mi-]CONTRA EL SEÑOR Y CONTRA SU MESIAS.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Mi-]Rompamos sus coyundas y cadenas,
@@ -27,7 +27,7 @@ resources:
 [00:00.00] [Mi-]y en su cólera los espanta:
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]«PORQUE YO LE HE CONSTITUIDO [Mi-]SOBERANO
+[00:00.00] [La-]«POR¿QUE YO LE HE CONSTITUIDO [Mi-]SOBERANO
 [00:00.00] [Si7]EN SION MI SANTO [Mi-]MONTE,
 [00:00.00] EN SION MI SANTO [Mi-]MONTE.
 [00:00.00] [La-]YO LE HE CONSTITUIDO [Mi-]SOBERANO
@@ -49,7 +49,7 @@ resources:
 [00:00.00] [Mi-]como vasos de arcilla los quebrarás».
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]«PORQUE YO LE HE CONSTITUIDO ...
+[00:00.00] [La-]«POR¿QUE YO LE HE CONSTITUIDO ...
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [La-]Y ahora, soberanos, sed [Si7]sensatos,
@@ -66,6 +66,6 @@ resources:
 [00:00.00] [Mi-]Mas dichoso el que se refugia en El!
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]«PORQUE YO LE HE CONSTITUIDO ...
+[00:00.00] [La-]«POR¿QUE YO LE HE CONSTITUIDO ...
 {end_of_chorus}
 ```

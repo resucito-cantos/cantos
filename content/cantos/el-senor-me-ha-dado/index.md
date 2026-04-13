@@ -13,7 +13,7 @@ resources:
 [00:00.00] [Si-]El Señor me ha dado [Si-]lengua de discipulo,
 [00:00.00] [Do]para que pueda llevar al cansado
 [00:00.00] [Si-]una palabra alentadora.
-[00:00.00] [Do]Mañana tras mañana despiertas [Si-]tu mi oido,
+[00:00.00] [Do]Mañana tras mañana despiertas [Si-]tu mi oído,
 [00:00.00] [Do]para hacerme escuchar como un [Si-]discipulo.
 {end_of_verse}
 

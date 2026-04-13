@@ -33,10 +33,10 @@ resources:
 {end_of_verse}
 {column_break}
 {start_of_verse}
-[00:00.00] [Re-]Alzad a El las manos,
+[00:00.00] [Re-]Alzad a Él las manos,
 {end_of_verse}
 {start_of_verse}
-[00:00.00] alzad a El las manos y bendecid al [La7]Señor,
+[00:00.00] alzad a Él las manos y bendecid al [La7]Señor,
 {end_of_verse}
 {start_of_verse}
 [00:00.00] vosotros que estais
@@ -59,7 +59,7 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_chorus}
-[00:00.00] [Re-]BENDECID AL SENOR ...
+[00:00.00] [Re-]BENDECID AL SEÑOR ...
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [Re-]ALELUYA, [La7]ALELUYA ...

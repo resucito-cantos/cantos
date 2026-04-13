@@ -19,8 +19,8 @@ resources:
 {start_of_chorus}
 [00:00.00] [Re-]ME HAS SACADO DE LO PROFUNDO DEL [La7]SEOL,
 [00:00.00] [Sib7]DE LA BOCA DE LA MUERTE ME HAS [La7]ARRANCADO.
-[00:00.00] [Re-]PORQUE HE CREÍDO EN TU [La7]MESÍAS
-[00:00.00] [Sib7]Y QUE ÉL ES EL SEÑOR HE [La7]CONFESADO.
+[00:00.00] [Re-]POR¿QUE HE CREÍDO EN TU [La7]MESÍAS
+[00:00.00] [Sib7]Y ¿QUE ÉL ES EL SEÑOR HE [La7]CONFESADO.
 {end_of_chorus}
 {column_break}
 {start_of_verse}

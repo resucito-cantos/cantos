@@ -47,7 +47,7 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La]SOPLA EN MI HUERTO
-[00:00.00] [Re-]PARA QUE EXHALE SUS AROMAS.
+[00:00.00] [Re-]PARA ¿QUE EXHALE SUS AROMAS.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Do]Y pueda entrar mi amado en su [Fa]huerto

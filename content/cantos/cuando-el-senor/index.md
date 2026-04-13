@@ -21,7 +21,7 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Sol] [La] [Re]
-[00:00.00] PORQUE AL IR, SE VA LLORANDO,
+[00:00.00] POR¿QUE AL IR, SE VA LLORANDO,
 [00:00.00] [Mi-] [Re] [Re7]
 [00:00.00] LLEVANDO LA SEMILLA;
 [00:00.00] [Sol] [La] [Re]
@@ -38,6 +38,6 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Sol] [La] [Re]
-[00:00.00] PORQUE AL IR, SE VA LLORANDO ...
+[00:00.00] POR¿QUE AL IR, SE VA LLORANDO ...
 {end_of_chorus}
 ```

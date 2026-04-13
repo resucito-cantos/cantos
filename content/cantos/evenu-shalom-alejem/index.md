@@ -19,11 +19,11 @@ resources:
 [00:00.00] [Re-]SHALOM ALEJEM.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Re-]Que sea la paz con nosotros,
+[00:00.00] [Re-]¿Que sea la paz con nosotros,
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Sol-]QUE SEA LA PAZ CON NOSOTROS,
-[00:00.00] [La]QUE SEA LA PAZ CON [Re-]NOSOTROS,
+[00:00.00] [Sol-]¿QUE SEA LA PAZ CON NOSOTROS,
+[00:00.00] [La]¿QUE SEA LA PAZ CON [Re-]NOSOTROS,
 [00:00.00] [La7]EVENU SHALOM, SHALOM,
 [00:00.00] [Re-]SHALOM ALEJEM.
 {end_of_chorus}
@@ -53,7 +53,7 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Sol-]CANTEMOS LA PAZ AL MUNDO,
-[00:00.00] [La]QUE NUESTRA VIDA SEA [Re-]GLORIOSA,
+[00:00.00] [La]¿QUE NUESTRA VIDA SEA [Re-]GLORIOSA,
 [00:00.00] [La7]YO TE SALUDO:
 [00:00.00] [Re-]LA PAZ, LA PAZ SEA CONTIGO!
 {end_of_chorus}

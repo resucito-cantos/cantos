@@ -1,5 +1,5 @@
 ---
-title: "Ave Maria I"
+title: "Ave María I"
 subtitle: "Lucas 1,28ss"
 category: "Precatecumenado"
 tags:
@@ -16,17 +16,17 @@ resources:
 [00:00.00] [La-]bendita tu eres
 [00:00.00] [Re-]entre todas las [Mi]mujeres,
 [00:00.00] [La-]y bendito es el fruto
-[00:00.00] [Re-]de tu [Mi]vientre: Jesus.
+[00:00.00] [Re-]de tu [Mi]vientre: Jesús.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Do]SANTA [Mi]MARIA, [La-]MADRE [Do]DE [Mi]DIOS, [La-]
+[00:00.00] [Do]SANTA [Mi]MARÍA, [La-]MADRE [Do]DE [Mi]DIOS, [La-]
 [00:00.00] [Fa]RUEGA POR [Mi]NOSOTROS
-[00:00.00] [La-]QUE SOMOS PECADORES.
+[00:00.00] [La-]¿QUE SOMOS PECADORES.
 [00:00.00] [Re-]RUEGA AHORA
 [00:00.00] Y EN LA HORA
 [00:00.00] [Mi]DE NUESTRA MUERTE.
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [La-]AMEN, [Fa]AMEN, [Mi]AMEN. [La-]
+[00:00.00] [La-]AMÉN, [Fa]AMÉN, [Mi]AMÉN. [La-]
 {end_of_chorus}
 ```

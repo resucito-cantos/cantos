@@ -36,7 +36,7 @@ resources:
 [00:00.00] [Sol]pruébame al crisol, pruébame al [Si-]crisol
 [00:00.00] [Sol]porque tú sabes que no hay malicia en [Fa#]mí;
 [00:00.00] [Sol]que mi boca no miente como hacen los [Fa#]hombres.
-[00:00.00] Que he guardado tu [Mi-]Palabra,
+[00:00.00] ¿Que he guardado tu [Mi-]Palabra,
 [00:00.00] que no he seguido los caminos del [Fa#]violento,
 [00:00.00] [Sol]que a tus huellas he ajustado mis [Fa#]pasos,
 [00:00.00] que no vacilaré, que no vacilaré.
@@ -55,7 +55,7 @@ resources:
 [00:00.00] [Sol]porque tú salvas al que se apoya en [Fa#]ti,
 [00:00.00] porque tú [Sol]ayudas
 [00:00.00] al que se refugia a tu [Fa#]derecha.
-[00:00.00] [Mi-]Como a la niña de tus ojos [Fa#]guárdame,
+[00:00.00] [Mi-]¿Como a la niña de tus ojos [Fa#]guárdame,
 [00:00.00] [Mi-]a la sombra de tus alas [Fa#]escóndeme,
 [00:00.00] [Sol]mira que quieren [Fa#]matarme.
 {end_of_verse}
@@ -73,7 +73,7 @@ resources:
 [00:00.00] [Mi-]de los hombres cuyo premio es esta [Fa#]vida!
 [00:00.00] [Sol]¡Cólmalos de tus bienes, [Fa#]Señor,
 [00:00.00] [Sol]llénales el vientre y que sus hijos se [Fa#]sacien!
-[00:00.00] [Mi-]Que yo al despertar, que yo por tu amor
+[00:00.00] [Mi-]¿Que yo al despertar, que yo por tu amor
 [00:00.00] [Sol]me saciaré de tu rostro [Fa#]Señor.
 {end_of_verse}
 

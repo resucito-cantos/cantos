@@ -14,7 +14,7 @@ resources:
 [00:00.00] [La-]Y PADRE [La7]DE [Re]JESUCRISTO.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Fa#]Que nos ha bendecido
+[00:00.00] [Fa#]¿Que nos ha bendecido
 [00:00.00] [Si-]con toda clase de amor;
 [00:00.00] [Fa#]y nos ha elegido antes [Si-]de la creacion,
 [00:00.00] [La]para ser santos e inmaculados [Sol]en el [Fa#]amor.
@@ -23,7 +23,7 @@ resources:
 [00:00.00] [Si-]PARA SER ALABANZA DE SU GLORIA,
 [00:00.00] [La]DE LA GLORIA DE SU GRACIA,
 [00:00.00] [Sol]DE LA GRACIA DE SU AMOR,
-[00:00.00] [Fa#]CON LA QUE NOS AMO EN JESUCRISTO.
+[00:00.00] [Fa#]CON LA ¿QUE NOS AMO EN JESUCRISTO.
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [Re]BENDITO SEA [La-]DIOS [La7]  [Re]...

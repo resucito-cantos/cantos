@@ -38,7 +38,7 @@ resources:
 [00:00.00] [Mi]"estan en ti todas mis fuentes".
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]PORQUE TODOS HAN [Re-]NACIDO EN [Mi]ELLA. [La-] {BIS A.}
+[00:00.00] [La-]POR¿QUE TODOS HAN [Re-]NACIDO EN [Mi]ELLA. [La-] {BIS A.}
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [Sol]EL [Fa]SEÑOR, EL MISMO LA [Mi]FUNDO. {BIS A.}

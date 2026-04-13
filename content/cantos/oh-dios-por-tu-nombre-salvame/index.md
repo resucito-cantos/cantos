@@ -10,7 +10,7 @@ resources:
 ---
 ```chordpro
 {start_of_chorus}
-[00:00.00] [La-]!OH DIOS, POR TU NOMBRE [Fa7]SÁLVAME,
+[00:00.00] [La-]¡OH DIOS, POR TU NOMBRE [Fa7]SÁLVAME,
 [00:00.00] [Re-]POR TU PODER HAZME [Mi]JUSTICIA,
 [00:00.00] [La-]OH DIOS, ESCUCHA MI [Fa7]ORACIÓN,
 [00:00.00] [Re-]ATIENDE A LAS PALABRAS DE MI [Mi]BOCA!
@@ -22,7 +22,7 @@ resources:
 [00:00.00] [Sib7]no tienen [La7]nunca a Dios presente.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Re-]MAS VED, QUE DIOS VIENE EN MI [La7]AYUDA,
+[00:00.00] [Re-]MAS VED, ¿QUE DIOS VIENE EN MI [La7]AYUDA,
 [00:00.00] [Re-]EL SEÑOR, EL [La7]SEÑOR ME SOSTIENE.
 {end_of_chorus}
 {start_of_verse}

@@ -23,7 +23,7 @@ resources:
 [00:00.00] [La-]pidámosle todos perdón.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Re-]PARA QUE CUANDO APAREZCA GLORIOSO
+[00:00.00] [Re-]PARA ¿QUE CUANDO APAREZCA GLORIOSO
 [00:00.00] [La-]EN SU SEGUNDA VENIDA,
 [00:00.00] [Mi7]Y LLENE EL MUNDO DE ESPANTO,
 [00:00.00] [La-]ÉL NOS PROTEJA PIADOSO.
@@ -31,6 +31,6 @@ resources:
 {start_of_chorus}
 [00:00.00] [Re-]POR ESO, YO LE [La-]CANTO ESTA BALADA
 [00:00.00] [Mi7]AL PADRE, AL HIJO Y AL ESPÍRITU.
-[00:00.00] [La-]¡QUE ELLOS VIVAN, AMÉN!
+[00:00.00] [La-]¡¿QUE ELLOS VIVAN, AMÉN!
 {end_of_chorus: BIS}
 ```

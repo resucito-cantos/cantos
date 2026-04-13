@@ -12,7 +12,7 @@ resources:
 {start_of_chorus}
 [00:00.00] [Re]GLORIA DIOS EN LO ALTO DEL [La]CIELO,
 [00:00.00] [Sol]Y PAZ EN LA TIERRA
-[00:00.00] A LOS HOMBRES QUE AMA EL [La]SENOR.
+[00:00.00] A LOS HOMBRES ¿QUE AMA EL [La]SEÑOR.
 [00:00.00] [Re]TE ALABAMOS, TE [La]GLORIFICAMOS,
 [00:00.00] [Sol]TE ADORAMOS, TE DAMOS GRACIAS
 [00:00.00] POR TU INMENSA [La]GLORIA.
@@ -38,8 +38,8 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] TEN PIEDAD DE NOSOTROS;
-[00:00.00] [Sol]PORQUE SOLO TU ERES SANTO,
-[00:00.00] [Fa#-]SOLO TU SENOR,
+[00:00.00] [Sol]POR¿QUE SOLO TU ERES SANTO,
+[00:00.00] [Fa#-]SOLO TU SEÑOR,
 [00:00.00] [Mi-]SOLO TU ALTISIMO,
 [00:00.00] [La]JESUCRISTO,
 {end_of_chorus}
@@ -48,6 +48,6 @@ resources:
 [00:00.00] [Re]en la gloria de Dios Padre.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Sol]A[Re]MEN, AMEN.
+[00:00.00] [Sol]A[Re]MEN, AMÉN.
 {end_of_chorus}
 ```

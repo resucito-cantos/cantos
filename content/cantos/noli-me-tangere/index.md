@@ -36,17 +36,17 @@ resources:
 {column_break}
 {start_of_verse}
 [00:00.00] [Fa-]VE Y ANUNCIA A MIS [Do-]HERMANOS
-[00:00.00] [Sol#]QUE SUBO AL PADRE MÍO
+[00:00.00] [Sol#]¿QUE SUBO AL PADRE MÍO
 [00:00.00] [Sol]Y PADRE VUESTRO,
 [00:00.00] [Sol#]DIOS MÍO Y [Sol]DIOS VUESTRO.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Fa-]QUE SUBO AL PADRE MÍO
+[00:00.00] [Fa-]¿QUE SUBO AL PADRE MÍO
 [00:00.00] [Do-]Y PADRE VUESTRO,
 [00:00.00] [Fa-]DIOS MÍO Y [Do-]DIOS VUESTRO.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Sol#]Que subo al Padre mío y [Sol]Padre vuestro,
+[00:00.00] [Sol#]¿Que subo al Padre mío y [Sol]Padre vuestro,
 [00:00.00] [Sol#]Dios mío y [Sol]Dios vuestro. [melisma]
 {end_of_verse}
 ```

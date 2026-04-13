@@ -54,7 +54,7 @@ resources:
 [00:00.00] [La-] [Si7]
 [00:00.00] de recibir el poder, la riqueza y la gloria,
 [00:00.00] [Mi-]
-[00:00.00] la sabiduria, el honor y la alabanza,
+[00:00.00] la sabiduría, el honor y la alabanza,
 [00:00.00] [Si7]
 [00:00.00] porque has comprado con tu Sangre
 [00:00.00] [Mi-]

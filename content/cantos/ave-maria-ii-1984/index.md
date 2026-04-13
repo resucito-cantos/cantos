@@ -1,5 +1,5 @@
 ---
-title: "Ave Maria II (1984)"
+title: "Ave María II (1984)"
 subtitle: "Lucas 1, 28ss"
 category: "Precatecumenado"
 tags:
@@ -16,18 +16,18 @@ resources:
 [00:00.00] [Fa]bendita tu eres [Mi]
 [00:00.00] entre todas las mujeres,
 [00:00.00] [Fa]y bendito es el fruto
-[00:00.00] [Mi]de tu vientre: Jesus.
+[00:00.00] [Mi]de tu vientre: Jesús.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Do]SAN[Mi]TA [Fa]MARIA, [Mi]
+[00:00.00] [Do]SAN[Mi]TA [Fa]MARÍA, [Mi]
 [00:00.00] [Do]MA[Mi]DRE [Fa]DE DIOS, [Mi]
 [00:00.00] [Fa]RUEGA POR NOSOTROS [Mi]
-[00:00.00] [Fa]QUE SOMOS PECADORES. [Mi]
+[00:00.00] [Fa]¿QUE SOMOS PECADORES. [Mi]
 [00:00.00] [Fa]RUEGA AHORA
 [00:00.00] Y EN LA HORA
 [00:00.00] [Mi]DE [Fa]NUESTRA MUERTE.
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [Mi]AMEN.
+[00:00.00] [Mi]AMÉN.
 {end_of_chorus}
 ```

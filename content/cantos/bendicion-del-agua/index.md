@@ -6,7 +6,7 @@ tags:
 - TODO
 resources:
 - name: audio
-  src: bendicion-del-agua.mp3
+  src: bendición-del-agua.mp3
 ---
 ```chordpro
 {start_of_verse}

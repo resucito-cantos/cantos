@@ -1,5 +1,5 @@
 ---
-title: "Como el Impulso que Siente la Ira"
+title: "¿Como el Impulso que Siente la Ira"
 subtitle: "Oda VII de Salomon"
 category: "Catecumenado"
 tags:
@@ -10,7 +10,7 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [Do]Como el impulso que siente la [La-]ira
+[00:00.00] [Do]¿Como el impulso que siente la [La-]ira
 [00:00.00] [Re-]hacia el enemigo,
 [00:00.00] [Sol7]como el impulso que siente el amor
 [00:00.00] [Do]hacia el [La-]amado,
@@ -21,7 +21,7 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-]TU ERES EL CAMINO,
-[00:00.00] [Mi]!COMO ES MARAVILLOSO!
+[00:00.00] [Mi]¡COMO ES MARAVILLOSO!
 [00:00.00] TU ERES EL CAMINO, TU ERES EL [La-]AMOR.
 [00:00.00] [Sol]TU ERES EL CAMINO, TU ERES LA [La-]VIDA.
 [00:00.00] [Sol]TU ERES EL CAMINO, TU ERES LA [La-]VERDAD.

@@ -49,7 +49,7 @@ resources:
 [00:00.00] [Mi-]Ha entrado en la muerte,
 [00:00.00] ha entrado mi Dios,
 [00:00.00] ya viene, ya sube, ya llega el [Mi-]Señor.
-[00:00.00] Que canten, que griten: [Si7]¡Resucitó!
+[00:00.00] ¿Que canten, que griten: [Si7]¡Resucitó!
 [00:00.00] [Mi-]Mi Dios ha vencido, salió por amor.
 {end_of_verse}
 {start_of_chorus}

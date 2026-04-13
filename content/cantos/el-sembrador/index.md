@@ -76,7 +76,7 @@ resources:
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] !QUE OIGA!
+[00:00.00] ¡¿QUE OIGA!
 {end_of_chorus}
 
 {start_of_chorus}
@@ -88,7 +88,7 @@ resources:
 {column_break}
 
 {start_of_verse}
-[00:00.00] [Sol-]Que seas la [La]tierra,
+[00:00.00] [Sol-]¿Que seas la [La]tierra,
 {end_of_verse}
 
 {start_of_chorus}
@@ -100,6 +100,6 @@ resources:
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] DONDE JESUS [La7]PUEDA [Re-]CRECER.
+[00:00.00] ¿DONDE JESÚS [La7]PUEDA [Re-]CRECER.
 {end_of_chorus}
 ```

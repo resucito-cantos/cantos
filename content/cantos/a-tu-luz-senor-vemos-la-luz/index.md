@@ -89,7 +89,7 @@ resources:
 {end_of_chorus}
 
 {start_of_verse}
-[00:00.00] [Mi-]Que no me pisotee el pie del so[La-]berbio,
+[00:00.00] [Mi-]¿Que no me pisotee el pie del so[La-]berbio,
 [00:00.00] [Mi-]que no me eche fuera la mano del malvado.
 [00:00.00] [La-]Han fracasado los malhechores;
 [00:00.00] [Mi-]derribados, no se pueden levantar.

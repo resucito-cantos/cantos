@@ -10,7 +10,7 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [La]Cristo Jesus [Mi]ha resucitado.[La]
+[00:00.00] [La]Cristo Jesús [Mi]ha resucitado.[La]
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] ALELUYA, ALE[Mi]LUYA, ALE[La]LUYA.
@@ -26,7 +26,7 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [La]Cristo Jesus [Mi]ha resucitado.[La]
+[00:00.00] [La]Cristo Jesús [Mi]ha resucitado.[La]
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] ALELUYA, ALE[Mi]LUYA, ALE[La]LUYA.
@@ -42,7 +42,7 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [La]Cristo Jesus [Mi]ha resucitado.[La]
+[00:00.00] [La]Cristo Jesús [Mi]ha resucitado.[La]
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] ALELUYA, ALE[Mi]LUYA, ALE[La]LUYA.

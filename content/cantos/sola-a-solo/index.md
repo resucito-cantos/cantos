@@ -28,7 +28,7 @@ resources:
 [00:00.00] [Re-]SOLA A [Do*]SOLO!
 [00:00.00] [Fa]MADRE LLENA DE DIOS!
 [00:00.00] [La]RUEGA POR NOSOTROS
-[00:00.00] [Sib]QUE SOMOS [La]PECADORES.
+[00:00.00] [Sib]¿QUE SOMOS [La]PECADORES.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Re-add9]Sola a Solo bajo la [Sol-]cruz, [La]

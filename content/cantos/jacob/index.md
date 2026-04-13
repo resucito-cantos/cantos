@@ -38,7 +38,7 @@ resources:
 [00:00.00] [Sol]«Suéltame, que ya viene la [La-]aurora».
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Sol]«SUÉLTAME, QUE YA VIENE LA [La-]AURORA».
+[00:00.00] [Sol]«SUÉLTAME, ¿QUE YA VIENE LA [La-]AURORA».
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Sol]«Suéltame, que ya viene la [La-]aurora».

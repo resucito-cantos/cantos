@@ -13,13 +13,13 @@ resources:
 [00:00.00] [Mi]Del Señor es la tierra,
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Sol]DEL SENOR ES LA TIERRA,
+[00:00.00] [Sol]DEL SEÑOR ES LA TIERRA,
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Sol]y todo aquello que contiene,
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] Y TODO AQUELLO QUE CONTIENE,
+[00:00.00] Y TODO AQUELLO ¿QUE CONTIENE,
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [La]el orbe y sus [Si7]habitantes.
@@ -42,16 +42,16 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [Mi-]Quien es ese [La-]Rey de la gloria?[Mi-]
+[00:00.00] [Mi-]¿Quien es ese [La-]Rey de la gloria?[Mi-]
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]QUIEN ES ESE [Mi-]REY DE LA GLORIA?
+[00:00.00] [La-]¿QUIEN ES ESE [Mi-]REY DE LA GLORIA?
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Si-]El Señor, el fuerte, el valiente,
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] EL SENOR, EL FUERTE, EL VALIENTE,
+[00:00.00] EL SEÑOR, EL FUERTE, EL VALIENTE,
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Sol]el Señor valiente en la [La]batalla,
@@ -71,10 +71,10 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [Mi-]Quien subira al [La-]monte del [Mi-]Señor?
+[00:00.00] [Mi-]¿Quien subira al [La-]monte del [Mi-]Señor?
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]QUIEN SUBIRA AL MONTE DEL [Mi-]SENOR?
+[00:00.00] [La-]¿QUIEN SUBIRÁ AL MONTE DEL [Mi-]SEÑOR?
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Si-]El de manos inocentes y puro corazon,
@@ -83,7 +83,7 @@ resources:
 [00:00.00] EL DE MANOS INOCENTES
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] Y PURO CORAZON,
+[00:00.00] Y PURO CORAZÓN,
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Sol]el que no conduce su vida por [La]vanidad,
@@ -102,7 +102,7 @@ resources:
 [00:00.00] [Mi-]que hoy viene a tu [Si-]presencia,
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Mi-]QUE HOY VIENE A TU [Si-]PRESENCIA;
+[00:00.00] [Mi-]¿QUE HOY VIENE A TU [Si-]PRESENCIA;
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Sol]que busca tu rostro, oh Dios de [La]Jacob,
@@ -115,7 +115,7 @@ resources:
 [00:00.00] [Mi-]El Señor de los [Si-]ejercitos.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Mi-]EL SENOR DE LOS [Si-]EJERCITOS.
+[00:00.00] [Mi-]EL SEÑOR DE LOS [Si-]EJERCITOS.
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [Mi]ALZAOS PUERTAS ...

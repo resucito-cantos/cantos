@@ -11,9 +11,9 @@ resources:
 ```chordpro
 {start_of_chorus}
 [00:00.00] [La-]SANTO, SANTO, SANTO
-[00:00.00] [Sol]ES EL [La-]SENOR.
+[00:00.00] [Sol]ES EL [La-]SEÑOR.
 [00:00.00] SANTO, SANTO, SANTO
-[00:00.00] [Sol]ES EL [La-]SENOR,
+[00:00.00] [Sol]ES EL [La-]SEÑOR,
 [00:00.00] [Sol]DIOS DEL [La-]UNIVERSO.
 {end_of_chorus}
 {column_break}

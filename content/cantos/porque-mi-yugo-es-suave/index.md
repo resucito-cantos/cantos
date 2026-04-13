@@ -23,10 +23,10 @@ resources:
 [00:00.00] [Fa]y encontraréis reposo para [Mi]vuestras almas.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Do]PORQUE MI YUGO ES [Mi]SUAVE,
-[00:00.00] [Fa]PORQUE MI YUGO ES SUAVE
+[00:00.00] [Do]POR¿QUE MI YUGO ES [Mi]SUAVE,
+[00:00.00] [Fa]POR¿QUE MI YUGO ES SUAVE
 [00:00.00] [Mi]Y MI CARGA LIGERA,
-[00:00.00] [Fa]PORQUE MI YUGO ES SUAVE
+[00:00.00] [Fa]POR¿QUE MI YUGO ES SUAVE
 [00:00.00] [Mi]Y MI CARGA LIGERA. {comment: BIS Asamblea}
 {end_of_verse}
 {start_of_verse}
@@ -34,6 +34,6 @@ resources:
 [00:00.00] [Fa]y encontraréis reposo para [Mi]vuestras almas.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Do]PORQUE MI YUGO ES [Mi]SUAVE ...
+[00:00.00] [Do]POR¿QUE MI YUGO ES [Mi]SUAVE ...
 {end_of_chorus}
 ```

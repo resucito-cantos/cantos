@@ -18,7 +18,7 @@ resources:
 {start_of_verse: "S."}
 [00:00.00] [Re]Misericordia, Dios mio, [Fa#m]misericordia,
 [00:00.00] [Sol]que mi alma se refugia en ti;
-[00:00.00] [Mim]me refugio a la sombra de tus alas
+[00:00.00] [Mi-]me refugio a la sombra de tus alas
 [00:00.00] [La7]hasta que pase el [Re]peligro.
 {end_of_verse}
 {start_of_chorus}
@@ -28,7 +28,7 @@ resources:
 {start_of_verse: "S."}
 [00:00.00] [Re]Invoco a Dios, al Dios [Fa#m]Altisimo,
 [00:00.00] [Sol]a Dios que ha hecho tanto por mi.
-[00:00.00] [Mim]Desde el cielo me envia la salvacion,
+[00:00.00] [Mi-]Desde el cielo me envia la salvacion,
 [00:00.00] [La7]confunde a los que ansian [Re]matarme.
 {end_of_verse}
 {start_of_chorus}
@@ -38,7 +38,7 @@ resources:
 {start_of_verse: "S."}
 [00:00.00] [Re]Misericordia, Dios mio, [Fa#m]misericordia,
 [00:00.00] [Sol]que estoy echado entre leones,
-[00:00.00] [Mim]leones devoradores de hombres;
+[00:00.00] [Mi-]leones devoradores de hombres;
 [00:00.00] [La7]sus dientes son lanzas y [Re]flechas.
 {end_of_verse}
 {start_of_chorus}

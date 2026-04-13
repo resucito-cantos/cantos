@@ -10,8 +10,8 @@ resources:
 ---
 ```chordpro
 {start_of_chorus}
-[00:00.00] [Mi-]QUIEN ES ESE QUE VIENE DE EDOM,
-[00:00.00] [La-]QUIEN ES ESE TODO [Mi-]MANCHADO DE ROJO?
+[00:00.00] [Mi-]¿QUIEN ES ESE ¿QUE VIENE DE EDOM,
+[00:00.00] [La-]¿QUIEN ES ESE TODO [Mi-]MANCHADO DE ROJO?
 [00:00.00] [Si7]ESE DEL VESTIDO ESPLENDOROSO
 [00:00.00] [Mi-]Y DE ANDAR TAN ESFORZADO?
 {end_of_chorus}
@@ -23,8 +23,8 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Mi-]Y POR QUE,
-[00:00.00] POR QUE ESTA DE ROJO TU VESTIDO,
-[00:00.00] [La-]POR QUE PARECES UN [Mi-]LAGARERO?
+[00:00.00] POR ¿QUE ESTA DE ROJO TU VESTIDO,
+[00:00.00] [La-]POR ¿QUE PARECES UN [Mi-]LAGARERO?
 [00:00.00] [Si7]POR QUE? [Mi-]POR QUE?
 {end_of_chorus}
 {start_of_verse}
@@ -37,7 +37,7 @@ resources:
 {start_of_chorus}
 [00:00.00] [La-]POR ESO, LA FUERZA MIA,
 [00:00.00] [Mi-]FUERZA MIA ME SOSTUVO.
-[00:00.00] [Si7]EL DIA DE LA VENGANZA ERA LLEGADO!
+[00:00.00] [Si7]EL DÍA DE LA VENGANZA ERA LLEGADO!
 [00:00.00] [Mi-]PISOTEE LOS PUEBLOS EN MI IRA,
 [00:00.00] [La-]LOS PISE, LOS PISE [Mi-]CON FURIA
 [00:00.00] E HICE CORRER
@@ -46,6 +46,6 @@ resources:
 [00:00.00] [Mi-]HE MANCHADO.
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [Mi-]QUIEN ES ESE QUE VIENE DE EDOM ...
+[00:00.00] [Mi-]¿QUIEN ES ESE ¿QUE VIENE DE EDOM ...
 {end_of_chorus}
 ```

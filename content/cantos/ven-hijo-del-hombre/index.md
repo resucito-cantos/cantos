@@ -20,7 +20,7 @@ resources:
 {start_of_chorus: A.}
 [00:00.00] SIERVO DE LOS POBRES;
 [00:00.00] [Si7]ven, VEN,
-[00:00.00] ¡Señor Jesús! [Mi-]¡SENOR JESUS!
+[00:00.00] ¡Señor Jesús! [Mi-]¡SEÑOR JESÚS!
 {end_of_chorus}
 {start_of_verse: S.}
 [00:00.00] [Do]El Espíritu dice: [Mi-]¡Ven!
@@ -33,13 +33,13 @@ resources:
 [00:00.00] [Mi-]Ven, VEN,
 [00:00.00] [La-]amor mío, AMOR MIO;
 [00:00.00] [Si7]ven, VEN,
-[00:00.00] ¡Señor Jesús! [Mi-]¡SENOR JESUS!
+[00:00.00] ¡Señor Jesús! [Mi-]¡SEÑOR JESÚS!
 {end_of_verse}
 {start_of_verse: S. A.}
 [00:00.00] [Mi-]Calma, CALMA,
 [00:00.00] [La-]tú este fuego, TU ESTE FUEGO;
 [00:00.00] [Si7]ven, VEN,
-[00:00.00] ¡Señor Jesús! [Mi-]¡SENOR JESUS!
+[00:00.00] ¡Señor Jesús! [Mi-]¡SEÑOR JESÚS!
 {end_of_verse}
 {column_break}
 {start_of_verse: S.}
@@ -56,8 +56,8 @@ resources:
 [00:00.00] Signore Gesù! [Mi-]SIGNORE GESU!
 {end_of_verse}
 {start_of_verse}
-[00:00.00] Viens, Fils de l'homme, viens, Seigneur Jesus.
-[00:00.00] Come, Son of the Man, come, Lord Jesus.
+[00:00.00] Viens, Fils de l'homme, viens, Seigneur Jesús.
+[00:00.00] Come, Son of the Man, come, Lord Jesús.
 {end_of_verse}
 {start_of_verse: S. A.}
 [00:00.00] [Mi-]Ven, VEN,
@@ -66,8 +66,8 @@ resources:
 {end_of_verse}
 {start_of_verse: S. A.}
 [00:00.00] [Si7]¡Ven! ¡VEN! ¡Ven! ¡VEN! ¡Ven! ¡VEN! ... {melisma}
-[00:00.00] [Si7]¡Señor! ¡SENOR! Señor! SIGNORE! ... {melisma}
+[00:00.00] [Si7]¡Señor! ¡SEÑOR! Señor! SIGNORE! ... {melisma}
 [00:00.00] [Si7]¡Ven! Vieni! Viens! Come! ¡Ven! {melisma} ¡VEN!
-[00:00.00] [Mi-]¡SENOR JESUS!
+[00:00.00] [Mi-]¡SEÑOR JESÚS!
 {end_of_verse}
 ```

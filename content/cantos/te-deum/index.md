@@ -84,7 +84,7 @@ resources:
 {start_of_verse}
 [00:00.00] Ten piedad de nosotros, Señor,
 [00:00.00]        ten piedad de nosotros.
-[00:00.00] Que tu misericordia venga sobre nosotros,
+[00:00.00] ¿Que tu misericordia venga sobre nosotros,
 [00:00.00]        como lo esperamos de ti.
 [00:00.00] En ti, Señor, confiamos,
 [00:00.00] que no quedemos confundidos eternamente.

@@ -32,11 +32,11 @@ resources:
 [00:00.00] dijo a Cristo: «¡He sido yo!».
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [La-]«QUE SOY UNA MUJER IMPURA,
+[00:00.00] [La-]«¿QUE SOY UNA MUJER IMPURA,
 [00:00.00] [Sol]
-[00:00.00] QUE SOY UNA MUJER IMPURA
+[00:00.00] ¿QUE SOY UNA MUJER IMPURA
 [00:00.00] [Fa] [Mi]
-[00:00.00] QUE SUFRO FLUJO DE SANGRE. BIS A.
+[00:00.00] ¿QUE SUFRO FLUJO DE SANGRE. BIS A.
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [La-]Mas al tocar tu vestido,
@@ -62,9 +62,9 @@ resources:
 [00:00.00] lo puedes tocar con la Fe.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [La-]Que El es el Hijo de Dios,
+[00:00.00] [La-]¿Que El es el Hijo de Dios,
 [00:00.00] [Sol]
-[00:00.00] que El es el Hijo de Dios
+[00:00.00] que Él es el Hijo de Dios
 [00:00.00] [Fa]
 [00:00.00] que ha venido para curarte,
 [00:00.00] [Mi]

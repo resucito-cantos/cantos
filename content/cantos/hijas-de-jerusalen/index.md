@@ -1,5 +1,5 @@
 ---
-title: "Hijas de Jerusalen"
+title: "Hijas de Jerusalén"
 subtitle: "Lc 23, 28-46"
 category: "Precatecumenado"
 tags:
@@ -13,7 +13,7 @@ tags:
 [00:00.00] [La-]NO LLORÉIS POR MÍ.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [La-]Que si esto [Fa]hacen con el leño verde,
+[00:00.00] [La-]¿Que si esto [Fa]hacen con el leño verde,
 [00:00.00] [Sol]con el seco, ¿qué se [La-]hará?,
 [00:00.00] [Fa]con el seco, ¿qué se [Mi]hará?
 [00:00.00] [La-]¡Aaaay!

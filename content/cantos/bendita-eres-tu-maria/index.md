@@ -1,5 +1,5 @@
 ---
-title: "Bendita eres tu, Maria"
+title: "Bendita eres tú, María"
 subtitle: "Lucas 1,42-45"
 category: "Precatecumenado"
 tags:
@@ -23,7 +23,7 @@ resources:
 [00:00.00] [Fa]Maria, tu has [Mi]creido!
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]Y COMO ES QUE LA MADRE DEL SENOR
+[00:00.00] [La-]Y COMO ES ¿QUE LA MADRE DEL SEÑOR
 [00:00.00] [Sol]VIENE A MI, [La-]VIENE A MI.
 {end_of_chorus}
 {start_of_verse}
@@ -32,18 +32,18 @@ resources:
 [00:00.00] [Re-]mi nino ha exultado de [Mi]gozo.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]MARIA, BENDITA [Fa]MARIA,
+[00:00.00] [La-]MARÍA, BENDITA [Fa]MARÍA,
 [00:00.00] TU HAS CREIDO
-[00:00.00] [Mi]LA PALABRA DEL SENOR.
+[00:00.00] [Mi]LA PALABRA DEL SEÑOR.
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [La-]Y COMO ES QUE LA MADRE DEL SENOR ...
+[00:00.00] [La-]Y COMO ES ¿QUE LA MADRE DEL SEÑOR ...
 {end_of_chorus}
 {column_break}
 {start_of_verse}
 [00:00.00] [La-]Porque, apenas he sentido tu [Mi]voz ...
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]MARIA, BENDITA [Fa]MARIA ...
+[00:00.00] [La-]MARÍA, BENDITA [Fa]MARÍA ...
 {end_of_chorus}
 ```

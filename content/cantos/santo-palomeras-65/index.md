@@ -34,8 +34,8 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-]HOSANNA EN LAS ALTURAS,
-[00:00.00] [Mi]BENDITO ES EL QUE VIENE,
-[00:00.00] BENDITO ES EL QUE VIENE
+[00:00.00] [Mi]BENDITO ES EL ¿QUE VIENE,
+[00:00.00] BENDITO ES EL ¿QUE VIENE
 [00:00.00] [La]EN NOMBRE DEL SEÑOR.
 {end_of_chorus}
 {start_of_chorus}

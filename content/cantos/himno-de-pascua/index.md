@@ -19,7 +19,7 @@ resources:
 {start_of_chorus}
 [00:00.00] [La7]MIENTRAS EL [Re-]REY, CRISTO,
 [00:00.00] [La-]LIBRA A TODOS DE LA CÁRCEL
-[00:00.00] [Mi7]TENEBROSA QUE ES LA MUERTE
+[00:00.00] [Mi7]TENEBROSA ¿QUE ES LA MUERTE
 [00:00.00] [La-]Y NOS CONDUCE A LA VIDA.
 {end_of_chorus: BIS}
 {start_of_verse}

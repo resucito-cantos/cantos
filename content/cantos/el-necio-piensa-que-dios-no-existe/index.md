@@ -1,5 +1,5 @@
 ---
-title: "El Necio Piensa Que Dios No Existe"
+title: "El Necio Piensa ¿Que Dios No Existe"
 subtitle: "Salmo 14 (13)"
 category: "Precatecumenado"
 tags: 
@@ -10,11 +10,11 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [Re-]EL NECIO PIENSA QUE DIOS [La]NO EXISTE.
+[00:00.00] [Re-]EL NECIO PIENSA ¿QUE DIOS [La]NO EXISTE.
 [00:00.00] SE HAN CORROMPIDO,
 [00:00.00] [Re-]Y HACEN COSAS ABOMINABLES.
-[00:00.00] [Sol-]NO HAY QUIEN OBRE EL [La]BIEN,
-[00:00.00] [Sib]NO HAY QUIEN OBRE EL [La]BIEN.
+[00:00.00] [Sol-]NO HAY ¿QUIEN OBRE EL [La]BIEN,
+[00:00.00] [Sib]NO HAY ¿QUIEN OBRE EL [La]BIEN.
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [Re-]El Señor desde el cielo
@@ -46,8 +46,8 @@ resources:
 [00:00.00] [Sib]el Señor es su [La]refugio.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Re-]PORQUE DIOS ESTA [Do]CON EL [La]JUSTO:
-[00:00.00] [Sib]EL SENOR ES SU [La]REFUGIO.
+[00:00.00] [Re-]POR¿QUE DIOS ESTA [Do]CON EL [La]JUSTO:
+[00:00.00] [Sib]EL SEÑOR ES SU [La]REFUGIO.
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [Re-]EL NECIO PIENSA ...

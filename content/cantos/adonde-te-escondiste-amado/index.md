@@ -11,7 +11,7 @@ tags:
 [00:00.00] [Mi]
 [00:00.00] ¿Adonde te escondiste, amado,
 [00:00.00] y me dejaste con gemido?
-[00:00.00] Como el ciervo huiste,
+[00:00.00] ¿Como el ciervo huiste,
 [00:00.00] habiendome herido;
 [00:00.00] [La-]sali tras ti, [Fa]clamando, y eras [Mi]ido. [Famaj713]  [Mi]
 {end_of_verse}

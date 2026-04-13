@@ -10,30 +10,30 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [Re]AMO AL SENOR,
-[00:00.00] [Fa#-]PORQUE ESCUCHA MI VOZ [Sol]SUPLICANTE;
-[00:00.00] [Mi-6]INCLINA HACIA MI [La7]SU OIDO
-[00:00.00] [Re]EL DIA EN QUE LO INVOCO.
+[00:00.00] [Re]AMO AL SEÑOR,
+[00:00.00] [Fa#-]POR¿QUE ESCUCHA MI VOZ [Sol]SUPLICANTE;
+[00:00.00] [Mi-6]INCLINA HACIA MI [La7]SU OÍDO
+[00:00.00] [Re]EL DÍA EN ¿QUE LO INVOCO.
 {end_of_verse}
 {column_break}
 {start_of_verse}
-[00:00.00] [Re]Me envolvian redes de muerte,
+[00:00.00] [Re]Me envolvían redes de muerte,
 [00:00.00] me alcanzaron los lazos del [Fa#-]infierno;
 [00:00.00] [Sol]me rodeaban tristeza y [Mi-6]angustia,
 [00:00.00] [La7]invoque el nombre del Señor:
-[00:00.00] [Re]"Te ruego, Señor, salvame!".
+[00:00.00] [Re]"Te ruego, Señor, sálvame!".
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Re]RECOBRA ALMA MIA TU [Fa#-]REPOSO,
-[00:00.00] [Sol]PORQUE EL SENOR FUE [Mi-6]BUENO [La7]CONTIGO.
+[00:00.00] [Sol]POR¿QUE EL SEÑOR FUE [Mi-6]BUENO [La7]CONTIGO.
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [Sol]EL TE HA SALVADO [Re]DE LA MUERTE,
-[00:00.00] [La7]HA PRESERVADO TUS PIES [Re]DE LA CAIDA.
+[00:00.00] [La7]HA PRESERVADO TUS PIES [Re]DE LA CAÍDA.
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [Sol]EL TE HA SALVADO [Re]DE LA MUERTE,
-[00:00.00] [La7]HA PRESERVADO TUS PIES [Re]DE LA CAIDA.
+[00:00.00] [La7]HA PRESERVADO TUS PIES [Re]DE LA CAÍDA.
 {end_of_chorus}
 {column_break}
 {start_of_verse}
@@ -43,10 +43,10 @@ resources:
 [00:00.00] [Mi-6]"todo hombre es [La7]falso".
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Re]Como pagare al Señor
+[00:00.00] [Re]¿Como pagaré al Señor
 [00:00.00] todo el bien que me ha [Fa#-]hecho?
 [00:00.00] [Sol]Alzare la copa de la [Mi-6]bendicion,
-[00:00.00] [La7]e invocare el nombre del Señor.
+[00:00.00] [La7]e invocaré el nombre del Señor.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Re]RECOBRA ALMA MIA ...

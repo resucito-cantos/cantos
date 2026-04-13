@@ -13,7 +13,7 @@ resources:
 [00:00.00] [Re-]BENDECIRÉ AL SEÑOR EN TODO TIEMPO,
 [00:00.00] [Do]EN MI BOCA SIEMPRE [La7]SU ALABANZA;
 [00:00.00] [Sib7]YO ME GLORÍO EN [La7]EL SEÑOR,
-[00:00.00] [Sib7]!LO ESCUCHEN LOS HUMILDES
+[00:00.00] [Sib7]¡LO ESCUCHEN LOS HUMILDES
 [00:00.00] [La7]Y SE ALEGREN!
 {end_of_chorus}
 {start_of_verse}
@@ -26,7 +26,7 @@ resources:
 [00:00.00] [Re-]BENDECIRÉ AL SEÑOR ...
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Re-]Porque el angel del Señor acampa
+[00:00.00] [Re-]Porque el ángel del Señor acampa
 [00:00.00] [Do]en torno a aquellos que le temen
 [00:00.00] [La7]y les salva.
 {end_of_verse}
@@ -39,7 +39,7 @@ resources:
 [00:00.00] [Re-]GUSTAD Y VED
 [00:00.00] [Do]QUÉ BUENO ES [La7]EL SEÑOR,
 [00:00.00] [Sib7]DICHOSO EL HOMBRE
-[00:00.00] [La7]QUE SE REFUGIA EN ÉL.
+[00:00.00] [La7]¿QUE SE REFUGIA EN ÉL.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Re-]Porque muchas son las pruebas

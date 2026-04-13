@@ -73,7 +73,7 @@ resources:
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Do#-] [Sol#] [La] [Sol#]
-[00:00.00] Escucha, hija y mira, inclina el oido,
+[00:00.00] Escucha, hija y mira, inclina el oído,
 [00:00.00] [Fa#-] [Sol#]
 [00:00.00] olvida tu pueblo y la casa de tu padre,
 [00:00.00] [Si] [La] [Sol#]

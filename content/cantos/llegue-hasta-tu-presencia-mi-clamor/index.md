@@ -31,7 +31,7 @@ resources:
 {start_of_chorus}
 [00:00.00] [La-]VEN, EN BUSCA DE TU [Sol]SIERVO,
 [00:00.00] [Fa]VEN, SEÑOR [Mi]JESÚS.
-[00:00.00] [La-]VEN, QUE YO SIN TI ME [Sol]PIERDO,
+[00:00.00] [La-]VEN, ¿QUE YO SIN TI ME [Sol]PIERDO,
 [00:00.00] [Fa]VEN, SEÑOR [Mi]JESÚS.
 {end_of_chorus}
 

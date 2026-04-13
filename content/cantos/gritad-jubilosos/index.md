@@ -9,7 +9,7 @@ tags:
 ```chordpro
 {start_of_chorus}
 [00:00.00] [La-]GRITAD JUBILOSOS:
-[00:00.00] [Sol]«QUE GRANDE ES EN MEDIO DE TI
+[00:00.00] [Sol]«¿QUE GRANDE ES EN MEDIO DE TI
 [00:00.00] [Fa]EL SANTO DE [Mi]ISRAEL».  BIS
 {end_of_chorus}
 {start_of_verse}

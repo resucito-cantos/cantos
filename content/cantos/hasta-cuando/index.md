@@ -16,7 +16,7 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Mi]CANTARE A [La-]YAHVEH,
-[00:00.00] [Mi]CANTARE AL QUE ES MI [La-]REDENTOR.
+[00:00.00] [Mi]CANTARE AL ¿QUE ES MI [La-]REDENTOR.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [La-]¡Mírame, respóndeme,
@@ -29,7 +29,7 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [La-]¡Que no puedan
+[00:00.00] [La-]¡¿Que no puedan
 [00:00.00] [Mi]decir mis enemigos: «¡Le vencí!»,
 [00:00.00] [Mi7]mis enemigos
 [00:00.00] [La-]se alegrarán si yo cayera!

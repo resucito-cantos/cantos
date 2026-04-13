@@ -40,7 +40,7 @@ resources:
 [00:00.00] [Sol-]en nombre [Re-]del Señor.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Re-]BENDITO [Sol-]EL QUE [Re-]VIENE,
+[00:00.00] [Re-]BENDITO [Sol-]EL ¿QUE [Re-]VIENE,
 [00:00.00] [Sol-]EN NOMBRE [Re-]DEL SEÑOR.
 {end_of_chorus}
 {start_of_verse}

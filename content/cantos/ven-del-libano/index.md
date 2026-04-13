@@ -21,8 +21,8 @@ resources:
 [00:00.00] [Do]ven del [Re]Libano, [Mi-]ven.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] BUSQUE EL AMOR DEL [Sol]ALMA [La]MIA,
-[00:00.00] LO BUSQUE [La-]SIN ENCON[Mi-]TRARLO.
+[00:00.00] BUS¿QUE EL AMOR DEL [Sol]ALMA [La]MIA,
+[00:00.00] LO BUS¿QUE [La-]SIN ENCON[Mi-]TRARLO.
 [00:00.00] ENCONTRE EL AMOR [Sol]DE MI [La]VIDA,
 [00:00.00] LO HE ABRAZADO [Do]Y NO LO [Re]DEJARE [Mi-]JAMAS.
 {end_of_chorus}
@@ -35,7 +35,7 @@ resources:
 [00:00.00] Yo pertenezco a mi amado [Do]y el es [Re]todo para [Mi-]mi.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] BUSQUE EL AMOR DEL [Sol]ALMA [La]MIA ...
+[00:00.00] BUS¿QUE EL AMOR DEL [Sol]ALMA [La]MIA ...
 {end_of_chorus}
 {column_break}
 {start_of_verse: S.}
@@ -49,20 +49,20 @@ resources:
 [00:00.00] [Do]ven, [Re]paloma, [Mi-]ven.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] BUSQUE EL AMOR DEL [Sol]ALMA [La]MIA ...
+[00:00.00] BUS¿QUE EL AMOR DEL [Sol]ALMA [La]MIA ...
 {end_of_chorus}
 {start_of_verse: S.}
-[00:00.00] Como un sello en el [Mi-]corazón,
+[00:00.00] ¿Como un sello en el [Mi-]corazón,
 [00:00.00] [Do]como [Re]tatuaje en el [Mi-]brazo.
 [00:00.00] El amor es fuerte como la muerte,
 [00:00.00] [Do]las aguas [Re]no lo apa[Mi-]garán.
 [00:00.00] Dar por este amor
 [00:00.00] todos los bienes [Re]de la casa
 [00:00.00] [Do]sería [Re]despre[Mi-]ciarlo.
-[00:00.00] Como un sello en el corazón,
+[00:00.00] ¿Como un sello en el corazón,
 [00:00.00] [Do]como [Re]tatuaje en el [Mi-]brazo.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] BUSQUE EL AMOR DEL [Sol]ALMA [La]MIA ...
+[00:00.00] BUS¿QUE EL AMOR DEL [Sol]ALMA [La]MIA ...
 {end_of_chorus}
 ```

@@ -27,7 +27,7 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-]CORDERO DE DIOS,
-[00:00.00] [Sol]QUE QUITAS EL PECADO DEL [La-]MUNDO:
+[00:00.00] [Sol]¿QUE QUITAS EL PECADO DEL [La-]MUNDO:
 [00:00.00] [Fa]TEN PIEDAD DE [Mi]NOSOTROS.
 {end_of_chorus}
 {start_of_chorus}
@@ -38,7 +38,7 @@ resources:
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [La-]CORDERO DE DIOS,
-[00:00.00] [Sol]QUE QUITAS EL PECADO DEL [La-]MUNDO:
+[00:00.00] [Sol]¿QUE QUITAS EL PECADO DEL [La-]MUNDO:
 [00:00.00] [Fa]DANOS LA [Mi]PAZ,
 [00:00.00] [Fa]DANOS LA [Mi]PAZ.
 {end_of_chorus}

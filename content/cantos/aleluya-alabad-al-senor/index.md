@@ -58,10 +58,10 @@ resources:
 [00:00.00] [Re]alabadlo con [La]platillos vibrantes.[Mi]
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La]TODO SER [Re]ALABE AL [La]SENOR, [Mi]
+[00:00.00] [La]TODO SER [Re]ALABE AL [La]SEÑOR, [Mi]
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [La]ALABE, [Re]ALABE AL SENOR![Mi]
+[00:00.00] [La]ALABE, [Re]ALABE AL SEÑOR![Mi]
 {end_of_chorus}
 {column_break}
 {start_of_chorus}

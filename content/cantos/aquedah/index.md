@@ -1,6 +1,6 @@
 ---
 title: "Aquedah"
-subtitle: "Del Targum Neofiti sobre el sacrificio de Isaac (Genesis 22,1-19)"
+subtitle: "Del Targum Neofiti sobre el sacrificio de Isaac (Génesis 22,1-19)"
 category: "Precatecumenado"
 tags:
 - Pascua
@@ -11,8 +11,8 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [La-]Era todavia de noche cuando [Re-9]Abraham
-[00:00.00] [La-]se disponia a sacrificar a su hijo;
+[00:00.00] [La-]Era todavía de noche cuando [Re-9]Abraham
+[00:00.00] [La-]se disponía a sacrificar a su hijo;
 [00:00.00] [Re-9]los dos se miraban fijamente
 [00:00.00] [Mi]cuando le dijo su hijo Isaac:
 {end_of_verse}
@@ -24,7 +24,7 @@ resources:
 {start_of_verse}
 [00:00.00] [La-]"Atame, atame fuerte, [Re-9]padre mio,
 [00:00.00] [La-]no sea que por el miedo me resista
-[00:00.00] [Re-9]y no sea valido tu sacrificio
+[00:00.00] [Re-9]y no sea válido tu sacrificio
 [00:00.00] [Mi]y los dos seamos rechazados".
 {end_of_verse}
 {start_of_chorus}
@@ -33,7 +33,7 @@ resources:
 {start_of_chorus}
 [00:00.00] [La-]"ATAME, ATAME [Re-9]FUERTE,
 [00:00.00] PADRE MIO,
-[00:00.00] [La-]QUE YO NO ME RESISTA".
+[00:00.00] [La-]¿QUE YO NO ME RESISTA".
 {end_of_chorus}
 {column_break}
 {start_of_verse}

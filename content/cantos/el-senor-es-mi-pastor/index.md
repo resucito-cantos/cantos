@@ -80,7 +80,7 @@ resources:
 {end_of_chorus}
 
 {start_of_chorus}
-[00:00.00] [Sol]SI, TU AMOR Y TU [Fa]ALEGRIA ...
+[00:00.00] [Sol]SI, TU AMOR Y TU [Fa]ALEGRÍA ...
 {end_of_chorus}
 
 {start_of_chorus}

@@ -13,12 +13,12 @@ resources:
 [00:00.00] [Mi-]OH SEÑOR, MI CORAZÓN [La-]YA NO ES [Mi-]AMBICIOSO
 [00:00.00] [La-]NI SE ELEVA CON SOBERBIA MI [Si7]MIRADA,
 [00:00.00] NI VOY EN BUSCA DE COSAS GRANDES
-[00:00.00] [Mi-]QUE SON SUPERIORES A MIS FUERZAS.
+[00:00.00] [Mi-]¿QUE SON SUPERIORES A MIS FUERZAS.
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [Mi-]Sino que aquietada y acallada está mi [La-]alma
 [00:00.00] [Mi-]como un niño pequeño en brazos de su madre.
-[00:00.00] [Si7]¡Como un niño amamantado está mi espíritu,
+[00:00.00] [Si7]¡¿Como un niño amamantado está mi espíritu,
 [00:00.00] [Mi-]como un niño, dentro de mí!
 {end_of_verse}
 {start_of_chorus}

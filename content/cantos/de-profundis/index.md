@@ -11,7 +11,7 @@ resources:
 ```chordpro
 {start_of_verse}
 [00:00.00] [La-]DE LO PROFUNDO A TI [Fa]GRITO, SE[Mi]NOR:[La-]
-[00:00.00] [Fa]SENOR ESCUCHA MI [Mi]VOZ!
+[00:00.00] [Fa]SEÑOR ESCUCHA MI [Mi]VOZ!
 [00:00.00] [La-]ESTEN TUS [Fa]OIDOS A[Mi]TEN[La-]TOS
 [00:00.00] [Fa]A LA VOZ [Mi]DE MI SUPLICA!
 {end_of_verse}
@@ -29,14 +29,14 @@ resources:
 [00:00.00] Israel espera al Señor mas [Fa]que el centinela espera a la [Mi]aurora.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Fa]PORQUE SOLO EN EL SENOR ESTA EL A[Mi]MOR,
+[00:00.00] [Fa]POR¿QUE SOLO EN EL SEÑOR ESTA EL A[Mi]MOR,
 [00:00.00] [Fa]SOLO EN EL SE EN[La-]CUENTRA EL PERDON.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [La-]El Señor redime a [Mi]Israel de todos sus [La-]pecados.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Mi]EL SENOR REDIME A ISRAEL DE TODOS SUS [La-]PECADOS.
+[00:00.00] [Mi]EL SEÑOR REDIME A ISRAEL DE TODOS SUS [La-]PECADOS.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [La-]Ay! [melisma]

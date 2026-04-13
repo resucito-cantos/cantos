@@ -21,35 +21,35 @@ resources:
 [00:00.00] [Mi-]NOS SENTAMOS A LLORAR.
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [La-]«!CANTADNOS!» NOS DECIAN
+[00:00.00] [La-]«¡CANTADNOS!» NOS DECÍAN
 [00:00.00] [Mi-]NUESTROS OPRESORES.
-[00:00.00] [La-]«!CANTADNOS!» NOS DECIAN
+[00:00.00] [La-]«¡CANTADNOS!» NOS DECÍAN
 [00:00.00] NUESTROS ENEMIGOS.
-[00:00.00] [Si7]ELLOS QUERIAN QUE NOSOTROS
+[00:00.00] [Si7]ELLOS QUERIAN ¿QUE NOSOTROS
 [00:00.00] [Mi-]LOS DIVIRTIERAMOS.
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [Re]Como cantar un cantico del Senor
-[00:00.00] [Mi-]en tierra extrana?
-[00:00.00] [Si7]!Si de ti me olvidare,
+[00:00.00] [Re]¿Como cantar un cántico del Senor
+[00:00.00] [Mi-]en tierra extraña?
+[00:00.00] [Si7]¡Si de ti me olvidare,
 [00:00.00] [Mi-]que se me seque la mano derecha!
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Mi-]!Que se me [La-]pegue la lengua [Mi-]al paladar,
-[00:00.00] [Si7]si de ti yo me olvidare Jerusalen
-[00:00.00] [Mi-]en la cumbre de mi alegria!
+[00:00.00] [Mi-]¡¿Que se me [La-]pegue la lengua [Mi-]al paladar,
+[00:00.00] [Si7]si de ti yo me olvidare Jerusalén
+[00:00.00] [Mi-]en la cumbre de mi alegría!
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Mi-]SENOR, [La-]TOMA CUENTAS
+[00:00.00] [Mi-]SEÑOR, [La-]TOMA CUENTAS
 [00:00.00] [Mi-]A NUESTROS ENEMIGOS.
-[00:00.00] [La-]SENOR, TOMA CUENTAS
+[00:00.00] [La-]SEÑOR, TOMA CUENTAS
 [00:00.00] [Mi-]A NUESTROS OPRESORES.
-[00:00.00] [Si7]CUANDO ELLOS SE DECIAN:
-[00:00.00] [Mi-]!ARRASADLA HASTA EL CIMIENTO!
+[00:00.00] [Si7]CUANDO ELLOS SE DECÍAN:
+[00:00.00] [Mi-]¡ARRASADLA HASTA EL CIMIENTO!
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Re]!Capital de Babilona [Mi-]criminal,
+[00:00.00] [Re]¡Capital de Babilona [Mi-]criminal,
 [00:00.00] [Re]quien pudiera pagarte los males
 [00:00.00] [Mi-]que nos has hecho,
 [00:00.00] [Si7]quien pudiera estrellar
