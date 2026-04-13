@@ -10,6 +10,7 @@ const cantos = defineCollection({
 		subtitle: z.string().optional(),
 		category: z.string().optional(),
 		tags: z.array(z.string()).optional(),
+		content: z.string(),
 		resources: z
 			.array(
 				z.object({
@@ -48,5 +49,5 @@ const cantos = defineCollection({
 });
 
 export default defineConfig({
-	collections: [cantos],
+	content: [cantos],
 });
