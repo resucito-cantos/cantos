@@ -5,7 +5,7 @@ category: "Litúrgico"
 tags: []
 resources:
 - name: audio
-  src: bendición-del-agua.mp3
+  src: bendicion-del-agua.mp3
 ---
 ```chordpro
 {start_of_verse}

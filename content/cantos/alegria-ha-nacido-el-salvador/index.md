@@ -7,7 +7,7 @@ tags:
 - Niños
 resources:
 - name: audio
-  src: alegría-ha-nacido-el-salvador.mp3
+  src: alegria-ha-nacido-el-salvador.mp3
 ---
 ```chordpro
 {start_of_verse}
