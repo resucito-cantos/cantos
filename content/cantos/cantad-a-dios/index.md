@@ -1,6 +1,6 @@
 ---
 title: "Cantad a Dios"
-subtitle: "Salmo 67 (68) 4-7"
+subtitle: "Salmo 67 (68) 2.4-7"
 category: "Precatecumenado"
 tags:
 - Cuaresma
@@ -15,16 +15,16 @@ resources:
 [00:00.00] SALMODIAD PARA SU NOMBRE.
 [00:00.00] CANTAD A DIOS,
 [00:00.00] [Re-9]ALLANAD EL CAMINO
-[00:00.00] [Mi]AL ¿QUE CABALGA EN LAS NUBES.
+[00:00.00] [Mi]AL QUE CABALGA EN LAS NUBES.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Mi]Señor es su Nombre, [Re-9]alegraos ante El.
-[00:00.00] Padre de los huerfanos,
+[00:00.00] [Mi]Señor es su Nombre, [Re-9]alegraos ante Él.
+[00:00.00] Padre de los huérfanos,
 [00:00.00] [Mi]defensor de las viudas, es Dios.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Re-9]A los mas pobres hace habitar [Mi]en su casa,
-[00:00.00] [Re-9]a los cautivos El los [Mi]libra con amor.
+[00:00.00] [Re-9]A los más pobres hace habitar [Mi]en su casa,
+[00:00.00] [Re-9]a los cautivos Él los [Mi]libra con amor.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Mi]SE LEVANTA DIOS,

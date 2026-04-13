@@ -1,6 +1,6 @@
 ---
 title: "Cristo Es La Luz"
-subtitle: "TODO"
+subtitle: "Himno"
 category: "Precatecumenado"
 tags: []
 resources:
@@ -23,7 +23,7 @@ resources:
 {start_of_chorus}
 [00:00.00] CRISTO ES LA LUZ.
 [00:00.00] [Do]
-[00:00.00] EL ES LA SALVACION.
+[00:00.00] ÉL ES LA SALVACIÓN.
 {end_of_chorus}
 {column_break}
 {start_of_verse}
@@ -41,7 +41,7 @@ resources:
 {start_of_chorus}
 [00:00.00] CRISTO ES EL CAMINO.
 [00:00.00] [Do]
-[00:00.00] EL ES LA SALVACION.
+[00:00.00] ÉL ES LA SALVACIÓN.
 {end_of_chorus}
 {column_break}
 {start_of_verse}
@@ -59,7 +59,7 @@ resources:
 {start_of_chorus}
 [00:00.00] CRISTO ES LA VERDAD.
 [00:00.00] [Do]
-[00:00.00] EL ES LA SALVACION.
+[00:00.00] ÉL ES LA SALVACIÓN.
 {end_of_chorus}
 {column_break}
 {start_of_verse}
@@ -77,7 +77,7 @@ resources:
 {start_of_chorus}
 [00:00.00] CRISTO ES LA VIDA.
 [00:00.00] [Do]
-[00:00.00] EL ES LA SALVACION.
+[00:00.00] ÉL ES LA SALVACIÓN.
 {end_of_chorus}
 {column_break}
 {start_of_verse}
@@ -95,6 +95,6 @@ resources:
 {start_of_chorus}
 [00:00.00] CRISTO ES LA VIDA.
 [00:00.00] [Do]
-[00:00.00] EL ES LA SALVACION.
+[00:00.00] ÉL ES LA SALVACIÓN.
 {end_of_chorus}
 ```

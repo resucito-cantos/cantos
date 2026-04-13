@@ -1,5 +1,5 @@
 ---
-title: "Cuando El Señor"
+title: "Cuando el Señor"
 subtitle: "Salmo 126 (125)"
 category: "Precatecumenado"
 tags:
@@ -13,7 +13,7 @@ resources:
 {start_of_verse}
 [00:00.00] [Re]Cuando el Señor hizo [Mi-]volver
 [00:00.00] [Re] [Mi-] [Re]
-[00:00.00] a los cautivos de Sion, nos parecia sonar;
+[00:00.00] a los cautivos de Sión, nos parecía soñar;
 [00:00.00] [Mi-] [Re]
 [00:00.00] la boca se nos llenaba de risas,
 [00:00.00] [Mi-] [Re] [Re7]
@@ -21,7 +21,7 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Sol] [La] [Re]
-[00:00.00] POR¿QUE AL IR, SE VA LLORANDO,
+[00:00.00] PORQUE AL IR, SE VA LLORANDO,
 [00:00.00] [Mi-] [Re] [Re7]
 [00:00.00] LLEVANDO LA SEMILLA;
 [00:00.00] [Sol] [La] [Re]
@@ -38,6 +38,6 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Sol] [La] [Re]
-[00:00.00] POR¿QUE AL IR, SE VA LLORANDO ...
+[00:00.00] PORQUE AL IR, SE VA LLORANDO ...
 {end_of_chorus}
 ```

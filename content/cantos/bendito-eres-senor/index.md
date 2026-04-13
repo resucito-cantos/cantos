@@ -21,7 +21,7 @@ resources:
 [00:00.00] [Sol]tu Nombre santo [La]y [Si]glorioso.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] A EL GLORIA Y ALABANZA ...
+[00:00.00] A ÉL GLORIA Y ALABANZA ...
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Sol]Bendito eres en [Fa#-]el templo, [Mi]
@@ -40,14 +40,14 @@ resources:
 {column_break}
 {start_of_verse}
 [00:00.00] [Sol]Bendito entre [Fa#-]querubines, [Mi]
-[00:00.00] [Sol]tu, que sondeas [La]los [Si]abismos.
+[00:00.00] [Sol]tú, que sondeas [La]los [Si]abismos.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] A TI GLORIA Y ALABANZA ...
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Sol]Bendito eres, [Fa#-]Señor, [Mi]
-[00:00.00] [Sol]en la boveda [La]del [Si]Cielo.
+[00:00.00] [Sol]en la bóveda [La]del [Si]Cielo.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] A TI HONOR Y ALABANZA,

@@ -10,33 +10,33 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [La-]DE LO PROFUNDO A TI [Fa]GRITO, SE[Mi]NOR:[La-]
-[00:00.00] [Fa]SEÑOR ESCUCHA MI [Mi]VOZ!
-[00:00.00] [La-]ESTEN TUS [Fa]OIDOS A[Mi]TEN[La-]TOS
-[00:00.00] [Fa]A LA VOZ [Mi]DE MI SUPLICA!
+[00:00.00] [La-]DE LO PROFUNDO A TI [Fa]GRITO, SE[Mi]ÑOR:[La-]
+[00:00.00] [Fa]¡SEÑOR ESCUCHA MI [Mi]VOZ!
+[00:00.00] [La-]ESTÉN TUS [Fa]OÍDOS A[Mi]TEN[La-]TOS
+[00:00.00] [Fa]A LA VOZ [Mi]DE MI SÚPLICA!
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [La-]Si [Sol]llevas cuentas de los pecados, [Fa]Se[La-]nor,
-[00:00.00] [Fa]quien se sal[Mi]vara?, quien se salvara?
+[00:00.00] [La-]Si [Sol]llevas cuentas de los pecados, [Fa]Se[La-]ñor,
+[00:00.00] [Fa]¿quién se sal[Mi]vará?, ¿quién se salvará?
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Fa]MAS CERCA DE TI ESTA EL PER[Mi]DON,
+[00:00.00] [Fa]MÁS CERCA DE TI ESTÁ EL PER[Mi]DÓN,
 [00:00.00] [Fa]SOLO EN TI SE EN[La-]CUENTRA EL AMOR.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Sol]Yo espero en el [Fa]Señor, [La-]mi alma espera en su palabra;
-[00:00.00] [Sol]mi alma aguarda al [Fa]Señor mas que el centinela la [La-]aurora;
-[00:00.00] Israel espera al Señor mas [Fa]que el centinela espera a la [Mi]aurora.
+[00:00.00] [Sol]mi alma aguarda al [Fa]Señor más que el centinela la [La-]aurora;
+[00:00.00] Israel espera al Señor más [Fa]que el centinela espera a la [Mi]aurora.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Fa]POR¿QUE SOLO EN EL SEÑOR ESTA EL A[Mi]MOR,
-[00:00.00] [Fa]SOLO EN EL SE EN[La-]CUENTRA EL PERDON.
+[00:00.00] [Fa]PORQUE SOLO EN EL SEÑOR ESTÁ EL A[Mi]MOR,
+[00:00.00] [Fa]SOLO EN ÉL SE EN[La-]CUENTRA EL PERDÓN.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [La-]El Señor redime a [Mi]Israel de todos sus [La-]pecados.
+[00:00.00] [La-]El Señor salvará a [Mi]Israel de todos sus [La-]pecados.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Mi]EL SEÑOR REDIME A ISRAEL DE TODOS SUS [La-]PECADOS.
+[00:00.00] [Mi]EL SEÑOR SALVARÁ A ISRAEL DE TODOS SUS [La-]PECADOS.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [La-]Ay! [melisma]

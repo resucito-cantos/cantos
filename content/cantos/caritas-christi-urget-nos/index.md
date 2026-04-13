@@ -1,6 +1,6 @@
 ---
 title: "Caritas Christi urget nos"
-subtitle: "2 Corintios 5,14.15.17.21"
+subtitle: "2ª Corintios 5,14.15.17.21"
 category: "Precatecumenado"
 tags: []
 resources:
@@ -40,7 +40,7 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [Re-]El que está en Cristo, es una [Mi]nueva creación;
+[00:00.00] [Re-]El que está en Cristo es una [Mi]nueva creación;
 [00:00.00] [Re-]pasó lo viejo, todo es [Mi]nuevo.
 {end_of_verse}
 {start_of_verse}

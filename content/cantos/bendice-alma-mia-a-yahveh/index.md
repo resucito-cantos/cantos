@@ -1,5 +1,5 @@
 ---
-title: "Bendice, alma mia, a Yahveh"
+title: "Bendice, alma mía, a Yahveh"
 subtitle: "Salmo 103 (102)"
 category: "Precatecumenado"
 tags:
@@ -23,9 +23,9 @@ resources:
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [Re-]Él, que te hace justicia,
-[00:00.00] [La-]que defiende a los mas pobres,
-[00:00.00] [Mi]a Moisés enseño sus caminos,
-[00:00.00] [La-]a Israel sus hazanas mostro.
+[00:00.00] [La-]que defiende a los más pobres,
+[00:00.00] [Mi]a Moisés enseñó sus caminos,
+[00:00.00] [La-]a Israel sus hazañas mostró.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-]BENDICE, ALMA MÍA, A [Mi]YAHVEH ...
