@@ -7,6 +7,9 @@ import tailwindcss from "@tailwindcss/vite";
 import contentCollections from "@content-collections/vite";
 
 const config = defineConfig({
+	test: {
+		environment: "jsdom",
+	},
 	plugins: [
 		contentCollections(),
 		devtools(),
