@@ -82,7 +82,7 @@ function PaletteContent({
 			{(showActions || results.length > 0) && (
 				<ComboboxOptions
 					static
-					className="max-h-96 transform-gpu scroll-py-3 overflow-y-auto border-t border-gray-100 p-3"
+					className={`max-h-96 transform-gpu scroll-py-3 overflow-y-auto border-t border-gray-100 p-3 ${floating ? "absolute left-0 right-0 top-full z-10 mt-2 rounded-xl bg-white shadow-2xl outline-1 outline-black/5" : ""}`}
 				>
 					{showActions &&
 						actions.map((action) => (
@@ -139,7 +139,7 @@ function PaletteContent({
 			)}
 
 			{query !== "" && results.length === 0 && isReady && (
-				<div className="border-t border-gray-100 px-6 py-14 text-center text-sm sm:px-14">
+				<div className={`border-t border-gray-100 px-6 py-14 text-center text-sm sm:px-14 ${floating ? "absolute left-0 right-0 top-full z-10 mt-2 rounded-xl bg-white shadow-2xl outline-1 outline-black/5" : ""}`}>
 					<ExclamationCircleIcon
 						className="mx-auto size-6 text-gray-400"
 						aria-hidden="true"
@@ -199,8 +199,8 @@ export function CommandPaletteDialog({
 export function CommandPaletteInline() {
 	return (
 		<div className="relative w-full max-w-xl">
-			<div className="divide-y divide-gray-100 overflow-hidden rounded-xl bg-white shadow-2xl outline-1 outline-black/5">
-				<PaletteContent actions={[]} />
+			<div className="overflow-hidden rounded-xl bg-white shadow-2xl outline-1 outline-black/5">
+				<PaletteContent actions={[]} floating />
 			</div>
 		</div>
 	);
