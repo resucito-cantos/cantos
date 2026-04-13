@@ -128,11 +128,6 @@ function PaletteContent({
 									</p>
 								)}
 							</div>
-							{result.category && result.category !== "TODO" && (
-								<span className="ml-auto self-center rounded-full bg-red-50 px-2.5 py-0.5 text-xs font-medium text-red-600">
-									{result.category}
-								</span>
-							)}
 						</ComboboxOption>
 					))}
 				</ComboboxOptions>
