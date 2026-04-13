@@ -1,0 +1,38 @@
+import { createFileRoute, notFound } from "@tanstack/react-router";
+import { allCantos } from "content-collections";
+import { SongSheet } from "../../components/SongSheet";
+import { ChordDiagrams } from "../../components/ChordDiagram";
+import { Player } from "../../components/Player";
+import type { CantoEntry } from "../../hooks/useSearch";
+
+export const Route = createFileRoute("/cantos/$slug")({
+	loader: ({ params }) => {
+		const canto = (allCantos as CantoEntry[]).find(
+			(c) => c.slug === params.slug,
+		);
+		if (!canto) {
+			throw notFound();
+		}
+		return canto;
+	},
+	head: ({ loaderData }) => ({
+		meta: [{ title: `${loaderData.title} — Resucitó` }],
+	}),
+	component: CantoPage,
+});
+
+function CantoPage() {
+	const canto = Route.useLoaderData();
+
+	return (
+		<main className={`pb-24 ${canto.category?.toLowerCase() === "catecumenado" ? "bg-[#cdedf5]" : ""}`}>
+			<SongSheet
+				title={canto.title}
+				subtitle={canto.subtitle}
+				ast={canto.ast}
+			/>
+			<ChordDiagrams chords={canto.ast.chords} />
+			{canto.audioSrc && <Player src={canto.audioSrc} />}
+		</main>
+	);
+}
