@@ -117,6 +117,7 @@ body {
 .song-chords .voice {
 	position: relative;
 	margin: 0.75rem 0 0;
+	white-space: pre-wrap;
 }
 
 .song-chords .voice:hover {
