@@ -1,6 +1,6 @@
 ---
 title: "He aqui que nuestro espejo es el Señor"
-subtitle: "Oda XIII de Salomon"
+subtitle: "Oda XIII de Salomón"
 category: "Catecumenado"
 tags:
 - Cuaresma
@@ -17,8 +17,8 @@ resources:
 {start_of_chorus}
 [00:00.00] [Re-]ALELUYA, ALELUYA, ALELUYA.
 [00:00.00] [Sol-]Aleluya, aleluya, aleluya.
-[00:00.00] [La]DAD GLORIA A SU ESPIRITU,  BIS
-[00:00.00] DAD GLORIA A SU ESPIRITU.
+[00:00.00] [La]DAD GLORIA A SU ESPÍRITU,  BIS
+[00:00.00] DAD GLORIA A SU ESPÍRITU.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Re-]Y limpiad la inmundicia de vuestro rostro,
@@ -28,8 +28,8 @@ resources:
 {start_of_chorus}
 [00:00.00] [Re-]ALELUYA, ALELUYA, ALELUYA.
 [00:00.00] [Sol-]Aleluya, aleluya, aleluya.
-[00:00.00] [La]DAD GLORIA A SU ESPIRITU,  BIS
-[00:00.00] DAD GLORIA A SU ESPIRITU,
-[00:00.00] [Re-]DAD GLORIA A SU ESPIRITU.
+[00:00.00] [La]DAD GLORIA A SU ESPÍRITU,  BIS
+[00:00.00] DAD GLORIA A SU ESPÍRITU,
+[00:00.00] [Re-]DAD GLORIA A SU ESPÍRITU.
 {end_of_chorus}
 ```

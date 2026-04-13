@@ -15,7 +15,7 @@ resources:
 [00:00.00] [Sol-]te son [Re-]familiares todas mis sendas.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Do]¿Que no está aún en mi lengua la [Fa]palabra,
+[00:00.00] [Do7]Que no está aún en mi lengua la [Fa]palabra,
 [00:00.00] [La]y ya tú, Señor, te la sabes [Re-]toda;
 [00:00.00] [Do]me acosas por detrás,
 [00:00.00] [Fa]me atacas por delante,
@@ -43,9 +43,9 @@ resources:
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [La]Y ESTO ES CIENCIA MISTERIOSA PARA MÍ,
-[00:00.00] [Sib]CIENCIA ¿QUE NO LLEGO A [La]COMPRENDER,
+[00:00.00] [Sib]CIENCIA QUE NO LLEGO A [La]COMPRENDER,
 [00:00.00] [Sib]CIENCIA TAN ALTA,
-[00:00.00] [La]¿QUE YO NO LA ENTIENDO.
+[00:00.00] [La]QUE YO NO LA ENTIENDO.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Re-]Señor, tú me escrutas y [Sol-]conoces,

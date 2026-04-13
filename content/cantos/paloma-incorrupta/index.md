@@ -1,6 +1,6 @@
 ---
 title: "Paloma Incorrupta"
-subtitle: "Himno inspirado en los Kontakia de san Romano el Meloda"
+subtitle: "Himno inspirado en los Kontákia de san Romano el Meloda"
 category: "Precatecumenado"
 tags:
 - Virgen
@@ -9,6 +9,7 @@ resources:
   src: paloma-incorrupta.mp3
 ---
 ```chordpro
+{capo: 3}
 {start_of_verse}
 [00:00.00] [Mi-]Dios te salve, [Fa#]María,
 [00:00.00] [Mi-]radiante como el [Fa#]sol.

@@ -1,6 +1,6 @@
 ---
 title: "Himno a la cruz gloriosa"
-subtitle: "Kiko Argüello"
+subtitle: "De la homilía \"La Santa Pascua\" de un autor anónimo del siglo II"
 category: "Catecumenado"
 tags:
 - Cuaresma

@@ -15,7 +15,7 @@ resources:
 [00:00.00] [Re-]MARÍA, [Sol-]CASA DE [Re-]BENDICIÓN,
 [00:00.00] [Sol-]SALUD DE NUESTRO [Re-]SIGLO,
 [00:00.00] [La7]MORADA TERRESTRE DEL HUMILDE.
-{end_of_verse}
+{end_of_verse: BIS Asamblea}
 
 {start_of_verse}
 [00:00.00] [Sol-]Tú, como en Caná de [La7]Galilea,

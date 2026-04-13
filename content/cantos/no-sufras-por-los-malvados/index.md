@@ -11,7 +11,7 @@ resources:
 ```chordpro
 {start_of_verse}
 [00:00.00] [La-]NO SUFRAS POR LOS [Fa]MALVADOS,
-[00:00.00] [Mi]NO ENVIDIES A LOS ¿QUE OBRAN MAL.
+[00:00.00] [Mi]NO ENVIDIES A LOS QUE OBRAN MAL.
 [00:00.00] [Re-]SE SECARÁN [Mi]COMO LA HIERBA,
 [00:00.00] [Fa]COMO EL CÉSPED [Mi]SE AGOSTARÁN.
 {end_of_verse}

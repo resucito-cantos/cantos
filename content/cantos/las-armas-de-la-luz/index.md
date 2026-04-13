@@ -26,7 +26,7 @@ resources:
 [00:00.00] [La-]JUSTICIA DE LA CRUZ.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Fa]¿Que no se resiste al [Mi7]mal,
+[00:00.00] [Fa]Que no se resiste al [Mi7]mal,
 [00:00.00] [Fa]mas lleva sobre sí
 [00:00.00] [Mi7]los pecados de los demás.
 {end_of_verse}
@@ -38,18 +38,18 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [Fa]¿Que Cristo te ama cierta[Mi7]mente,
+[00:00.00] [Fa]Que Cristo te ama cierta[Mi7]mente,
 [00:00.00] [Fa]que ha dado su vida por [Mi7]ti
 [00:00.00] [Fa]cuando eras malvado y peca[Mi7]dor.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-]CON LA ESPADA DEL ESPÍRITU,
-[00:00.00] [Mi7]¿QUE ES LA PALABRA DE DIOS,
+[00:00.00] [Mi7]QUE ES LA PALABRA DE DIOS,
 [00:00.00] Y CORONADOS
 [00:00.00] [La-]CON EL YELMO DE LA SALVACIÓN.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Fa]¿Que Cristo Jesús resu[Mi7]citó,
+[00:00.00] [Fa]Que Cristo Jesús resu[Mi7]citó,
 [00:00.00] [Fa]que él es el [Mi7]Señor,
 [00:00.00] [Re-]que volverá, que volverá
 [00:00.00] [Mi7]y nos llevará con él.

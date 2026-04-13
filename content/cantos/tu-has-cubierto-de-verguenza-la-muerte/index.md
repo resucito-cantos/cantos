@@ -1,6 +1,6 @@
 ---
-title: "Tu Has Cubierto de Verguenza la Muerte"
-subtitle: "Homilia de Meliton de Sardes sobre la Pascua - Oficio de Lecturas de Jueves Santo"
+title: "Tú has cubierto de vergüenza la muerte"
+subtitle: "Homilía de Melitón de Sardes sobre la Pascua – Oficio de Lecturas de Jueves Santo"
 category: "Catecumenado"
 tags: []
 resources:
@@ -9,7 +9,7 @@ resources:
 ---
 ```chordpro
 {start_of_verse: S.}
-[00:00.00] [Re-]Tu has cubierto de vergüenza la [La7]muerte,
+[00:00.00] [Re-]Tú has cubierto de vergüenza la [La7]muerte,
 [00:00.00] tú has llenado de luto el infierno.
 [00:00.00] [La7]Has golpeado la iniquidad,
 [00:00.00] [Re-]has privado a la injusticia de sus hijos,

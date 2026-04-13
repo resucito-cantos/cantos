@@ -14,7 +14,7 @@ resources:
 [00:00.00] [Re-]ME ENSEÑARÁS EL CAMINO DE LA [La-]VIDA,
 [00:00.00] [Mi]ME SACIARÁS DE GOZO, EN TU PRESENCIA,
 [00:00.00] [Re-]DE ALEGRÍA PERPETUA A TU [Mi]DERECHA.
-{end_of_chorus}
+{end_of_chorus: BIS Asamblea}
 {start_of_verse}
 [00:00.00] [La-]Protégeme, [Fa]Dios [Re-]mío, en ti me [La-]refugio.
 [00:00.00] [Fa]Yo digo a [Re-]Dios: «Tú eres mi [La-]Señor.
@@ -47,7 +47,7 @@ resources:
 [00:00.00] [Mi]mi vida en el sepulcro,
 [00:00.00] ni dejarás que tu santo
 [00:00.00] experimente la corrup[Mi]ción,
-[00:00.00] [Re-]la corrup[Mi]ción.
+[00:00.00] [Re-]la corrup[Mi]ción. (melisma)
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-]ME ENSEÑARÁS ...

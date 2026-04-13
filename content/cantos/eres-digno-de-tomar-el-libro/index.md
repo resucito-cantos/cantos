@@ -1,6 +1,6 @@
 ---
 title: "Eres Digno De Tomar El Libro"
-subtitle: "Apocalipsis 5, 9ss"
+subtitle: "Apocalipsis 5,9ss"
 category: "Catecumenado"
 tags: []
 resources:
@@ -14,12 +14,12 @@ resources:
 [00:00.00] [La-] [Si7]
 [00:00.00] y abrir sus sellos
 [00:00.00] [Mi-]
-[00:00.00] porque tu has sido inmolado
+[00:00.00] porque tú has sido inmolado
 [00:00.00] [Si7]
 [00:00.00] y has comprado con tu Sangre
 [00:00.00] [Mi-]
 [00:00.00] hombres de toda raza,
-[00:00.00] lengua, pueblo y nacion;
+[00:00.00] lengua, pueblo y nación;
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Sol] [Si-]
@@ -42,7 +42,7 @@ resources:
 [00:00.00] porque has comprado con tu Sangre
 [00:00.00] [Mi-]
 [00:00.00] hombres de toda raza,
-[00:00.00] lengua, pueblo y nacion;
+[00:00.00] lengua, pueblo y nación;
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Sol] [Si-]
@@ -58,7 +58,7 @@ resources:
 [00:00.00] porque has comprado con tu Sangre
 [00:00.00] [Mi-]
 [00:00.00] hombres de toda raza,
-[00:00.00] lengua, pueblo y nacion;
+[00:00.00] lengua, pueblo y nación;
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Sol] [Si-]

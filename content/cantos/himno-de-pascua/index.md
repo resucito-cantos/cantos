@@ -1,6 +1,6 @@
 ---
 title: "Himno de Pascua"
-subtitle: "Kiko Argüello"
+subtitle: "Himno"
 category: "Precatecumenado"
 tags:
 - Pascua

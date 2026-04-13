@@ -41,7 +41,7 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse: S.}
-[00:00.00] Enséñalo a tus hijos, Israel,
+[00:00.00] [La-]Enséñalo a tus hijos, Israel,
 [00:00.00] [Fa]háblales en [La-]casa,
 [00:00.00] [Fa]cuando camines por la [La-]calle,
 [00:00.00] [Fa]cuando te acuestes y te [Mi]levantes.

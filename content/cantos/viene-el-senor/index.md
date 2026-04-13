@@ -13,7 +13,7 @@ resources:
 {start_of_chorus: A.}
 [00:00.00] [Mi-]VIENE EL SEÑOR
 [00:00.00] VESTIDO DE [La-]MAJESTAD,
-[00:00.00] VESTIDO Y CENIDO [Mi-]DE PODER.
+[00:00.00] VESTIDO Y CEÑIDO [Mi-]DE PODER.
 {end_of_chorus}
 {comment: BIS}
 {start_of_verse: S.}
@@ -32,7 +32,7 @@ resources:
 [00:00.00] que nos ha hecho sacerdotes [Mi-]de su reino.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] [Mi-]A EL LA GLORIA Y [La-]EL PODER
+[00:00.00] [Mi-]A ÉL LA GLORIA Y [La-]EL PODER
 [00:00.00] POR LOS SIGLOS DE [Mi-]LOS SIGLOS.
 {end_of_chorus}
 {comment: BIS}
@@ -41,13 +41,13 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse: S.}
-[00:00.00] [Mi-]El viene en las nubes y todos le [La-]verán,
+[00:00.00] [Mi-]Él viene en las nubes y todos le [La-]verán,
 [00:00.00] también aquellos que le tras[Mi-]pasaron;
 [00:00.00] todos los reyes y pueblos [La-]de la tierra
 [00:00.00] se lamentarán, se lamen[Mi-]tarán.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] [Mi-]A EL LA GLORIA Y [La-]EL PODER ...
+[00:00.00] [Mi-]A ÉL LA GLORIA Y [La-]EL PODER ...
 {end_of_chorus}
 {start_of_chorus: A.}
 [00:00.00] [Mi-]VIENE EL SEÑOR ...

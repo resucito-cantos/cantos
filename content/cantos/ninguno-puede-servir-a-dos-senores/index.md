@@ -1,6 +1,6 @@
 ---
 title: "Ninguno puede servir a dos señores"
-subtitle: "Mt 6,24-33"
+subtitle: "Mateo 6,24-33"
 category: "Catecumenado"
 tags: []
 resources:

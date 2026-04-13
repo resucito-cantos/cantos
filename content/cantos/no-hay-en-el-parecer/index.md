@@ -1,6 +1,6 @@
 ---
 title: "No Hay en Él Parecer"
-subtitle: "Isaías 53, 2ss"
+subtitle: "Cuarto canto del Siervo de Yahveh - Isaías 53,2ss"
 category: "Catecumenado"
 tags: []
 resources:
@@ -20,10 +20,10 @@ resources:
 [00:00.00] [La-]conocedor de todos los quebrantos.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Do]ANTE ¿QUIEN SE VUELVE EL ROSTRO,
-[00:00.00] [La-]ANTE ¿QUIEN SE VUELVE EL ROSTRO,
-[00:00.00] [Sol]ANTE ¿QUIEN SE VUELVE EL ROSTRO,
-[00:00.00] [Do]ANTE ¿QUIEN SE VUELVE EL ROSTRO.
+[00:00.00] [Do]ANTE QUIEN SE VUELVE EL ROSTRO,
+[00:00.00] [La-]ANTE QUIEN SE VUELVE EL ROSTRO,
+[00:00.00] [Sol]ANTE QUIEN SE VUELVE EL ROSTRO,
+[00:00.00] [Do]ANTE QUIEN SE VUELVE EL ROSTRO.
 {end_of_chorus}
 {column_break}
 {start_of_verse}
@@ -33,7 +33,7 @@ resources:
 [00:00.00] [La-]conocedor de todos los quebrantos.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Do]ANTE ¿QUIEN SE VUELVE EL ROSTRO ...
+[00:00.00] [Do]ANTE QUIEN SE VUELVE EL ROSTRO ...
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Do]¡Pero fue Él el que [La-]cargó con los pecados!
@@ -50,7 +50,7 @@ resources:
 [00:00.00] [La-]LLEVADO AL MATADERO.
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [Do]ANTE ¿QUIEN SE VUELVE EL ROSTRO ...
+[00:00.00] [Do]ANTE QUIEN SE VUELVE EL ROSTRO ...
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Do]¡Maltratado!

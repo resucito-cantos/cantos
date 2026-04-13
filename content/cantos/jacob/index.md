@@ -9,7 +9,7 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [La-]Era ya noche cuando Jacob se levantó,
+[00:00.00] [La-]Era de noche cuando Jacob se levantó,
 [00:00.00] [Fa]tomó a sus mujeres y a todos sus [Mi]hijos
 [00:00.00] y cruzó el vado de [La-]Yabboq.
 {end_of_verse}
@@ -37,7 +37,7 @@ resources:
 [00:00.00] [Sol]«Suéltame, que ya viene la [La-]aurora».
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Sol]«SUÉLTAME, ¿QUE YA VIENE LA [La-]AURORA».
+[00:00.00] [Sol]«SUÉLTAME, QUE YA VIENE LA [La-]AURORA».
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Sol]«Suéltame, que ya viene la [La-]aurora».

@@ -10,7 +10,7 @@ resources:
   src: se-encontraron-dos-angeles.mp3
 ---
 ```chordpro
-{start_of_verse}
+{start_of_verse: S.}
 [00:00.00] [La-]Se encontraron dos ángeles,
 [00:00.00] el uno preguntó al otro:
 [00:00.00] [Re-]«¿dónde, [La-]dónde

@@ -22,7 +22,7 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse: "S."}
-[00:00.00] [Fa#]Clamé al Señor en mi angustía,
+[00:00.00] [Fa#]Clamé al Señor en mi angustia,
 [00:00.00] a mi Dios, a mi Dios [Si-]invoqué;
 [00:00.00] [La]y escuchó mi voz desde su [Sol]Templo,
 [00:00.00] llegó mi llamada a sus [Fa#]oídos.

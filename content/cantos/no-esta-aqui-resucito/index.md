@@ -41,9 +41,9 @@ resources:
 {end_of_chorus}
 
 {start_of_verse}
-[00:00.00] [Sol-]«Id deprisa a decir a sus dis[Re7]cípulos:
+[00:00.00] [Sol-]«Id de prisa a decir a sus dis[Re7]cípulos:
 [00:00.00] Ha resucitado de entre los mu[Sol-]ertos.
-[00:00.00] Id deprisa a decir a sus dis[Re7]cípulos:
+[00:00.00] Id de prisa a decir a sus dis[Re7]cípulos:
 [00:00.00] Ha resucitado de entre los mu[Sol-]ertos
 {end_of_verse}
 
@@ -96,11 +96,11 @@ resources:
 {end_of_chorus}
 
 {start_of_verse}
-[00:00.00] [Do-]Y nos precede en Gali[Re7]lea,
+[00:00.00] [Do-]Y os precede en Gali[Re7]lea,
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] [Do-]Y NOS PRECEDE EN GALI[Re7]LEA;
+[00:00.00] [Do-]Y OS PRECEDE EN GALI[Re7]LEA;
 [00:00.00] [Do-]allí le ve[Re7]réis,
 [00:00.00] [Do-]ALLÍ LE VE[Re7]RÉIS.
 {end_of_chorus}

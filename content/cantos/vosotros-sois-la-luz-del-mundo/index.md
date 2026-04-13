@@ -13,6 +13,7 @@ resources:
 [00:00.00] [Re-]SOIS LA [Mi]LUZ, LA [Re-]LUZ DEL [Mi]MUNDO,
 [00:00.00] [Re-]LA LUZ DEL [Mi]MUNDO.
 {end_of_chorus}
+{comment: BIS}
 {start_of_verse}
 [00:00.00] [La-]No puede ocultarse una ciudad [Mi]
 [00:00.00] situada en la cima de un [La-]monte;

@@ -87,7 +87,7 @@ resources:
 [00:00.00] Conviene que hoy entre en tu [Mi]casa.
 {end_of_verse}
 {start_of_chorus: "A."}
-[00:00.00] CONVIENE ¿QUE HOY ENTRE EN TU [Fa]CASA.
+[00:00.00] [Fa]CONVIENE QUE HOY ENTRE EN TU [Mi]CASA.
 {end_of_chorus}
 {column_break}
 {start_of_chorus: "A."}

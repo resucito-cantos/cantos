@@ -1,6 +1,6 @@
 ---
 title: "Oh Jesús, Amor Mío"
-subtitle: "Kiko Argüello"
+subtitle: "Himno"
 category: "Precatecumenado"
 tags:
 - Cuaresma
@@ -33,7 +33,7 @@ resources:
 {start_of_verse}
 [00:00.00] [La-]Tú has recibido la [Sol]hiel y el vinagre de [La-]mí,
 [00:00.00] [Fa]para que yo reciba la [Mi]dulzura de ti.
-[00:00.00] [La-]Tú has recibido [Sol]desprecio y los insultos de [La-]mí
+[00:00.00] [La-]Tú has recibido el [Sol]desprecio y los insultos de [La-]mí
 [00:00.00] [Fa]para que yo reciba la [Mi]mansedumbre de ti.
 {end_of_verse}
 {column_break}

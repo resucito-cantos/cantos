@@ -13,6 +13,7 @@ resources:
 [00:00.00] [La-]YAHVEH, TÚ ERES MI [Mi]DIOS,
 [00:00.00] [La-]YO TE ENSALZARÉ.
 {end_of_chorus}
+{comment: BIS}
 {start_of_verse}
 [00:00.00] [Fa]Y alabaré tu nombre,
 [00:00.00] alabaré tu nombre,

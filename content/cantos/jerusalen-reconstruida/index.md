@@ -30,7 +30,7 @@ resources:
 [00:00.00] sus torres de oro [Mi-]puro.
 [00:00.00] Sus plazas son de [Re]rubí,
 [00:00.00] sus calles de oro de [Mi-]Ofir;
-[00:00.00] sobre sus puertas se [Re]exultará
+[00:00.00] en sus puertas se [Re]exultará
 [00:00.00] y en sus casas se [Mi-]cantará.
 {end_of_verse}
 {start_of_chorus}
@@ -43,10 +43,10 @@ resources:
 {column_break}
 {start_of_verse}
 [00:00.00] vendrán a ti todas las [Re]naciones,
-[00:00.00] hasta la casa de tu [Mi-]Nombre.
+[00:00.00] hasta la casa de su [Mi-]Nombre.
 [00:00.00] Las generaciones te [Re]cantarán,
 [00:00.00] todos los pueblos [Mi-]exultarán
-[00:00.00] y en ella el nombre de tu [Re]Elegido
+[00:00.00] y en ti el Nombre de tu [Re]Elegido
 [00:00.00] será para siempre, será para [Mi-]siempre.
 {end_of_verse}
 {start_of_chorus}
@@ -61,8 +61,8 @@ resources:
 [00:00.00] los que te construyen, los que te [Mi-]edifican!
 [00:00.00] ¡Benditos los que te [Re]aman!
 [00:00.00] [Mi-]¡Los que lloran por tus castigos!
-[00:00.00] Porque en tus puertas [Re]exultarán,
-[00:00.00] porque en sus casas te [Mi-]cantarán.
+[00:00.00] Porque en tus puertas se [Re]exultará,
+[00:00.00] porque en tus casas se [Mi-]cantará.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] JERUSALÉN, JERUSALÉN ...

@@ -1,6 +1,6 @@
 ---
 title: "Veni Creator"
-subtitle: "Himno de visperas de Pascua, de la Ascension a Pentecostes"
+subtitle: "Himno de vísperas de Pascua, de la Ascensión a Pentecostés"
 category: "Precatecumenado"
 tags:
 - Pentecostés
@@ -10,10 +10,10 @@ resources:
 ---
 ```chordpro
 {start_of_chorus: A.}
-[00:00.00] [La-]VEN, ESPIRITU [Sol]CREADOR
+[00:00.00] [La-]VEN, ESPÍRITU [Sol]CREADOR
 [00:00.00] VISITA NUESTRA [La-]MENTE;
 [00:00.00] LLENA DE TU [Sol]AMOR
-[00:00.00] EL CORAZÓN ¿QUE HAS [La-]CREADO.
+[00:00.00] EL CORAZÓN QUE HAS [La-]CREADO.
 {end_of_chorus}
 {start_of_verse: S.}
 [00:00.00] [La-]Oh dulce conso[Sol]lador,
@@ -37,7 +37,7 @@ resources:
 {start_of_chorus: A.}
 [00:00.00] [La-]DEFIENDENOS DEL ENE[Sol]MIGO,
 [00:00.00] DANOS EL DON [La-]DE LA PAZ.
-[00:00.00] TU GUIA INVEN[Sol]CIBLE
+[00:00.00] TU GUÍA INVEN[Sol]CIBLE
 [00:00.00] NOS PRESERVE [La-]DEL MAL.
 {end_of_chorus}
 {start_of_verse: S.}
