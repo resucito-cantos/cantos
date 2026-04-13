@@ -3,7 +3,6 @@ title: "Me Has Seducido, Señor"
 subtitle: "Jeremías 20,7-18"
 category: "Precatecumenado"
 tags:
-- TODO
 resources:
 - name: audio
   src: me-has-seducido-senor.mp3

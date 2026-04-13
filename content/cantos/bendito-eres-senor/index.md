@@ -3,7 +3,6 @@ title: "Bendito eres, Señor"
 subtitle: "Daniel 3,52-57"
 category: "Precatecumenado"
 tags:
-- TODO
 resources:
 - name: audio
   src: bendito-eres-senor.mp3

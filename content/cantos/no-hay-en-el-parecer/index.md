@@ -3,7 +3,6 @@ title: "No Hay en Él Parecer"
 subtitle: "Isaías 53, 2ss"
 category: "Catecumenado"
 tags:
-- TODO
 resources:
 - name: audio
   src: no-hay-en-el-parecer.mp3

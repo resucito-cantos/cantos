@@ -3,7 +3,6 @@ title: "Tu Has Cubierto de Verguenza la Muerte"
 subtitle: "Homilia de Meliton de Sardes sobre la Pascua - Oficio de Lecturas de Jueves Santo"
 category: "Catecumenado"
 tags:
-- TODO
 resources:
 - name: audio
   src: tu-has-cubierto-de-verguenza-la-muerte.mp3

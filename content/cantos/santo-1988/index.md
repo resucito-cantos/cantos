@@ -1,9 +1,8 @@
 ---
 title: "Santo 1988"
-subtitle: "TODO"
+subtitle: "Tiempo Ordinario"
 category: "Litúrgico"
 tags:
-- TODO
 resources:
 - name: audio
   src: santo-1988.mp3

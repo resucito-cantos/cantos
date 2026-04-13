@@ -3,7 +3,6 @@ title: "María de Jasna Góra"
 subtitle: "Himno a la Virgen de Jasna Góra, Częstochowa, Polonia"
 category: "Precatecumenado"
 tags: 
-- TODO
 resources:
 - name: audio
   src: maria-de-jasna-gora.mp3

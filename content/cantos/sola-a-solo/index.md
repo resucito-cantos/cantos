@@ -3,7 +3,6 @@ title: "Sola a Solo"
 subtitle: "Kiko Arguello"
 category: "Precatecumenado"
 tags:
-- TODO
 resources:
 - name: audio
   src: sola-a-solo.mp3

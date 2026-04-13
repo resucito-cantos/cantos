@@ -3,7 +3,6 @@ title: "Escuchad Islas Lejanas"
 subtitle: "Isaias 49,1-16"
 category: "Catecumenado"
 tags: 
-- TODO
 resources:
 - name: audio
   src: escuchad-islas-lejanas.mp3

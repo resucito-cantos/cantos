@@ -3,7 +3,6 @@ title: "Mucho me han perseguido"
 subtitle: "Salmo 129 (128)"
 category: "Precatecumenado"
 tags:
-- TODO
 resources:
 - name: audio
   src: mucho-me-han-perseguido.mp3

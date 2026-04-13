@@ -3,7 +3,6 @@ title: "Alabad al Señor en el cielo"
 subtitle: "Salmo 148"
 category: "Precatecumenado"
 tags:
-- TODO
 resources:
 - name: audio
   src: alabad-al-senor-en-el-cielo.mp3

@@ -1,9 +1,9 @@
 ---
 title: "Santo Palomeras 65"
-subtitle: "TODO"
+subtitle: "Tiempo de Adviento – Navidad"
 category: "Litúrgico"
 tags:
-- TODO
+- Navidad
 resources:
 - name: audio
   src: santo-palomeras-65.mp3

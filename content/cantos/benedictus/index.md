@@ -3,7 +3,6 @@ title: "Benedictus"
 subtitle: "Lucas 1,67-80"
 category: "Precatecumenado"
 tags: 
-- TODO
 resources:
 - name: audio
   src: benedictus.mp3

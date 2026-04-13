@@ -3,7 +3,6 @@ title: "Este Es El Dia En ¿Que Actuo El Señor"
 subtitle: "Salmo 118 (117)"
 category: "Precatecumenado"
 tags: 
-- TODO
 resources:
 - name: audio
   src: este-es-el-dia-en-que-actuo-el-senor.mp3

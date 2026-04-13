@@ -3,7 +3,6 @@ title: "Bendicion del Agua"
 subtitle: "De la liturgia bautismal de la Vigilia pascual"
 category: "Litúrgico"
 tags:
-- TODO
 resources:
 - name: audio
   src: bendición-del-agua.mp3

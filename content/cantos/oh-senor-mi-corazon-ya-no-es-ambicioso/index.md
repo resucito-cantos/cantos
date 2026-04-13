@@ -3,7 +3,6 @@ title: "Oh Señor, Mi Corazón Ya No Es Ambicioso"
 subtitle: "Salmo 131 (130)"
 category: "Catecumenado"
 tags:
-- TODO
 resources:
 - name: audio
   src: oh-senor-mi-corazon-ya-no-es-ambicioso.mp3

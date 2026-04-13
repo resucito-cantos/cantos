@@ -3,7 +3,6 @@ title: "Oh Dios, Por Tu Nombre Sálvame"
 subtitle: "Salmo 54 (53)"
 category: "Precatecumenado"
 tags:
-- TODO
 resources:
 - name: audio
   src: oh-dios-por-tu-nombre-salvame.mp3

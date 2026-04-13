@@ -3,7 +3,6 @@ title: "¿Como Condenados a Muerte"
 subtitle: "1 Corintios 4,9-13"
 category: "Elección"
 tags: 
-- TODO
 resources:
 - name: audio
   src: como-condenados-a-muerte.mp3

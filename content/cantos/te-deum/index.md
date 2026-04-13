@@ -1,9 +1,8 @@
 ---
 title: "Te Deum"
-subtitle: "Kiko Argüello"
+subtitle: "Himno"
 category: "Litúrgico"
 tags:
-- TODO
 resources:
 - name: audio
   src: te-deum.mp3

@@ -3,7 +3,6 @@ title: "Exultad, justos, en el Señor"
 subtitle: "Salmo 33 (32)"
 category: "Precatecumenado"
 tags:
-- TODO
 resources:
 - name: audio
   src: exultad-justos-en-el-senor.mp3

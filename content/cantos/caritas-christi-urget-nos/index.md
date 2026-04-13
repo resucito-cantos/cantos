@@ -3,7 +3,6 @@ title: "Caritas Christi urget nos"
 subtitle: "2 Corintios 5,14.15.17.21"
 category: "Precatecumenado"
 tags:
-- TODO
 resources:
 - name: audio
   src: caritas-christi-urget-nos.mp3

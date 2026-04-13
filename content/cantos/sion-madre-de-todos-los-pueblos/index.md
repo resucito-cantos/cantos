@@ -3,7 +3,6 @@ title: "Sion, madre de todos los pueblos"
 subtitle: "Salmo 87 (86)"
 category: "Precatecumenado"
 tags:
-- TODO
 resources:
 - name: audio
   src: sion-madre-de-todos-los-pueblos.mp3

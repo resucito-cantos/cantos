@@ -1,9 +1,9 @@
 ---
 title: "Santo Hebreo"
-subtitle: "TODO"
+subtitle: "Tiempo de Cuaresma"
 category: "Litúrgico"
 tags:
-- TODO
+- Cuaresma
 resources:
 - name: audio
   src: santo-hebreo.mp3

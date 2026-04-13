@@ -3,7 +3,6 @@ title: "El Sembrador"
 subtitle: "Marcos 4, 3ss"
 category: "Catecumenado"
 tags:
-- TODO
 resources:
 - name: audio
   src: el-sembrador.mp3

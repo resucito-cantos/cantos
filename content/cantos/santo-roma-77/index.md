@@ -1,9 +1,8 @@
 ---
 title: "Santo Roma 77"
-subtitle: "TODO"
+subtitle: "Tiempo Ordinario"
 category: "Litúrgico"
 tags:
-- TODO
 resources:
 - name: audio
   src: santo-roma-77.mp3

@@ -3,7 +3,6 @@ title: "El Señor Anuncia una Noticia"
 subtitle: "Salmo 68 (67)"
 category: "Precatecumenado"
 tags:
-- TODO
 resources:
 - name: audio
   src: el-senor-anuncia-una-noticia.mp3

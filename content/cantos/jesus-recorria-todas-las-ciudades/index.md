@@ -3,7 +3,6 @@ title: "Jesús recorría todas las ciudades"
 subtitle: "Mateo 9,35ss"
 category: "Elección"
 tags: 
-- TODO
 resources:
 - name: audio
   src: jesus-recorria-todas-las-ciudades.mp3

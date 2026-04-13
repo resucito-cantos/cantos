@@ -3,7 +3,6 @@ title: "Oh Cielos, Lloved de lo Alto"
 subtitle: "Isaías 45, 8"
 category: "Precatecumenado"
 tags:
-- TODO
 ---
 ```chordpro
 {start_of_verse}

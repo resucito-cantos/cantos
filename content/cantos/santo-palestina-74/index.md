@@ -1,9 +1,9 @@
 ---
 title: "Santo Palestina 74"
-subtitle: "TODO"
+subtitle: "Tiempo Pascual"
 category: "Litúrgico"
 tags:
-- TODO
+- Pascua
 resources:
 - name: audio
   src: santo-palestina-74.mp3

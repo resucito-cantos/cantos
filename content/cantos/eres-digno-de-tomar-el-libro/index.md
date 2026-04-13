@@ -3,7 +3,6 @@ title: "Eres Digno De Tomar El Libro"
 subtitle: "Apocalipsis 5, 9ss"
 category: "Catecumenado"
 tags:
-- TODO
 resources:
 - name: audio
   src: eres-digno-de-tomar-el-libro.mp3

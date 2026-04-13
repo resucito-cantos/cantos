@@ -1,9 +1,8 @@
 ---
 title: "Aleluya pascual"
-subtitle: "TODO"
+subtitle: "Apropiado para el tiempo Pascual"
 category: "Litúrgico"
 tags: 
-- TODO
 resources:
 - name: audio
   src: aleluya-pascual.mp3

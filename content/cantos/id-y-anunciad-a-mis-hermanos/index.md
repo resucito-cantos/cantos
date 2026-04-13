@@ -3,7 +3,6 @@ title: "Id y Anunciad a Mis Hermanos"
 subtitle: "Mateo 28,7-10.16-20"
 category: "Precatecumenado"
 tags:
-- TODO
 resources:
 - name: audio
   src: id-y-anunciad-a-mis-hermanos.mp3

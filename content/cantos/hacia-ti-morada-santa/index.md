@@ -3,7 +3,6 @@ title: "Hacia ti morada santa"
 subtitle: "TODO"
 category: "Precatecumenado"
 tags:
-- TODO
 resources:
 - name: audio
   src: hacia-ti-morada-santa.mp3

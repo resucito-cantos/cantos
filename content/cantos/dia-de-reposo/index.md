@@ -3,7 +3,6 @@ title: "Dia de reposo"
 subtitle: "Juan 8,52"
 category: "Precatecumenado"
 tags:
-- TODO
 resources:
 - name: audio
   src: dia-de-reposo.mp3

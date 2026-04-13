@@ -1,6 +1,6 @@
 ---
 title: "Gloria a Dios en lo alto del cielo"
-subtitle: "Himno Liturgico"
+subtitle: "Himno Litúrgico"
 category: "Litúrgico"
 tags:
 - Pascua

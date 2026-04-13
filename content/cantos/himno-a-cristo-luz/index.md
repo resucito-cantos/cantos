@@ -3,7 +3,6 @@ title: "Himno a Cristo luz"
 subtitle: "Kiko Arguello"
 category: "Precatecumenado"
 tags:
-- TODO
 resources:
 - name: audio
   src: himno-a-cristo-luz.mp3

@@ -3,7 +3,6 @@ title: "Pregón Pascual"
 subtitle: "Exultet"
 category: "Litúrgico"
 tags: 
-- TODO
 resources:
 - name: audio
   src: pregon-pascual.mp3

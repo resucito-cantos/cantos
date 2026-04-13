@@ -3,7 +3,6 @@ title: "Cristo Es La Luz"
 subtitle: "TODO"
 category: "Precatecumenado"
 tags:
-- TODO
 resources:
 - name: audio
   src: cristo-es-la-luz.mp3

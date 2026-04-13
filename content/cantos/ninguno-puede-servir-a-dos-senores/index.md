@@ -3,7 +3,6 @@ title: "Ninguno puede servir a dos señores"
 subtitle: "Mt 6,24-33"
 category: "Catecumenado"
 tags:
-- TODO
 resources:
 - name: audio
   src: ninguno-puede-servir-a-dos-senores.mp3
