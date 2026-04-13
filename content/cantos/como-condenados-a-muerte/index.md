@@ -1,6 +1,6 @@
 ---
-title: "¿Como Condenados a Muerte"
-subtitle: "1 Corintios 4,9-13"
+title: "Como condenados a muerte"
+subtitle: "1ª Corintios 4,9-13"
 category: "Elección"
 tags: []
 resources:
@@ -38,9 +38,9 @@ resources:
 {column_break}
 {start_of_verse}
 [00:00.00] [La-]Porque pienso que a [Sol]nosotros,
-[00:00.00] [La-]los apostoles,
+[00:00.00] [La-]los apóstoles,
 [00:00.00] [Sol]Dios nos ha asignado
-[00:00.00] [La-]el ultimo lugar.
+[00:00.00] [La-]el último lugar.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Sol]COMO CONDENADOS A MUERTE.
@@ -49,7 +49,7 @@ resources:
 [00:00.00] [La-]COMO CONDENADOS A MUERTE.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [La-]Puestos como [Sol]espectaculo
+[00:00.00] [La-]Puestos como [Sol]espectáculo
 [00:00.00] [La-]para el mundo,
 [00:00.00] [Sol]para los ángeles,
 [00:00.00] [Fa]para los hombres, para los [Mi]hombres.

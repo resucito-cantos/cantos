@@ -1,6 +1,6 @@
 ---
-title: "¿Como Destila la Miel"
-subtitle: "Oda XL de Salomon"
+title: "Como destila la miel"
+subtitle: "Oda XL de Salomón"
 category: "Elección"
 tags:
 - Pascua
@@ -12,10 +12,10 @@ tags:
 [00:00.00] [La-]COMO DESTILA LA MIEL
 [00:00.00] [Re-]EL PANAL DE LAS ABEJAS
 [00:00.00] [Mi]Y FLUYE LA LECHE
-[00:00.00] EN LA MUJER ¿QUE AMA A SUS [La-]HIJOS;
+[00:00.00] EN LA MUJER QUE AMA A SUS [La-]HIJOS;
 [00:00.00] COMO MANAN DE LA FUENTE
 [00:00.00] [Re-]LAS TRANQUILAS AGUAS,
-[00:00.00] [Mi]ASI MI CORAZÓN
+[00:00.00] [Mi]ASÍ MI CORAZÓN
 [00:00.00] [La-]DERRAMA SU ALABANZA.
 {end_of_chorus}
 {start_of_verse}
@@ -30,11 +30,11 @@ tags:
 [00:00.00] [Fa]Porque su luz serena
 [00:00.00] [Mi]apacigua todos mis males,
 [00:00.00] [Fa]porque su mirada simple de amor
-[00:00.00] [Mi]cura mi corazon.
+[00:00.00] [Mi]cura mi corazón.
 {end_of_verse}
 {column_break}
 {start_of_chorus}
-[00:00.00] [Fa]POR¿QUE LA VIDA INMORTAL
+[00:00.00] [Fa]PORQUE LA VIDA INMORTAL
 [00:00.00] HA PUESTO SU TIENDA
 [00:00.00] [Mi]DENTRO DE NOSOTROS.
 [00:00.00] [Fa]AALE[Mi]LUYA, [Fa]AALE[Mi]LUYA,
@@ -46,7 +46,7 @@ tags:
 [00:00.00] [La-]COMO DESTILA LA MIEL...
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Re-]Y mi rostro se ilumina con su [Mi]alegria,
+[00:00.00] [Re-]Y mi rostro se ilumina con su [Mi]alegría,
 [00:00.00] [Re-]y mi espiritu se goza en sus [Mi]amores.
 [00:00.00] [Fa]Mi corazon lleno de su luz
 [00:00.00] [Mi]siente su mirada amorosa.
@@ -64,7 +64,7 @@ tags:
 [00:00.00] [Fa]POR¿QUE LA SALVACION EN EL ES [Mi]SEGURA.
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] POR¿QUE LA VIDA INMORTAL...
+[00:00.00] PORQUE LA VIDA INMORTAL...
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [La-]COMO DESTILA LA MIEL...

@@ -10,7 +10,7 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [Do]Abbá [Sol]Padre, [Fa]Pa[Do]dre!
+[00:00.00] [Do]¡Abbá [Sol]Padre, [Fa]Pa[Do]dre!
 {end_of_verse}
 
 {start_of_verse}
@@ -23,7 +23,7 @@ resources:
 {start_of_chorus}
 [00:00.00] [La-]ESTE MISMO ESPÍRITU
 [00:00.00] [Re-]DA TESTIMONIO A [La-]NUESTRO [Fa]ESPÍRITU [Mi]
-[00:00.00] [Mi7]DE ¿QUE SOMOS HIJOS DE [La-]DIOS.
+[00:00.00] [Mi7]DE QUE SOMOS HIJOS DE [La-]DIOS.
 {end_of_chorus}
 
 {start_of_chorus}
@@ -39,6 +39,6 @@ resources:
 {end_of_chorus}
 
 {start_of_chorus}
-[00:00.00] [Do]ABBÁ [Sol]PADRE, [Fa]PA[Do]DRE!
+[00:00.00] [Do]¡ABBÁ [Sol]PADRE, [Fa]PA[Do]DRE!
 {end_of_chorus}
 ```

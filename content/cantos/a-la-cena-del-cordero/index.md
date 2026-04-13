@@ -1,6 +1,6 @@
 ---
 title: "A la cena del cordero"
-subtitle: "Himno lat. Ad cenam Agni providi"
+subtitle: "Himno de Vísperas del tiempo Pascual hasta la Ascensión"
 category: "Elección"
 tags:
 - Pascua

@@ -10,7 +10,7 @@ resources:
 ```chordpro
 {start_of_verse: S.}
 [00:00.00] [Re-]Tú has cubierto de vergüenza la [La7]muerte,
-[00:00.00] tú has llenado de luto el infierno.
+[00:00.00] [Re-]tú has llenado de luto el infierno.
 [00:00.00] [La7]Has golpeado la iniquidad,
 [00:00.00] [Re-]has privado a la injusticia de sus hijos,
 [00:00.00] [Sib7]como [La7]Moisés al Faraón,
@@ -20,7 +20,7 @@ resources:
 [00:00.00] [La7]Tú eres la Pascua de nuestra salvación;
 [00:00.00] [Re-]tú eres el cordero nacido de María.
 {end_of_verse}
-{start_of_chorus: A. BIS}
+{start_of_chorus: A.}
 [00:00.00] [Re-]MARÍA, [La7]CORDERA SIN MANCHA,
 [00:00.00] [Re-]MARÍA, LA INOCENTE CORDERA.
 {end_of_chorus}
