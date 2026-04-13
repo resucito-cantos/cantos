@@ -5,6 +5,55 @@ import { Player } from "../../components/Player";
 import { SongSheet } from "../../components/SongSheet";
 import { useChordsVisible } from "../../hooks/useChordsVisible";
 import type { CantoEntry } from "../../hooks/useSearch";
+import type { CantoAST } from "../../lib/chordpro";
+
+function extractLyrics(ast: CantoAST): string {
+	return ast.sections
+		.map((s) =>
+			s.lines.map((l) => l.segments.map((seg) => seg.text).join("")).join("\n"),
+		)
+		.join("\n\n");
+}
+
+function buildJsonLd(canto: CantoEntry) {
+	const lyrics = extractLyrics(canto.ast);
+	const baseUrl = "https://resucito.co";
+
+	return {
+		"@context": "https://schema.org",
+		"@type": "MusicComposition",
+		name: canto.title,
+		description: canto.subtitle ?? `Canto del Camino Neocatecumenal`,
+		inLanguage: "es",
+		genre: "Liturgical music",
+		musicalKey: canto.ast.chords[0] ?? undefined,
+		lyrics: {
+			"@type": "CreativeWork",
+			text: lyrics,
+			inLanguage: "es",
+		},
+		...(canto.category && {
+			keywords: [
+				canto.category,
+				...canto.tags,
+			].join(", "),
+		}),
+		...(canto.audioSrc && {
+			audio: {
+				"@type": "AudioObject",
+				contentUrl: `${baseUrl}${canto.audioSrc}`,
+				encodingFormat: "audio/mpeg",
+			},
+		}),
+		isPartOf: {
+			"@type": "MusicAlbum",
+			name: "Resucitó",
+			description:
+				"Cantos para las comunidades neocatecumenales",
+		},
+		url: `${baseUrl}/cantos/${canto.slug}`,
+	};
+}
 
 export const Route = createFileRoute("/cantos/$slug")({
 	staticData: {
@@ -20,7 +69,23 @@ export const Route = createFileRoute("/cantos/$slug")({
 		return canto;
 	},
 	head: ({ loaderData }) => ({
-		meta: [{ title: `${loaderData.title} — Resucitó` }],
+		meta: [
+			{ title: `${loaderData.title} — Resucitó` },
+			{
+				name: "description",
+				content: loaderData.subtitle
+					? `${loaderData.title} — ${loaderData.subtitle}. Canto del Camino Neocatecumenal.`
+					: `${loaderData.title}. Canto del Camino Neocatecumenal con acordes y letra.`,
+			},
+			{ property: "og:title", content: `${loaderData.title} — Resucitó` },
+			{
+				property: "og:description",
+				content: loaderData.subtitle
+					? `${loaderData.title} — ${loaderData.subtitle}`
+					: loaderData.title,
+			},
+			{ property: "og:type", content: "music.song" },
+		],
 	}),
 	component: CantoPage,
 });
@@ -36,9 +101,14 @@ function CantoPage() {
 	const canto = Route.useLoaderData();
 	const { chordsVisible } = useChordsVisible();
 	const bg = CATEGORY_BG[canto.category?.toLowerCase() ?? ""] ?? "bg-white";
+	const jsonLd = buildJsonLd(canto);
 
 	return (
 		<main className={`min-h-screen pb-24 ${bg}`}>
+			<script
+				type="application/ld+json"
+				dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+			/>
 			<SongSheet
 				title={canto.title}
 				subtitle={canto.subtitle}
