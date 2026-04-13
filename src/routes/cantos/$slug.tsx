@@ -1,6 +1,5 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { allCantos } from "content-collections";
-import { CheckCircle, Download, Loader2 } from "lucide-react";
 import { ChordDiagrams } from "../../components/ChordDiagram";
 import { NotFound } from "../../components/NotFound";
 import { Player } from "../../components/Player";
@@ -129,40 +128,14 @@ function CantoPage() {
 				SOLO para uso interno del Camino Neocatecumenal
 			</footer>
 			{canto.audioSrc && (
-				<>
-					<Player src={canto.audioSrc} title={canto.title} />
-					<DownloadButton status={status} onDownload={download} />
-				</>
+				<Player
+					src={canto.audioSrc}
+					title={canto.title}
+					cacheStatus={status}
+					onDownload={download}
+				/>
 			)}
 		</main>
 	);
 }
 
-function DownloadButton({
-	status,
-	onDownload,
-}: { status: ReturnType<typeof useOfflineAudio>["status"]; onDownload: () => void }) {
-	if (status === "unknown") return null;
-
-	return (
-		<button
-			type="button"
-			onClick={status === "not-cached" || status === "error" ? onDownload : undefined}
-			disabled={status === "downloading" || status === "cached"}
-			className="fixed bottom-20 right-4 z-50 flex size-10 items-center justify-center rounded-full bg-white shadow-md transition hover:bg-gray-50 disabled:opacity-60"
-			aria-label={
-				status === "cached"
-					? "Disponible sin conexión"
-					: status === "downloading"
-						? "Descargando..."
-						: "Descargar para escuchar sin conexión"
-			}
-		>
-			{status === "cached" && <CheckCircle size={20} className="text-green-600" />}
-			{status === "downloading" && <Loader2 size={20} className="animate-spin text-gray-500" />}
-			{(status === "not-cached" || status === "error") && (
-				<Download size={20} className="text-gray-600" />
-			)}
-		</button>
-	);
-}

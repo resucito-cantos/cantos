@@ -1,4 +1,7 @@
 import {
+	CheckCircle,
+	Download,
+	Loader2,
 	Pause,
 	Play,
 	Repeat,
@@ -8,13 +11,16 @@ import {
 	VolumeX,
 } from "lucide-react";
 import { useCallback, useEffect, useRef, useState } from "react";
+import type { OfflineStatus } from "../hooks/useOfflineAudio";
 
 type PlayerProps = {
 	src: string;
 	title?: string;
+	cacheStatus?: OfflineStatus;
+	onDownload?: () => void;
 };
 
-export function Player({ src, title }: PlayerProps) {
+export function Player({ src, title, cacheStatus, onDownload }: PlayerProps) {
 	const audioRef = useRef<HTMLAudioElement>(null);
 	const [isPlaying, setIsPlaying] = useState(false);
 	const [isLooping, setIsLooping] = useState(false);
@@ -297,8 +303,32 @@ export function Player({ src, title }: PlayerProps) {
 						</button>
 					</div>
 
-					{/* Right: volume + mute */}
+					{/* Right: cache + volume + mute */}
 					<div className="player-right">
+						{cacheStatus && cacheStatus !== "unknown" && (
+							<button
+								type="button"
+								className={`player-btn ${cacheStatus === "cached" ? "text-green-600" : ""}`}
+								onClick={cacheStatus === "not-cached" || cacheStatus === "error" ? onDownload : undefined}
+								disabled={cacheStatus === "downloading" || cacheStatus === "cached"}
+								aria-label={
+									cacheStatus === "cached"
+										? "Disponible sin conexión"
+										: cacheStatus === "downloading"
+											? "Descargando..."
+											: "Descargar para escuchar sin conexión"
+								}
+								title={
+									cacheStatus === "cached"
+										? "Disponible sin conexión"
+										: "Descargar offline"
+								}
+							>
+								{cacheStatus === "cached" && <CheckCircle size={16} />}
+								{cacheStatus === "downloading" && <Loader2 size={16} className="animate-spin" />}
+								{(cacheStatus === "not-cached" || cacheStatus === "error") && <Download size={16} />}
+							</button>
+						)}
 						<button
 							type="button"
 							className={`player-btn ${isMuted ? "active" : ""}`}
