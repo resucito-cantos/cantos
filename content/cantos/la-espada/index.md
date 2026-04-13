@@ -1,7 +1,7 @@
 ---
 title: "La espada"
 subtitle: "TODO"
-category: "Litúrgico"
+category: "Precatecumenado"
 tags: 
 - TODO
 resources:

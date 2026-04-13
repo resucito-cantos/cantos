@@ -1,7 +1,7 @@
 ---
-title: "El Mesias Leon"
+title: "El Mesías León"
 subtitle: "Comentario al Apocalipsis (Victorino de Pettau)"
-category: "Litúrgico"
+category: "Precatecumenado"
 tags: 
 - TODO
 resources:
