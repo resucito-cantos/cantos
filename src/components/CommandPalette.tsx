@@ -21,8 +21,10 @@ import { filterCantos } from "../hooks/useSearch";
 import type { CantoEntry } from "../hooks/useSearch";
 
 const CATEGORY_COLORS: Record<string, string> = {
-	precatecumenado: "bg-amber-500",
-	catecumenado: "bg-sky-500",
+	precatecumenado: "bg-white outline outline-1 outline-gray-300",
+	catecumenado: "bg-[#cdedf5]",
+	"elección": "bg-[#d5f0d5]",
+	"litúrgico": "bg-[#fef9c3]",
 };
 
 type ActionItem = {
@@ -115,10 +117,10 @@ function PaletteContent({
 							className="group flex cursor-default rounded-xl p-3 select-none data-focus:bg-gray-100 data-focus:outline-hidden"
 						>
 							<div
-								className={`flex size-10 flex-none items-center justify-center rounded-lg ${CATEGORY_COLORS[canto.category?.toLowerCase() ?? ""] ?? "bg-red-500"}`}
+								className={`flex size-10 flex-none items-center justify-center rounded-lg ${CATEGORY_COLORS[canto.category?.toLowerCase() ?? ""] ?? "bg-gray-100"}`}
 							>
 								<MusicalNoteIcon
-									className="size-6 text-white"
+									className="size-6 text-gray-500"
 									aria-hidden="true"
 								/>
 							</div>
