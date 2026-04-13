@@ -60,7 +60,7 @@ body {
 	display: grid;
 	grid-template-columns: 1fr;
 	font-size: 0.9375rem;
-	line-height: 2.1;
+	line-height: 1.5;
 	padding: 0 2rem;
 	cursor: default;
 }
@@ -107,7 +107,7 @@ body {
 
 .song-chords .voice {
 	position: relative;
-	margin: 0;
+	margin: 0.75rem 0 0;
 }
 
 .song-chords .voice:hover {
@@ -115,19 +115,18 @@ body {
 }
 
 .chord-a {
-	display: inline-block;
-	position: relative;
+	display: inline-flex;
+	flex-direction: column;
+	vertical-align: bottom;
 }
 
 .chord {
 	font-size: 0.8125rem;
 	color: #dc2626;
 	font-weight: 700;
-	position: absolute;
-	top: -0.95em;
-	left: 0;
 	white-space: nowrap;
 	line-height: 1;
+	height: 1em;
 }
 
 .song-chords .chorus .chord {
