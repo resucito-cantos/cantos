@@ -12,7 +12,8 @@
     "test": "vitest run",
     "format": "biome format",
     "lint": "biome lint",
-    "check": "biome check"
+    "check": "biome check",
+    "deploy": "pnpm build && wrangler pages deploy dist/client --project-name=cantos --commit-dirty=true"
   },
   "dependencies": {
     "@headlessui/react": "^2.2.10",
@@ -51,6 +52,7 @@
     "vite": "^7.3.1",
     "vite-tsconfig-paths": "^5.1.4",
     "vitest": "^3.0.5",
+    "wrangler": "^4.82.2",
     "zod": "^4.3.6"
   },
   "pnpm": {
