@@ -1,6 +1,6 @@
 ---
 title: "Hermosa eres, amiga mia"
-subtitle: "Ct 6-7"
+subtitle: "Cantar de los Cantares 6 y 7 – Quinto Poema"
 category: "Elección"
 tags:
 - Pascua

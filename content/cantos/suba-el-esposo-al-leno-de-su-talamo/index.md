@@ -1,6 +1,6 @@
 ---
 title: "Suba el Esposo al Leño de su Tálamo"
-subtitle: "Himno (San Quodvultdeus)"
+subtitle: "Himno de san Quodvultdeus"
 category: "Elección"
 tags:
 - Pascua

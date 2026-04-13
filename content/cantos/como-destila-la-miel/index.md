@@ -47,21 +47,21 @@ tags:
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Re-]Y mi rostro se ilumina con su [Mi]alegría,
-[00:00.00] [Re-]y mi espiritu se goza en sus [Mi]amores.
-[00:00.00] [Fa]Mi corazon lleno de su luz
+[00:00.00] [Re-]y mi espíritu se goza en sus [Mi]amores.
+[00:00.00] [Fa]Mi corazón, lleno de su luz
 [00:00.00] [Mi]siente su mirada amorosa.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] Porque el temor en [Fa]El se [Mi]confia,
+[00:00.00] Porque el temor en [Fa]él se [Mi]confia,
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Fa]POR¿QUE EL TEMOR EN EL SE [Mi]CONFIA,
+[00:00.00] [Fa]PORQUE EL TEMOR EN ÉL SE [Mi]CONFIA,
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Fa]porque la salvacion en El es [Mi]segura.
+[00:00.00] [Fa]porque la salvación en él es [Mi]segura.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Fa]POR¿QUE LA SALVACION EN EL ES [Mi]SEGURA.
+[00:00.00] [Fa]PORQUE LA SALVACIÓN EN ÉL ES [Mi]SEGURA.
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] PORQUE LA VIDA INMORTAL...

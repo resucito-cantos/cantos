@@ -16,7 +16,7 @@ resources:
 [00:00.00] [Re-] [Fa]
 [00:00.00] ¡OH DICHOSA VENTURA! BIS Asamblea
 [00:00.00] [Re-]
-[00:00.00] SALI SIN SER NOTADA,
+[00:00.00] SALÍ SIN SER NOTADA,
 [00:00.00] [Mi]
 [00:00.00] ESTANDO YA MI CASA SOSEGADA.
 {end_of_verse}
@@ -36,33 +36,33 @@ resources:
 [00:00.00] [Re-] [Mi]
 [00:00.00] En la noche dichosa,
 [00:00.00] [Re-] [Fa]
-[00:00.00] en secreto, que nadie me veia,
+[00:00.00] en secreto, que nadie me veía,
 [00:00.00] ni yo miraba cosa,
 [00:00.00] [Re-]
-[00:00.00] sin otra luz y guia
+[00:00.00] sin otra luz y guía
 [00:00.00] [Mi]
-[00:00.00] sino la que en el corazon ardia.
+[00:00.00] sino la que en el corazón ardía.
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [La-] [Re-]
 [00:00.00] Aquesta me guiaba
 [00:00.00] [La-]
-[00:00.00] mas cierto que la luz del mediodia,
+[00:00.00] más cierto que la luz del mediodía,
 {end_of_verse}
 {column_break}
 {start_of_verse}
 [00:00.00] [Mi]
 [00:00.00] adonde me esperaba
 [00:00.00] [La-]
-[00:00.00] quien yo bien me sabia,
+[00:00.00] quien yo bien me sabía,
 [00:00.00] [Re-] [Mi]
-[00:00.00] en parte donde nadie parecia.
+[00:00.00] en parte donde nadie parecía.
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [La-] [Re-]
 [00:00.00] ¡Oh noche que guiaste!,
 [00:00.00] [La-]
-[00:00.00] ¡oh noche amable mas que la alborada!,
+[00:00.00] ¡oh noche amable más que la alborada!,
 [00:00.00] [Mi]
 [00:00.00] ¡oh noche que juntaste,
 [00:00.00] [Fa]
@@ -72,7 +72,7 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-] [Re-]
-[00:00.00] ¡OH NOCHE ¿QUE GUIASTE! ...
+[00:00.00] ¡OH NOCHE QUE GUIASTE! ...
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [La-]

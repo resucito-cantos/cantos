@@ -1,6 +1,6 @@
 ---
 title: "Extiendo mis manos"
-subtitle: "Oda XXVII de Salomon"
+subtitle: "Oda XXVII de Salomón"
 category: "Elección"
 tags:
 - Cuaresma
@@ -16,9 +16,9 @@ resources:
 [00:00.00] [La]Y GRITO AL [Re]SEÑOR.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Fa#]iAbba, Padre mio! [Sol]iAbba, Padre [Fa#]mio!
-[00:00.00] [Mi]En tus manos encomiendo mi [La]espiritu,
-[00:00.00] [Sol]en tus [Re]manos enco[La]miendo mi [Re]espiritu.
+[00:00.00] [Fa#]¡Abbá, Padre mío! [Sol]iAbba, Padre [Fa#]mio!
+[00:00.00] [Mi]En tus manos encomiendo mi [La]espíritu,
+[00:00.00] [Sol]en tus [Re]manos enco[La]miendo mi [Re]espíritu.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Re]EXTIENDO MIS [Si-]MANOS [Sol]...
@@ -27,7 +27,7 @@ resources:
 [00:00.00] [Fa#]Porque el [Mi]extender las manos
 [00:00.00] es el signo de su [La]cruz.
 [00:00.00] [Sol]Y el estar [Re]derecho
-[00:00.00] es el leno [La]alzado, es el leno [Re]alzado.
+[00:00.00] es el leño [La]alzado, es el leño [Re]alzado.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Re]EXTIENDO MIS [Si-]MANOS [Sol]...

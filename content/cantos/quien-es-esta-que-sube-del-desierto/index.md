@@ -1,5 +1,5 @@
 ---
-title: "Quién Es Esta ¿Que Sube Del Desierto"
+title: "Quién es ésta que sube del desierto"
 subtitle: "Cantar de los Cantares 8,5-7"
 category: "Elección"
 tags:
@@ -11,8 +11,8 @@ resources:
 ---
 ```chordpro
 {start_of_chorus}
-[00:00.00] [La-]¡¿QUIEN ES ESTA ¿QUE [Re-]SUBE DEL [La-]DESIERTO,
-[00:00.00] [Fa]¿QUIEN ES ESTA ¿QUE SUBE DEL [La-]DESIERTO,
+[00:00.00] [La-]¿QUIÉN ES ÉSTA QUE [Re-]SUBE DEL [La-]DESIERTO,
+[00:00.00] [Fa]QUIÉN ES ÉSTA QUE SUBE DEL [La-]DESIERTO,
 [00:00.00] [Fa]APOYADA EN SU AMADO, EN SU [Mi]AMADO,
 [00:00.00] [Fa]APOYADA EN [La-]SU AMADO?
 {end_of_chorus}
@@ -23,7 +23,7 @@ resources:
 [00:00.00] [Fa]allí donde tu madre te dio a [La-]luz.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]¡¿QUIEN ES ESTA ¿QUE [Re-]SUBE DEL [La-]DESIERTO ...
+[00:00.00] [La-]¿QUIÉN ES ÉSTA QUE [Re-]SUBE DEL [La-]DESIERTO ...
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Sol]Llévame como un [Fa]sello en tu cora[La-]zón,
@@ -31,10 +31,10 @@ resources:
 [00:00.00] [Fa]Porque es fuerte el amor como la [Mi]muerte.
 [00:00.00] [Fa]Y las aguas no lo pueden a[Mi]pagar,
 [00:00.00] [Fa]ni los ríos lo pueden a[Mi]negar.
-[00:00.00] [Fa]¿Que si tú dieras los bienes de tu casa por el a[Mi]mor,
-[00:00.00] [Fa]solo encontrarías el des[Mi]precio.
+[00:00.00] [Fa]Que si tú dieras los bienes de tu casa por el a[Mi]mor,
+[00:00.00] [Fa]sólo encontrarías el des[Mi]precio.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]¡¿QUIEN ES ESTA ¿QUE [Re-]SUBE DEL [La-]DESIERTO ...
+[00:00.00] [La-]¿QUIÉN ES ÉSTA QUE [Re-]SUBE DEL [La-]DESIERTO ...
 {end_of_chorus}
 ```

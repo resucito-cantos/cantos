@@ -1,6 +1,6 @@
 ---
 title: "Himno a la Caridad"
-subtitle: "1 Corintios 13, 1-13"
+subtitle: "1ª Corintios 13,1-13"
 category: "Elección"
 tags:
 - Pascua
@@ -33,11 +33,13 @@ resources:
 {end_of_verse}
 {column_break}
 {start_of_chorus}
-[00:00.00] [Do]POR¿QUE EL AMOR,
+[00:00.00] [Do]PORQUE EL AMOR,
 [00:00.00] [La-]EL AMOR, [Do]EL AMOR,
 [00:00.00] ES PACIENTE, ES SERVICIAL;
 [00:00.00] [La-]NO ES ENVIDIOSO,
-[00:00.00] [Do]NO BUSCA LO SUYO; NO SE [Fa]IRRITA;
+[00:00.00] [Do]NO SE JACTA, NO SE ENGRÍE;
+[00:00.00] [La-]ES DECOROSO;
+[00:00.00] [Fa]NO BUSCA LO SUYO; NO SE [Sol]IRRITA;
 [00:00.00] [Sol]NO TOMA EN CUENTA EL MAL,
 [00:00.00] [Do]NO TOMA EN CUENTA EL MAL;
 [00:00.00] [La-]NO SE ALEGRA DE LA INJUSTICIA;

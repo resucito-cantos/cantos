@@ -79,9 +79,9 @@ resources:
 [00:00.00] [Sol]LA ENCONTRARÁ, [La-]LA ENCONTRARÁ.
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [Sol]¿Quien os escucha [La-]ME ESCUCHA A MÍ.
-[00:00.00] [Sol]¿Quien os acoge [La-]ME ACOGE A MÍ.
-[00:00.00] [Sol]¿QUIEN ME ACOGE A MÍ
+[00:00.00] [Sol]Quien os escucha [La-]ME ESCUCHA A MÍ.
+[00:00.00] [Sol]Quien os acoge [La-]ME ACOGE A MÍ.
+[00:00.00] [Sol]QUIEN ME ACOGE A MÍ
 [00:00.00] [Fa]ACOGE A DIOS, [Mi]ACOGE A DIOS.
 {end_of_chorus}
 ```

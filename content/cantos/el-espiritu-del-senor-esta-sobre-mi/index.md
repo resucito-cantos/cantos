@@ -1,6 +1,6 @@
 ---
-title: "El Espiritu del Señor esta sobre mi"
-subtitle: "Lucas 4,18 - Isaias 61,1-3"
+title: "El Espíritu del Señor está sobre mí"
+subtitle: "Lucas 4,18 – Isaías 61,1-3"
 category: "Elección"
 tags:
 - Final

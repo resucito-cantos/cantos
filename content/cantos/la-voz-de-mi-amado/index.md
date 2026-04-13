@@ -60,7 +60,7 @@ resources:
 [00:00.00] [Sol]porque nuestra [Fa]viña está ya en [Mi]flor,
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Sol]POR¿QUE NUESTRA [Fa]VIÑA ESTÁ YA EN [Mi]FLOR.
+[00:00.00] [Sol]PORQUE NUESTRA [Fa]VIÑA ESTÁ YA EN [Mi]FLOR.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Re-]Mi amado es para [Mi]mí,

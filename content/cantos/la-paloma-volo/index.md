@@ -37,7 +37,7 @@ resources:
 [00:00.00] [La-]Mas los diseños se [Si7]perdieron
 [00:00.00] [La-]y lloraban los ángeles del [Si7]cielo;
 [00:00.00] [Do]los diseños de aquellos
-[00:00.00] [Si7]que no siguieron hacer su voluntad.
+[00:00.00] [Si7]que no siguieron su voluntad.
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [Do]Porque el Señor ha mostrado su [Si7]camino,

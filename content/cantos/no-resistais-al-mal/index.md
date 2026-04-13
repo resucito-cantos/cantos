@@ -1,6 +1,6 @@
 ---
 title: "No Resistáis al Mal"
-subtitle: "Mateo 5, 38ss"
+subtitle: "Mateo 5,38ss"
 category: "Elección"
 tags:
 - Comunión

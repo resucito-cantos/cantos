@@ -1,6 +1,6 @@
 ---
 title: "Me Robaste el Corazón"
-subtitle: "Ct 4,9-5,1"
+subtitle: "Cantar de los Cantares 4,9-16.5,1"
 category: "Elección"
 tags:
 - Pascua
@@ -23,7 +23,7 @@ resources:
 [00:00.00] La fragancia de tus per[Sol-]fumes,
 [00:00.00] [La]más que todos los [Re-]bálsamos de amor.
 [00:00.00] [Sol-]Miel destilan tus labios,
-[00:00.00] esposa mía, hermana,
+[00:00.00] esposa mía, esposa mía.
 [00:00.00] [La]miel y leche de[Re-]bajo de tu lengua.
 [00:00.00] La fragancia de tus vestidos
 [00:00.00] [Sol-]es la fragancia del Líbano,
@@ -47,7 +47,7 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La]SOPLA EN MI HUERTO
-[00:00.00] [Re-]PARA ¿QUE EXHALE SUS AROMAS.
+[00:00.00] [Re-]PARA QUE EXHALE SUS AROMAS!
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Do]Y pueda entrar mi amado en su [Fa]huerto
