@@ -18,7 +18,7 @@ resources:
 {start_of_chorus}
 [00:00.00] ALEGRÍA, ALEGRÍA, ALEGRÍA,
 [00:00.00] ALEGRÍA, HA NACIDO EL SALVADOR.
-{end_of_chorus}
+{end_of_chorus: BIS}
 
 {start_of_verse}
 [00:00.00] [Sol-]En un por[Re-]tal,
