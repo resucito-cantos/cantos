@@ -19,6 +19,21 @@ const config = defineConfig({
 	},
 	plugins: [
 		{
+			name: "build-search-index",
+			apply: "build",
+			closeBundle: {
+				sequential: true,
+				order: "post",
+				async handler() {
+					const { execSync } = await import("node:child_process");
+					execSync("npx tsx scripts/build-search-index.ts", {
+						stdio: "inherit",
+						cwd: import.meta.dirname,
+					});
+				},
+			},
+		},
+		{
 			name: "build-sw",
 			apply: "build",
 			closeBundle: {
