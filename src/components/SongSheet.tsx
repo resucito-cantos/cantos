@@ -53,10 +53,11 @@ function SongSection({
 	onLineClick?: (timecode: string) => void;
 }) {
 	return (
-		<div className={section.type}>
+		<div className={`${section.type} ${section.bis ? "has-bis" : ""}`}>
 			{section.lines.map((line, i) => (
 				<VoiceLine key={i} line={line} onLineClick={onLineClick} />
 			))}
+			{section.bis && <span className="bis-label">BIS</span>}
 		</div>
 	);
 }

@@ -46,6 +46,9 @@ function CantoPage() {
 				category={canto.category}
 			/>
 			{chordsVisible && <ChordDiagrams chords={canto.ast.chords} />}
+			<footer className="song-footer">
+				SOLO para uso interno del Camino Neocatecumenal
+			</footer>
 			{canto.audioSrc && <Player src={canto.audioSrc} />}
 		</main>
 	);

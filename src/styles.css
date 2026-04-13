@@ -143,6 +143,32 @@ body {
 	text-transform: none;
 }
 
+/* BIS label */
+.has-bis {
+	position: relative;
+}
+
+.bis-label {
+	position: absolute;
+	right: -2.5rem;
+	top: 50%;
+	transform: translateY(-50%);
+	font-size: 0.75rem;
+	font-weight: 600;
+	color: #6b7280;
+	letter-spacing: 0.05em;
+}
+
+/* Footer */
+.song-footer {
+	text-align: center;
+	font-size: 0.6875rem;
+	color: #9ca3af;
+	text-transform: uppercase;
+	letter-spacing: 0.08em;
+	padding: 2rem 1rem 1rem;
+}
+
 /* Player styles */
 .player-bar {
 	position: fixed;

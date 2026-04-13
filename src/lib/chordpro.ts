@@ -11,6 +11,7 @@ export type Line = {
 export type Section = {
 	type: "verse" | "chorus";
 	columnBreak?: boolean;
+	bis?: boolean;
 	lines: Line[];
 };
 
@@ -71,11 +72,13 @@ export function parseChordPro(input: string): CantoAST {
 		const line = rawLine.trim();
 		if (line === "") continue;
 
-		// Directives
-		const directiveMatch = line.match(/^\{([a-z_]+):?\s*([\S\d]*)\s*\}$/);
+		// Directives: {command} or {command: arg}
+		const directiveMatch = line.match(
+			/^\{([a-z_]+):?\s*(.*?)?\s*\}$/,
+		);
 		if (directiveMatch) {
 			const cmd = directiveMatch[1];
-			const arg = directiveMatch[2];
+			const arg = (directiveMatch[2] ?? "").trim();
 
 			switch (cmd) {
 				case "capo":
@@ -90,29 +93,61 @@ export function parseChordPro(input: string): CantoAST {
 					pendingColumnBreak = false;
 					sections.push(currentSection);
 					break;
-				case "start_of_chorus":
+				case "start_of_chorus": {
+					const hasBis = /BIS/i.test(arg);
 					currentSection = {
 						type: "chorus",
 						lines: [],
 						...(pendingColumnBreak && { columnBreak: true }),
+						...(hasBis && { bis: true }),
 					};
 					pendingColumnBreak = false;
 					sections.push(currentSection);
 					break;
+				}
 				case "end_of_verse":
-				case "end_of_chorus":
 					currentSection = null;
 					break;
+				case "end_of_chorus": {
+					// Check for BIS in end directive arg
+					if (currentSection && /BIS/i.test(arg)) {
+						currentSection.bis = true;
+					}
+					currentSection = null;
+					break;
+				}
 				case "column_break":
 					pendingColumnBreak = true;
 					break;
+				case "comment": {
+					// {comment: BIS A.} or {comment: BIS Asamblea}
+					if (/BIS/i.test(arg)) {
+						const target =
+							currentSection ?? sections[sections.length - 1];
+						if (target) target.bis = true;
+					}
+					break;
+				}
 			}
 			continue;
 		}
 
-		// Content line
+		// Inline {BIS} or {BIS A.} markers (not a standard directive)
+		if (/\{BIS[^}]*\}/i.test(line)) {
+			const target = currentSection ?? sections[sections.length - 1];
+			if (target) target.bis = true;
+		}
+
+		// Content line — strip inline BIS markers and {BIS} from lyrics
 		if (currentSection) {
-			const parsed = parseLine(line);
+			let cleanLine = line
+				.replace(/\{BIS[^}]*\}/gi, "")
+				.replace(/\s+BIS\s*(A\.?|Asamblea)?\s*$/i, "")
+				.trim();
+
+			if (cleanLine === "") continue;
+
+			const parsed = parseLine(cleanLine);
 			currentSection.lines.push(parsed);
 
 			// Collect chords
