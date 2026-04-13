@@ -25,18 +25,25 @@ export const Route = createFileRoute("/cantos/$slug")({
 	component: CantoPage,
 });
 
+const CATEGORY_BG: Record<string, string> = {
+	precatecumenado: "bg-white",
+	catecumenado: "bg-[#cdedf5]",
+	"elección": "bg-[#d5f0d5]",
+	"litúrgico": "bg-[#fef9c3]",
+};
+
 function CantoPage() {
 	const canto = Route.useLoaderData();
 	const { chordsVisible } = useChordsVisible();
+	const bg = CATEGORY_BG[canto.category?.toLowerCase() ?? ""] ?? "bg-white";
 
 	return (
-		<main
-			className={`pb-24 ${canto.category?.toLowerCase() === "catecumenado" ? "bg-[#cdedf5]" : ""}`}
-		>
+		<main className={`min-h-screen pb-24 ${bg}`}>
 			<SongSheet
 				title={canto.title}
 				subtitle={canto.subtitle}
 				ast={canto.ast}
+				category={canto.category}
 			/>
 			{chordsVisible && <ChordDiagrams chords={canto.ast.chords} />}
 			{canto.audioSrc && <Player src={canto.audioSrc} />}

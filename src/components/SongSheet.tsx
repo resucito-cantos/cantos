@@ -3,6 +3,7 @@ import type { CantoAST, Line, Section, Segment } from "../lib/chordpro";
 type SongSheetProps = {
 	title: string;
 	subtitle?: string | null;
+	category?: string | null;
 	ast: CantoAST;
 	onLineClick?: (timecode: string) => void;
 };
@@ -63,6 +64,7 @@ function SongSection({
 export function SongSheet({
 	title,
 	subtitle,
+	category,
 	ast,
 	onLineClick,
 }: SongSheetProps) {
@@ -80,6 +82,9 @@ export function SongSheet({
 			<header className="song-header">
 				{ast.capo !== null && (
 					<span className="song-capo">Cejilla {ast.capo}º traste</span>
+				)}
+				{category && (
+					<p className="song-category">{category.toUpperCase()}</p>
 				)}
 				<h1 className="song-title">{title}</h1>
 				{subtitle && <p className="song-subtitle">{subtitle}</p>}
