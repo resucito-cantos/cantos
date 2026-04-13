@@ -12,6 +12,7 @@ export function Player({ src, title }: PlayerProps) {
 	const [isLooping, setIsLooping] = useState(false);
 	const [seekValue, setSeekValue] = useState(0);
 	const [volume, setVolume] = useState(0.8);
+	const isVisibleRef = useRef(true);
 
 	const togglePlay = useCallback(() => {
 		const audio = audioRef.current;
@@ -76,8 +77,13 @@ export function Player({ src, title }: PlayerProps) {
 
 		function onTimeUpdate() {
 			if (!audio) return;
-			setSeekValue((audio.currentTime / audio.duration) * 100 || 0);
 
+			// Only update the slider UI when the tab is visible
+			if (isVisibleRef.current) {
+				setSeekValue((audio.currentTime / audio.duration) * 100 || 0);
+			}
+
+			// Always update OS position state (works in background)
 			if ("mediaSession" in navigator && audio.duration) {
 				navigator.mediaSession.setPositionState({
 					duration: audio.duration,
@@ -207,6 +213,15 @@ export function Player({ src, title }: PlayerProps) {
 			}
 		};
 	}, [title]);
+
+	// Page Visibility — skip UI updates when tab is hidden
+	useEffect(() => {
+		function onVisibilityChange() {
+			isVisibleRef.current = document.visibilityState === "visible";
+		}
+		document.addEventListener("visibilitychange", onVisibilityChange);
+		return () => document.removeEventListener("visibilitychange", onVisibilityChange);
+	}, []);
 
 	return (
 		<>
