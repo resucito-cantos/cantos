@@ -1,9 +1,9 @@
 ---
 title: "Stabat Mater Dolorosa"
 subtitle: "Secuencia del siglo XIII"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
 resources:
 - name: audio
   src: stabat-mater-dolorosa.mp3

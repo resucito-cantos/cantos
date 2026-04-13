@@ -1,7 +1,7 @@
 ---
 title: "A tu luz, Señor, vemos la luz"
 subtitle: "Salmo 36"
-category: "TODO"
+category: "Litúrgico"
 tags:
 - TODO
 resources:

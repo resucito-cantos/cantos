@@ -1,7 +1,7 @@
 ---
 title: "Virgen de la Maravilla"
 subtitle: "Inspirado en el himno: Virgen Madre, Hija de tu Hijo, de Dante, Divina Comedia, Paraíso, canto XXXIII"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

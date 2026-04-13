@@ -1,7 +1,7 @@
 ---
 title: "Santo Palestina 74"
 subtitle: "TODO"
-category: "TODO"
+category: "Litúrgico"
 tags:
 - TODO
 resources:

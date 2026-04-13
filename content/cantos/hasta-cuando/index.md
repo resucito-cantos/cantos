@@ -1,9 +1,9 @@
 ---
 title: "Hasta cuando"
 subtitle: "Salmo 13 (12)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
 resources:
 - name: audio
   src: hasta-cuando.mp3

@@ -1,9 +1,9 @@
 ---
 title: "Como el Impulso que Siente la Ira"
 subtitle: "Oda VII de Salomon"
-category: "TODO"
-tags: 
-- TODO
+category: "Catecumenado"
+tags:
+- Comunión
 resources:
 - name: audio
   src: como-el-impulso-que-siente-la-ira.mp3

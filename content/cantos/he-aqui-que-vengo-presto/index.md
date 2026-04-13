@@ -1,7 +1,7 @@
 ---
 title: "He aqui que vengo presto"
 subtitle: "Apocalipsis 22, 12-16"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

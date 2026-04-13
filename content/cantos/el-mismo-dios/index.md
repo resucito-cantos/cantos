@@ -1,9 +1,9 @@
 ---
 title: "El Mismo Dios"
 subtitle: "2 Corintios 4,6-12"
-category: "TODO"
-tags: 
-- TODO
+category: "Catecumenado"
+tags:
+- Comunión
 resources:
 - name: audio
   src: el-mismo-dios.mp3

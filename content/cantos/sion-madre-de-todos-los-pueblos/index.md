@@ -1,7 +1,7 @@
 ---
 title: "Sion, madre de todos los pueblos"
 subtitle: "Salmo 87 (86)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

@@ -1,7 +1,7 @@
 ---
 title: "Aleluya pascual"
 subtitle: "TODO"
-category: "TODO"
+category: "Litúrgico"
 tags: 
 - TODO
 resources:

@@ -1,9 +1,9 @@
 ---
 title: "Decidle a los de corazon cansado"
 subtitle: "Isaias 35,4ss"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
 resources:
 - name: audio
   src: decidle-a-los-de-corazon-cansado.mp3

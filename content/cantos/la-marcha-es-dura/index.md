@@ -1,9 +1,9 @@
 ---
 title: "La marcha es dura"
 subtitle: "Himno"
-category: "TODO"
-tags: 
-- TODO
+category: "Precatecumenado"
+tags:
+- Cuaresma
 resources:
 - name: audio
   src: la-marcha-es-dura.mp3

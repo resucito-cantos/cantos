@@ -1,9 +1,10 @@
 ---
 title: "Huye, Amado Mío"
 subtitle: "Cantar de los Cantares 8,10-14"
-category: "TODO"
+category: "Elección"
 tags:
-- TODO
+- Pascua
+- Comunión
 resources:
 - name: audio
   src: huye-amado-mio.mp3

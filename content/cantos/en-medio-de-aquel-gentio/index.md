@@ -1,9 +1,9 @@
 ---
 title: "En Medio De Aquel Gentio"
 subtitle: "Lucas 8, 42b-48"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Comunión
 resources:
 - name: audio
   src: en-medio-de-aquel-gentio.mp3

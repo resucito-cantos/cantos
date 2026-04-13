@@ -1,7 +1,7 @@
 ---
 title: "Eres Digno De Tomar El Libro"
 subtitle: "Apocalipsis 5, 9ss"
-category: "TODO"
+category: "Catecumenado"
 tags:
 - TODO
 resources:

@@ -1,9 +1,9 @@
 ---
 title: "Bendice, alma mia, a Yahveh"
 subtitle: "Salmo 103 (102)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
 resources:
 - name: audio
   src: bendice-alma-mia-a-yahveh.mp3

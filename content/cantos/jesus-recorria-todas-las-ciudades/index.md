@@ -1,7 +1,7 @@
 ---
 title: "Jesús recorría todas las ciudades"
 subtitle: "Mateo 9,35ss"
-category: "TODO"
+category: "Elección"
 tags: 
 - TODO
 resources:

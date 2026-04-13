@@ -1,9 +1,10 @@
 ---
 title: "Pentecostés"
 subtitle: "Himno"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Pentecostés
+- Comunión
 resources:
 - name: audio
   src: pentecostes.mp3

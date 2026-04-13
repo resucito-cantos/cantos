@@ -1,9 +1,9 @@
 ---
 title: "Qué Estupendo, Qué Alegría"
 subtitle: "Salmo 133 (132)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Paz
 resources:
 - name: audio
   src: que-estupendo-que-alegria.mp3

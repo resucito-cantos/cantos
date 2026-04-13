@@ -1,9 +1,10 @@
 ---
 title: "Himno de Pascua"
 subtitle: "Kiko Argüello"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Pascua
+- Final
 resources:
 - name: audio
   src: himno-de-pascua.mp3

@@ -1,9 +1,10 @@
 ---
 title: "Cuando Israel Salio De Egipto"
 subtitle: "Salmo 114 (113)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Pascua
+- Final
 resources:
 - name: audio
   src: cuando-israel-salio-de-egipto.mp3

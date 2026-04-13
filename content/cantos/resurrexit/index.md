@@ -1,7 +1,7 @@
 ---
 title: "Resurrexit"
 subtitle: "Juan 11, 25-27"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

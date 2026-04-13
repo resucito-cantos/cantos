@@ -1,9 +1,11 @@
 ---
 title: "La cordera de Dios"
 subtitle: "Mateo 1,18ss"
-category: "TODO"
-tags: 
-- TODO
+category: "Elección"
+tags:
+- Pascua
+- Navidad
+- Virgen
 resources:
 - name: audio
   src: la-cordera-de-dios.mp3

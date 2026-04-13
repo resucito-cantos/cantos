@@ -1,7 +1,7 @@
 ---
 title: "Sola a Solo"
 subtitle: "Kiko Arguello"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

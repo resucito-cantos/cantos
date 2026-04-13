@@ -1,7 +1,7 @@
 ---
 title: "El Necio Piensa Que Dios No Existe"
 subtitle: "Salmo 14 (13)"
-category: "TODO"
+category: "Precatecumenado"
 tags: 
 - TODO
 resources:

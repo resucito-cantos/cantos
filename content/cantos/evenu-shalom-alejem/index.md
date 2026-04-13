@@ -1,9 +1,9 @@
 ---
 title: "Evenu Shalom Alejem"
 subtitle: "Canto popular Hebreo"
-category: "TODO"
-tags: 
-- TODO
+category: "Precatecumenado"
+tags:
+- Paz
 resources:
 - name: audio
   src: evenu-shalom-alejem.mp3

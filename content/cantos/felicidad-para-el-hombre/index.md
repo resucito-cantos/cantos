@@ -1,7 +1,7 @@
 ---
 title: "Felicidad para el hombre"
 subtitle: "Salmo 128 (127)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

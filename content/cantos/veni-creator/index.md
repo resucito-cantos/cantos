@@ -1,9 +1,9 @@
 ---
 title: "Veni Creator"
 subtitle: "Himno de visperas de Pascua, de la Ascension a Pentecostes"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Pentecostés
 resources:
 - name: audio
   src: veni-creator.mp3

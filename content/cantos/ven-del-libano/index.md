@@ -1,9 +1,10 @@
 ---
 title: "Ven del Libano"
 subtitle: "Cantar de los Cantares 4,8ss"
-category: "TODO"
+category: "Elección"
 tags:
-- TODO
+- Pascua
+- Final
 resources:
 - name: audio
   src: ven-del-libano.mp3

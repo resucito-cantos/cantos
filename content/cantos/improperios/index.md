@@ -1,9 +1,9 @@
 ---
 title: "Improperios"
 subtitle: "De la Liturgia de la Adoración de la Cruz de Viernes Santo"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
 resources:
 - name: audio
   src: improperios.mp3

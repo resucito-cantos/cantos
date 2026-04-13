@@ -1,7 +1,7 @@
 ---
 title: "Oh Cielos, Lloved de lo Alto"
 subtitle: "Isaías 45, 8"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 ---

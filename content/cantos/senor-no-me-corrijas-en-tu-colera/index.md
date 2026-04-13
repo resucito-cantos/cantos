@@ -1,7 +1,7 @@
 ---
 title: "Senor, No Me Corrijas en Tu Colera"
 subtitle: "Salmo 6"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

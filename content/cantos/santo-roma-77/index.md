@@ -1,7 +1,7 @@
 ---
 title: "Santo Roma 77"
 subtitle: "TODO"
-category: "TODO"
+category: "Litúrgico"
 tags:
 - TODO
 resources:

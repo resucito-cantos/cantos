@@ -1,7 +1,7 @@
 ---
 title: "El Lagarero"
 subtitle: "Isaias 63,1-6"
-category: "TODO"
+category: "Catecumenado"
 tags: 
 - TODO
 resources:

@@ -1,9 +1,9 @@
 ---
 title: "La Siega de las Naciones"
 subtitle: "Juan 4,31-38"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
 resources:
 - name: audio
   src: la-siega-de-las-naciones.mp3

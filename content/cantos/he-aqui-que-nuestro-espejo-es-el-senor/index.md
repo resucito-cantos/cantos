@@ -1,9 +1,9 @@
 ---
 title: "He aqui que nuestro espejo es el Senor"
 subtitle: "Oda XIII de Salomon"
-category: "TODO"
+category: "Catecumenado"
 tags:
-- TODO
+- Cuaresma
 resources:
 - name: audio
   src: he-aqui-que-nuestro-espejo-es-el-senor.mp3

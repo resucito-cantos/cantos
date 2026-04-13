@@ -1,9 +1,9 @@
 ---
 title: "No Resistáis al Mal"
 subtitle: "Mateo 5, 38ss"
-category: "TODO"
+category: "Elección"
 tags:
-- TODO
+- Comunión
 resources:
 - name: audio
   src: no-resistais-al-mal.mp3

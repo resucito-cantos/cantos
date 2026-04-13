@@ -1,9 +1,11 @@
 ---
 title: "Bendita eres tu, Maria"
 subtitle: "Lucas 1,42-45"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Virgen
+- Entrada
+- Final
 resources:
 - name: audio
   src: bendita-eres-tu-maria.mp3

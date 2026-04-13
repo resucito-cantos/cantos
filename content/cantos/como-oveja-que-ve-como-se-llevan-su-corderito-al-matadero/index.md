@@ -1,7 +1,7 @@
 ---
 title: "Como Oveja Que Ve Como Se Llevan Su Corderito Al Matadero"
 subtitle: "Kontakion con motivo del Viernes de Pasion, de san Romano el Meloda"
-category: "TODO"
+category: "Litúrgico"
 tags:
 - TODO
 resources:

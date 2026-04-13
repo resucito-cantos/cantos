@@ -1,9 +1,9 @@
 ---
 title: "Sermón de la Montaña"
 subtitle: "Lucas 6,20-38"
-category: "TODO"
+category: "Elección"
 tags:
-- TODO
+- Pascua
 resources:
 - name: audio
   src: sermon-de-la-montana.mp3

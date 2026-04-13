@@ -1,9 +1,10 @@
 ---
 title: "Sube Dios entre Aclamaciones"
 subtitle: "Sal 47 (46)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Pentecostés
+- Paz
 resources:
 - name: audio
   src: sube-dios-entre-aclamaciones.mp3

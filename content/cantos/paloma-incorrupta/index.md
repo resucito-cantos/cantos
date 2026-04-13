@@ -1,9 +1,9 @@
 ---
 title: "Paloma Incorrupta"
 subtitle: "Himno inspirado en los Kontakia de san Romano el Meloda"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Virgen
 resources:
 - name: audio
   src: paloma-incorrupta.mp3

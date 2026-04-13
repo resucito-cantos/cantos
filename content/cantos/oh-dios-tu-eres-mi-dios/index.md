@@ -1,7 +1,7 @@
 ---
 title: "Oh Dios, Tú Eres Mi Dios"
 subtitle: "Salmo 63 (62)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 ---

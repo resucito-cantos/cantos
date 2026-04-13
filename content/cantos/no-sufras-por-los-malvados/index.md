@@ -1,9 +1,9 @@
 ---
 title: "No Sufras por los Malvados"
 subtitle: "Salmo 37 (36)"
-category: "TODO"
+category: "Catecumenado"
 tags:
-- TODO
+- Cuaresma
 resources:
 - name: audio
   src: no-sufras-por-los-malvados.mp3

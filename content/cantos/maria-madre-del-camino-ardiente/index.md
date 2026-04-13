@@ -1,9 +1,10 @@
 ---
 title: "María, Madre del Camino Ardiente"
 subtitle: "Himno a la Virgen del Tercer Milenio"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Virgen
+- Entrada
 resources:
 - name: audio
   src: maria-madre-del-camino-ardiente.mp3

@@ -1,7 +1,7 @@
 ---
 title: "Exultad, justos, en el Senor"
 subtitle: "Salmo 33 (32)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

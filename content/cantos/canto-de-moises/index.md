@@ -1,9 +1,10 @@
 ---
 title: "Canto de Moisés"
 subtitle: "Éxodo 15,1-18"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Pascua
+
 ---
 ```chordpro
 {start_of_verse}

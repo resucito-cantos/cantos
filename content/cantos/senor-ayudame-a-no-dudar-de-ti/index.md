@@ -1,9 +1,9 @@
 ---
 title: "Senor, Ayudame a No Dudar de Ti"
 subtitle: "TODO"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
 resources:
 - name: audio
   src: senor-ayudame-a-no-dudar-de-ti.mp3

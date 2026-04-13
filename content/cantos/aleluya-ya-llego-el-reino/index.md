@@ -1,9 +1,10 @@
 ---
 title: "Aleluya, ya llego el reino"
 subtitle: "Apocalipsis 19,6-9"
-category: "TODO"
-tags: 
-- TODO
+category: "Precatecumenado"
+tags:
+- Comunión
+- Final
 resources:
 - name: audio
   src: aleluya-ya-llego-el-reino.mp3

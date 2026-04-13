@@ -1,9 +1,11 @@
 ---
 title: "El Jacal de los Pastores"
 subtitle: "Cantar de los Cantares 1,2-8"
-category: "TODO"
+category: "Elección"
 tags:
-- TODO
+- Pascua
+- Comunión
+
 ---
 ```chordpro
 {start_of_verse}

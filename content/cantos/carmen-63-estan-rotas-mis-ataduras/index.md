@@ -1,9 +1,9 @@
 ---
 title: "Carmen 63"
 subtitle: "Inspirado en un poema de Rabindranath Tagore"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Final
 resources:
 - name: audio
   src: carmen-63-estan-rotas-mis-ataduras.mp3

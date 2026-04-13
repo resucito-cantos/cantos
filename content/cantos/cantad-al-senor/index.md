@@ -1,9 +1,9 @@
 ---
 title: "Cantad al Señor"
 subtitle: "Salmo 117 (116)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Final
 resources:
 - name: audio
   src: cantad-al-senor.mp3

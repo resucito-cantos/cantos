@@ -1,9 +1,10 @@
 ---
 title: "Oh Señor, Nuestro Dios"
 subtitle: "Salmo 8"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Comunión
+- Final
 resources:
 - name: audio
   src: oh-senor-nuestro-dios.mp3

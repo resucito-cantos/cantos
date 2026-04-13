@@ -1,9 +1,10 @@
 ---
 title: "Cantad a Dios"
 subtitle: "Salmo 67 (68) 4-7"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
+- Final
 resources:
 - name: audio
   src: cantad-a-dios.mp3

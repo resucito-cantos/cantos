@@ -1,7 +1,7 @@
 ---
 title: "Credo"
 subtitle: "Simbolo Apostolico"
-category: "TODO"
+category: "Litúrgico"
 tags:
 - TODO
 resources:

@@ -1,7 +1,7 @@
 ---
 title: "Padre Nuestro"
 subtitle: "Tiempo de la Elección"
-category: "TODO"
+category: "Litúrgico"
 tags:
 - TODO
 resources:

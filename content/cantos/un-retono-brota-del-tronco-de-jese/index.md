@@ -1,9 +1,10 @@
 ---
 title: "Un Retono Brota del Tronco de Jese"
 subtitle: "Isaias 11, 1-11"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Navidad
+- Pentecostés
 resources:
 - name: audio
   src: un-retono-brota-del-tronco-de-jese.mp3

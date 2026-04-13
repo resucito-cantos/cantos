@@ -1,7 +1,7 @@
 ---
 title: "Vosotros Sois la Luz del Mundo"
 subtitle: "Mateo 5,14-16"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

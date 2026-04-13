@@ -1,9 +1,10 @@
 ---
 title: "Tú Eres mi Esperanza, Señor"
 subtitle: "Oda XXIX de Salomón"
-category: "TODO"
+category: "Elección"
 tags:
-- TODO
+- Cuaresma
+- Pascua
 resources:
 - name: audio
   src: tu-eres-mi-esperanza-senor.mp3

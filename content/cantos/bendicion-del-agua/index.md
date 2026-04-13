@@ -1,7 +1,7 @@
 ---
 title: "Bendicion del Agua"
 subtitle: "De la liturgia bautismal de la Vigilia pascual"
-category: "TODO"
+category: "Litúrgico"
 tags:
 - TODO
 resources:

@@ -1,7 +1,7 @@
 ---
 title: "Si Habéis Resucitado con Cristo"
 subtitle: "Colosenses 3,1-4"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

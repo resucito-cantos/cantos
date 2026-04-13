@@ -1,9 +1,9 @@
 ---
 title: "Bendeciré al Señor en todo tiempo"
 subtitle: "Salmo 34 (33)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
 resources:
 - name: audio
   src: bendecire-al-senor-en-todo-tiempo.mp3

@@ -1,9 +1,9 @@
 ---
 title: "Ave Maria II (1984)"
 subtitle: "Lucas 1, 28ss"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Virgen
 resources:
 - name: audio
   src: ave-maria-ii-1984.mp3

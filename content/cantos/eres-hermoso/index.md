@@ -1,9 +1,9 @@
 ---
 title: "Eres Hermoso"
 subtitle: "Salmo 45 (44)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Final
 resources:
 - name: audio
   src: eres-hermoso.mp3

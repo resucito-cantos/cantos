@@ -1,9 +1,9 @@
 ---
 title: "Shlom-Lej Mariam"
 subtitle: "Ave María en arameo antiguo"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Virgen
 resources:
 - name: audio
   src: shlom-leg-mariam.mp3

@@ -1,7 +1,7 @@
 ---
 title: "El Sembrador"
 subtitle: "Marcos 4, 3ss"
-category: "TODO"
+category: "Catecumenado"
 tags:
 - TODO
 resources:

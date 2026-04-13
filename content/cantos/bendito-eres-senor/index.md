@@ -1,7 +1,7 @@
 ---
 title: "Bendito eres, Senor"
 subtitle: "Daniel 3,52-57"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

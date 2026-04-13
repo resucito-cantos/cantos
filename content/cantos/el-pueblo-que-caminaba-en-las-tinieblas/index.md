@@ -1,9 +1,9 @@
 ---
 title: "El Pueblo Que Caminaba En Las Tinieblas"
 subtitle: "Isaias 9,1-5"
-category: "TODO"
-tags: 
-- TODO
+category: "Precatecumenado"
+tags:
+- Navidad
 resources:
 - name: audio
   src: el-pueblo-que-caminaba-en-las-tinieblas.mp3

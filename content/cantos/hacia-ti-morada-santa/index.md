@@ -1,7 +1,7 @@
 ---
 title: "Hacia ti morada santa"
 subtitle: "TODO"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

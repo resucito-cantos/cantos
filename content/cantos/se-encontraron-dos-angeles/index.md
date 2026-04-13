@@ -1,9 +1,10 @@
 ---
 title: "Se Encontraron Dos Angeles"
 subtitle: "Canto de los ninos"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Niños
+- Paz
 resources:
 - name: audio
   src: se-encontraron-dos-angeles.mp3

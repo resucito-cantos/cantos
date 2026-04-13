@@ -1,7 +1,7 @@
 ---
 title: "Pregón Pascual"
 subtitle: "Exultet"
-category: "TODO"
+category: "Litúrgico"
 tags: 
 - TODO
 resources:

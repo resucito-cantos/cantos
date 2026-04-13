@@ -1,9 +1,9 @@
 ---
 title: "A ti levanto mis ojos"
 subtitle: "Salmo 123 (122)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
 resources:
 - name: audio
   src: a-ti-levanto-mis-ojos.mp3

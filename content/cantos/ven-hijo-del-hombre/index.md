@@ -1,7 +1,7 @@
 ---
 title: "Ven, Hijo del Hombre"
 subtitle: "Apocalipsis 21, 17ss"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

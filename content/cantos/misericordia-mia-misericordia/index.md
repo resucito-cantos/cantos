@@ -1,9 +1,9 @@
 ---
 title: "Misericordia mía, Misericordia"
 subtitle: "Salmo 51 (50) \"Miserere\""
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
 resources:
 - name: audio
   src: misericordia-mia-misericordia.mp3

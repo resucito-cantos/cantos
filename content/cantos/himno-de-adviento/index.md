@@ -1,7 +1,7 @@
 ---
 title: "Himno de Adviento"
 subtitle: "Kiko Argüello"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

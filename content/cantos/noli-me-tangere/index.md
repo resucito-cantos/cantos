@@ -1,9 +1,9 @@
 ---
 title: "Noli Me Tangere"
 subtitle: "Juan 20, 15-17"
-category: "TODO"
+category: "Elección"
 tags:
-- TODO
+- Pascua
 resources:
 - name: audio
   src: noli-me-tangere.mp3

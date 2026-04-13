@@ -1,9 +1,9 @@
 ---
 title: "Salve, Reina de los Cielos"
 subtitle: "Kiko Arguello"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Virgen
 resources:
 - name: audio
   src: salve-reina-de-los-cielos.mp3

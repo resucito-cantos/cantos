@@ -1,9 +1,9 @@
 ---
 title: "No está aquí, resucitó"
 subtitle: "Mateo 28,1-8"
-category: "TODO"
-tags: 
-- TODO
+category: "Precatecumenado"
+tags:
+- Comunión
 resources:
 - name: audio
   src: no-esta-aqui-resucito.mp3

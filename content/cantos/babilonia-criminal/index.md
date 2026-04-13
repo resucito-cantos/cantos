@@ -1,9 +1,9 @@
 ---
 title: "Babilonia Criminal"
 subtitle: "Salmo 137 (136)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
 resources:
 - name: audio
   src: babilonia-criminal.mp3

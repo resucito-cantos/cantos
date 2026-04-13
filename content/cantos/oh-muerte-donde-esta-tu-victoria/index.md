@@ -1,9 +1,9 @@
 ---
 title: "Oh Muerte ¿Dónde Está Tu Victoria?"
 subtitle: "1 Corintios 15"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Comunión
 resources:
 - name: audio
   src: oh-muerte-donde-esta-tu-victoria.mp3

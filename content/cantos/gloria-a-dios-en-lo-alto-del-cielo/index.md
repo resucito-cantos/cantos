@@ -1,9 +1,9 @@
 ---
 title: "Gloria a Dios en lo alto del cielo"
 subtitle: "Himno Liturgico"
-category: "TODO"
+category: "Litúrgico"
 tags:
-- TODO
+- Pascua
 resources:
 - name: audio
   src: gloria-a-dios-en-lo-alto-del-cielo.mp3

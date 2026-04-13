@@ -1,9 +1,11 @@
 ---
 title: "Balaam"
 subtitle: "Numeros 23, 7-24"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Paz
+- Comunión
+- Final
 resources:
 - name: audio
   src: balaam.mp3

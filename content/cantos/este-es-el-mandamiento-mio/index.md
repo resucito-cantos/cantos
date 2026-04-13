@@ -1,9 +1,9 @@
 ---
 title: "Este Es El Mandamiento Mio"
 subtitle: "Juan 15,12ss"
-category: "TODO"
-tags: 
-- TODO
+category: "Precatecumenado"
+tags:
+- Comunión
 resources:
 - name: audio
   src: este-es-el-mandamiento-mio.mp3

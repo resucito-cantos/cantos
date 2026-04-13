@@ -1,9 +1,10 @@
 ---
 title: "Vamos Ya, Pastores"
 subtitle: "Villancico"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Navidad
+- Niños
 resources:
 - name: audio
   src: vamos-ya-pastores.mp3

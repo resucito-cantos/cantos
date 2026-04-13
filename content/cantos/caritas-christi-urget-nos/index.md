@@ -1,7 +1,7 @@
 ---
 title: "Caritas Christi urget nos"
 subtitle: "2 Corintios 5,14.15.17.21"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

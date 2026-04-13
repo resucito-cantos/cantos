@@ -1,9 +1,9 @@
 ---
 title: "Viene el Senor"
 subtitle: "Salmo 93 (92) - Apocalipsis 1,5-6"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Pentecostés
 resources:
 - name: audio
   src: viene-el-senor.mp3

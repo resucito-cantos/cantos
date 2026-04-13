@@ -1,7 +1,7 @@
 ---
 title: "Yo Te Amo, Señor"
 subtitle: "Salmo 18 (17)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

@@ -1,9 +1,10 @@
 ---
 title: "Elí, Elí, Lamá Sabactaní"
 subtitle: "Salmo 22 (21)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
+
 ---
 ```chordpro
 {start_of_chorus}

@@ -1,7 +1,7 @@
 ---
 title: "El Mesias Leon"
 subtitle: "Comentario al Apocalipsis (Victorino de Pettau)"
-category: "TODO"
+category: "Litúrgico"
 tags: 
 - TODO
 resources:

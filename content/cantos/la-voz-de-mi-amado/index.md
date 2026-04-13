@@ -1,9 +1,9 @@
 ---
 title: "La Voz de Mi Amado"
 subtitle: "Cantar de los Cantares 2,8-17"
-category: "TODO"
+category: "Elección"
 tags:
-- TODO
+- Pascua
 resources:
 - name: audio
   src: la-voz-de-mi-amado.mp3

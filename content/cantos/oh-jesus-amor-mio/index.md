@@ -1,9 +1,9 @@
 ---
 title: "Oh Jesús, Amor Mío"
 subtitle: "Kiko Argüello"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
 resources:
 - name: audio
   src: oh-jesus-amor-mio.mp3

@@ -1,9 +1,10 @@
 ---
 title: "Cuando Dormia"
 subtitle: "Cantar de los Cantares 5,2ss"
-category: "TODO"
+category: "Elección"
 tags:
-- TODO
+- Pascua
+- Comunión
 resources:
 - name: audio
   src: cuando-dormia.mp3

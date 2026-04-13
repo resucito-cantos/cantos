@@ -1,9 +1,9 @@
 ---
 title: "Alzaos puertas"
 subtitle: "Salmo 24 (23)"
-category: "TODO"
-tags: 
-- TODO
+category: "Precatecumenado"
+tags:
+- Entrada
 resources:
 - name: audio
   src: alzaos-puertas.mp3

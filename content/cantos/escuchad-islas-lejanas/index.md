@@ -1,7 +1,7 @@
 ---
 title: "Escuchad Islas Lejanas"
 subtitle: "Isaias 49,1-16"
-category: "TODO"
+category: "Catecumenado"
 tags: 
 - TODO
 resources:

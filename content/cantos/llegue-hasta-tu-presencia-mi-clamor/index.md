@@ -1,9 +1,10 @@
 ---
 title: "Llegue hasta tu presencia mi clamor"
 subtitle: "Salmo 119 (118)"
-category: "TODO"
-tags: 
-- TODO
+category: "Precatecumenado"
+tags:
+- Cuaresma
+- Final
 resources:
 - name: audio
   src: llegue-hasta-tu-presencia-mi-clamor.mp3

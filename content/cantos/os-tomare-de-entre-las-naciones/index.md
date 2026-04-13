@@ -1,9 +1,9 @@
 ---
 title: "Os Tomaré De Entre Las Naciones"
 subtitle: "Cántico de Ezequiel - Ez 36,24-28"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Final
 resources:
 - name: audio
   src: os-tomare-de-entre-las-naciones.mp3

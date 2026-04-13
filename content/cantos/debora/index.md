@@ -1,9 +1,9 @@
 ---
 title: "Debora"
 subtitle: "Jueces 5"
-category: "TODO"
+category: "Catecumenado"
 tags:
-- TODO
+- Virgen
 resources:
 - name: audio
   src: debora.mp3

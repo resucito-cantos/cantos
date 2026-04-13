@@ -1,7 +1,7 @@
 ---
 title: "Bendito sea Dios"
 subtitle: "Efesios 1,3-13"
-category: "TODO"
+category: "Catecumenado"
 tags:
 - TODO
 resources:

@@ -1,9 +1,9 @@
 ---
 title: "Por el Amor de Mis Amigos"
 subtitle: "Salmo 122 (121)"
-category: "TODO"
-tags: 
-- TODO
+category: "Precatecumenado"
+tags:
+- Paz
 resources:
 - name: audio
   src: por-el-amor-de-mis-amigos.mp3

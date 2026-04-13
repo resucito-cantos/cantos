@@ -1,7 +1,7 @@
 ---
 title: "El Señor Anuncia una Noticia"
 subtitle: "Salmo 68 (67)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

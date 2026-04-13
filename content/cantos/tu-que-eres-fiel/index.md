@@ -3,6 +3,8 @@ title: "Tú que eres fiel"
 subtitle: "Salmo 143 (142)"
 category: "Precatecumenado"
 tags:
+- Cuaresma
+- Final
   - Blanco
   - Penitencial
 resources:

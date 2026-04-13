@@ -1,7 +1,7 @@
 ---
 title: "Santo 1982"
 subtitle: "Tiempo Ordinario"
-category: "TODO"
+category: "Litúrgico"
 tags:
 - TODO
 resources:

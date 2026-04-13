@@ -1,9 +1,10 @@
 ---
 title: "Alegria, ha nacido el Salvador"
 subtitle: "Villancico (Kiko Arguello)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Navidad
+- Niños
 resources:
 - name: audio
   src: alegria-ha-nacido-el-salvador.mp3

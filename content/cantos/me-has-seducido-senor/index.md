@@ -1,7 +1,7 @@
 ---
 title: "Me Has Seducido, Señor"
 subtitle: "Jeremías 20,7-18"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

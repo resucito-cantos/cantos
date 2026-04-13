@@ -1,9 +1,10 @@
 ---
 title: "Como Lirio Entre Los Cardos"
 subtitle: "Ct 1,13ss"
-category: "TODO"
+category: "Elección"
 tags:
-- TODO
+- Pascua
+- Comunión
 resources:
 - name: audio
   src: como-lirio-entre-los-cardos.mp3

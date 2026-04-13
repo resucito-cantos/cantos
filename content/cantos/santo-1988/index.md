@@ -1,7 +1,7 @@
 ---
 title: "Santo 1988"
 subtitle: "TODO"
-category: "TODO"
+category: "Litúrgico"
 tags:
 - TODO
 resources:

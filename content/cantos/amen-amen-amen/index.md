@@ -1,9 +1,9 @@
 ---
 title: "Amen, Amen, Amen"
 subtitle: "Apocalipsis 7,12-14"
-category: "TODO"
-tags: 
-- TODO
+category: "Precatecumenado"
+tags:
+- Entrada
 resources:
 - name: audio
   src: amen-amen-amen.mp3

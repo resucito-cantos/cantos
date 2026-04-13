@@ -1,7 +1,7 @@
 ---
 title: "No Hay en Él Parecer"
 subtitle: "Isaías 53, 2ss"
-category: "TODO"
+category: "Catecumenado"
 tags:
 - TODO
 resources:

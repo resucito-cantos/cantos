@@ -1,9 +1,10 @@
 ---
 title: "Cuando El Senor"
 subtitle: "Salmo 126 (125)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
+- Final
 resources:
 - name: audio
   src: cuando-el-senor.mp3

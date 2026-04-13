@@ -1,9 +1,9 @@
 ---
 title: "Qué Amables Son Tus Moradas"
 subtitle: "Salmo 84 (83)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Final
 resources:
 - name: audio
   src: que-amables-son-tus-moradas.mp3

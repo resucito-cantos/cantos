@@ -1,9 +1,9 @@
 ---
 title: "Delante de los angeles"
 subtitle: "Salmo 138 (137)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Final
 resources:
 - name: audio
   src: delante-de-los-angeles.mp3

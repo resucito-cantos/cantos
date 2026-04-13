@@ -1,7 +1,7 @@
 ---
 title: "Cristo Es La Luz"
 subtitle: "TODO"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

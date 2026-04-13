@@ -3,6 +3,8 @@ title: "Himno a la cruz gloriosa"
 subtitle: "Kiko Argüello"
 category: "Catecumenado"
 tags:
+- Cuaresma
+- Final
   - Azul
 resources:
   - name: audio

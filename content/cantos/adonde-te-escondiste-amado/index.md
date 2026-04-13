@@ -1,9 +1,10 @@
 ---
 title: "Adonde te escondiste, amado"
 subtitle: "Cantico espiritual (San Juan de la Cruz)"
-category: "TODO"
+category: "Elección"
 tags:
-- TODO
+- Pascua
+
 ---
 ```chordpro
 {start_of_verse}

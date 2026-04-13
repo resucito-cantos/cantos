@@ -1,9 +1,10 @@
 ---
 title: "Aleluya, alabad al Senor"
 subtitle: "Salmo 150"
-category: "TODO"
-tags: 
-- TODO
+category: "Precatecumenado"
+tags:
+- Pascua
+- Final
 resources:
 - name: audio
   src: aleluya-alabad-al-senor.mp3

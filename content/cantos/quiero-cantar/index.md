@@ -1,9 +1,9 @@
 ---
 title: "Quiero Cantar"
 subtitle: "Salmo 57 (56)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
 resources:
 - name: audio
   src: quiero-cantar.mp3

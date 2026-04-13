@@ -1,7 +1,7 @@
 ---
 title: "Es Paciente - Himno Al Espiritu Santo"
 subtitle: "Kiko Arguello"
-category: "TODO"
+category: "Litúrgico"
 tags:
 - TODO
 resources:

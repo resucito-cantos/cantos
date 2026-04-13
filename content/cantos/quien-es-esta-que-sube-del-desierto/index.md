@@ -1,9 +1,10 @@
 ---
 title: "Quién Es Esta Que Sube Del Desierto"
 subtitle: "Cantar de los Cantares 8,5-7"
-category: "TODO"
+category: "Elección"
 tags:
-- TODO
+- Pascua
+- Comunión
 resources:
 - name: audio
   src: quien-es-esta-que-sube-del-desierto.mp3

@@ -4,6 +4,7 @@ subtitle: "Salmo 25 (24)"
 category: "Precatecumenado"
 draft: true
 tags:
+- Cuaresma
   - Pascua
 resources:
   - name: audio

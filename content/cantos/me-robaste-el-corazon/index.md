@@ -1,9 +1,10 @@
 ---
 title: "Me Robaste el Corazón"
 subtitle: "Ct 4,9-5,1"
-category: "TODO"
+category: "Elección"
 tags:
-- TODO
+- Pascua
+- Comunión
 resources:
 - name: audio
   src: me-robaste-el-corazon.mp3

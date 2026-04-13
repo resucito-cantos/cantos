@@ -1,9 +1,9 @@
 ---
 title: "Magníficat"
 subtitle: "Lucas 1,46-55"
-category: "TODO"
-tags: 
-- TODO
+category: "Precatecumenado"
+tags:
+- Virgen
 resources:
 - name: audio
   src: magnificat.mp3

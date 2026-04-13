@@ -1,7 +1,7 @@
 ---
 title: "Alabad al Senor en el cielo"
 subtitle: "Salmo 148"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

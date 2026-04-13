@@ -1,7 +1,7 @@
 ---
 title: "Mucho me han perseguido"
 subtitle: "Salmo 129 (128)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

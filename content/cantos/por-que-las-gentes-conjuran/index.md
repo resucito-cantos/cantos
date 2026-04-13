@@ -1,7 +1,7 @@
 ---
 title: "Por Qué las Gentes Conjuran"
 subtitle: "Salmo 2"
-category: "TODO"
+category: "Precatecumenado"
 tags: 
 - TODO
 resources:

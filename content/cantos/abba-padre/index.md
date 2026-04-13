@@ -1,9 +1,9 @@
 ---
 title: "Abbá Padre"
 subtitle: "Romanos 8,15-17"
-category: "TODO"
+category: "Elección"
 tags:
-- TODO
+- Comunión
 resources:
 - name: audio
   src: abba-padre.mp3

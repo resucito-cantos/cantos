@@ -1,9 +1,9 @@
 ---
 title: "Consolad A Mi Pueblo"
 subtitle: "Isaias 40,1-11"
-category: "TODO"
+category: "Catecumenado"
 tags:
-- TODO
+- Paz
 resources:
 - name: audio
   src: consolad-a-mi-pueblo.mp3

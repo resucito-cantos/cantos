@@ -1,9 +1,9 @@
 ---
 title: "He esperado en el Senor"
 subtitle: "Salmo 40 (39)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
 resources:
 - name: audio
   src: he-esperado-en-el-senor.mp3

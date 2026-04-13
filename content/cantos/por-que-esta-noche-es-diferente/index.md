@@ -1,9 +1,10 @@
 ---
 title: "Por Qué Esta Noche Es Diferente"
 subtitle: "Canto de los niños para la Noche de Pascua - de la Hagadá de Pésaj hebrea"
-category: "TODO"
-tags: 
-- TODO
+category: "Precatecumenado"
+tags:
+- Niños
+- Paz
 resources:
 - name: audio
   src: por-que-esta-noche-es-diferente.mp3

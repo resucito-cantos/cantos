@@ -1,9 +1,10 @@
 ---
 title: "Como es Maravilloso"
 subtitle: "Salmo 133 (132)"
-category: "TODO"
-tags: 
-- TODO
+category: "Precatecumenado"
+tags:
+- Paz
+- Final
 resources:
 - name: audio
   src: como-es-maravilloso.mp3

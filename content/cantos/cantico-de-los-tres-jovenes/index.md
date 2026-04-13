@@ -1,9 +1,9 @@
 ---
 title: "Cántico de los tres jóvenes"
 subtitle: "Daniel 3,57-58"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Final
 resources:
 - name: audio
   src: cantico-de-los-tres-jovenes.mp3

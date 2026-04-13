@@ -1,7 +1,7 @@
 ---
 title: "Benedictus"
 subtitle: "Lucas 1,67-80"
-category: "TODO"
+category: "Precatecumenado"
 tags: 
 - TODO
 resources:

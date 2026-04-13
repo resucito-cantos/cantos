@@ -1,9 +1,9 @@
 ---
 title: "Abraham"
 subtitle: "Teofania de Mambre - Genesis 18,1-5"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Entrada
 resources:
 - name: audio
   src: abraham.mp3

@@ -2,8 +2,11 @@
 title: "A la víctima pascual"
 subtitle: "Canto de entrada"
 category: "Precatecumenado"
-tags: 
+tags:
 - Pascua
+- Pentecostés
+- Entrada
+- Comunión
 resources:
 - name: audio
   src: a-la-victima-pascual.mp3

@@ -1,9 +1,9 @@
 ---
 title: "Si me he refugiado en el Señor"
 subtitle: "Salmo 11 (10)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
 resources:
 - name: audio
   src: si-me-he-refugiado-en-el-senor.mp3

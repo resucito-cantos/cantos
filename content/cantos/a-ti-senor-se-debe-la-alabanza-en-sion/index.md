@@ -1,9 +1,9 @@
 ---
 title: "A ti, Señor, se debe la alabanza en Sión"
 subtitle: "Salmo 65 (64)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
 resources:
 - name: audio
   src: a-ti-senor-se-debe-la-alabanza-en-sion.mp3

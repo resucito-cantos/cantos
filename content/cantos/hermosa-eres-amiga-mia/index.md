@@ -1,9 +1,10 @@
 ---
 title: "Hermosa eres, amiga mia"
 subtitle: "Ct 6-7"
-category: "TODO"
+category: "Elección"
 tags:
-- TODO
+- Pascua
+- Comunión
 resources:
 - name: audio
   src: hermosa-eres-amiga-mia.mp3

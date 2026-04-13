@@ -1,9 +1,9 @@
 ---
 title: "Porque Mi Yugo Es Suave"
 subtitle: "Mateo 11,28-30"
-category: "TODO"
-tags: 
-- TODO
+category: "Precatecumenado"
+tags:
+- Cuaresma
 resources:
 - name: audio
   src: porque-mi-yugo-es-suave.mp3

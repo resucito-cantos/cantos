@@ -1,9 +1,9 @@
 ---
 title: "Yo Vengo a Reunir"
 subtitle: "Isaías 66,18-21"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Final
 resources:
 - name: audio
   src: yo-vengo-a-reunir.mp3

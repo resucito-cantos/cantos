@@ -1,9 +1,9 @@
 ---
 title: "Una Gran Senal"
 subtitle: "Apocalipsis 12"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Pentecostés
 resources:
 - name: audio
   src: una-gran-senal.mp3

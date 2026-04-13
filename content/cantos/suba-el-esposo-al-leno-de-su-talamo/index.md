@@ -1,9 +1,9 @@
 ---
 title: "Suba el Esposo al Leño de su Tálamo"
 subtitle: "Himno (San Quodvultdeus)"
-category: "TODO"
+category: "Elección"
 tags:
-- TODO
+- Pascua
 resources:
 - name: audio
   src: suba-el-esposo-al-leno-de-su-talamo.mp3

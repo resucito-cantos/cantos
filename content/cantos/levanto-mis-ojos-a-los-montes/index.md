@@ -1,9 +1,10 @@
 ---
 title: "Levanto Mis Ojos a los Montes"
 subtitle: "Salmo 121 (120)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
+- Final
 resources:
 - name: audio
   src: levanto-mis-ojos-a-los-montes.mp3

@@ -1,9 +1,10 @@
 ---
 title: "Gracias a Yahveh"
 subtitle: "Salmo 136 (135)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Paz
+- Comunión
 resources:
 - name: audio
   src: gracias-a-yahveh.mp3

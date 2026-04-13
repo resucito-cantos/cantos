@@ -1,9 +1,10 @@
 ---
 title: "Ya Viene Mi Dios"
 subtitle: "Villancico"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Navidad
+- Niños
 resources:
 - name: audio
   src: ya-viene-mi-dios.mp3

@@ -1,7 +1,7 @@
 ---
 title: "Dice el Senor a mi Senor"
 subtitle: "Salmo 110 (109)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

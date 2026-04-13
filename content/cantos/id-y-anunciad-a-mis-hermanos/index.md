@@ -1,7 +1,7 @@
 ---
 title: "Id y Anunciad a Mis Hermanos"
 subtitle: "Mateo 28,7-10.16-20"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

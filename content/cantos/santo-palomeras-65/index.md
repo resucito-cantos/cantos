@@ -1,7 +1,7 @@
 ---
 title: "Santo Palomeras 65"
 subtitle: "TODO"
-category: "TODO"
+category: "Litúrgico"
 tags:
 - TODO
 resources:

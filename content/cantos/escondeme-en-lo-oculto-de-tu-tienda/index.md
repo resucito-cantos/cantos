@@ -1,9 +1,10 @@
 ---
 title: "Escondeme En Lo Oculto De Tu Tienda"
 subtitle: "Salmo 27 (26)"
-category: "TODO"
-tags: 
-- TODO
+category: "Precatecumenado"
+tags:
+- Final
+
 ---
 ```chordpro
 {start_of_chorus}

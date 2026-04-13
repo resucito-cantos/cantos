@@ -1,9 +1,9 @@
 ---
 title: "Quién Nos Separará"
 subtitle: "Romanos 8,34-39"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Comunión
 resources:
 - name: audio
   src: quien-nos-separara.mp3

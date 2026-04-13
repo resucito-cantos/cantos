@@ -1,7 +1,7 @@
 ---
 title: "Dia de reposo"
 subtitle: "Juan 8,52"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

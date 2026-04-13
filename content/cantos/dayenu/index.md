@@ -1,9 +1,10 @@
 ---
 title: "Dayenu"
 subtitle: "De la Hagada de Pesaj hebrea"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Pascua
+- Paz
 resources:
 - name: audio
   src: dayenu.mp3

@@ -1,9 +1,9 @@
 ---
 title: "Amo al Senor"
 subtitle: "Salmo 116 (114-115)"
-category: "TODO"
-tags: 
-- TODO
+category: "Precatecumenado"
+tags:
+- Cuaresma
 resources:
 - name: audio
   src: amo-al-senor.mp3

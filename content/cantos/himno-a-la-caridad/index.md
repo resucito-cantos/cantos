@@ -1,9 +1,11 @@
 ---
 title: "Himno a la Caridad"
 subtitle: "1 Corintios 13, 1-13"
-category: "TODO"
+category: "Elección"
 tags:
-- TODO
+- Pascua
+- Pentecostés
+- Comunión
 resources:
 - name: audio
   src: himno-a-la-caridad.mp3

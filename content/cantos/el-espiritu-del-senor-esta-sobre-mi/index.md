@@ -1,9 +1,9 @@
 ---
 title: "El Espiritu del Senor esta sobre mi"
 subtitle: "Lucas 4,18 - Isaias 61,1-3"
-category: "TODO"
+category: "Elección"
 tags:
-- TODO
+- Final
 resources:
 - name: audio
   src: el-espiritu-del-senor-esta-sobre-mi.mp3

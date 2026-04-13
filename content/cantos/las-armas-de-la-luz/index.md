@@ -1,9 +1,10 @@
 ---
 title: "Las Armas de la Luz"
 subtitle: "Efesios 6,11ss"
-category: "TODO"
+category: "Catecumenado"
 tags:
-- TODO
+- Cuaresma
+- Final
 resources:
 - name: audio
   src: las-armas-de-la-luz.mp3

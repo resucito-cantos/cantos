@@ -1,9 +1,10 @@
 ---
 title: "Llévame al cielo"
 subtitle: "Filipenses 1,23"
-category: "TODO"
-tags: 
-- TODO
+category: "Precatecumenado"
+tags:
+- Pentecostés
+
 ---
 ```chordpro
 {start_of_verse}

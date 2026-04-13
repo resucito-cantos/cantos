@@ -1,9 +1,9 @@
 ---
 title: "Al despertar"
 subtitle: "Salmo 17 (16)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
 resources:
 - name: audio
   src: al-despertar.mp3

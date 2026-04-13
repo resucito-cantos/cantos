@@ -1,9 +1,9 @@
 ---
 title: "En Una Noche Oscura"
 subtitle: "Subida al Monte Carmelo - San Juan de la Cruz"
-category: "TODO"
+category: "Elección"
 tags:
-- TODO
+- Pascua
 resources:
 - name: audio
   src: en-una-noche-oscura.mp3

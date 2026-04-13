@@ -1,9 +1,9 @@
 ---
 title: "Me Enseñarás el Camino de la Vida"
 subtitle: "Salmo 16 (15)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Final
 resources:
 - name: audio
   src: me-ensenaras-el-camino-de-la-vida.mp3

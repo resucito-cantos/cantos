@@ -1,7 +1,7 @@
 ---
 title: "Resucito"
 subtitle: "1 Corintios 15"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

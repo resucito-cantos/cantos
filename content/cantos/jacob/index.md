@@ -1,7 +1,7 @@
 ---
 title: "Jacob"
 subtitle: "Génesis 32,23-29"
-category: "TODO"
+category: "Catecumenado"
 tags:
 - TODO
 resources:

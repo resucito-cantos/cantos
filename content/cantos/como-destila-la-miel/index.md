@@ -1,9 +1,11 @@
 ---
 title: "Como Destila la Miel"
 subtitle: "Oda XL de Salomon"
-category: "TODO"
-tags: 
-- TODO
+category: "Elección"
+tags:
+- Pascua
+- Comunión
+
 ---
 ```chordpro
 {start_of_chorus}

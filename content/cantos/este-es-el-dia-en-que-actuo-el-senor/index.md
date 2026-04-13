@@ -1,7 +1,7 @@
 ---
 title: "Este Es El Dia En Que Actuo El Senor"
 subtitle: "Salmo 118 (117)"
-category: "TODO"
+category: "Precatecumenado"
 tags: 
 - TODO
 resources:

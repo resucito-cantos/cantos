@@ -1,9 +1,10 @@
 ---
 title: "Zaqueo"
 subtitle: "Lucas 19,1-10"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
+- Final
 resources:
 - name: audio
   src: zaqueo.mp3

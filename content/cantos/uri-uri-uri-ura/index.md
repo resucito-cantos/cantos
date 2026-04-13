@@ -1,9 +1,10 @@
 ---
 title: "Uri, Uri, Uri, Ura"
 subtitle: "Villancico"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Navidad
+- Niños
 resources:
 - name: audio
   src: uri-uri-uri-ura.mp3

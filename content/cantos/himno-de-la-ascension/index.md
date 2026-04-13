@@ -1,9 +1,9 @@
 ---
 title: "Himno de la Ascensión"
 subtitle: "Himno de Laudes del tiempo Pascual, de la Ascensión a Pentecostés"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Final
 resources:
 - name: audio
   src: himno-de-la-ascension.mp3

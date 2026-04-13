@@ -1,9 +1,9 @@
 ---
 title: "El Combate Escatologico"
 subtitle: "Apocalipsis 19,11-20"
-category: "TODO"
+category: "Catecumenado"
 tags:
-- TODO
+- Pascua
 resources:
 - name: audio
   src: el-combate-escatologico.mp3

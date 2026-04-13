@@ -1,9 +1,10 @@
 ---
 title: "Aquedah"
 subtitle: "Del Targum Neofiti sobre el sacrificio de Isaac (Genesis 22,1-19)"
-category: "TODO"
-tags: 
-- TODO
+category: "Precatecumenado"
+tags:
+- Pascua
+- Niños
 resources:
 - name: audio
   src: aquedah.mp3

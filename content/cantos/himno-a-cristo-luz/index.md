@@ -1,7 +1,7 @@
 ---
 title: "Himno a Cristo luz"
 subtitle: "Kiko Arguello"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

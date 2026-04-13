@@ -1,7 +1,7 @@
 ---
 title: "Te Deum"
 subtitle: "Kiko Argüello"
-category: "TODO"
+category: "Litúrgico"
 tags:
 - TODO
 resources:

@@ -1,9 +1,9 @@
 ---
 title: "Mirad qué estupendo"
 subtitle: "Salmo 133 (132)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Paz
 resources:
 - name: audio
   src: mirad-que-estupendo.mp3

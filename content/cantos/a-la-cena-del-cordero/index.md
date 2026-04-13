@@ -1,9 +1,10 @@
 ---
 title: "A la cena del cordero"
 subtitle: "Himno lat. Ad cenam Agni providi"
-category: "TODO"
+category: "Elección"
 tags:
-- TODO
+- Pascua
+- Entrada
 resources:
 - name: audio
   src: a-la-cena-del-cordero.mp3

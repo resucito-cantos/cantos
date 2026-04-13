@@ -1,9 +1,9 @@
 ---
 title: "La Salve"
 subtitle: "TODO"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Virgen
 resources:
 - name: audio
   src: la-salve.mp3

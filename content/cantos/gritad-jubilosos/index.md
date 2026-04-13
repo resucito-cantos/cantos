@@ -1,9 +1,10 @@
 ---
 title: "Gritad jubilosos"
 subtitle: "Isaias 12"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Final
+
 ---
 ```chordpro
 {start_of_chorus}

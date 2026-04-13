@@ -1,9 +1,9 @@
 ---
 title: "Quiero Andar"
 subtitle: "Canto Sefardí"
-category: "TODO"
+category: "Elección"
 tags:
-- TODO
+- Pascua
 resources:
 - name: audio
   src: quiero-andar.mp3

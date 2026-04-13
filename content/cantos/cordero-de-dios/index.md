@@ -1,7 +1,7 @@
 ---
 title: "Cordero De Dios"
 subtitle: "Letania del Cordero de Dios"
-category: "TODO"
+category: "Litúrgico"
 tags:
 - TODO
 resources:

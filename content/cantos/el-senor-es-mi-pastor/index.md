@@ -1,9 +1,9 @@
 ---
 title: "El Señor Es Mi Pastor"
 subtitle: "Salmo 23 (22)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Comunión
 resources:
 - name: audio
   src: el-senor-es-mi-pastor.mp3

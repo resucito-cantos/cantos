@@ -2,9 +2,10 @@
 title: "María, madre de la Iglesia"
 subtitle: "Juan 19,26-34"
 category: "Precatecumenado"
-tags: 
-- Maria
-- Pascua
+tags:
+- Cuaresma
+- Virgen
+- Entrada
 resources:
 - name: audio
   src: maria-madre-de-la-iglesia.mp3

@@ -1,9 +1,10 @@
 ---
 title: "Como la Cierva"
 subtitle: "Salmo 42-43 (41-42)"
-category: "TODO"
-tags: 
-- TODO
+category: "Precatecumenado"
+tags:
+- Cuaresma
+- Final
 resources:
 - name: audio
   src: como-la-cierva.mp3

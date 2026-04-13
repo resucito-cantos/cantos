@@ -1,9 +1,12 @@
 ---
 title: "Aleluya, bendecid al Senor"
 subtitle: "Salmo 134 (133)"
-category: "TODO"
-tags: 
-- TODO
+category: "Precatecumenado"
+tags:
+- Pascua
+- Niños
+- Paz
+- Final
 resources:
 - name: audio
   src: aleluya-bendecid-al-senor.mp3

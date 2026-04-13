@@ -1,9 +1,9 @@
 ---
 title: "Ave Maria I"
 subtitle: "Lucas 1,28ss"
-category: "TODO"
-tags: 
-- TODO
+category: "Precatecumenado"
+tags:
+- Virgen
 resources:
 - name: audio
   src: ave-maria-i.mp3

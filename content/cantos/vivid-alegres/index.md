@@ -1,9 +1,9 @@
 ---
 title: "Vivid Alegres"
 subtitle: "Filipenses 4,4ss"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Niños
 resources:
 - name: audio
   src: vivid-alegres.mp3

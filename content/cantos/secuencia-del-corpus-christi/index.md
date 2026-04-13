@@ -1,9 +1,10 @@
 ---
 title: "Lauda Sion"
 subtitle: "Secuencia del Corpus Christi (Santo Tomas de Aquino)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Pentecostés
+- Final
 resources:
 - name: audio
   src: secuencia-del-corpus-christi.mp3

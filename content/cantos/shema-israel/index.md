@@ -1,9 +1,9 @@
 ---
 title: "Shemá Israel"
 subtitle: "Deuteronomio 6,4-9"
-category: "TODO"
+category: "Catecumenado"
 tags:
-- TODO
+- Pentecostés
 resources:
 - name: audio
   src: shema-israel.mp3

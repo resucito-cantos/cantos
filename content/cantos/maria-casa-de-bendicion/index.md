@@ -1,9 +1,11 @@
 ---
 title: "María, casa de bendición"
 subtitle: "Las Bodas de Caná - Juan 2,1-11"
-category: "TODO"
-tags: 
-- TODO
+category: "Precatecumenado"
+tags:
+- Virgen
+- Entrada
+- Final
 resources:
 - name: audio
   src: maria-casa-de-bendicion.mp3

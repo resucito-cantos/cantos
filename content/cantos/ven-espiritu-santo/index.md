@@ -1,9 +1,9 @@
 ---
 title: "Ven, Espiritu Santo"
 subtitle: "Secuencia de Pentecostes"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Pentecostés
 resources:
 - name: audio
   src: ven-espiritu-santo.mp3

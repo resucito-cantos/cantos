@@ -1,7 +1,7 @@
 ---
 title: "Dichoso el Hombre"
 subtitle: "Salmo 1"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

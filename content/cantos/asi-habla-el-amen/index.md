@@ -1,9 +1,9 @@
 ---
 title: "Asi habla el Amen"
 subtitle: "Apocalipsis 3,14-22"
-category: "TODO"
-tags: 
-- TODO
+category: "Catecumenado"
+tags:
+- Cuaresma
 resources:
 - name: audio
   src: asi-habla-el-amen.mp3

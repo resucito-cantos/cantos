@@ -1,7 +1,7 @@
 ---
 title: "Tu Has Cubierto de Verguenza la Muerte"
 subtitle: "Homilia de Meliton de Sardes sobre la Pascua - Oficio de Lecturas de Jueves Santo"
-category: "TODO"
+category: "Catecumenado"
 tags:
 - TODO
 resources:

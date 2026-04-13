@@ -1,9 +1,10 @@
 ---
 title: "Jerusalén Reconstruida"
 subtitle: "Tobías 13,11-17"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
+- Paz
 resources:
 - name: audio
   src: jerusalen-reconstruida.mp3

@@ -1,7 +1,7 @@
 ---
 title: "Senor, Tu Me Escrutas y Conoces"
 subtitle: "Salmo 139 (138)"
-category: "TODO"
+category: "Catecumenado"
 tags:
 - TODO
 resources:

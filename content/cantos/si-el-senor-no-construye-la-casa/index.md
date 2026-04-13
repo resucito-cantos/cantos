@@ -1,9 +1,9 @@
 ---
 title: "Si el Señor no Construye la Casa"
 subtitle: "Salmo 127 (126)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Final
 resources:
 - name: audio
   src: si-el-senor-no-construye-la-casa.mp3

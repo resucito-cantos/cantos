@@ -1,7 +1,7 @@
 ---
 title: "Santo Hebreo"
 subtitle: "TODO"
-category: "TODO"
+category: "Litúrgico"
 tags:
 - TODO
 resources:

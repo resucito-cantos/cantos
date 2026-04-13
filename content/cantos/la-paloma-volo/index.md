@@ -1,9 +1,11 @@
 ---
 title: "La paloma voló"
 subtitle: "Oda XXIV de Salomón"
-category: "TODO"
-tags: 
-- TODO
+category: "Elección"
+tags:
+- Pascua
+- Comunión
+- Final
 resources:
 - name: audio
   src: la-paloma-volo.mp3

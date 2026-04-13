@@ -1,9 +1,10 @@
 ---
 title: "Hijas de Jerusalen"
 subtitle: "Lc 23, 28-46"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
+
 ---
 ```chordpro
 {start_of_chorus}

@@ -1,7 +1,7 @@
 ---
 title: "Te Estoy Llamando, Señor"
 subtitle: "Salmo 141 (140)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

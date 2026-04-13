@@ -1,9 +1,9 @@
 ---
 title: "Extiendo mis manos"
 subtitle: "Oda XXVII de Salomon"
-category: "TODO"
+category: "Elección"
 tags:
-- TODO
+- Cuaresma
 resources:
 - name: audio
   src: extiendo-mis-manos.mp3

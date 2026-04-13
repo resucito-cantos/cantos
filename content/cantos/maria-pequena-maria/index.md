@@ -1,9 +1,10 @@
 ---
 title: "María, Pequeña María"
 subtitle: "TODO"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Virgen
+- Entrada
 resources:
 - name: audio
   src: maria-pequena-maria.mp3

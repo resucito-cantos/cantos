@@ -1,7 +1,7 @@
 ---
 title: "Oh Dios, Por Tu Nombre Sálvame"
 subtitle: "Salmo 54 (53)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
 - TODO
 resources:

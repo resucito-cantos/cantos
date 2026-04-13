@@ -1,9 +1,9 @@
 ---
 title: "Sientate solitario y silencioso"
 subtitle: "Lamentaciones 3"
-category: "TODO"
+category: "Catecumenado"
 tags:
-- TODO
+- Cuaresma
 resources:
 - name: audio
   src: sientate-solitario-y-silencioso.mp3

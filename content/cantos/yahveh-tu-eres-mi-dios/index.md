@@ -1,9 +1,9 @@
 ---
 title: "Yahveh, Tú Eres Mi Dios"
 subtitle: "Isaías 25"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
 resources:
 - name: audio
   src: yahveh-tu-eres-mi-dios.mp3

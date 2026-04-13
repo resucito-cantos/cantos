@@ -1,9 +1,9 @@
 ---
 title: "De Profundis"
 subtitle: "Salmo 130 (129)"
-category: "TODO"
+category: "Precatecumenado"
 tags:
-- TODO
+- Cuaresma
 resources:
 - name: audio
   src: de-profundis.mp3
