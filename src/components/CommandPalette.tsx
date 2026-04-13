@@ -15,10 +15,8 @@ import {
 	MusicalNoteIcon,
 } from "@heroicons/react/24/outline";
 import { useNavigate } from "@tanstack/react-router";
-import { useMemo, useState } from "react";
 import { useChordsVisible } from "../hooks/useChordsVisible";
-import { filterCantos } from "../hooks/useSearch";
-import type { CantoEntry } from "../hooks/useSearch";
+import { useSearch, type SearchResult } from "../hooks/useSearch";
 
 const CATEGORY_COLORS: Record<string, string> = {
 	precatecumenado: "bg-white outline outline-1 outline-gray-300",
@@ -34,27 +32,23 @@ type ActionItem = {
 	action: () => void;
 };
 
-type PaletteItem = CantoEntry | ActionItem;
+type PaletteItem = SearchResult | ActionItem;
 
 function isAction(item: PaletteItem): item is ActionItem {
 	return "action" in item;
 }
 
 function PaletteContent({
-	cantos,
 	actions,
 	onClose,
+	floating = false,
 }: {
-	cantos: CantoEntry[];
 	actions: ActionItem[];
 	onClose?: () => void;
+	floating?: boolean;
 }) {
-	const [query, setQuery] = useState("");
 	const navigate = useNavigate();
-	const searchResults = useMemo(
-		() => filterCantos(cantos, query),
-		[cantos, query],
-	);
+	const { query, setQuery, results, isReady } = useSearch();
 
 	const showActions = query === "" && actions.length > 0;
 
@@ -76,7 +70,7 @@ function PaletteContent({
 				<ComboboxInput
 					autoFocus
 					className="col-start-1 row-start-1 h-12 w-full border-0 bg-transparent pr-4 pl-11 text-base text-gray-900 outline-hidden placeholder:text-gray-400 sm:text-sm"
-					placeholder="Buscar cantos..."
+					placeholder={isReady ? "Buscar cantos..." : "Cargando..."}
 					onChange={(e) => setQuery(e.target.value)}
 				/>
 				<MagnifyingGlassIcon
@@ -85,7 +79,7 @@ function PaletteContent({
 				/>
 			</div>
 
-			{(showActions || searchResults.length > 0) && (
+			{(showActions || results.length > 0) && (
 				<ComboboxOptions
 					static
 					className="max-h-96 transform-gpu scroll-py-3 overflow-y-auto border-t border-gray-100 p-3"
@@ -110,14 +104,14 @@ function PaletteContent({
 							</ComboboxOption>
 						))}
 
-					{searchResults.map((canto) => (
+					{results.map((result) => (
 						<ComboboxOption
-							key={canto.slug}
-							value={canto}
+							key={result.slug}
+							value={result}
 							className="group flex cursor-default rounded-xl p-3 select-none data-focus:bg-gray-100 data-focus:outline-hidden"
 						>
 							<div
-								className={`flex size-10 flex-none items-center justify-center rounded-lg ${CATEGORY_COLORS[canto.category?.toLowerCase() ?? ""] ?? "bg-gray-100"}`}
+								className={`flex size-10 flex-none items-center justify-center rounded-lg ${CATEGORY_COLORS[result.category?.toLowerCase() ?? ""] ?? "bg-gray-100"}`}
 							>
 								<MusicalNoteIcon
 									className="size-6 text-gray-500"
@@ -126,17 +120,17 @@ function PaletteContent({
 							</div>
 							<div className="ml-4 flex-auto">
 								<p className="text-sm font-medium text-gray-700 group-data-focus:text-gray-900">
-									{canto.title}
+									{result.title}
 								</p>
-								{canto.subtitle && (
+								{result.subtitle && (
 									<p className="text-sm text-gray-500 group-data-focus:text-gray-700">
-										{canto.subtitle}
+										{result.subtitle}
 									</p>
 								)}
 							</div>
-							{canto.category && canto.category !== "TODO" && (
+							{result.category && result.category !== "TODO" && (
 								<span className="ml-auto self-center rounded-full bg-red-50 px-2.5 py-0.5 text-xs font-medium text-red-600">
-									{canto.category}
+									{result.category}
 								</span>
 							)}
 						</ComboboxOption>
@@ -144,7 +138,7 @@ function PaletteContent({
 				</ComboboxOptions>
 			)}
 
-			{query !== "" && searchResults.length === 0 && (
+			{query !== "" && results.length === 0 && isReady && (
 				<div className="border-t border-gray-100 px-6 py-14 text-center text-sm sm:px-14">
 					<ExclamationCircleIcon
 						className="mx-auto size-6 text-gray-400"
@@ -161,13 +155,11 @@ function PaletteContent({
 }
 
 type CommandPaletteDialogProps = {
-	cantos: CantoEntry[];
 	open: boolean;
 	onClose: () => void;
 };
 
 export function CommandPaletteDialog({
-	cantos,
 	open,
 	onClose,
 }: CommandPaletteDialogProps) {
@@ -195,7 +187,6 @@ export function CommandPaletteDialog({
 					className="mx-auto max-w-xl transform divide-y divide-gray-100 overflow-hidden rounded-xl bg-white shadow-2xl outline-1 outline-black/5 transition-all data-closed:scale-95 data-closed:opacity-0 data-enter:duration-300 data-enter:ease-out data-leave:duration-200 data-leave:ease-in"
 				>
 					<PaletteContent
-						cantos={cantos}
 						actions={actions}
 						onClose={onClose}
 					/>
@@ -205,14 +196,12 @@ export function CommandPaletteDialog({
 	);
 }
 
-type CommandPaletteInlineProps = {
-	cantos: CantoEntry[];
-};
-
-export function CommandPaletteInline({ cantos }: CommandPaletteInlineProps) {
+export function CommandPaletteInline() {
 	return (
-		<div className="w-full max-w-xl divide-y divide-gray-100 overflow-hidden rounded-xl bg-white shadow-2xl outline-1 outline-black/5">
-			<PaletteContent cantos={cantos} actions={[]} />
+		<div className="relative w-full max-w-xl">
+			<div className="divide-y divide-gray-100 overflow-hidden rounded-xl bg-white shadow-2xl outline-1 outline-black/5">
+				<PaletteContent actions={[]} />
+			</div>
 		</div>
 	);
 }

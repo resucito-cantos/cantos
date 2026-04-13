@@ -1,7 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-import { allCantos } from "content-collections";
 import { CommandPaletteInline } from "../components/CommandPalette";
-import type { CantoEntry } from "../hooks/useSearch";
 
 const siteJsonLd = {
 	"@context": "https://schema.org",
@@ -49,10 +47,8 @@ export const Route = createFileRoute("/")({
 });
 
 function HomePage() {
-	const cantos = allCantos as CantoEntry[];
-
 	return (
-		<main className="flex min-h-screen flex-col items-center justify-center px-4">
+		<main className="flex min-h-screen flex-col items-center px-4 pt-[28vh] transition-[padding] duration-300">
 			<script
 				type="application/ld+json"
 				dangerouslySetInnerHTML={{ __html: JSON.stringify(siteJsonLd) }}
@@ -65,7 +61,7 @@ function HomePage() {
 				alt="Cantos del camino neocatecumenal"
 				className="mb-8 h-10 w-auto"
 			/>
-			<CommandPaletteInline cantos={cantos} />
+			<CommandPaletteInline />
 		</main>
 	);
 }

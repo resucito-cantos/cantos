@@ -6,7 +6,6 @@ import {
 	Scripts,
 	useMatches,
 } from "@tanstack/react-router";
-import { allCantos } from "content-collections";
 import { Bars3Icon } from "@heroicons/react/24/outline";
 import { useCallback, useEffect, useState } from "react";
 import { CommandPaletteDialog } from "../components/CommandPalette";
@@ -16,7 +15,6 @@ import {
 	loadSettings,
 	saveSettings,
 } from "../hooks/useChordsVisible";
-import type { CantoEntry } from "../hooks/useSearch";
 import appCss from "../styles.css?url";
 
 interface MyRouterContext {
@@ -54,7 +52,6 @@ function RootDocument({ children }: { children: React.ReactNode }) {
 function RootComponent() {
 	const [paletteOpen, setPaletteOpen] = useState(false);
 	const [chordsVisible, setChordsVisible] = useState(() => loadSettings().chordsVisible);
-	const cantos = allCantos as CantoEntry[];
 	const matches = useMatches();
 	const isHomePage = matches[matches.length - 1]?.fullPath === "/";
 
@@ -98,7 +95,6 @@ function RootComponent() {
 			)}
 
 			<CommandPaletteDialog
-				cantos={cantos}
 				open={paletteOpen}
 				onClose={() => setPaletteOpen(false)}
 			/>
