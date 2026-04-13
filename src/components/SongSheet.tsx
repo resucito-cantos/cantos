@@ -52,14 +52,20 @@ function SongSection({
 	section: Section;
 	onLineClick?: (timecode: string) => void;
 }) {
-	return (
-		<div className={`${section.type} ${section.bis ? "has-bis" : ""}`}>
-			{section.lines.map((line, i) => (
-				<VoiceLine key={i} line={line} onLineClick={onLineClick} />
-			))}
-			{section.bis && <span className="bis-label">BIS</span>}
-		</div>
-	);
+	const lines = section.lines.map((line, i) => (
+		<VoiceLine key={i} line={line} onLineClick={onLineClick} />
+	));
+
+	if (section.bis) {
+		return (
+			<div className={`${section.type} has-bis`}>
+				<div className="bis-content">{lines}</div>
+				<span className="bis-label">BIS</span>
+			</div>
+		);
+	}
+
+	return <div className={section.type}>{lines}</div>;
 }
 
 export function SongSheet({

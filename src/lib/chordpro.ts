@@ -138,8 +138,13 @@ export function parseChordPro(input: string): CantoAST {
 			if (target) target.bis = true;
 		}
 
-		// Content line — strip inline BIS markers and {BIS} from lyrics
+		// Content line — detect and strip BIS markers from lyrics
 		if (currentSection) {
+			// Detect bare "BIS" at end of line (e.g., "VENTE! BIS")
+			if (/\s+BIS\s*(A\.?|Asamblea)?\s*$/i.test(line)) {
+				currentSection.bis = true;
+			}
+
 			let cleanLine = line
 				.replace(/\{BIS[^}]*\}/gi, "")
 				.replace(/\s+BIS\s*(A\.?|Asamblea)?\s*$/i, "")
