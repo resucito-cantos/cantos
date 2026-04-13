@@ -1,6 +1,6 @@
 ---
 title: "La Salve"
-subtitle: "TODO"
+subtitle: "Himno"
 category: "Precatecumenado"
 tags:
 - Virgen
@@ -21,13 +21,14 @@ resources:
 [00:00.00] [Fa]en este [Mi]valle de lágrimas.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [La-]Ea, pues, [Fa]Señora, abogada [Mi]nuestra
+[00:00.00] [La-]Ea, pues, [Fa]Señora, Abogada [Mi]nuestra
 [00:00.00] [Fa]vuelve a nosotros esos tus ojos [Mi]misericordiosos,
 [00:00.00] [Fa]y después de este destierro, muéstranos a [Mi]Jesús,
 [00:00.00] fruto bendito de tu vientre.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Mi-]¡Oh cle[Mi]mentísima! ¡Oh [La-]piadosa! ¡Oh dulce Virgen [Mi-]María!
+[00:00.00] [Mi-]¡Oh cle[Mi]mentísima! ¡Oh [La-]piadosa!
+[00:00.00] ¡Oh dulce virgen [Mi-]María!
 [00:00.00] [Fa]Ruega por nosotros, Santa Madre de [Mi]Dios,
 [00:00.00] para que seamos dignos de alcanzar las [Fa]promesas
 [00:00.00] [Mi]de Jesucristo, de Jesucristo.

@@ -33,7 +33,7 @@ resources:
 {start_of_chorus}
 [00:00.00] TENGO SIEMPRE PRESENTE MI PECADO:
 [00:00.00] contra ti, contra ti solo pequé.
-[00:00.00] COMETÍ LA MALDAD ¿QUE ABORRECES.
+[00:00.00] COMETÍ LA MALDAD QUE ABORRECES.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] En la sentencia tendrás razón,
@@ -59,13 +59,13 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] LÁVAME: QUEDARÉ
-[00:00.00] MÁS BLANCO ¿QUE LA NIEVE.
+[00:00.00] MÁS BLANCO QUE LA NIEVE.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] Hazme oír el gozo y la alegría,
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] ¿QUE SE ALEGREN
+[00:00.00] QUE SE ALEGREN
 [00:00.00] LOS HUESOS QUEBRANTADOS.
 {end_of_chorus}
 {start_of_verse}
@@ -112,7 +112,7 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] SI TE OFRECIERA UN HOLOCAUSTO,
-[00:00.00] TÚ NO LO QUERÍAS.
+[00:00.00] TÚ NO LO QUERRÍAS.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] Mi sacrificio es un espíritu quebrantado.

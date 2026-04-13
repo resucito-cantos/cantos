@@ -1,6 +1,6 @@
 ---
 title: "Sola a Solo"
-subtitle: "Kiko Arguello"
+subtitle: "Himno"
 category: "Precatecumenado"
 tags: []
 resources:
@@ -10,7 +10,7 @@ resources:
 ```chordpro
 {start_of_verse}
 [00:00.00] [Re-add9]Sola a Solo bajo la [Sol-]cruz, [La]
-[00:00.00] [Re-]Maria, quien te podra separar?
+[00:00.00] [Re-]María, ¿quién te podrá separar?
 {end_of_verse}
 {column_break}
 {start_of_verse}
@@ -20,18 +20,18 @@ resources:
 {column_break}
 {start_of_verse}
 [00:00.00] [Sol-]Columna de amor,
-[00:00.00] [La]tu sujetas el cielo
-[00:00.00] [Re-]de nuestra debil fe.
+[00:00.00] [La]tú sujetas el cielo
+[00:00.00] [Re-]de nuestra débil fe.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Re-]SOLA A [Do*]SOLO!
 [00:00.00] [Fa]MADRE LLENA DE DIOS!
 [00:00.00] [La]RUEGA POR NOSOTROS
-[00:00.00] [Sib]¿QUE SOMOS [La]PECADORES.
+[00:00.00] [Sib]QUE SOMOS [La]PECADORES.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Re-add9]Sola a Solo bajo la [Sol-]cruz, [La]
-[00:00.00] [Re-]Maria, quien te podra separar?
+[00:00.00] [Re-]María, ¿quién te podrá separar?
 {end_of_verse}
 {column_break}
 {start_of_chorus}
@@ -41,8 +41,8 @@ resources:
 {column_break}
 {start_of_verse}
 [00:00.00] [Re-]Columna de [Sol-]amor,
-[00:00.00] [La]tu sujetas el cielo
-[00:00.00] [Re-]de nuestra debil fe.
+[00:00.00] [La]tú sujetas el cielo
+[00:00.00] [Re-]de nuestra débil fe.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Re-]SOLA A [Do*]SOLO! ...

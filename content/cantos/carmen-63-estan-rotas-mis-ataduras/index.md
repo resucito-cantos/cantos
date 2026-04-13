@@ -1,6 +1,6 @@
 ---
-title: "Carmen 63"
-subtitle: "Inspirado en un poema de Rabindranath Tagore"
+title: "Están rotas mis ataduras"
+subtitle: "Carmen 63 – Poema de Rabindranath Tagore"
 category: "Precatecumenado"
 tags:
 - Final

@@ -1,6 +1,6 @@
 ---
-title: "Himno a Cristo luz"
-subtitle: "Kiko Arguello"
+title: "Himno a Cristo Luz"
+subtitle: "Himno"
 category: "Precatecumenado"
 tags: []
 resources:
@@ -18,7 +18,7 @@ resources:
 {start_of_verse}
 [00:00.00] [Re7]¡Te bendecimos oh triple [Sol]luz de una indivisa [Si7]gloria!
 [00:00.00] [Mi-]Has dominado las tinieblas,
-[00:00.00] [Si7]has resurgido la luz resucitando [Mi-]de la muerte.
+[00:00.00] [Si7]has resurgido la luz resucitando [Mi-]de la noche.
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [Si7]Tú eres la eterna luz que ilumina [Mi-]nuestras vidas.

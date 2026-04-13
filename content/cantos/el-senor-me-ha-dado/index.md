@@ -1,6 +1,6 @@
 ---
 title: "El Señor Me Ha Dado"
-subtitle: "Tercer canto del Siervo de Yahveh - Isaías 50, 4-10"
+subtitle: "Tercer canto del Siervo de Yahveh – Isaías 50,4-10"
 category: "Catecumenado"
 tags: []
 resources:
@@ -9,11 +9,11 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [Si-]El Señor me ha dado [Si-]lengua de discipulo,
+[00:00.00] [Si-]El Señor me ha dado [Si-]lengua de discípulo,
 [00:00.00] [Do]para que pueda llevar al cansado
 [00:00.00] [Si-]una palabra alentadora.
 [00:00.00] [Do]Mañana tras mañana despiertas [Si-]tu mi oído,
-[00:00.00] [Do]para hacerme escuchar como un [Si-]discipulo.
+[00:00.00] [Do]para hacerme escuchar como un [Si-]discípulo.
 {end_of_verse}
 
 {start_of_chorus}

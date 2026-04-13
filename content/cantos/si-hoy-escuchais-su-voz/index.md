@@ -13,6 +13,7 @@ resources:
 [00:03.00] [Mi]SI HOY ESCUCHÁIS SU [Fa#-]VOZ
 [00:14.00] NO ENDUREZC[Si7]ÁIS EL CORAZ[Mi]ÓN.
 {end_of_chorus}
+{comment: BIS A.}
 
 {start_of_verse}
 [00:56.00] [Do#-]Venid, aclamemos al Se[Fa#-]ñor,
@@ -50,7 +51,7 @@ su pueblo, el reb[Sol#]año que Él con[Do#-]duce. [Mi]&nbsp;
 {column_break}
 
 {start_of_verse}
-[03:04.00] ¡[Do#-]Ojalá, oja[Sol#]lá escucheís hoy su voz!:
+[03:04.00] ¡[Do#-]Ojalá, oja[Sol#]lá escuchéis hoy su voz!:
 [03:12.00] «No endurezcáis el co[Do#-]razón como en Me[Fa#-]ribá,
 [03:18.00] como el día de Mas[Si7]a en el desi[Mi]erto,
 [03:27.00] donde vuestros [Do#-]padres dudaron de m[Sol#]í,

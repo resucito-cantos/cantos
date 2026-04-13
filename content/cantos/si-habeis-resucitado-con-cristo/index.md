@@ -12,8 +12,8 @@ resources:
 {start_of_chorus: S.}
 [00:00.00] [Mi-]SI HABÉIS RESUCITADO CON [Si7]CRISTO,
 [00:00.00] [Mi-]BUSCAD LAS COSAS DE ARRIBA,
-[00:00.00] [Re]¿DONDE ESTÁ [Do]CRISTO,
-[00:00.00] ¿DONDE ESTÁ CRISTO
+[00:00.00] [Re]DONDE ESTÁ [Do]CRISTO,
+[00:00.00] DÓNDE ESTÁ CRISTO
 [00:00.00] [Si7]SENTADO A LA DIESTRA DE DIOS.
 {end_of_chorus}
 {comment: BIS A}
@@ -52,7 +52,7 @@ resources:
 [00:00.00] [La-]está oculta unida con Cristo en [Si7]Dios.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] [Re]POR¿QUE HABÉIS [Do]MUERTO,
+[00:00.00] [Re]PORQUE HABÉIS [Do]MUERTO,
 [00:00.00] [La-]Y VUESTRA VIDA ESTÁ OCULTA
 [00:00.00] [Si7]UNIDA CON CRISTO EN DIOS.
 {end_of_chorus}

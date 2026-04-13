@@ -10,7 +10,7 @@ resources:
 ---
 ```chordpro
 {start_of_chorus}
-[00:00.00] [Mi-]ASI HABLA EL AMÉN,
+[00:00.00] [Mi-]ASÍ HABLA EL AMÉN,
 [00:00.00] [Do]EL TESTIGO FIEL Y [Re7]VERAZ,
 [00:00.00] EL PRINCIPIO
 [00:00.00] [Mi-]DE LAS CRIATURAS DE DIOS.
@@ -18,20 +18,20 @@ resources:
 {column_break}
 {start_of_verse}
 [00:00.00] [Mi-]Conozco tu conducta:
-[00:00.00] [Sol]no eres ni frio ni caliente.
-[00:00.00] [Re7]Ojala fueras frio o caliente
+[00:00.00] [Sol]no eres ni frío ni caliente.
+[00:00.00] [Re7]¡Ojalá fueras frío o caliente
 [00:00.00] [Si7]y no tibio,
 [00:00.00] [Mi-]porque voy a vomitarte de mi boca!
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Mi-]Tu dices: "yo soy rico; nada me falta".
+[00:00.00] [Mi-]Tú dices: «yo soy rico; nada me falta.»
 [00:00.00] [Sol]Y no te das cuenta
 [00:00.00] [Re7]de que eres un desgraciado,
-[00:00.00] [Si7]digno de compasion,
+[00:00.00] [Si7]digno de compasión,
 [00:00.00] [Mi-]pobre, ciego y desnudo.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Mi-]ASI HABLA EL AMÉN ...
+[00:00.00] [Mi-]ASÍ HABLA EL AMÉN ...
 {end_of_chorus}
 {column_break}
 {start_of_verse}
@@ -44,10 +44,10 @@ resources:
 {start_of_verse}
 [00:00.00] [Mi-]Mira que estoy a la puerta y llamo;
 [00:00.00] [Sol]si alguno oye mi voz y me abre,
-[00:00.00] [Re7]entrare en su [Si7]casa,
-[00:00.00] [Mi-]y cenare con el y el conmigo.
+[00:00.00] [Re7 Si7]entraré en su casa,
+[00:00.00] [Mi-]y cenaré con él y él conmigo.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Mi-]ASI HABLA EL AMÉN ...
+[00:00.00] [Mi-]ASÍ HABLA EL AMÉN ...
 {end_of_chorus}
 ```

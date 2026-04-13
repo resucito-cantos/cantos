@@ -1,6 +1,6 @@
 ---
 title: "Gritad jubilosos"
-subtitle: "Isaias 12"
+subtitle: "Isaías 12"
 category: "Precatecumenado"
 tags:
 - Final
@@ -9,19 +9,18 @@ tags:
 ```chordpro
 {start_of_chorus}
 [00:00.00] [La-]GRITAD JUBILOSOS:
-[00:00.00] [Sol]«¿QUE GRANDE ES EN MEDIO DE TI
-[00:00.00] [Fa]EL SANTO DE [Mi]ISRAEL».  BIS
-{end_of_chorus}
+[00:00.00] [Sol]«QUÉ GRANDE ES EN MEDIO DE TI
+[00:00.00] [Fa]EL SANTO DE [Mi]ISRAEL.»
+{end_of_chorus: BIS}
 {start_of_verse}
-[00:00.00] [Mi]El Señor es mi Dios y mi [La-]Salvador:
+[00:00.00] [Mi]El Señor es mi Dios y mi Salvador:
 [00:00.00] [La-]confiaré y no temeré,
 [00:00.00] [Fa]porque mi fuerza y mi canto es el [Sol]Señor,
-[00:00.00] [Fa]Él es mi [Mi]salvación.
+[00:00.00] [Fa]él es mi [Mi]salvación.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-]GRITAD JUBILOSOS ...
 {end_of_chorus}
-{column_break}
 {start_of_verse}
 [00:00.00] [Mi]Sacaréis aguas con [La-]gozo
 [00:00.00] [Mi]de las fuentes de la [La-]salvación.

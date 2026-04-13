@@ -10,90 +10,60 @@ resources:
 ---
 ```chordpro
 {start_of_chorus}
-[00:00.00] [Mi]
-[00:00.00] ERES HERMOSO, EL MAS HERMOSO
-[00:00.00] DE LOS HIJOS DE ADAN,
-[00:00.00] DE LOS HIJOS DE ADAN,
-[00:00.00] LA GRACIA ESTA EN TUS LABIOS.
+[00:00.00] [Mi]ERES HERMOSO, EL MÁS HERMOSO
+[00:00.00] DE LOS HIJOS DE ADÁN,
+[00:00.00] DE LOS HIJOS DE ADÁN,
+[00:00.00] LA GRACIA ESTÁ EN TUS LABIOS.
 [00:00.00] ERES BENDITO,
 [00:00.00] EL BENDITO PARA SIEMPRE.
 {end_of_chorus}
-{column_break}
 {start_of_verse}
-[00:00.00] [Do#-] [Sol#]
-[00:00.00] Cine la espada a tu flanco, oh valiente,
-[00:00.00] [La] [Sol#]
-[00:00.00] y marcha lleno de gloria y esplendor,
-[00:00.00] [Fa#-]
-[00:00.00] cabalga por la verdad,
-[00:00.00] [Sol#]
-[00:00.00] la mansedumbre, la justicia.
+[00:00.00] [Do#-]Ciñe la espada a tu flanco, oh [Sol#]valiente,
+[00:00.00] [La]y marcha lleno de gloria y [Sol#]esplendor,
+[00:00.00] [Fa#-]cabalga por la verdad,
+[00:00.00] [Sol#]la mansedumbre, la justicia.
 {end_of_verse}
 {start_of_verse}
 [00:00.00] ¡Tensa tu arco,
-[00:00.00] [La] [Sol#]
-[00:00.00] que hace temible tu derecha!
-[00:00.00] [Fa#-] [Sol#]
-[00:00.00] Agudas son tus flechas,
-[00:00.00] [Si] [La] [Sol#]
-[00:00.00] te han sido entregados los pueblos.
+[00:00.00] [La]que hace temible tu [Sol#]derecha!
+[00:00.00] [Fa#-]Agudas son tus [Sol#]flechas,
+[00:00.00] [Si]te han sido [La]entregados los [Sol#]pueblos.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Si] [La]
-[00:00.00] TE HAN SIDO ENTREGADOS
-[00:00.00] [Sol#]
-[00:00.00] LOS PUEBLOS.
+[00:00.00] [Si]TE HAN SIDO [La]ENTREGADOS LOS [Sol#]PUEBLOS.
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [Mi]
-[00:00.00] ERES HERMOSO ...
+[00:00.00] [Mi]ERES HERMOSO ...
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [Do#-] [Sol#]
-[00:00.00] Desde los palacios de marfil
-[00:00.00] [La] [Sol#]
-[00:00.00] las citaras cantan para ti.
-[00:00.00] [Fa#-] [Sol#]
-[00:00.00] Hijas de reyes son tus favoritas;
-[00:00.00] [Si] [La]
-[00:00.00] a tu derecha esta la reina,
-[00:00.00] [Sol#]
-[00:00.00] en oro de Ofir.
+[00:00.00] [Do#-]Desde los palacios de [Sol#]marfil
+[00:00.00] [La]las cítaras cantan para [Sol#]ti.
+[00:00.00] [Fa#-]Hijas de reyes son tus [Sol#]favoritas;
+[00:00.00] [Si]a tu derecha está la [La]reina,
+[00:00.00] [Sol#]en oro de Ofir.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Si] [La]
-[00:00.00] A TU DERECHA ESTA LA REINA,
-[00:00.00] [Sol#]
-[00:00.00] EN ORO DE OFIR.
+[00:00.00] [Si]A TU DERECHA ESTÁ LA [La]REINA,
+[00:00.00] [Sol#]EN ORO DE OFIR.
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [Mi]
-[00:00.00] ERES HERMOSO ...
+[00:00.00] [Mi]ERES HERMOSO ...
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Do#-] [Sol#] [La] [Sol#]
-[00:00.00] Escucha, hija y mira, inclina el oído,
-[00:00.00] [Fa#-] [Sol#]
-[00:00.00] olvida tu pueblo y la casa de tu padre,
-[00:00.00] [Si] [La] [Sol#]
-[00:00.00] y el rey se prendara de tu belleza.
+[00:00.00] [Do#-] [Sol#] [La] [Sol#]Escucha, hija y mira, inclina el oído,
+[00:00.00] [Fa#-]olvida tu pueblo y la casa de tu [Sol#]padre,
+[00:00.00] [Si]y el rey se prendará de tu [La]belleza.[Sol#]
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Si] [La]
-[00:00.00] Y EL REY SE PRENDARA
-[00:00.00] [Sol#]
-[00:00.00] DE TU BELLEZA.
+[00:00.00] [Si]Y EL REY SE PRENDARÁ DE TU [La]BELLEZA.[Sol#]
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Fa#-] [Sol#] [Fa#-] [Sol#]
-[00:00.00] El es tu Señor, ¡entregate a el!
-[00:00.00] [Si] [La]
-[00:00.00] Y en lugar de padres, tendras hijos,
-[00:00.00] que seran principes sobre la tierra.
+[00:00.00] [Fa#-] [Sol#]Él es tu Señor, [Fa#-]¡entrégate a [Sol#]él!
+[00:00.00] [Si]Y en lugar de padres, tendrás [La]hijos,
+[00:00.00] [Sol#]que serán príncipes sobre la tierra.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Mi]
-[00:00.00] ERES HERMOSO ...
+[00:00.00] [Mi]ERES HERMOSO ...
 {end_of_chorus}
 ```

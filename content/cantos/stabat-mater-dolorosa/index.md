@@ -18,18 +18,18 @@ resources:
 {start_of_verse}
 [00:00.00] [Re-]Era su alma un gemido,
 [00:00.00] [Do7]era un dolor, era un [Sib7]grito,
-[00:00.00] [La]cuando una espada la atraveso.
+[00:00.00] [La]cuando una espada la atravesó.
 {end_of_verse}
 {column_break}
 {start_of_verse}
-[00:00.00] [Re-]Oh que triste y afligida
-[00:00.00] [Do7]esta la bendita [Sib7]Madre del [La]Unigenito!
+[00:00.00] [Re-]¡Oh qué triste y afligida
+[00:00.00] [Do7]está la bendita [Sib7]Madre del [La]Unigénito!
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Re-]STABAT MATER DOLOROSA ...
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Re-]Cual es el hombre que no llora,
+[00:00.00] [Re-]¿Cuál es el hombre que no llora,
 [00:00.00] [Do7]al ver a la Madre de [Sib7]Cristo
 [00:00.00] [La]en tanto suplicio?
 {end_of_verse}
@@ -45,11 +45,11 @@ resources:
 {start_of_verse}
 [00:00.00] [Re-]Ella ve a su Hijo amado
 [00:00.00] [Do7]que muere [Sib7]desolado,
-[00:00.00] [La]y que entrega su Espiritu.
+[00:00.00] [La]y que entrega su Espíritu.
 {end_of_verse}
 {column_break}
 {start_of_verse}
-[00:00.00] [Re-]Oh, Cristo, cuando yo deba [Sol-]morir,
+[00:00.00] [Re-]Oh, Cristo, cuando yo deba [Sol-]morir, [melisma]
 [00:00.00] por tu bendita Madre
 [00:00.00] [Sib7]hazme conseguir
 [00:00.00] [La]la palma de la victoria.

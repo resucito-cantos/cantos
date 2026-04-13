@@ -1,6 +1,6 @@
 ---
-title: "Ven, Espiritu Santo"
-subtitle: "Secuencia de Pentecostes"
+title: "Ven, Espíritu Santo"
+subtitle: "Secuencia de Pentecostés"
 category: "Precatecumenado"
 tags:
 - Pentecostés
@@ -10,8 +10,8 @@ resources:
 ---
 ```chordpro
 {start_of_chorus: A.}
-[00:00.00] [Do]VEN, ESPI[Fa]RITU SANTO,
-[00:00.00] ENVIA UN RAYO [Mi]DE TU LUZ.
+[00:00.00] [Do]VEN, ESPÍ[Fa]RITU SANTO,
+[00:00.00] ENVÍA UN RAYO [Mi]DE TU LUZ.
 {end_of_chorus}
 {start_of_verse: S.}
 [00:00.00] [Do]Ven, padre de los [Fa]pobres,
@@ -20,7 +20,7 @@ resources:
 [00:00.00] dulce huésped [Mi]del alma.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] VEN, ESPIRITU SANTO ...
+[00:00.00] VEN, ESPÍRITU SANTO ...
 {end_of_chorus}
 {start_of_verse: S.}
 [00:00.00] [Do]Ven, dulce refri[Fa]gerio,
@@ -29,7 +29,7 @@ resources:
 [00:00.00] en el llanto eres [Mi]consuelo.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] VEN, ESPIRITU SANTO ...
+[00:00.00] VEN, ESPÍRITU SANTO ...
 {end_of_chorus}
 {start_of_verse: S.}
 [00:00.00] [Do]Oh luz dicho[Fa]sísima
@@ -38,7 +38,7 @@ resources:
 [00:00.00] llega hasta el fondo del [Mi]alma.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] VEN, ESPIRITU SANTO ...
+[00:00.00] VEN, ESPÍRITU SANTO ...
 {end_of_chorus}
 {column_break}
 {start_of_verse: S.}
@@ -48,7 +48,7 @@ resources:
 [00:00.00] cuando tú no estás con nosotros.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] VEN, ESPIRITU SANTO ...
+[00:00.00] VEN, ESPÍRITU SANTO ...
 {end_of_chorus}
 {start_of_verse: S.}
 [00:00.00] Lava lo que está sucio,
@@ -57,7 +57,7 @@ resources:
 [00:00.00] Convierte al duro y al rígido.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] VEN, ESPIRITU SANTO ...
+[00:00.00] VEN, ESPÍRITU SANTO ...
 {end_of_chorus}
 {start_of_verse: S.}
 [00:00.00] Inflama lo que está tibio,
@@ -66,7 +66,7 @@ resources:
 [00:00.00] danos tu amor y tu alegría.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] VEN, ESPIRITU SANTO ...
+[00:00.00] VEN, ESPÍRITU SANTO ...
 {end_of_chorus}
 {start_of_verse: S.}
 [00:00.00] Danos virtud y premio,
@@ -75,7 +75,7 @@ resources:
 [00:00.00] danos el gozo eterno.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] VEN, ESPIRITU SANTO ...
+[00:00.00] VEN, ESPÍRITU SANTO ...
 {end_of_chorus}
 {start_of_verse: S.}
 [00:00.00] Danos sabiduría y entendimiento,
@@ -84,7 +84,7 @@ resources:
 [00:00.00] danos el temor de Dios.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] VEN, ESPIRITU SANTO ...
+[00:00.00] VEN, ESPÍRITU SANTO ...
 {end_of_chorus}
 {start_of_verse: S.}
 [00:00.00] Danos tus santos frutos:
@@ -93,6 +93,6 @@ resources:
 [00:00.00] danos justicia y verdad.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] VEN, ESPIRITU SANTO ...
+[00:00.00] VEN, ESPÍRITU SANTO ...
 {end_of_chorus}
 ```

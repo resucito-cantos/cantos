@@ -14,14 +14,14 @@ resources:
 [00:00.00] [Mi-]Por el amor de mis [La-]amigos,
 [00:00.00] [Mi-]por el amor de mis hermanos,
 [00:00.00] [Si7]déjame que yo te diga:
-[00:00.00] [Mi-]La paz contigo!
+[00:00.00] [Mi-]¡La paz contigo!
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Mi-]Qué alegría cuando me dijeron:
+[00:00.00] [Mi-]¡Qué alegría cuando me dijeron:
 [00:00.00] [La-]vamos a la [Mi-]Casa del Señor!
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Si7]YA ESTAN PISANDO NUESTROS PIES
+[00:00.00] [Si7]¡YA ESTÁN PISANDO NUESTROS PIES
 [00:00.00] [Mi-]TUS UMBRALES, JERUSALÉN!
 {end_of_chorus}
 {start_of_chorus}
@@ -46,7 +46,7 @@ resources:
 [00:00.00] [La-]las tribus del [Mi-]Señor,
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Si7]SEGUN LA COSTUMBRE DE ISRAEL
+[00:00.00] [Si7]SEGÚN LA COSTUMBRE DE ISRAEL
 [00:00.00] [Mi-]PARA CANTAR AL SEÑOR.
 {end_of_chorus}
 {start_of_chorus}
@@ -54,15 +54,15 @@ resources:
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Mi-]Por el amor de mis [La-]amigos ...
-[00:00.00] [Mi-]... La paz contigo!
+[00:00.00] [Mi-]... ¡La paz contigo!
 {end_of_verse}
 {start_of_verse}
 [00:00.00] Pedid la paz, pedid la paz
 [00:00.00] [La-]para [Mi-]Jerusalén:
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] ¿QUE SEA LA PAZ, ¿QUE SEA LA PAZ
-[00:00.00] [Si7]CON TODOS LOS ¿QUE [Mi-]TE AMAN!
+[00:00.00] ¡QUE SEA LA PAZ, QUE SEA LA PAZ
+[00:00.00] [Si7]CON TODOS LOS QUE [Mi-]TE AMAN!
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [Mi-]JERUSALÉN, JERUSALÉN ...

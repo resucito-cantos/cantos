@@ -10,11 +10,11 @@ resources:
 ```chordpro
 {start_of_chorus}
 [00:00.00] [La-]ID Y ANUNCIAD A MIS HERMANOS
-[00:00.00] [Sol]¿QUE VAYAN A [La-]GALILEA;
-{end_of_chorus}
+[00:00.00] [Sol]QUE VAYAN A [La-]GALILEA;
+{end_of_chorus: BIS}
 {start_of_verse}
 [00:00.00] [Mi]que allí me verán,
-[00:00.00] [La-]¿QUE ALLÍ ME VERÁN.
+[00:00.00] [La-]QUE ALLÍ ME VERÁN.
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [La-]Los discípulos [Re-]fueron a [La-]Galilea,
@@ -52,8 +52,8 @@ resources:
 [00:00.00] [La-]todos los días.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]VED ¿QUE YO ESTOY CON VOSOTROS,
-[00:00.00] VED ¿QUE YO ESTOY CON [Sol]VOSOTROS
+[00:00.00] [La-]VED QUE YO ESTOY CON VOSOTROS,
+[00:00.00] VED QUE YO ESTOY CON [Sol]VOSOTROS
 [00:00.00] TODOS LOS [La-]DÍAS,
 {end_of_chorus}
 {start_of_verse}

@@ -13,11 +13,8 @@ resources:
 [00:00.00] [Re]PROCLAMA MI ALMA
 [00:00.00] [Mi]LA GRANDEZA DEL SEÑOR,
 [00:00.00] SE ALEGRA MI ESPÍRITU
-[00:00.00] [Re]EN DIOS MI SALVADOR.
-{end_of_chorus}
-
-{start_of_verse}
-[00:00.00] (La | Mi | La)
+[00:00.00] [Re]EN DIOS MI [La|Mi|La]SALVADOR.
+{end_of_chorus: BIS}
 {end_of_verse}
 
 {start_of_verse}
@@ -37,7 +34,7 @@ resources:
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] [La7]POR¿QUE EL [Re]PODEROSO
+[00:00.00] [La7]PORQUE EL [Re]PODEROSO
 [00:00.00] HA HECHO GRANDES
 [00:00.00] [La]COSAS EN MÍ:
 [00:00.00] [Mi]SU NOMBRE ES [La]SANTO.

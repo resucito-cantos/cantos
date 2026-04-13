@@ -1,6 +1,6 @@
 ---
 title: "Lauda Sion"
-subtitle: "Secuencia del Corpus Christi (Santo Tomas de Aquino)"
+subtitle: "Solemnidad del Cuerpo y la Sangre de Cristo"
 category: "Precatecumenado"
 tags:
 - Pentecostés
@@ -10,14 +10,15 @@ resources:
   src: secuencia-del-corpus-christi.mp3
 ---
 ```chordpro
+{capo: 3}
 {start_of_verse}
 [00:00.00] [La-]Alaba, Sión, al [Re-]Salvador,
-[00:00.00] [La-]Él es tu guía y tu Pastor.
+[00:00.00] [La-]él es tu guía y tu Pastor.
 [00:00.00] [Mi]Alábalo con himnos y cantos.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-]ESTE ES EL PAN DE LOS [Re-]ÁNGELES,
-[00:00.00] [La-]PAN DE LOS ¿QUE HACEN CAMINO.
+[00:00.00] [La-]PAN DE LOS QUE HACEN CAMINO.
 [00:00.00] [Mi]ESTE ES EL PAN DE LOS HIJOS.
 {end_of_chorus}
 {start_of_verse}
@@ -32,10 +33,10 @@ resources:
 {start_of_verse}
 [00:00.00] [La-]Ciertamente se [Re-]donó,
 [00:00.00] [Mi]al grupo de doce hermanos,
-[00:00.00] en fraterna y Santa Cena.
+[00:00.00] en fraterna y santa cena.
 [00:00.00] [La-]Esta es la fiesta [Re-]solemne,
 [00:00.00] [La-]en la cual celebramos,
-[00:00.00] [Mi]la primera y Santa Cena.
+[00:00.00] [Mi]la primera y santa cena.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-]ESTE ES EL PAN DE LOS [Re-]ÁNGELES...
@@ -56,7 +57,7 @@ resources:
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [La-]Cristo deja en su [Re-]memoria,
-[00:00.00] [La-]lo que hizo en Santa Cena,
+[00:00.00] [La-]lo que hizo en santa cena,
 [00:00.00] [Mi]nosotros lo renovamos.
 {end_of_verse}
 {start_of_verse}

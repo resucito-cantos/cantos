@@ -6,10 +6,10 @@ tags: []
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [La-]OH SEÑOR, TÚ ERES MI [Re-]DIOS,
+[00:00.00] [La-]OH DIOS, TÚ ERES MI [Re-]DIOS,
 [00:00.00] [La-]TE ANHELO DESDE LA AURORA,
 [00:00.00] [Fa]SEDIENTA DE TI [Mi]ESTÁ MI [La-]ALMA.
-{end_of_verse}
+{end_of_verse: BIS Asamblea}
 {start_of_verse}
 [00:00.00] [Fa]Sedienta de ti [Mi]está mi [La-]alma;
 [00:00.00] [Re-]ansia de ti tiene mi [Mi]carne,
@@ -21,7 +21,7 @@ tags: []
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Fa]Tu amor es para mí [Mi]más que la [La-]vida,
-[00:00.00] [Re-]te ensalzan con júbilo mis [Mi]labios;
+[00:00.00] [Re-]por eso te ensalzan mis [Mi]labios;
 [00:00.00] [La-]así yo te bendigo
 [00:00.00] [Fa]y en tu Nombre levanto [Mi]mis [La-]manos. [Mi7]
 {end_of_verse}

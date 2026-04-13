@@ -1,6 +1,6 @@
 ---
 title: "El Sembrador"
-subtitle: "Marcos 4, 3ss"
+subtitle: "Marcos 4,3ss"
 category: "Catecumenado"
 tags: []
 resources:
@@ -9,8 +9,8 @@ resources:
 ---
 ```chordpro
 {start_of_chorus}
-[00:00.00] [Re-]SALIO EL SEMBRADOR A [Do]SEMBRAR
-[00:00.00] [Re-]Y UNA PARTE CAYO EN EL CAMINO.
+[00:00.00] [Re-]SALIÓ EL SEMBRADOR A [Do]SEMBRAR
+[00:00.00] [Re-]Y UNA PARTE CAYÓ EN EL CAMINO.
 {end_of_chorus}
 
 {start_of_verse}
@@ -25,38 +25,38 @@ resources:
 {column_break}
 
 {start_of_chorus}
-[00:00.00] [Re-]SALIO EL SEMBRADOR A [Do]SEMBRAR
-[00:00.00] [Re-]Y UNA PARTE CAYO EN LA PIEDRA.
+[00:00.00] [Re-]SALIÓ EL SEMBRADOR A [Do]SEMBRAR
+[00:00.00] [Re-]Y UNA PARTE CAYÓ EN LA PIEDRA.
 {end_of_chorus}
 
 {start_of_verse}
-[00:00.00] [Fa]Salio el [Sol]sol, la seco, no [La]habia tierra.
+[00:00.00] [Fa]Salió el [Sol]sol, la secó, no [La]había tierra.
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] [Re-]NO HABIA TIERRA.
+[00:00.00] [Re-]NO HABÍA TIERRA.
 {end_of_chorus}
 
 {column_break}
 
 {start_of_chorus}
-[00:00.00] [Re-]SALIO EL SEMBRADOR A [Do]SEMBRAR
-[00:00.00] [Re-]Y UNA PARTE CAYO EN EL ESPINO.
+[00:00.00] [Re-]SALIÓ EL SEMBRADOR A [Do]SEMBRAR
+[00:00.00] [Re-]Y UNA PARTE CAYÓ EN EL ESPINO.
 {end_of_chorus}
 
 {start_of_verse}
-[00:00.00] [Fa]Crecio la semilla, [Sol]crecio el espino, la [La]sofoco.
+[00:00.00] [Fa]Creció la semilla, [Sol]creció el espino, la [La]sofocó.
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] [Re-]LA SOFOCO.
+[00:00.00] [Re-]LA SOFOCÓ.
 {end_of_chorus}
 
 {column_break}
 
 {start_of_chorus}
-[00:00.00] [Re-]SALIO EL SEMBRADOR A SEMBRAR
-[00:00.00] [Re-]Y UNA PARTE CAYO EN LA [Do]TIERRA.
+[00:00.00] [Re-]SALIÓ EL SEMBRADOR A SEMBRAR
+[00:00.00] [Re-]Y UNA PARTE CAYÓ EN LA [Do]TIERRA.
 {end_of_chorus}
 
 {start_of_verse}
@@ -70,12 +70,12 @@ resources:
 {column_break}
 
 {start_of_verse}
-[00:00.00] [Sol-]«El que tenga [Re-]oidos
-[00:00.00] [Sol-]y quiera [La]oir, que [Re-]oiga».
+[00:00.00] [Sol-]»El que tenga [Re-]oídos
+[00:00.00] [Sol-]y quiera [La]oír, que [Re-]oiga.»
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] ¡¿QUE OIGA!
+[00:00.00] ¡QUE OIGA!
 {end_of_chorus}
 
 {start_of_chorus}
@@ -87,7 +87,7 @@ resources:
 {column_break}
 
 {start_of_verse}
-[00:00.00] [Sol-]¿Que seas la [La]tierra,
+[00:00.00] [Sol-]Que seas la [La]tierra,
 {end_of_verse}
 
 {start_of_chorus}
@@ -95,10 +95,10 @@ resources:
 {end_of_chorus}
 
 {start_of_verse}
-[00:00.00] [Re-]donde [La7]Jesus [Re-]pueda crecer.
+[00:00.00] [Re-]donde [La7]Jesús [Re-]pueda crecer,
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] ¿DONDE JESÚS [La7]PUEDA [Re-]CRECER.
+[00:00.00] DONDE JESÚS [La7]PUEDA [Re-]CRECER.
 {end_of_chorus}
 ```

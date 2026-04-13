@@ -1,6 +1,6 @@
 ---
 title: "Salve, Reina de los Cielos"
-subtitle: "Kiko Arguello"
+subtitle: "Himno"
 category: "Precatecumenado"
 tags:
 - Virgen
@@ -11,14 +11,14 @@ resources:
 ```chordpro
 {start_of_verse: "S."}
 [00:00.00] [La-]Salve, reina de los cielos,
-[00:00.00] [Sol]senora, senora de los [Fa]angeles;
-[00:00.00] [Mi]salve raiz, salve puerta,
-[00:00.00] [Mi7]tu, tu, tu abriste el camino a nuestra [La-]luz.
+[00:00.00] [Sol]señora, señora de los [Fa]ángeles;
+[00:00.00] [Mi]salve raíz, salve puerta,
+[00:00.00] [Mi7]tú, tú, tú abriste el camino a nuestra [La-]luz.
 {end_of_verse}
 {column_break}
 {start_of_chorus}
-[00:00.00] [La-]ALEGRATE, VIRGEN [Mi]MARÍA,
-[00:00.00] [La-]ENTRE TODAS LA MAS BELLA;
+[00:00.00] [La-]ALÉGRATE, VIRGEN [Mi]MARÍA,
+[00:00.00] [La-]ENTRE TODAS LA MÁS BELLA;
 [00:00.00] [Re-]SALVE, ETERNA [La-]DONCELLA,
 [00:00.00] [Mi]RUEGA A CRISTO POR [La-]NOSOTROS.
 [00:00.00] [Re-]SALVE, ETERNA [La-]DONCELLA,
@@ -28,9 +28,9 @@ resources:
 {start_of_verse: "S."}
 [00:00.00] [La-]I... [Sol]I... [Fa]I... (melisma)
 [00:00.00] [Fa]Salve raiz, salve [Mi]puerta,
-[00:00.00] [Mi7]tu, tu, tu abriste el camino a nuestra [La-]luz.
+[00:00.00] [Mi7]tú, tú, tú abriste el camino a nuestra [La-]luz.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]ALEGRATE, VIRGEN [Mi]MARÍA ...
+[00:00.00] [La-]ALÉGRATE, VIRGEN [Mi]MARÍA ...
 {end_of_chorus}
 ```

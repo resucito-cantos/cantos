@@ -16,10 +16,10 @@ resources:
 [00:00.00] [Fa]HA ESCUCHADO MI [Mi7]GRITO,
 [00:00.00] [Fa]ME HA SACADO
 [00:00.00] [Mi]DE LA FOSA DE LA MUERTE.
-{end_of_verse}
+{end_of_verse: BIS A.}
 {start_of_verse}
-[00:00.00] [La-]Me ha sacado del fango [Mi-]de la ciénaga;
-[00:00.00] [La-]ha puesto mis pies sobre [Mi-]la roca,
+[00:00.00] [La-]Me ha sacado del fango de la [Mi-]ciénaga;
+[00:00.00] [La-]ha puesto mis pies sobre la [Mi-]roca,
 [00:00.00] [Fa]ha establecido mis [Mi7]pasos
 [00:00.00] [Fa]en un camino, en un camino [Mi]de salvación.
 {end_of_verse}
@@ -54,12 +54,14 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-]NO QUISISTE ...
+{end_of_chorus}
+{start_of_chorus}
 [00:00.00] [La-]HE ESPERADO ...
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] De mí está escrito en tu libro
 [00:00.00] que yo haga, Señor, tu voluntad.
-[00:00.00] Dios mío, eso solo quiero,
+[00:00.00] Dios mío, eso sólo quiero,
 [00:00.00] tu palabra, tu palabra en mis entrañas.
 {end_of_verse}
 {start_of_chorus}

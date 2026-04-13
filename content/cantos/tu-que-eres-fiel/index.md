@@ -19,8 +19,8 @@ resources:
 {end_of_verse}
 
 {start_of_chorus}
-[00:28.00] [Sol-]TÚ ¿QUE ERES FI[Do-]EL,*
-[00:37.00] [Sol-]TÚ ¿QUE ERES FI[Do-]EL RESP[Re7]ÓNDEME,
+[00:28.00] [Sol-]TÚ QUE ERES FI[Do-]EL,*
+[00:37.00] [Sol-]TÚ QUE ERES FI[Do-]EL RESP[Re7]ÓNDEME,
 [00:52.00] POR TU JUST[Do-]ICIA RESP[Re7]ÓNDEME.
 {end_of_chorus}
 
@@ -32,7 +32,7 @@ resources:
 {end_of_verse}
 
 {start_of_chorus}
-[01:26.00] [Sol-]TÚ ¿QUE ERES FI[Do-]EL...
+[01:26.00] [Sol-]TÚ QUE ERES FI[Do-]EL...
 {end_of_chorus}
 
 {start_of_verse}
@@ -43,7 +43,7 @@ resources:
 {end_of_verse}
 
 {start_of_chorus}
-[02:27.00] [Sol-]TÚ ¿QUE ERES FI[Do-]EL...
+[02:27.00] [Sol-]TÚ QUE ERES FI[Do-]EL...
 {end_of_chorus}
 
 {column_break}
@@ -56,7 +56,7 @@ resources:
 {end_of_verse}
 
 {start_of_chorus}
-[03:34.00] [Sol-]TÚ ¿QUE ERES FI[Do-]EL...
+[03:34.00] [Sol-]TÚ QUE ERES FI[Do-]EL...
 {end_of_chorus}
 
 {start_of_verse}
@@ -67,7 +67,7 @@ resources:
 {end_of_verse}
 
 {start_of_chorus}
-[04:38.00] [Sol-]TÚ ¿QUE ERES FI[Do-]EL...
+[04:38.00] [Sol-]TÚ QUE ERES FI[Do-]EL...
 {end_of_chorus}
 
 ```

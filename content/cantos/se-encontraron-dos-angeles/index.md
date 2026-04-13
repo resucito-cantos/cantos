@@ -1,6 +1,6 @@
 ---
 title: "Se Encontraron Dos Angeles"
-subtitle: "Canto de los ninos"
+subtitle: "Canto de los niños"
 category: "Precatecumenado"
 tags:
 - Niños

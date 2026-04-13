@@ -27,7 +27,7 @@ resources:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Do]ES UNGÜENTO PERFUMADO
-[00:00.00] [Si7]¿QUE DESCIENDE
+[00:00.00] [Si7]QUE DESCIENDE
 [00:00.00] [Do]HASTA EL BORDE DEL [Si7]MANTO.
 {end_of_chorus}
 {start_of_chorus}
@@ -52,7 +52,7 @@ resources:
 [00:00.00] [La-]nos ha dado su bendi[Si7]ción.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Do]POR¿QUE ALLÍ EL SEÑOR NOS HA [Si7]DADO,
+[00:00.00] [Do]PORQUE ALLÍ EL SEÑOR NOS HA [Si7]DADO,
 [00:00.00] [Do]NOS HA DADO SU [Si7]AMOR.
 {end_of_chorus}
 {start_of_chorus}
@@ -64,7 +64,7 @@ resources:
 [00:00.00] [La-]la vida eterna[Si7]mente.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Do]POR¿QUE ALLÍ EL SEÑOR NOS HA [Si7]DADO
+[00:00.00] [Do]PORQUE ALLÍ EL SEÑOR NOS HA [Si7]DADO
 [00:00.00] [Do]LA VIDA PARA [Si7]SIEMPRE.
 {end_of_chorus}
 {start_of_chorus}

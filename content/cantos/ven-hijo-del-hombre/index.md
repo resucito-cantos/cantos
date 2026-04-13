@@ -30,13 +30,13 @@ resources:
 {end_of_chorus}
 {start_of_verse: S. A.}
 [00:00.00] [Mi-]Ven, VEN,
-[00:00.00] [La-]amor mío, AMOR MIO;
+[00:00.00] [La-]amor mío, AMOR MÍO.
 [00:00.00] [Si7]ven, VEN,
 [00:00.00] ¡Señor Jesús! [Mi-]¡SEÑOR JESÚS!
 {end_of_verse}
 {start_of_verse: S. A.}
 [00:00.00] [Mi-]Calma, CALMA,
-[00:00.00] [La-]tú este fuego, TU ESTE FUEGO;
+[00:00.00] [La-]tú este fuego, TÚ ESTE FUEGO.
 [00:00.00] [Si7]ven, VEN,
 [00:00.00] ¡Señor Jesús! [Mi-]¡SEÑOR JESÚS!
 {end_of_verse}
@@ -52,11 +52,11 @@ resources:
 [00:00.00] [Mi-]Vieni, VIENI,
 [00:00.00] [La-]Figlio dell'uomo, FIGLIO DELL'UOMO,
 [00:00.00] [Si7]vieni, VIENI,
-[00:00.00] Signore Gesù! [Mi-]SIGNORE GESU!
+[00:00.00] Signore Gesù! [Mi-]SIGNORE GESÙ!
 {end_of_verse}
 {start_of_verse}
 [00:00.00] Viens, Fils de l'homme, viens, Seigneur Jesús.
-[00:00.00] Come, Son of the Man, come, Lord Jesús.
+[00:00.00] Come, Son of Man. Come, Lord Jesus.
 {end_of_verse}
 {start_of_verse: S. A.}
 [00:00.00] [Mi-]Ven, VEN,

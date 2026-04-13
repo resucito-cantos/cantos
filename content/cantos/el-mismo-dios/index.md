@@ -1,6 +1,6 @@
 ---
 title: "El Mismo Dios"
-subtitle: "2 Corintios 4,6-12"
+subtitle: "2ª Corintios 4,6-12"
 category: "Catecumenado"
 tags:
 - Comunión
@@ -15,10 +15,10 @@ resources:
 [00:00.00] [Fa#]es el mismo que ha hecho brillar la luz
 [00:00.00] en nuestros corazones,
 [00:00.00] [Si-]para irradiar el conocimiento de su gloria,
-[00:00.00] [La]que esta en el rostro de [Si-]Cristo.
+[00:00.00] [La]que está en el rostro de [Si-]Cristo.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La]¿QUE ESTA EN EL ROSTRO DE [Si-]CRISTO.
+[00:00.00] [La]QUE ESTÁ EN EL ROSTRO DE [Si-]CRISTO.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Fa#]PERO LLEVAMOS ESTE TESORO
@@ -37,9 +37,9 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_chorus}
-[00:00.00] [Si-]PARA ¿QUE SE [Sol]MANIFIESTE
+[00:00.00] [Si-]PARA QUE SE [Sol]MANIFIESTE
 [00:00.00] EN NUESTRO CUERPO
-[00:00.00] [Fa#]¿QUE ESTA RESUCITADO.
+[00:00.00] [Fa#]QUE ESTÁ RESUCITADO.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Fa#]Atribulados en todo, mas no desesperados;

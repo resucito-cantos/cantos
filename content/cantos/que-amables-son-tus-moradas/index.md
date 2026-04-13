@@ -22,14 +22,14 @@ resources:
 [00:00.00] [Sol]rey mío y Dios mío!
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]¡REY MIO Y DIOS MIO!
+[00:00.00] [La-]¡REY MÍO Y DIOS MÍO!
 {end_of_chorus}
 {column_break}
 {start_of_chorus}
-[00:00.00] [Fa]DICHOSOS LOS ¿QUE VIVEN EN TU [Do]CASA,
+[00:00.00] [Fa]DICHOSOS LOS QUE VIVEN EN TU [Do]CASA,
 [00:00.00] SIEMPRE CANTAN TUS [Sol]AMORES,
 [00:00.00] SIEMPRE CANTAN TUS [Do]AMORES.
-[00:00.00] [Fa]DICHOSO EL ¿QUE ENCUENTRA
+[00:00.00] [Fa]DICHOSO EL QUE ENCUENTRA
 [00:00.00] EN TI LA [Do]FUERZA,
 [00:00.00] Y EN SU CORAZÓN [Sol]DECIDE
 [00:00.00] [Do]EL SANTO VIAJE.
@@ -38,28 +38,28 @@ resources:
 [00:00.00] [Do]PASANDO POR EL VALLE DEL [Mi-]LLANTO, [La-]
 [00:00.00] [Do]EL LO CAMBIA EN [Mi-]BENDICIÓN.
 [00:00.00] [Fa]CRECE EN EL CAMINO SU VIGOR, [Do]
-[00:00.00] HASTA LLEGAR A [Sol]SION,
-[00:00.00] HASTA LLEGAR A [Do]SION.
+[00:00.00] HASTA LLEGAR A [Sol]SIÓN,
+[00:00.00] HASTA LLEGAR A [Do]SIÓN.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Fa]Mejor es un día en tus [Do]atrios
 [00:00.00] que mil fuera de [Sol]ellos,
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] ¿QUE MIL FUERA DE [Do]ELLOS,
+[00:00.00] QUE MIL FUERA DE [Do]ELLOS,
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Fa]porque estar en el umbral de tu [Do]casa
 [00:00.00] es siempre [Sol]mejor
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] ¿QUE HABITAR EN LOS [Do]PALACIOS.
+[00:00.00] QUE HABITAR EN LOS [Do]PALACIOS.
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [Do]PASANDO POR EL VALLE DEL [Mi-]LLANTO [La-]...
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [Fa]DICHOSOS LOS ¿QUE VIVEN ...
+[00:00.00] [Fa]DICHOSOS LOS QUE VIVEN ...
 [00:00.00] [Do]... EL SANTO VIAJE.
 {end_of_chorus}
 ```

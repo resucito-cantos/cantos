@@ -1,6 +1,6 @@
 ---
-title: "He aqui que vengo presto"
-subtitle: "Apocalipsis 22, 12-16"
+title: "He aquí que vengo presto"
+subtitle: "Apocalipsis 22,12-16"
 category: "Precatecumenado"
 tags: []
 resources:
@@ -9,28 +9,28 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [Mi]He aquí que [La]vengo presto
-[00:00.00] [Mi]y conmigo mi recompensa
-[00:00.00] [Si]para dar a cada uno
-[00:00.00] [Mi]según sus obras.
+[00:00.00] [Re]He aquí que vengo presto
+[00:00.00] [La]y conmigo mi recompensa
+[00:00.00] [Mi7]para dar a cada uno
+[00:00.00] [La]según sus obras.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Mi7]Yo soy el Alfa y [La]la Omega,
-[00:00.00] [Mi]el Primero y el Último,
-[00:00.00] [Si]el Primero y el Último,
-[00:00.00] [Mi]el Principio y el Fin.
+[00:00.00] [La7]Yo soy el Alfa y la [Re]Omega,
+[00:00.00] [La]el Primero y el Último,
+[00:00.00] [Mi7]el Primero y el Último,
+[00:00.00] [La]el Principio y el Fin.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Mi7]BIENAVENTURADOS [La]LOS ¿QUE LAVAN SUS [Mi]TÚNICAS
-[00:00.00] [Si]PARA TENER DERECHO AL ÁRBOL [Mi]DE LA VIDA.
-[00:00.00] [Mi7]BIENAVENTURADOS [La]LOS ¿QUE LAVAN SUS [Mi]TÚNICAS
-[00:00.00] [Si]PARA TENER DERECHO AL ÁRBOL [Mi]DE LA VIDA.
+[00:00.00] [La7]BIENAVENTURADOS [Re]LOS QUE LAVAN SUS [La]TÚNICAS
+[00:00.00] [Mi7]PARA TENER DERECHO AL ÁRBOL DE LA [La]VIDA.
+[00:00.00] [La7]BIENAVENTURADOS [Re]LOS QUE LAVAN SUS [La]TÚNICAS
+[00:00.00] [Mi7]PARA TENER DERECHO AL ÁRBOL DE LA [La]VIDA.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Do#]Yo soy la raíz y el [Fa#-]linaje de David,
-[00:00.00] [Do#]la Estrella de la [Fa#-]mañana.
+[00:00.00] [Fa#]Yo soy la raíz y el [Si-]linaje de David,
+[00:00.00] [Fa#]la Estrella de la [Si-]mañana.[La7]
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Mi7]BIENAVENTURADOS ... [La]
+[00:00.00] [La7]BIENAVENTURADOS ...[Re]
 {end_of_chorus}
 ```

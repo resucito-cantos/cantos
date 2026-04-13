@@ -26,13 +26,13 @@ resources:
 [00:00.00] [Mi-]SANTA, SANTA MARÍA,
 [00:00.00] MADRE, MADRE DE DIOS,
 [00:00.00] [Do]RUEGA, RUEGA POR [Si7]NOSOTROS
-[00:00.00] [Do]¿QUE SOMOS, ¿QUE SOMOS [Si7]PECADORES.
+[00:00.00] [Do]QUE SOMOS, QUE SOMOS [Si7]PECADORES.
 {end_of_chorus}
 {comment: BIS}
 {start_of_verse: S.}
 [00:00.00] [La-]María, no [Si7]llores.
 [00:00.00] [La-]María, María, María.
-[00:00.00] [Si7]¡Ayayy, ayayy, aay! [melisma]
+[00:00.00] [Si7]¡Ayaay, ayaay, aay! [melisma]
 {end_of_verse}
 {start_of_chorus: A.}
 [00:00.00] [Mi-]SANTA, SANTA MARÍA ...

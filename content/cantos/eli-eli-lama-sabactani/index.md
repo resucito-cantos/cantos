@@ -8,111 +8,108 @@ tags:
 ---
 ```chordpro
 {start_of_chorus}
-[00:00.00] [Re-]ELI, ELI, LAMA [La-]SABACTANI.
-[00:00.00] [Re-]DIOS MIO, DIOS MIO:
-[00:00.00] ¿POR ¿QUE ME HAS [La-]ABANDONADO?
+[00:00.00] [Mi-][Mi 7] [La-]ELÍ, ELÍ, LAMÁ [Mi-]SABACTANÍ.
+[00:00.00] DIOS MÍO, DIOS MÍO:
+[00:00.00] [La-]¿POR QUÉ ME HAS [Mi-]ABANDONADO?
 {end_of_chorus}
 
 {start_of_verse}
-[00:00.00] [Re-]¿Que lejos te siento de mis gritos!
-[00:00.00] De dia clamo, y no [La-]respondes,
-[00:00.00] grito de noche, y no hay reposo para mi.
+[00:00.00] [Si7]¡Qué lejos te siento de mis gritos!
+[00:00.00] De día clamo, y no [Mi-]respondes,
+[00:00.00] grito de noche, y no hay reposo para mí.
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] ELI, ELI, LAMA SABACTANI ...
+[00:00.00] ELÍ, ELÍ, LAMÁ SABACTANÍ ...
 {end_of_chorus}
 
 {start_of_verse}
-[00:00.00] [Re-]Mas tu eres el Santo;
-[00:00.00] tu que vives en medio de mi pueblo!
-[00:00.00] En ti esperaron nuestros padres,
-[00:00.00] y tu les ayudaste, en ti confiaron
-[00:00.00] [La-]y tu no defraudaste su confianza.
+[00:00.00] [Si7]¡Mas tú eres el Santo,
+[00:00.00] tú que vives en medio de mi pueblo!
+[00:00.00] A ti clamaron nuestros padres,
+[00:00.00] y tú les ayudaste,
+[00:00.00] en ti confiaron, y nunca quedaron [Mi-]confundidos.
 {end_of_verse}
 
 {start_of_verse}
-[00:00.00] Entonces, Dios, ¿por qué no me [Re-]ayudas?
+[00:00.00] Entonces, Dios, ¿por qué no me [Mi 7]ayudas?[La-]
 {end_of_verse}
 
 {start_of_verse}
-[00:00.00] ¿Acaso no soy un hombre?
-[00:00.00] [Re-]Eso ya no soy, soy un gusano,
+[00:00.00] [Mi-]¿Acaso no soy un hombre?
+[00:00.00] [Si7]Eso soy yo: soy un gusano,
 [00:00.00] desprecio de la gente, asco del pueblo,
-[00:00.00] todos los que me ven de mi se rien,
-[00:00.00] mueven la cabeza y dicen:
-[00:00.00] «Se confio a Dios, que el lo libre, [Mi-]si
-[00:00.00] que el lo salve, si tanto dice que le [La-]ama».
+[00:00.00] todos los que me ven de mí se ríen,
+[00:00.00] menean la cabeza y dicen:
+[00:00.00] «Se confió a Dios, ¡que él lo libre, [Mi-]
+[00:00.00] que él le salve, si tanto dice que le [La-]ama!»
 {end_of_verse}
 
 {start_of_verse}
-[00:00.00] Si, que tu me amas, si, que tu me quieres,
-[00:00.00] en el seno de mi madre me formaste:
-[00:00.00] cuando me dio a luz ya me ofrecia a ti,
-[00:00.00] desde el vientre de mi madre tu ya eras mi Dios.
+[00:00.00] Sí, que tú me amas, sí, que tú me [Mi 7]quieres,[La-]
+[00:00.00] en el seno de mi madre me [Mi-]formaste;
+[00:00.00] [Si7]cuando me dio a luz ya me ofrecía a ti,
+[00:00.00] desde el vientre tú ya eras mi [Mi-]Dios.
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] ELI, ELI, LAMA SABACTANI ...
+[00:00.00] ELÍ, ELÍ, LAMÁ SABACTANÍ ...
 {end_of_chorus}
 
 {column_break}
 
 {start_of_verse}
-[00:00.00] Soy agua sucia que se tira,
+[00:00.00] [Si7]Soy agua sucia que se tira,
 [00:00.00] todos mis huesos se dislocan,
-[00:00.00] mi corazon como cera
+[00:00.00] mi corazón como cera
 {end_of_verse}
 
 {start_of_verse}
 [00:00.00] se derrite en mis entrañas.
-[00:00.00] Mi paladar esta seco como teja,
-[00:00.00] y mi lengua esta pegada a la garganta.
+[00:00.00] Mi paladar está seco como teja, [Mi-]
+[00:00.00] y mi lengua está pegada a la garganta.
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] ELI, ELI, LAMA SABACTANI ...
+[00:00.00] ELÍ, ELÍ, LAMÁ SABACTANÍ ...
 {end_of_chorus}
 
 {start_of_verse}
-[00:00.00] Perros innumerables me rodean,
+[00:00.00] [Si7]Perros innumerables me rodean,
 [00:00.00] una banda de malhechores me acomete,
 [00:00.00] taladran mis manos y mis pies.
-[00:00.00] Se pueden contar mis huesos:
-[00:00.00] me observan y miran, se [La-]reparten
-[00:00.00] mis vestidos, se sortean mi tunica.
+[00:00.00] Se pueden contar mis huesos;
+[00:00.00] me observan y me miran, se [Mi-]reparten
+[00:00.00] mis vestidos, se sortean mi túnica.
 {end_of_verse}
 
 {start_of_verse}
-[00:00.00] ¡Mas tu, Dios mio, no estes [Re-]lejos, [Mi-]si
-[00:00.00] ven en mi [La-]ayuda, fuerza mia,
-[00:00.00] libra mi alma de la espada,
-[00:00.00] libra mi vida de las fauces del león,
-[00:00.00] libra mi alma de los cuernos de los bufalos!
+[00:00.00] [Mi 7]¡Mas tú, Dios mío, no estés [La-]lejos, [Mi-]
+[00:00.00] ven en mi [La-]ayuda, fuerza mía,
+[00:00.00] [Si7]libra mi alma de la espada,
+[00:00.00] libra mi vida de las fauces del león, [Mi-]
+[00:00.00] libra mi alma de los cuernos de los búfalos!
 {end_of_verse}
 
 {start_of_verse}
-[00:00.00] ¡Anunciad, ya, tu nombre a mis hermanos, [Mi-]si
-[00:00.00] en medio de la asamblea te cantare!:
-{end_of_verse}
-
-{start_of_verse}
-[00:00.00] «Los que a Yahveh amais, dadle alabanza,
+[00:00.00] [Mi 7]¡Anunciaré, yo, tu nombre a mis [La-]hermanos, [Mi-]
+[00:00.00] en medio de la asamblea te cantaré!:
+[00:00.00] [Si7]«Los que a Yahveh amáis, dadle alabanza,
 [00:00.00] raza de Jacob, glorificad a Yahveh,
-[00:00.00] temedle, pueblo de Israel.
-[00:00.00] Porque ha visto al Unico
+[00:00.00] [Mi-]temedle, pueblo de Israel.»
+[00:00.00] Porque ha sido el Único
 {end_of_verse}
 
 {start_of_verse}
-[00:00.00] que no ha tenido asco de esta pobre [Re-]vida,
-[00:00.00] ni ha desdeñado la miseria de mi vida;
-[00:00.00] no me ha ocultado su rostro cuando le invocaba.
-[00:00.00] Por eso, yo ahora se que los pobres viviran,
+[00:00.00] [Mi 7]que no has tenido asco de este [La-]pobre [Mi-]
+[00:00.00] ni has desdeñado la miseria de mi vida;
+[00:00.00] [Si7]no me ha ocultado su rostro cuando le invocaba.
+[00:00.00] [Mi-]Por eso, yo ahora sé que los pobres vivirán,
 {end_of_verse}
 
 {start_of_verse}
-[00:00.00] los pobres comeran, seran saciados,
-[00:00.00] los que buscan a Yahveh le encontraran
-[00:00.00] !su corazon, su corazon, vivira para siempre!
+[00:00.00] [Mi 7]los pobres comerán, serán [La-]saciados, [Mi-]
+[00:00.00] los que buscan a Yahveh lo encontrarán:
+[00:00.00] [Si7]¡su corazón, su corazón, vivirá para [Mi-]siempre!
 {end_of_verse}
 ```

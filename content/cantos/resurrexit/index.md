@@ -1,6 +1,6 @@
 ---
 title: "Resurrexit"
-subtitle: "Juan 11, 25-27"
+subtitle: "Diálogo de Nuestro Señor Jesucristo con Marta - Jn 11,25-27"
 category: "Precatecumenado"
 tags: []
 resources:
@@ -15,19 +15,19 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse: "S."}
-[00:00.00] [La-]Yo soy la [Mi7]Resurreccion.
-[00:00.00] [Re-]la Resurreccion, la [Mi7]Resurreccion.
+[00:00.00] [La-]Yo soy la [Mi7]Resurrección.
+[00:00.00] [Re-]la Resurrección, la [Mi7]Resurrección.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]YO SOY LA [Mi7]RESURRECCION.
-[00:00.00] [Re-]LA RESURRECCION,
-[00:00.00] [Mi7]LA RESURRECCION.
+[00:00.00] [La-]YO SOY LA [Mi7]RESURRECCIÓN.
+[00:00.00] [Re-]LA RESURRECCIÓN,
+[00:00.00] [Mi7]LA RESURRECCIÓN.
 {end_of_chorus}
 {column_break}
 {start_of_verse: "S."}
-[00:00.00] [Re-]El que cree en mi, aunque muera [Mi7]vivira,
-[00:00.00] [Re-]y todo el que vive y cree en [Fa]mi,
-[00:00.00] [Mi7]no morira [Fa]jamas, no morira [Mi]jamas.
+[00:00.00] [Re-]El que cree en mí, aunque muera [Mi7]vivirá,
+[00:00.00] [Re-]y todo el que vive y cree en [Fa]mí,
+[00:00.00] [Mi7]no morirá [Fa]jamás, no morirá [Mi]jamás.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-]RESURREXIT, RESURREXIT [Mi7]...
@@ -35,8 +35,8 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse: "S."}
-[00:00.00] [Re-]Crees tu [Mi7]esto? [Re-]Crees tu [Mi7]esto?
-[00:00.00] [Fa]Si, yo creo que tu eres el Cristo,
+[00:00.00] [Re-]¿Crees tú [Mi7]esto? [Re-]¿Crees tú [Mi7]esto?
+[00:00.00] [Fa]Sí, yo creo que tú eres el Cristo,
 [00:00.00] [Mi7]el Hijo de [Fa]Dios, que ha de venir al [Mi7]mundo.
 {end_of_verse}
 {start_of_chorus}
@@ -61,7 +61,7 @@ resources:
 {column_break}
 {start_of_chorus}
 [00:00.00] [La-]ALELUYA, [Mi7]ALELUYA,
-[00:00.00] [Fa]ALELUYA, ALELUYA.
+[00:00.00] [Fa]ALELUYA, [Mi]ALELUYA.
 {end_of_chorus}
 {column_break}
 {start_of_chorus}

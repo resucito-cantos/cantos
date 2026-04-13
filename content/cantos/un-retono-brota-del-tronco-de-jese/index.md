@@ -1,6 +1,6 @@
 ---
-title: "Un Retono Brota del Tronco de Jese"
-subtitle: "Isaias 11, 1-11"
+title: "Un Retoño Brota del Tronco de Jesé"
+subtitle: "Isaías 11,1-11"
 category: "Precatecumenado"
 tags:
 - Navidad
@@ -11,7 +11,7 @@ resources:
 ---
 ```chordpro
 {start_of_chorus: A.}
-[00:00.00] [Sol]UN RETOÑO BROTA DEL TRONCO DE JESÉ,
+[00:00.00] [Sol]UN RETOÑO BROTA DEL TRONCO DE [Mi-]JESÉ,
 [00:00.00] [Mi-]UN GERMEN DE SUS [Sol]RAÍCES.
 [00:00.00] [Do]SOBRE ÉL SE POSA EL ESPÍRITU DEL [Sol]SEÑOR:
 [00:00.00] [Re]ESPÍRITU DE SABIDURÍA E [Sol]INTELIGENCIA,
@@ -47,14 +47,14 @@ resources:
 [00:00.00] [Re]Porque ya nadie hará [Sol]daño.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] [Re]POR¿QUE YA NADIE HARÁ [Sol]DAÑO.
+[00:00.00] [Re]PORQUE YA NADIE HARÁ [Sol]DAÑO.
 {end_of_chorus}
 {start_of_verse: S.}
 [00:00.00] [Re]Porque la tierra estará [Sol]llena
 [00:00.00] del conocimiento del Señor.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] [Re]POR¿QUE LA TIERRA ESTARÁ LLENA
+[00:00.00] [Re]PORQUE LA TIERRA ESTARÁ LLENA
 [00:00.00] DEL CONOCIMIENTO DEL [Sol]SEÑOR.
 {end_of_chorus}
 {start_of_verse: S.}

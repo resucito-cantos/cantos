@@ -1,5 +1,5 @@
 ---
-title: "Este Es El Mandamiento Mio"
+title: "Este Es El Mandamiento Mío"
 subtitle: "Juan 15,12ss"
 category: "Precatecumenado"
 tags:
@@ -10,8 +10,8 @@ resources:
 ---
 ```chordpro
 {start_of_chorus}
-[00:00.00] [La-]ESTE ES EL [Do]MANDAMIENTO [Mi]MIO: ¿QUE OS [La-]AMEIS.
-[00:00.00] [Do]ESTE ES EL [Mi]MANDAMIENTO [La-]MIO: ¿QUE OS AMEIS
+[00:00.00] [La-]ESTE ES EL [Do]MANDAMIENTO [Mi]MÍO: QUE OS [La-]AMÉIS.
+[00:00.00] [Do]ESTE ES EL [Mi]MANDAMIENTO [La-]MÍO: QUE OS AMÉIS
 [00:00.00] [Do]LOS UNOS A LOS [Mi]OTROS COMO YO OS HE [La-]AMADO,
 [00:00.00] [Fa]COMO YO OS HE [Mi]AMADO, [Fa]COMO YO OS HE [Mi]AMADO.
 {end_of_chorus}
@@ -26,34 +26,32 @@ resources:
 [00:00.00] [Fa]vosotros sois mis [Mi]amigos.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Re-]No me habeis elegido vosotros a [Mi]mi,
-[00:00.00] [Re-]NO ME HABEIS ELEGIDO
-[00:00.00] [Mi]VOSOTROS A MI,
+[00:00.00] [Re-]No me habéis elegido vosotros a [Mi]mí,
+[00:00.00] [Re-]NO ME HABÉIS ELEGIDO VOSOTROS A [Mi]MÍ,
 [00:00.00] [Re-]sino que yo os he elegido a [Mi]vosotros,
-[00:00.00] [Re-]SINO ¿QUE YO
-[00:00.00] [Mi]OS HE ELEGIDO A VOSOTROS.
+[00:00.00] [Re-]SINO QUE YO OS HE ELEGIDO A [Mi]VOSOTROS.
 {end_of_verse}
 {column_break}
 {start_of_verse}
-[00:00.00] [La7]Si el mundo os odia sabed que antes
-[00:00.00] [Re-]me ha odiado a mi; si el mundo os [Mi]odia.
-[00:00.00] [La7]Padre, como tu estas en mi y yo estoy en [Mi]ti,
+[00:00.00] [La7]«Si el mundo os odia sabed que antes
+[00:00.00] [Re-]me ha odiado a mí; si el mundo os [Mi]odia.»
+[00:00.00] [La7]Padre, como tú estás en mí y yo estoy en [Re-]ti,[Mi]
 [00:00.00] [Re-]que ellos sean uno en [Mi]nosotros,
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Re-]¿QUE ELLOS SEAN UNO EN [Mi]NOSOTROS,
+[00:00.00] [Re-]QUE ELLOS SEAN UNO EN [Mi]NOSOTROS,
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Fa]para que el mundo crea
-[00:00.00] [Mi]que tu me has enviado,
+[00:00.00] [Mi]que tú me has enviado,
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Fa]PARA ¿QUE EL MUNDO CREA
-[00:00.00] [Mi]¿QUE TU ME HAS ENVIADO.
+[00:00.00] [Fa]PARA QUE EL MUNDO CREA
+[00:00.00] [Mi]QUE TÚ ME HAS ENVIADO.
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [Re-]ESTE ES EL MANDAMIENTO [Mi]MIO:
-[00:00.00] [Re-]¿QUE OS AMEIS COMO YO OS HE [Mi]AMADO,
-[00:00.00] [Fa]¿QUE OS AMEIS COMO YO OS HE AMADO.
+[00:00.00] [Re-]ESTE ES EL MANDAMIENTO [Mi]MÍO:
+[00:00.00] [Re-]QUE OS AMÉIS COMO YO OS HE [Mi]AMADO,
+[00:00.00] [Fa]QUE OS AMÉIS COMO YO OS HE [Mi]AMADO.
 {end_of_chorus}
 ```

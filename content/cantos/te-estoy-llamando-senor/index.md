@@ -12,7 +12,7 @@ resources:
 [00:00.00] [Re-]TE ESTOY LLAMANDO,
 [00:00.00] [La7]TE ESTOY LLAMANDO, SEÑOR,
 [00:00.00] [Sol-]VEN [La7]CORRIENDO,
-[00:00.00] [Re-]ESCUCHA MI VOZ ¿QUE YO A TI GRITO.
+[00:00.00] [Re-]ESCUCHA MI VOZ QUE YO A TI GRITO.
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] VALGA ANTE TI MI ORACIÓN
@@ -28,7 +28,7 @@ resources:
 [00:00.00] [Sib]a cometer acciones [La7]criminales.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Fa]¿Que el justo me [Re-]golpee por amor, [La7]y me co[Re-]rrija,
+[00:00.00] [Fa]Que el justo me [Re-]golpee por amor, [La7]y me co[Re-]rrija,
 [00:00.00] [Sib]para que el ungüento del malvado
 [00:00.00] [La7]no perfume mi cabeza,
 [00:00.00] [Sol-]porque yo me enviciaría en su [La7]maldad,

@@ -19,13 +19,13 @@ resources:
 {start_of_chorus}
 [00:00.00] [La7]MIENTRAS EL [Re-]REY, CRISTO,
 [00:00.00] [La-]LIBRA A TODOS DE LA CÁRCEL
-[00:00.00] [Mi7]TENEBROSA ¿QUE ES LA MUERTE
+[00:00.00] [Mi7]TENEBROSA QUE ES LA MUERTE
 [00:00.00] [La-]Y NOS CONDUCE A LA VIDA.
 {end_of_chorus: BIS}
 {start_of_verse}
 [00:00.00] [La-]Una piedra sellaba su sepulcro;
-[00:00.00] [Mi7]muchos guardias lo custodiaban.
-[00:00.00] Pero Él triunfa glorioso
+[00:00.00] [Mi7]muchos guardias le custodiaban.
+[00:00.00] Pero él triunfa glorioso
 [00:00.00] [La-]y de la muerte se levanta.
 {end_of_verse}
 {start_of_chorus}

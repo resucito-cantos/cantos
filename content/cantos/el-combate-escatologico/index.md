@@ -1,5 +1,5 @@
 ---
-title: "El Combate Escatologico"
+title: "El Combate Escatológico"
 subtitle: "Apocalipsis 19,11-20"
 category: "Catecumenado"
 tags:

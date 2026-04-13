@@ -1,5 +1,5 @@
 ---
-title: "Señor, No Me Corrijas en Tu Colera"
+title: "Señor, No Me Corrijas en Tu Cólera"
 subtitle: "Salmo 6"
 category: "Precatecumenado"
 tags: []
@@ -12,6 +12,7 @@ resources:
 [00:00.00] [Fa#sus4/7/9dim]SEÑOR, NO ME CORRIJAS EN TU [Sol]CÓLERA, [Fa#]
 [00:00.00] [Sol]EN TU FUROR NO ME [Fa#]CASTIGUES.
 {end_of_verse}
+{comment: BIS Asamblea}
 {start_of_verse}
 [00:00.00] [Si-]Ten piedad de mí, ten piedad [La]Señor,
 [00:00.00] [Fa#]que estoy sin fuerzas,
@@ -29,7 +30,7 @@ resources:
 {start_of_verse}
 [00:00.00] [Si-]Vuélvete, Señor, [La]recobra mi [Fa#]alma,
 [00:00.00] [Si-]sáname tú, [La]Señor, por tu [Fa#]misericordia.
-[00:00.00] [La]¿QUE NADIE ENTRE LOS MUERTOS
+[00:00.00] [La]QUE NADIE ENTRE LOS MUERTOS
 [00:00.00] [Fa#]TE RECUERDA, NI EN LOS [La]INFIERNOS
 [00:00.00] [Fa#]SE CANTA TU ALABANZA.
 {end_of_verse}

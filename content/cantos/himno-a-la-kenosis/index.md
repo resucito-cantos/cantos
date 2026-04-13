@@ -1,6 +1,6 @@
 ---
 title: "Himno a la Kenosis"
-subtitle: "Filipenses 2, 1-11"
+subtitle: "Filipenses 2,1-11"
 category: "Precatecumenado"
 tags:
 - Cuaresma

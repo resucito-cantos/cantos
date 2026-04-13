@@ -11,14 +11,14 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [La-]Por qué esta noche es diferente
+[00:00.00] [La-]¿Por qué esta noche es diferente
 [00:00.00] [Re-]de todas las [La-]otras noches?
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Re-]DE TODAS LAS [La-]OTRAS NOCHES.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [La-]¿Que todas las otras noches
+[00:00.00] [La-]Que todas las otras noches
 [00:00.00] nos vamos a la cama pronto
 [00:00.00] [Re-]y no nos quedamos [La-]levantados.
 {end_of_verse}
@@ -34,19 +34,19 @@ resources:
 [00:00.00] [Mi]ESTAMOS [La-]LEVANTADOS.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [La-]Por qué esta noche es diferente
+[00:00.00] [La-]¿Por qué esta noche es diferente
 [00:00.00] [Re-]de todas las [La-]otras noches?
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] DE TODAS LAS OTRAS NOCHES.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [La-]¿Que todas las otras noches
+[00:00.00] [La-]Que todas las otras noches
 [00:00.00] nos vamos a la cama pronto
 [00:00.00] después de haber cenado.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Re-]DESPUES DE HABER [La-]CENADO.
+[00:00.00] [Re-]DESPUÉS DE HABER [La-]CENADO.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Re-]Mas esta noche, esta [La-]noche [Mi]hemos ayunado.
@@ -57,14 +57,14 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [La-]Por qué esta noche es diferente
+[00:00.00] [La-]¿Por qué esta noche es diferente
 [00:00.00] [Re-]de todas las [La-]otras noches?
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Re-]DE TODAS LAS [La-]OTRAS NOCHES.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [La-]¿Que todas las otras noches
+[00:00.00] [La-]Que todas las otras noches
 [00:00.00] nos vamos a la cama pronto
 [00:00.00] [Re-]y no esperamos [La-]nada.
 {end_of_verse}
@@ -80,7 +80,7 @@ resources:
 [00:00.00] [Mi]ESTAMOS [La-]ESPERANDO.
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [La-]POR ¿QUE ESTA NOCHE ES DIFERENTE
+[00:00.00] [La-]¿POR QUÉ ESTA NOCHE ES DIFERENTE
 [00:00.00] [Re-]DE TODAS LAS OTRAS [La-]NOCHES?
 [00:00.00] [Re-]DE TODAS LAS OTRAS [La-]NOCHES.
 {end_of_chorus}

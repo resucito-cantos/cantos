@@ -1,6 +1,6 @@
 ---
 title: "Hacia ti morada santa"
-subtitle: "TODO"
+subtitle: "Himno"
 category: "Precatecumenado"
 tags: []
 resources:

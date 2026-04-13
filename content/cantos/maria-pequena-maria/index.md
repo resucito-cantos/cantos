@@ -1,6 +1,6 @@
 ---
 title: "María, Pequeña María"
-subtitle: "TODO"
+subtitle: "Himno"
 category: "Precatecumenado"
 tags:
 - Virgen
@@ -25,7 +25,7 @@ resources:
 {start_of_chorus}
 [00:00.00] [Re]VENGA EL SEÑOR CON [Fa#]NOSOTROS
 [00:00.00] [Sol]SI HEMOS HALLADO GRACIA A SUS [Re]OJOS.
-[00:00.00] [Sol]ES CIERTO ¿QUE SOMOS PECA[Re]DORES,
+[00:00.00] [Sol]ES CIERTO QUE SOMOS PECA[Re]DORES,
 [00:00.00] MAS RUEGA TÚ POR [La]NOSOTROS
 [00:00.00] [Sol]Y SEREMOS [La]SU PUEBLO Y SU [Re]HEREDAD.
 {end_of_chorus}

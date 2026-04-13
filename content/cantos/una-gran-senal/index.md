@@ -1,5 +1,5 @@
 ---
-title: "Una Gran Senal"
+title: "Una Gran Señal"
 subtitle: "Apocalipsis 12"
 category: "Precatecumenado"
 tags:

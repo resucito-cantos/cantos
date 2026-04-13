@@ -23,8 +23,6 @@ resources:
 [00:00.00] [La-]ME CONDUCE.
 {end_of_chorus}
 
-{column_break}
-
 {start_of_verse}
 [00:00.00] [Sol]Repara mis fuerzas y me [Fa]lleva
 [00:00.00] [Mi]por el camino del amor;
@@ -36,12 +34,10 @@ resources:
 [00:00.00] [La-]EL SEÑOR ES MI [Fa]PASTOR ...
 {end_of_chorus}
 
-{column_break}
-
 {start_of_verse}
 [00:00.00] [Sol]Aunque camine por valle [Fa]oscuro,
-[00:00.00] [Mi]no temere, porque tu
-[00:00.00] porque tu, porque tu {melisma}
+[00:00.00] [Mi]no temeré, porque tú
+[00:00.00] porque tú, porque tú {melisma}
 [00:00.00] [La-]vas conmigo;
 {end_of_verse}
 
@@ -54,10 +50,8 @@ resources:
 [00:00.00] [La-]EL SEÑOR ES MI [Fa]PASTOR ...
 {end_of_chorus}
 
-{column_break}
-
 {start_of_verse}
-[00:00.00] [Sol]Preparas una mesa ante [Fa]mi
+[00:00.00] [Sol]Preparas una mesa ante [Fa]mí
 [00:00.00] [Mi]frente a mis enemigos;
 [00:00.00] [Sol]me unges la cabeza con [Fa]perfume,
 [00:00.00] [Mi]mi copa rebosa.
@@ -67,12 +61,10 @@ resources:
 [00:00.00] [La-]EL SEÑOR ES MI [Fa]PASTOR ...
 {end_of_chorus}
 
-{column_break}
-
 {start_of_verse}
-[00:00.00] [Sol]Si, tu amor y tu [Fa]alegria
-[00:00.00] [Mi]me acompañaran;
-[00:00.00] [Sol]si, yo vivire en [Fa]tu casa [Mi]eternamente.
+[00:00.00] [Sol]Sí, tu amor y tu [Fa]alegría
+[00:00.00] [Mi]me acompañarán;
+[00:00.00] [Sol]sí, yo viviré en [Fa]tu casa [Mi]eternamente.
 {end_of_verse}
 
 {start_of_chorus}
@@ -80,7 +72,7 @@ resources:
 {end_of_chorus}
 
 {start_of_chorus}
-[00:00.00] [Sol]SI, TU AMOR Y TU [Fa]ALEGRÍA ...
+[00:00.00] [Sol]SÍ, TU AMOR Y TU [Fa]ALEGRÍA ...
 {end_of_chorus}
 
 {start_of_chorus}

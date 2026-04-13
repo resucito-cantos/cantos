@@ -1,6 +1,6 @@
 ---
-title: "Señor, Ayudame a No Dudar de Ti"
-subtitle: "TODO"
+title: "Señor, Ayúdame a No Dudar de Ti"
+subtitle: "Kiko Argüello"
 category: "Precatecumenado"
 tags:
 - Cuaresma
@@ -26,8 +26,8 @@ resources:
 [00:00.00] [Mi-]de mil ansias [Fa#]de amor.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [La]¿Que más no puedo [Sol]que [Fa#]sufrir
-[00:00.00] [Sol]que vivir [Fa#]en un gemido.
+[00:00.00] [La]Que más no puedo [Sol]que [Fa#]sufrir
+[00:00.00] [Mi-]que vivir en un [Fa#]gemido.
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [Re]Y en esta llama de tu amor [La]oscura,
@@ -44,11 +44,7 @@ resources:
 [00:00.00] [Si-]¡SEÑOR, [La]AYÚDAME, [Si-]SEÑOR, ...
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [Re]Y EN ESTA LLAMA DE TU AMOR [La]OSCURA,
-[00:00.00] EN ESTA TELA ¿QUE ENVUELVE MI ALMA
-[00:00.00] [Re]Y LA SOFOCA,
-[00:00.00] [Sol]SIENTO MI CORAZÓN ¿QUE SE [Fa#]DISLOCA,
-[00:00.00] [Sol]¿QUE SE ABRE Y SE [Fa#]DERRAMA
-[00:00.00] [Mi-]COMO AGUA ¿QUE INUNDA [Fa#]TU JARDÍN.
+[00:00.00] [Re]Y EN ESTA LLAMA DE TU AMOR ...
+[00:00.00] [Mi-]... COMO AGUA QUE INUNDA [Fa#]TU JARDÍN.
 {end_of_chorus}
 ```

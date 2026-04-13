@@ -1,6 +1,6 @@
 ---
 title: "Oh Muerte ¿Dónde Está Tu Victoria?"
-subtitle: "1 Corintios 15"
+subtitle: "1ª Corintios 15"
 category: "Precatecumenado"
 tags:
 - Comunión
