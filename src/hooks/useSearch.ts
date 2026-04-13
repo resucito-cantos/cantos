@@ -1,5 +1,6 @@
 import { useMemo, useState } from "react";
 import type { CantoAST } from "../lib/chordpro";
+import { normalize } from "../lib/normalize";
 
 export type CantoEntry = {
 	slug: string;
@@ -10,16 +11,6 @@ export type CantoEntry = {
 	audioSrc: string | null;
 	ast: CantoAST;
 };
-
-/**
- * Strip diacritical marks so "víctima" matches "victima"
- */
-function normalize(str: string): string {
-	return str
-		.toLowerCase()
-		.normalize("NFD")
-		.replace(/[\u0300-\u036f]/g, "");
-}
 
 /**
  * Extract plain lyrics text from AST
