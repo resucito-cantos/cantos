@@ -16,14 +16,50 @@ function isAudioRequest(url: URL): boolean {
 
 async function handleAudioFetch(request: Request): Promise<Response> {
   const cache = await caches.open(CACHE_NAME);
-  const cached = await cache.match(request);
-  if (cached) return cached;
 
-  const response = await fetch(request);
-  if (response.ok) {
-    cache.put(request, response.clone());
+  // Browsers use Range requests for audio — check cache with a rangeless key
+  const cacheKey = new Request(request.url);
+  const cached = await cache.match(cacheKey);
+
+  if (cached) {
+    return handleRange(request, cached);
   }
-  return response;
+
+  // Fetch the full resource (no Range header) so we can cache a complete response
+  const fullRequest = new Request(request.url);
+  const response = await fetch(fullRequest);
+  if (response.ok) {
+    cache.put(cacheKey, response.clone());
+  }
+
+  return handleRange(request, response);
+}
+
+function handleRange(request: Request, response: Response): Response {
+  const rangeHeader = request.headers.get("Range");
+  if (!rangeHeader || !response.body) return response;
+
+  const bytes = response.clone().arrayBuffer();
+  return bytes.then((buf) => {
+    const total = buf.byteLength;
+    const match = rangeHeader.match(/bytes=(\d+)-(\d*)/);
+    if (!match) return response;
+
+    const start = Number(match[1]);
+    const end = match[2] ? Number(match[2]) : total - 1;
+    const slice = buf.slice(start, end + 1);
+
+    return new Response(slice, {
+      status: 206,
+      statusText: "Partial Content",
+      headers: {
+        "Content-Range": `bytes ${start}-${end}/${total}`,
+        "Content-Length": String(slice.byteLength),
+        "Content-Type": response.headers.get("Content-Type") || "audio/mpeg",
+        "Accept-Ranges": "bytes",
+      },
+    });
+  });
 }
 
 self.addEventListener("fetch", (event) => {
