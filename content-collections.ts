@@ -19,6 +19,32 @@ const cantos = defineCollection({
 			)
 			.optional(),
 	}),
+	transform: async (doc) => {
+		const { parseChordPro } = await import("./src/lib/chordpro");
+
+		// Extract ChordPro content from markdown fenced code block
+		const chordproMatch = doc.content.match(
+			/```chordpro\n([\s\S]*?)```/,
+		);
+		const chordproRaw = chordproMatch ? chordproMatch[1] : "";
+		const ast = parseChordPro(chordproRaw);
+
+		// Find audio resource
+		const audioResource = doc.resources?.find((r) => r.name === "audio");
+		const audioSrc = audioResource
+			? `/audio/${doc._meta.path}/${audioResource.src}`
+			: null;
+
+		return {
+			slug: doc._meta.path,
+			title: doc.title,
+			subtitle: doc.subtitle ?? null,
+			category: doc.category ?? null,
+			tags: doc.tags ?? [],
+			audioSrc,
+			ast,
+		};
+	},
 });
 
 export default defineConfig({
