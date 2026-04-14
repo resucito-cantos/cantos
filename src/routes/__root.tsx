@@ -37,6 +37,13 @@ export const Route = createRootRouteWithContext<MyRouterContext>()({
 			{ rel: "apple-touch-icon", sizes: "180x180", href: "/apple-touch-icon.png" },
 			{ rel: "manifest", href: "/site.webmanifest" },
 		],
+		scripts: [
+			{
+				defer: true,
+				"data-domain": "resucito.co",
+				src: "https://plausible.io/js/script.js",
+			},
+		],
 	}),
 	shellComponent: RootDocument,
 	component: RootComponent,
