@@ -9,13 +9,31 @@
 // Additionally, you should also exclude this file from your linter and/or formatter to prevent it from being checked or modified.
 
 import { Route as rootRouteImport } from './routes/__root'
+import { Route as SyncRouteRouteImport } from './routes/sync/route'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as SyncIndexRouteImport } from './routes/sync/index'
+import { Route as SyncSlugRouteImport } from './routes/sync/$slug'
 import { Route as CantosSlugRouteImport } from './routes/cantos/$slug'
 
+const SyncRouteRoute = SyncRouteRouteImport.update({
+  id: '/sync',
+  path: '/sync',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
   getParentRoute: () => rootRouteImport,
+} as any)
+const SyncIndexRoute = SyncIndexRouteImport.update({
+  id: '/',
+  path: '/',
+  getParentRoute: () => SyncRouteRoute,
+} as any)
+const SyncSlugRoute = SyncSlugRouteImport.update({
+  id: '/$slug',
+  path: '/$slug',
+  getParentRoute: () => SyncRouteRoute,
 } as any)
 const CantosSlugRoute = CantosSlugRouteImport.update({
   id: '/cantos/$slug',
@@ -25,38 +43,68 @@ const CantosSlugRoute = CantosSlugRouteImport.update({
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/sync': typeof SyncRouteRouteWithChildren
   '/cantos/$slug': typeof CantosSlugRoute
+  '/sync/$slug': typeof SyncSlugRoute
+  '/sync/': typeof SyncIndexRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/cantos/$slug': typeof CantosSlugRoute
+  '/sync/$slug': typeof SyncSlugRoute
+  '/sync': typeof SyncIndexRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/sync': typeof SyncRouteRouteWithChildren
   '/cantos/$slug': typeof CantosSlugRoute
+  '/sync/$slug': typeof SyncSlugRoute
+  '/sync/': typeof SyncIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/cantos/$slug'
+  fullPaths: '/' | '/sync' | '/cantos/$slug' | '/sync/$slug' | '/sync/'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/cantos/$slug'
-  id: '__root__' | '/' | '/cantos/$slug'
+  to: '/' | '/cantos/$slug' | '/sync/$slug' | '/sync'
+  id: '__root__' | '/' | '/sync' | '/cantos/$slug' | '/sync/$slug' | '/sync/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  SyncRouteRoute: typeof SyncRouteRouteWithChildren
   CantosSlugRoute: typeof CantosSlugRoute
 }
 
 declare module '@tanstack/react-router' {
   interface FileRoutesByPath {
+    '/sync': {
+      id: '/sync'
+      path: '/sync'
+      fullPath: '/sync'
+      preLoaderRoute: typeof SyncRouteRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/': {
       id: '/'
       path: '/'
       fullPath: '/'
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
+    }
+    '/sync/': {
+      id: '/sync/'
+      path: '/'
+      fullPath: '/sync/'
+      preLoaderRoute: typeof SyncIndexRouteImport
+      parentRoute: typeof SyncRouteRoute
+    }
+    '/sync/$slug': {
+      id: '/sync/$slug'
+      path: '/$slug'
+      fullPath: '/sync/$slug'
+      preLoaderRoute: typeof SyncSlugRouteImport
+      parentRoute: typeof SyncRouteRoute
     }
     '/cantos/$slug': {
       id: '/cantos/$slug'
@@ -68,8 +116,23 @@ declare module '@tanstack/react-router' {
   }
 }
 
+interface SyncRouteRouteChildren {
+  SyncSlugRoute: typeof SyncSlugRoute
+  SyncIndexRoute: typeof SyncIndexRoute
+}
+
+const SyncRouteRouteChildren: SyncRouteRouteChildren = {
+  SyncSlugRoute: SyncSlugRoute,
+  SyncIndexRoute: SyncIndexRoute,
+}
+
+const SyncRouteRouteWithChildren = SyncRouteRoute._addFileChildren(
+  SyncRouteRouteChildren,
+)
+
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  SyncRouteRoute: SyncRouteRouteWithChildren,
   CantosSlugRoute: CantosSlugRoute,
 }
 export const routeTree = rootRouteImport

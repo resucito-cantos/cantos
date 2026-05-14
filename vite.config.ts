@@ -7,6 +7,7 @@ import { tanstackStart } from "@tanstack/react-start/plugin/vite";
 import viteReact from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
 import contentCollections from "@content-collections/vite";
+import { lyricSyncPlugin } from "./scripts/vite-plugin-lyric-sync";
 
 const cantoSlugs = readdirSync("content/cantos");
 const cantoPages = cantoSlugs.map((slug) => ({
@@ -71,6 +72,7 @@ const config = defineConfig({
 				plugins: ["babel-plugin-react-compiler"],
 			},
 		}),
+		lyricSyncPlugin(),
 	],
 });
 
