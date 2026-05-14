@@ -10,25 +10,25 @@ resources:
 ---
 ```chordpro
 {start_of_chorus}
-[00:00.00] [Re-]OS TOMARÉ DE [Re7]ENTRE LAS NACIONES,
-[00:00.00] [Sol-]OS REUNIRÉ DE TODOS LOS PUEBLOS.
-[00:00.00] [La]OS ROCIARÉ CON AGUA [Re-]PURA
-[00:00.00] [Sib]Y YO OS [La]PURIFICARÉ.
+[00:00.00] [Re-]OS TOMA[Re7]RÉ DE ENTRE LAS NACIONES,
+[00:00.00] OS REUNIRÉ DE TODOS LOS PU[Sol-]EBLOS.
+[00:00.00] OS ROCIAR[La]É CON AGUA P[Re-]URA
+[00:00.00] [Sib]Y YO OS PURIFICAR[La]É.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Re7]Os daré un corazón nuevo,
-[00:00.00] [Sol-]infundiré en vosotros un espíritu nuevo,
-[00:00.00] [La]os quitaré el corazón de [Re-]piedra,
-[00:00.00] [Sib]os daré un corazón de [La]carne.
+[00:00.00] infundiré en vosotros un espíritu n[Sol-]uevo,
+[00:00.00] os quita[La]ré el corazón de p[Re-]iedra,
+[00:00.00] os d[Sib]aré un corazón de [La]carne.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Re-]OS TOMARÉ DE [Re7]ENTRE LAS NACIONES ...
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Re7]Pondré mi Espíritu dentro de [Sol-]vosotros
-[00:00.00] [La]y haré que caminéis según mi [Re-]Palabra.
+[00:00.00] [Re7]Pondré mi Espíritu dentro de vo[Sol-]sotros
+[00:00.00] y ha[La]ré que caminéis según mi Pa[Re-]labra.
 [00:00.00] [Sib]Vosotros seréis mi pueblo
-[00:00.00] [La]y yo seré vuestro Dios.
+[00:00.00] y yo seré vuestro D[La]ios.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Re-]OS TOMARÉ DE [Re7]ENTRE LAS NACIONES ...

@@ -21,12 +21,12 @@ resources:
 {start_of_chorus}
 [00:00.00] [La-]MARÍA, MADRE MÍA,
 [00:00.00] [Sol7]MARÍA, MADRE NU[La-]ESTRA.
-[00:00.00] [Sol]VEN A VIVIR CON[Mi]MIGO,
+[00:00.00] [Sol]VEN A VIVIR CONM[Mi]IGO,
 [00:00.00] [Sol]VEN A MI C[Mi]ASA.
 [00:00.00] [Mi7]Y ENSÉÑANOS A AMAR A TU H[Famaj7]IJO
-[00:00.00] [Fa]COMO LO HAS AMADO [Mi]TÚ,
+[00:00.00] [Fa]COMO LO HAS AMADO T[Mi]Ú,
 [00:00.00] [Mi7]Y ENSÉÑANOS A AMAR A TU H[Famaj7]IJO
-[00:00.00] [Fa]COMO LO HAS AMADO [Mi]TÚ.
+[00:00.00] [Fa]COMO LO HAS AMADO T[Mi]Ú.
 {end_of_chorus}
 
 {start_of_verse}
@@ -44,14 +44,14 @@ resources:
 [00:00.00] no le quebraron las piernas,
 [00:00.00] mas uno de los soldados
 [00:00.00] le atravesó el costado con la lanza
-[00:00.00] [Famaj7]y al instante salió sangre y [Mi]agua,
+[00:00.00] y al instant[Fa7aum]e salió sangre y [Mi]agua,
 [00:00.00] sangre y agua.
 {end_of_verse}
 
 {start_of_chorus}
 [00:00.00] [La-]MARÍA, MADRE MÍA,
 [00:00.00] [Sol7]MARÍA, MADRE NU[La-]ESTRA.
-[00:00.00] [Sol]TÚ ERES MADRE DE LA IGL[Mi]ESIA
+[00:00.00] [Sol]TÚ ERES MADRE DE LA IG[Mi]LESIA
 [00:00.00] [Mi7]QUE NACE DEL COSTADO DE CRISTO
 [00:00.00] [Fa]COMO ESPOSA, NUEVA [Mi]EVA.
 [00:00.00] [Mi7]QUE NACE DEL COSTADO DE CR[Famaj7]ISTO

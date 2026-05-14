@@ -11,35 +11,35 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [Re]María, pequeña [Fa#-]María,
+[00:00.00] [Re]María, pequeña Ma[Fa#-]ría,
 [00:00.00] [Sol]tú eres la brisa suave de [Mi-6]Elías,
-[00:00.00] [La7]el susurro del Espíritu de [Re]Dios.
-[00:00.00] Tú eres la zarza ardiente de [Fa#-]Moisés
-[00:00.00] [Sol]que llevas al Señor y no te [La7]consumes.
-[00:00.00] [Re]Tú eres «el lugar [Fa#]junto a mí»
-[00:00.00] [Sol]que mostró el Señor a [Re]Moisés;
-[00:00.00] [Sol]tú eres la hendidura de la [Re]roca
-[00:00.00] que Dios cubre con su [La]mano
-[00:00.00] [Sol]mientras que [La]pasa su [Re]Gloria.
+[00:00.00] el su[La7]surro del Espíritu de Di[Re]os.
+[00:00.00] [Re]Tú eres la zarza ardiente de Moi[Fa#-]sés
+[00:00.00] que l[Sol]levas al Señor y no te con[La7]sumes.
+[00:00.00] Tú [Re]eres «el lugar junto a [Fa#]mí»
+[00:00.00] que most[Sol]ró el Señor a Mois[Re]és;
+[00:00.00] tú [Sol]eres la hendidura de la [Re]roca
+[00:00.00] que Dios cubre con su m[La]ano
+[00:00.00] m[Sol]ientras [La]que pasa su Gl[Re]oria.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Re]VENGA EL SEÑOR CON [Fa#]NOSOTROS
-[00:00.00] [Sol]SI HEMOS HALLADO GRACIA A SUS [Re]OJOS.
-[00:00.00] [Sol]ES CIERTO QUE SOMOS PECA[Re]DORES,
-[00:00.00] MAS RUEGA TÚ POR [La]NOSOTROS
-[00:00.00] [Sol]Y SEREMOS [La]SU PUEBLO Y SU [Re]HEREDAD.
+[00:00.00] [Re]VENGA EL SEÑOR CON NOS[Fa#]OTROS
+[00:00.00] SI H[Sol]EMOS HALLADO GRACIA A SUS [Re]OJOS.
+[00:00.00] ES C[Sol]IERTO QUE SOMOS PECAD[Re]ORES,
+[00:00.00] MAS RUEGA TÚ POR NOS[La]OTROS
+[00:00.00] Y SE[Sol]REMOS SU PU[La]EBLO Y SU HERED[Re]AD.
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [Re]María, pequeña [Fa#-]María,
+[00:00.00] [Re]María, pequeña Ma[Fa#-]ría,
 [00:00.00] [Sol]¡Hija de Jeru[Mi-6]salén!
-[00:00.00] [Re]Madre de todos los [Fa#-]pueblos,
-[00:00.00] [Sol]¡Virgen de Na[La7]zaret!
-[00:00.00] [Re]Tú eres la nube del [Fa#]desierto
-[00:00.00] [Sol]que protege la marcha de [Re]Israel;
-[00:00.00] [Sol]tú eres la tienda de la reu[Re]nión;
-[00:00.00] el arca que lleva la [La]alianza;
-[00:00.00] [Sol]el Santuario de la [La]Gloria del [Re]Señor.
+[00:00.00] [Re]Madre de todos los p[Fa#-]ueblos,
+[00:00.00] [Sol]¡Virgen de Naza[La7]ret!
+[00:00.00] Tú [Re]eres la nube del des[Fa#]ierto
+[00:00.00] que pro[Sol]tege la marcha de Isr[Re]ael;
+[00:00.00] tú [Sol]eres la tienda de la reun[Re]ión;
+[00:00.00] el arca que lleva la al[La]ianza;
+[00:00.00] el Sant[Sol]uario de la G[La]loria del Señ[Re]or.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Re]VENGA EL SEÑOR CON [Fa#]NOSOTROS ...

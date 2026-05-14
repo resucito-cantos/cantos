@@ -31,23 +31,23 @@ resources:
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [La-] [Si7]
-[00:00.00] Si Cristo nos hubiera hecho salir de Egipto
+[00:00.00] Si Cristo nos hubiera [La-]hecho salir de E[Si7]gipto
 [00:00.00] [Mi-]
-[00:00.00] y no hubiera hecho justicia del Faraón:
+[00:00.00] y no hubiera hecho justicia del Fara[Mi-]ón:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Re] [Do]
-[00:00.00] ESO NOS HABRÍA BASTADO,
+[00:00.00] [Re]ESO NOS HABRÍA BAST[Do]ADO,
 [00:00.00] [Mi-]
-[00:00.00] NOS HABRÍA BASTADO.
+[00:00.00] NOS HABRÍA BAST[Mi-]ADO.
 [00:00.00] [Re] [Do] [Mi-]
 [00:00.00] DAYENU, DAYENU, DAYENU.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Re] [Do]
-[00:00.00] Si hubiera hecho justicia del Faraón
+[00:00.00] Si hubiera h[Re]echo justicia del Far[Do]aón
 [00:00.00] [Si7]
-[00:00.00] y no nos hubiera librado de todos los ídolos:
+[00:00.00] y no nos hubiera li[Si7]brado de todos los [Mi-]ídolos:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Mi-]
@@ -55,11 +55,11 @@ resources:
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Mi-] [La-] [Si7]
-[00:00.00] Si nos hubiera librado de todos los ídolos
+[00:00.00] [Mi-]Si nos hubiera li[La-]brado de todos los [Si7]ídolos
 [00:00.00] [Mi-]
 [00:00.00] y no nos hubiera dado todas sus riquezas
 [00:00.00] [Si7] [Mi-]
-[00:00.00] y no hubiera abierto el mar para nosotros:
+[00:00.00] y no hubiera ab[Si7]ierto el mar para nos[Mi-]otros:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Mi-] [Re] [Do]
@@ -70,43 +70,43 @@ resources:
 [00:00.00] [Mi-] [La-] [Si7]
 [00:00.00] Si nos hubiera abierto el mar para nosotros
 [00:00.00] [Mi-]
-[00:00.00] y no hubiera hundido a nuestros opresores:
+[00:00.00] y no hubiera hundido a nuestros opres[Mi-]ores:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] ESO NOS HABRÍA BASTADO ...
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Mi-] [Re] [Do]
-[00:00.00] Si hubiera hundido a nuestros opresores
+[00:00.00] [Mi-]Si hubiera hun[Re]dido a nuestros opres[Do]ores
 [00:00.00] [Si7] [Mi-]
-[00:00.00] y no nos hubiera abierto un camino en el desierto:
+[00:00.00] y no nos hubiera a[Si7]bierto un camino en el de[Mi-]sierto:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] ESO NOS HABRÍA BASTADO ...
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Mi-] [La-] [Si7]
-[00:00.00] Si nos hubiera abierto un camino en el desierto
+[00:00.00] [Mi-]Si nos hubiera ab[La-]ierto un camino en el de[Si7]sierto
 [00:00.00] [Mi-]
-[00:00.00] y no nos hubiera nutrido con el pan de la vida:
+[00:00.00] y no nos hubiera nutrido con el pan de la [Mi-]vida:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] ESO NOS HABRÍA BASTADO ...
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Mi-] [Re] [Do]
-[00:00.00] Si nos hubiera nutrido con el pan de la vida
+[00:00.00] [Mi-]Si nos hubiera nut[Re]rido con el pan de la [Do]vida
 [00:00.00] [Si7]
-[00:00.00] y no nos hubiera dado el día del Señor:
+[00:00.00] y no nos hubiera [Si7]dado el día del Señ[Mi-]or:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] ESO NOS HABRÍA BASTADO ...
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [La-] [Si7]
-[00:00.00] Si nos hubiera dado el día del Señor
+[00:00.00] [Mi-]Si nos hubiera [La-]dado el día del Señ[Si7]or
 [00:00.00] [Mi-]
-[00:00.00] y no nos hubiera sellado una nueva Alianza:
+[00:00.00] y no nos hubiera sellado una nueva A[Mi-]lianza:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] ESO NOS HABRÍA BASTADO ...
@@ -116,7 +116,7 @@ resources:
 [00:00.00] Si hubiera hecho con nosotros una nueva Alianza,
 [00:00.00] [Si7]
 [00:00.00] y no nos hubiera hecho entrar en su Iglesia
-[00:00.00] y no hubiera construido en nosotros su templo:
+[00:00.00] y no hubiera construido en nosotros su [Mi-]templo:
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] ESO NOS HABRÍA BASTADO ...

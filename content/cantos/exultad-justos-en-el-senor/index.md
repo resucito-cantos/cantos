@@ -9,15 +9,15 @@ resources:
 ---
 ```chordpro
 {start_of_chorus}
-[00:00.00] [Sol]¡EXULTAD, JUSTOS, EN EL [Mi-]SEÑOR,
-[00:00.00] [Do]DE LOS SANTOS ES PROPIA LA [Sol]ALABANZA;
+[00:00.00] [Sol]¡EXULTAD, JUSTOS, EN EL SEÑ[Mi-]OR,
+[00:00.00] DE LOS S[Do]ANTOS ES PROPIA LA ALAB[Sol]ANZA;
 [00:00.00] DAD GRACIAS AL SEÑOR CON LA [Mi-]CÍTARA,
-[00:00.00] [Do]CON EL ARPA DE DIEZ CUERDAS
-[00:00.00] [Sol]TOCAD PARA ÉL!
+[00:00.00] CON EL [Do]ARPA DE DIEZ CUERDAS
+[00:00.00] TOCAD PARA [Sol]ÉL!
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [La-]Cantad al Señor un cantar [Si7]nuevo,
-[00:00.00] [La-]tocad la cítara con arte y [Si7]aclamadle.
+[00:00.00] [La-]Cantad al Señor un cantar nu[Si7]evo,
+[00:00.00] [La-]tocad la cítara con arte y aclam[Si7]adle.
 [00:00.00] [Do]Porque recta es la palabra del Señor,
 [00:00.00] [Re]verdad son todas sus [Si7]obras;
 [00:00.00] [Do]en Él están la justicia y el derecho,
@@ -28,10 +28,10 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [La-]La palabra del Señor hizo los [Si7]cielos,
-[00:00.00] [La-]el aliento de su boca sus [Si7]ejércitos.
+[00:00.00] [La-]La palabra del Señor hizo los c[Si7]ielos,
+[00:00.00] [La-]el aliento de su boca sus e[Si7]jércitos.
 [00:00.00] [Do]El Señor anula los planes de las naciones,
-[00:00.00] [Re]hace vanos los proyectos de los [Si7]pueblos;
+[00:00.00] [Re]hace vanos los proyectos de los p[Si7]ueblos;
 [00:00.00] [Do]mas el proyecto del Señor, el proyecto
 [00:00.00] [Re]del Señor subsiste por siempre. {melisma}
 {end_of_verse}

@@ -24,7 +24,7 @@ resources:
 [00:40.00] [La7]Muerte y vida se han enfrentado
 [00:45.00] en un prodigioso [Re-9]duelo
 [00:53.00] [Fa7]el autor de la Vida estaba mu[Mi]erto,
-[01:00.00] mas ah[Fa7]ora está vivo y tri[Mi]unfa.
+[01:00.00] mas ah[Fa7]ora está vivo y tr[Mi]iunfa.
 [01:09.00] [La7]Dinos tú, María:
 [01:13.00] ¿qué has visto en el camino?
 [01:23.00] [Fa7]«La tumba de Cristo vac[Mi]ía,

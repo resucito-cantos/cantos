@@ -10,51 +10,51 @@ resources:
 ```chordpro
 {capo: 3}
 {start_of_verse}
-[00:00.00] [La-]Exulten los [Sol]coros de los [La-]ángeles,
-[00:00.00] [Do]exulte la asamblea [La-]celeste,
-[00:00.00] [Sol]y un himno de gloria
-[00:00.00] [La-]aclame el triunfo del Señor resucitado.
+[00:00.00] [La-]Exulten los [Sol]coros de lo[La-]s ángeles,
+[00:00.00] e[Do]xulte la asamblea ce[La-]leste,
+[00:00.00] y un [Sol]himno de gloria
+[00:00.00] aclame el triunfo del Señor resuci[La-]tado.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Fa]Alégrese la [Mi7]tierra, inundada [Fa]por la nueva [Mi7]luz.
+[00:00.00] [Fa]Alégrese la t[Mi7]ierra, inun[Fa]dada por la nueva [Mi7]luz.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] EL ESPLENDOR DEL [La-]REY
+[00:00.00] EL ESPLENDOR DEL R[La-]EY
 [00:00.00] [Sol]DESTRUYO LAS TINIEBLAS,
 [00:00.00] [Fa]DESTRUYO LAS TINIEBLAS,
 [00:00.00] [Mi7]LAS TINIEBLAS DEL MUNDO. {comment: BIS A.}
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [La-]¿Que se alegre nuestra madre la [Sol]Iglesia,
-[00:00.00] resplandeciente de la [La-]gloria de su [Do]Señor;
-[00:00.00] [Sol]y que en este lugar resuene [La-]unánime
-[00:00.00] la aclamación de un pueblo en fiesta.
+[00:00.00] resplandec[La-]iente de la g[Do]loria de su Señ[La-]or;
+[00:00.00] y que en [Sol]este lugar resuene unánime
+[00:00.00] la aclamación de un pueblo en f[La-]iesta.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Sol]El Señor esté con [La-]vosotros.
+[00:00.00] [Sol]El Señor esté con vos[La-]otros.
 [00:00.00] [Sol]Y con tu [La-]espíritu.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] Y CON TU ESPIRITU.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Fa]Levantemos el [Mi]corazón.
+[00:00.00] [Fa]Levantemos el coraz[Mi]ón.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Fa]LO TENEMOS LEVANTADO HACIA EL [Mi]SEÑOR.
+[00:00.00] [Fa]LO TENEMOS LEVANTADO HACIA EL SEÑ[Mi]OR.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Sol]Demos gracias al Señor, nuestro [La-]Dios.
+[00:00.00] Demos gracias al Señor, nuestro D[La-]ios.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Sol]ES JUSTO Y [La-]NECESARIO. {comment: BIS}
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [La-]Realmente es justo y [Sol]necesario
-[00:00.00] [La-]exaltar con el [Do]canto la alegría del [La-]espíritu
-[00:00.00] [Sol]y elevar un himno al Padre Todopoderoso,
-[00:00.00] [La-]y a su único Hijo, Jesucristo.
+[00:00.00] [La-]Realmente es justo y nece[Sol]sario
+[00:00.00] exal[La-]tar con el [Do]canto la alegría del es[La-]píritu
+[00:00.00] y ele[Sol]var un himno al Padre Todopoderoso,
+[00:00.00] y a su único Hijo, Jesuc[La-]risto.
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [Sol]El ha pagado por todos al eterno Padre
@@ -64,12 +64,12 @@ resources:
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [Fa]Esta es la [Mi7]Pascua,
-[00:00.00] [Fa]en que se inmola el [Mi]Cordero.
+[00:00.00] en que se inm[Fa]ola el Cord[Mi]ero.
 [00:00.00] [Fa]Esta es la [Mi7]noche
 [00:00.00] [Fa]en que fueron liberados
-[00:00.00] [Mi7]nuestros padres de Egipto.
+[00:00.00] nuestros padres de Eg[Mi7]ipto.
 [00:00.00] [Fa]Esta es la [Mi7]noche
-[00:00.00] [Fa]que nos salva de la oscuridad del [Mi]mal.
+[00:00.00] que nos [Fa]salva de la oscuridad del m[Mi]al.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] ESTA ES LA NOCHE

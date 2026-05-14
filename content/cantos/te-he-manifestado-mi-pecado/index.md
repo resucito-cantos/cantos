@@ -21,8 +21,8 @@ LA MALICIA DE MI PEC[La-]ADO.
 [Re-]al que le son perdonadas sus culpas,
 y que le fueron cub[La-]iertos sus pecados!
 [Sol]Dichoso el hombre
-al que el Señor no imputa ning[La-]ún mal,
-[Sol]y en cuyo espíritu no hay eng[La-]año.
+al que el Señor no imp[La-]uta ningún mal,
+[Sol]y en cuyo espíritu no hay en[La-]gaño.
 {end_of_verse}
 
 {start_of_chorus}
@@ -30,19 +30,19 @@ al que el Señor no imputa ning[La-]ún mal,
 {end_of_chorus}
 
 {start_of_verse}
-[La-]Callaba y se consumí[Sol]an mis huesos
-gimi[La-]endo todo el día,
+[La-]Callaba y se consu[Sol]mían mis huesos
+gim[La-]iendo todo el día,
 [Sol]porque día y noche
-pesaba tu mano sobre m[La-]í;
-como est[Sol]ío de verano
-estaba árido mi coraz[La-]ón.
+pesaba tu mano sobre [La-]mí;
+como es[Sol]tío de verano
+estaba árido mi cora[La-]zón.
 {end_of_verse}
 
 {column_break}
 
 {start_of_verse}
-[La-]Mas te he manifestado mi pec[Re-]ado,
-no he ten[La-]ido escondidos mis errores;
+Mas te he manifestado mi pe[Re-]cado,
+no he te[La-]nido escondidos mis errores;
 he [Sol]dicho: «confesar[La-]é al Señor mi culpa».
 [Sol]Y tú has perdonado la malicia de mi pec[La-]ado.
 {end_of_verse}
@@ -52,15 +52,15 @@ he [Sol]dicho: «confesar[La-]é al Señor mi culpa».
 {end_of_chorus}
 
 {start_of_verse}
-[La-]Por eso te suplican tus [Re-]fieles
-[La-]en el día de la angustia,
-[Sol]cuando las aguas [La-]caudalosas se desbordan,
-[Sol]mas a él no le [La-]alcanzarán.
+[La-]Por eso [Re-]te suplican tus fieles
+en el [La-]día de la angustia,
+[Sol]cuando las aguas cauda[La-]losas se desbordan,
+[Sol]mas a él no le alcanza[La-]rán.
 {end_of_verse}
 
 {start_of_verse}
-[Sol]Tú eres mi refugio,
-[La-]tú me preservas del peligro,
+Tú [Sol]eres mi refugio,
+tú me pre[La-]servas del peligro,
 [Sol]me rodeas de [La-]cantos de salvación.
 {end_of_verse}
 

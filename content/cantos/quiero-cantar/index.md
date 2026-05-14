@@ -10,36 +10,36 @@ resources:
 ---
 ```chordpro
 {start_of_chorus}
-[00:00.00] [Re]QUIERO CANTAR, A TI [Fa#-]QUIERO CANTAR.
-[00:00.00] [Sol]¡DESPIERTA, DESPIERTA GLORIA MÍA!
-[00:00.00] [La]¡DESPIERTA, ARPA Y [Re]CÍTARA!
+[00:00.00] [Re]QUIERO CANTAR, [Fa#-]A TI QUIERO CANTAR.
+[00:00.00] ¡DESP[Sol]IERTA, DESPIERTA GLORIA MÍA!
+[00:00.00] ¡DESP[La]IERTA, ARPA Y [Re]CÍTARA!
 {end_of_chorus: BIS Asamblea}
 {column_break}
 {start_of_verse: "S."}
-[00:00.00] [Re]Misericordia, Dios mío, [Fa#-]misericordia,
-[00:00.00] [Sol]que mi alma se refugia en ti;
-[00:00.00] [Mi-]me refugio a la sombra de tus alas
-[00:00.00] [La7]hasta que pase el [Re]peligro.
+[00:00.00] [Re]Misericordia, Dios mío, miseri[Fa#-]cordia,
+[00:00.00] que mi alma se refugia en [Sol]ti;
+[00:00.00] me refugio a la [Mi-]sombra de tus alas
+[00:00.00] [La7]hasta que pase el pe[Re]ligro.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] QUIERO CANTAR ...
 {end_of_chorus}
 {column_break}
 {start_of_verse: "S."}
-[00:00.00] [Re]Invoco a Dios, al Dios [Fa#-]Altísimo,
-[00:00.00] [Sol]a Dios que ha hecho tanto por mí.
+[00:00.00] [Re]Invoco a Dios, al Dios A[Fa#-]ltísimo,
+[00:00.00] a Dios que ha hecho tanto por [Sol]mí.
 [00:00.00] [Mi-]Desde el cielo me envia la salvación,
-[00:00.00] [La7]confunde a los que ansían [Re]matarme.
+[00:00.00] con[La7]funde a los que ansían mat[Re]arme.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] QUIERO CANTAR ...
 {end_of_chorus}
 {column_break}
 {start_of_verse: "S."}
-[00:00.00] [Re]Misericordia, Dios mío, [Fa#-]misericordia,
-[00:00.00] [Sol]que estoy echado entre leones,
-[00:00.00] [Mi-]leones devoradores de hombres;
-[00:00.00] [La7]sus dientes son lanzas y [Re]flechas.
+[00:00.00] [Re]Misericordia, Dios mío, miseri[Fa#-]cordia,
+[00:00.00] que estoy echado entre l[Sol]eones,
+[00:00.00] l[Mi-]eones devoradores de hombres;
+[00:00.00] sus d[La7]ientes son lanzas y [Re]flechas.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] QUIERO CANTAR ...

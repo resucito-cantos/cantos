@@ -12,39 +12,39 @@ resources:
 ```chordpro
 {start_of_chorus}
 [00:00.00] [La-]HIJAS DE JERUSALÉN,
-[00:00.00] [Fa]NO LLORÉIS,
-[00:00.00] [La-]NO LLORÉIS POR MÍ.
+[00:00.00] NO LLOR[Fa]ÉIS,
+[00:00.00] NO LLORÉIS POR [La-]MÍ.
 {end_of_chorus: BIS Asamblea}
 {start_of_verse}
-[00:00.00] [La-]Que si esto [Fa]hacen con el leño verde,
-[00:00.00] [Sol]con el seco ¿qué se [La-]hará?,
-[00:00.00] [Fa]con el seco ¿qué se [Mi]hará?
-[00:00.00] [La-]¡Aaaay!
+[00:00.00] [La-]Que si esto h[Fa]acen con el leño verde,
+[00:00.00] con el [Sol]seco ¿qué se ha[La-]rá?,
+[00:00.00] con el [Fa]seco ¿qué se ha[Mi]rá?
+[00:00.00] ¡Aaa[La-]ay!
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-]HIJAS DE JERUSALÉN ...
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [La-]Padre, perdónales,
-[00:00.00] [Fa]porque no saben que es lo [La-]que hacen.
-[00:00.00] [Fa]Perdónales, [Mi]perdónales«.
-[00:00.00] [La-]¡Aaaay!
+[00:00.00] porque no s[Fa]aben que es lo que h[La-]acen.
+[00:00.00] Perd[Fa]ónales, perd[Mi]ónales«.
+[00:00.00] ¡Aaa[La-]ay!
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-]HIJAS DE JERUSALÉN ...
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [Fa]Yo te [Mi]aseguro:
-[00:00.00] [Fa]hoy estarás conmigo
-[00:00.00] [Mi]en el Paraíso.
+[00:00.00] [Fa]Yo te aseg[Mi]uro:
+[00:00.00] hoy estarás conm[Fa]igo
+[00:00.00] en el Para[Mi]íso.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-]HIJAS DE JERUSALÉN ...
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [La-]¡Padre, [Fa]Padre, en tus [Sol]manos
-[00:00.00] [La-]encomiendo mi espíritu!
+[00:00.00] [La-]¡Padre, P[Fa]adre, en tus m[Sol]anos
+[00:00.00] encomiendo mi esp[La-]íritu!
 [00:00.00] [Fa]¡Ah! [Mi]¡Ah! [La-]¡Aaah! ¡Ay! {melisma}
 {end_of_verse}
 {start_of_chorus}

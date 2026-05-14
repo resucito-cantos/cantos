@@ -12,86 +12,86 @@ resources:
 ```chordpro
 {start_of_verse}
 [00:00.00] [La-]¿Por qué esta noche es diferente
-[00:00.00] [Re-]de todas las [La-]otras noches?
+[00:00.00] de [Re-]todas las otras [La-]noches?
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Re-]DE TODAS LAS [La-]OTRAS NOCHES.
+[00:00.00] DE [Re-]TODAS LAS OTRAS N[La-]OCHES.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [La-]Que todas las otras noches
 [00:00.00] nos vamos a la cama pronto
-[00:00.00] [Re-]y no nos quedamos [La-]levantados.
+[00:00.00] y [Re-]no nos quedamos levan[La-]tados.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Re-]Y NO NOS QUEDAMOS [La-]LEVANTADOS.
+[00:00.00] Y [Re-]NO NOS QUEDAMOS LEVANT[La-]ADOS.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Re-]Mas esta noche, esta [La-]noche
-[00:00.00] [Mi]estamos [La-]levantados.
+[00:00.00] es[Mi]tamos levan[La-]tados.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Re-]MAS ESTA NOCHE, ESTA NOCHE
-[00:00.00] [Mi]ESTAMOS [La-]LEVANTADOS.
+[00:00.00] MAS [Re-]ESTA NOCHE, [La-]ESTA NOCHE
+[00:00.00] EST[Mi]AMOS LEVAN[La-]TADOS.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [La-]¿Por qué esta noche es diferente
-[00:00.00] [Re-]de todas las [La-]otras noches?
+[00:00.00] de [Re-]todas las otras [La-]noches?
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] DE TODAS LAS OTRAS NOCHES.
+[00:00.00] DE [Re-]TODAS LAS OTRAS N[La-]OCHES.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [La-]Que todas las otras noches
 [00:00.00] nos vamos a la cama pronto
-[00:00.00] después de haber cenado.
+[00:00.00] desp[Re-]ués de haber cen[La-]ado.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Re-]DESPUÉS DE HABER [La-]CENADO.
+[00:00.00] DESPU[Re-]ÉS DE HABER CEN[La-]ADO.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Re-]Mas esta noche, esta [La-]noche [Mi]hemos ayunado.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Re-]MAS ESTA NOCHE, ESTA [La-]NOCHE
-[00:00.00] [Mi]HEMOS [La-]AYUNADO.
+[00:00.00] MAS [Re-]ESTA NOCHE, [La-]ESTA NOCHE
+[00:00.00] H[Mi]EMOS AYUN[La-]ADO.
 {end_of_chorus}
 {column_break}
 {start_of_verse}
 [00:00.00] [La-]¿Por qué esta noche es diferente
-[00:00.00] [Re-]de todas las [La-]otras noches?
+[00:00.00] de [Re-]todas las otras [La-]noches?
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Re-]DE TODAS LAS [La-]OTRAS NOCHES.
+[00:00.00] DE [Re-]TODAS LAS OTRAS N[La-]OCHES.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [La-]Que todas las otras noches
 [00:00.00] nos vamos a la cama pronto
-[00:00.00] [Re-]y no esperamos [La-]nada.
+[00:00.00] y [Re-]no esperamos [La-]nada.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Re-]Y NO ESPERAMOS [La-]NADA.
+[00:00.00] Y [Re-]NO ESPERAMOS N[La-]ADA.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Re-]Mas esta noche, esta [La-]noche
-[00:00.00] [Mi]estamos [La-]esperando.
+[00:00.00] es[Mi]tamos espe[La-]rando.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Re-]MAS ESTA NOCHE, ESTA NOCHE
-[00:00.00] [Mi]ESTAMOS [La-]ESPERANDO.
+[00:00.00] MAS [Re-]ESTA NOCHE, [La-]ESTA NOCHE
+[00:00.00] EST[Mi]AMOS ESPER[La-]ANDO.
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [La-]¿POR QUÉ ESTA NOCHE ES DIFERENTE
-[00:00.00] [Re-]DE TODAS LAS OTRAS [La-]NOCHES?
-[00:00.00] [Re-]DE TODAS LAS OTRAS [La-]NOCHES.
+[00:00.00] DE [Re-]TODAS LAS OTRAS N[La-]OCHES?
+[00:00.00] DE [Re-]TODAS LAS OTRAS N[La-]OCHES.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] Para estar levantados,
-[00:00.00] [La-]para haber ayunado,
-[00:00.00] [Mi]para estar todos [La-]esperando.
+[00:00.00] para ha[La-]ber ayunado,
+[00:00.00] para est[Mi]ar todos esper[La-]ando.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Re-]PARA ESTAR [La-]LEVANTADOS,
-[00:00.00] [La-]PARA HABER AYUNADO,
-[00:00.00] [Mi]PARA ESTAR TODOS [La-]ESPERANDO.
+[00:00.00] PARA ES[Re-]TAR LEVANTADOS,
+[00:00.00] PARA HAB[La-]ER AYUNADO,
+[00:00.00] PARA EST[Mi]AR TODOS ESPER[La-]ANDO.
 {end_of_chorus}
 ```

@@ -11,9 +11,9 @@ resources:
 ---
 ```chordpro
 {start_of_chorus}
-[00:00.00] [Mi-][Mi 7] [La-]ELÍ, ELÍ, LAMÁ [Mi-]SABACTANÍ.
+[00:00.00] [Mi-]ELÍ, ELÍ, LAM[La-]Á SABACTAN[Mi-]Í.
 [00:00.00] DIOS MÍO, DIOS MÍO:
-[00:00.00] [La-]¿POR QUÉ ME HAS [Mi-]ABANDONADO?
+[00:00.00] ¿POR Q[La-]UÉ ME HAS ABANDON[Mi-]ADO?
 {end_of_chorus}
 
 {start_of_verse}
@@ -35,11 +35,11 @@ resources:
 {end_of_verse}
 
 {start_of_verse}
-[00:00.00] Entonces, Dios, ¿por qué no me [Mi 7]ayudas?[La-]
+[00:00.00] Entonces, Dios, ¿por qué no me a[La-]yudas?
 {end_of_verse}
 
 {start_of_verse}
-[00:00.00] [Mi-]¿Acaso no soy un hombre?
+[00:00.00] ¿Acaso no soy un [Mi-]hombre?
 [00:00.00] [Si7]Eso soy yo: soy un gusano,
 [00:00.00] desprecio de la gente, asco del pueblo,
 [00:00.00] todos los que me ven de mí se ríen,
@@ -49,8 +49,8 @@ resources:
 {end_of_verse}
 
 {start_of_verse}
-[00:00.00] Sí, que tú me amas, sí, que tú me [Mi 7]quieres,[La-]
-[00:00.00] en el seno de mi madre me [Mi-]formaste;
+[00:00.00] Sí, que tú me amas, sí, que tú me qu[La-]ieres,
+[00:00.00] en el seno de mi madre me form[Mi-]aste;
 [00:00.00] [Si7]cuando me dio a luz ya me ofrecía a ti,
 [00:00.00] desde el vientre tú ya eras mi [Mi-]Dios.
 {end_of_verse}
@@ -89,7 +89,7 @@ resources:
 {start_of_verse}
 [00:00.00] [Mi 7]¡Mas tú, Dios mío, no estés [La-]lejos, [Mi-]
 [00:00.00] ven en mi [La-]ayuda, fuerza mía,
-[00:00.00] [Si7]libra mi alma de la espada,
+[00:00.00] libra mi [Si7]alma de la espada,
 [00:00.00] libra mi vida de las fauces del león, [Mi-]
 [00:00.00] libra mi alma de los cuernos de los búfalos!
 {end_of_verse}
@@ -97,22 +97,22 @@ resources:
 {start_of_verse}
 [00:00.00] [Mi 7]¡Anunciaré, yo, tu nombre a mis [La-]hermanos, [Mi-]
 [00:00.00] en medio de la asamblea te cantaré!:
-[00:00.00] [Si7]«Los que a Yahveh amáis, dadle alabanza,
+[00:00.00] «Los que a Yahveh am[Si7]áis, dadle alabanza,
 [00:00.00] raza de Jacob, glorificad a Yahveh,
-[00:00.00] [Mi-]temedle, pueblo de Israel.»
+[00:00.00] temedle, pueblo de Isr[Mi-]ael.»
 [00:00.00] Porque ha sido el Único
 {end_of_verse}
 
 {start_of_verse}
 [00:00.00] [Mi 7]que no has tenido asco de este [La-]pobre [Mi-]
 [00:00.00] ni has desdeñado la miseria de mi vida;
-[00:00.00] [Si7]no me ha ocultado su rostro cuando le invocaba.
-[00:00.00] [Mi-]Por eso, yo ahora sé que los pobres vivirán,
+[00:00.00] no me ha ocultado su [Si7]rostro cuando le invocaba.
+[00:00.00] Por eso, yo ahora sé que los pobres vivi[Mi-]rán,
 {end_of_verse}
 
 {start_of_verse}
 [00:00.00] [Mi 7]los pobres comerán, serán [La-]saciados, [Mi-]
 [00:00.00] los que buscan a Yahveh lo encontrarán:
-[00:00.00] [Si7]¡su corazón, su corazón, vivirá para [Mi-]siempre!
+[00:00.00] ¡su cora[Si7]zón, su corazón, vivirá para s[Mi-]iempre!
 {end_of_verse}
 ```

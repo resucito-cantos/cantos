@@ -10,44 +10,44 @@ resources:
 ```chordpro
 {start_of_verse}
 [00:00.00] [Do]No hay en Él parecer;
-[00:00.00] [La-]no hay hermosura
-[00:00.00] [Sol]que atraiga las miradas;
-[00:00.00] [Do]no hay en él belleza que agrade.
+[00:00.00] no hay hermos[La-]ura
+[00:00.00] que atraiga las mir[Sol]adas;
+[00:00.00] no hay en él belleza que agr[Do]ade.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Do]Despreciado, [La-]desecho de los hombres,
-[00:00.00] [Do]varón de dolores,
-[00:00.00] [La-]conocedor de todos los quebrantos.
+[00:00.00] [Do]Despreciado, desecho de los [La-]hombres,
+[00:00.00] varón de do[Do]lores,
+[00:00.00] conocedor de todos los quebr[La-]antos.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Do]ANTE QUIEN SE VUELVE EL ROSTRO,
-[00:00.00] [La-]ANTE QUIEN SE VUELVE EL ROSTRO,
-[00:00.00] [Sol]ANTE QUIEN SE VUELVE EL ROSTRO,
-[00:00.00] [Do]ANTE QUIEN SE VUELVE EL ROSTRO.
+[00:00.00] ANTE QUIEN SE VUELVE EL R[La-]OSTRO,
+[00:00.00] ANTE QUIEN SE VUELVE EL R[Sol]OSTRO,
+[00:00.00] ANTE QUIEN SE VUELVE EL R[Do]OSTRO.
 {end_of_chorus}
 {column_break}
 {start_of_verse}
 [00:00.00] [Do]Menospreciado, [La-]estimado nada.
-[00:00.00] [Do]Despreciado, [La-]desecho de los hombres,
-[00:00.00] [Do]varón de dolores,
-[00:00.00] [La-]conocedor de todos los quebrantos.
+[00:00.00] Despreci[Do]ado, desecho de los h[La-]ombres,
+[00:00.00] varón de do[Do]lores,
+[00:00.00] conocedor de todos los queb[La-]rantos.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Do]ANTE QUIEN SE VUELVE EL ROSTRO ...
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Do]¡Pero fue Él el que [La-]cargó con los pecados!
-[00:00.00] [Do]¡Pero fue Él el que [La-]cargó con los dolores!
+[00:00.00] [Do]¡Pero fue Él el que cargó con los pe[La-]cados!
+[00:00.00] ¡[Do]Pero fue Él el que cargó con los do[La-]lores!
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Fa]TODOS NOSOTROS
-[00:00.00] [Sol]ANDÁBAMOS ERRANTES.
+[00:00.00] TODOS NOS[Fa]OTROS
+[00:00.00] ANDÁBAMOS ERR[Sol]ANTES.
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [Do]MALTRATADO MAS [La-]ÉL SE SOMETIÓ,
-[00:00.00] [Do]NO ABRIÓ LA BOCA.
+[00:00.00] [Do]MALTRATADO MAS ÉL SE SOMET[La-]IÓ,
+[00:00.00] NO ABRIÓ LA B[Do]OCA.
 [00:00.00] COMO CORDERO
-[00:00.00] [La-]LLEVADO AL MATADERO.
+[00:00.00] LLEVADO AL MATAD[La-]ERO.
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [Do]ANTE QUIEN SE VUELVE EL ROSTRO ...

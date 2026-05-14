@@ -23,7 +23,7 @@ resources:
 [00:00.00] [Re-]Bendecid al Señor, bendecid al Señor
 {end_of_verse}
 {start_of_verse}
-[00:00.00] vosotros los siervos del [La7]Señor,
+[00:00.00] vosotros los siervos del Se[La7]ñor,
 {end_of_verse}
 {start_of_verse}
 [00:00.00] bendecid al Señor, bendecid al Señor
@@ -46,7 +46,7 @@ resources:
 {end_of_verse}
 {column_break}
 {start_of_chorus}
-[00:00.00] [Re-]ALELUYA, ALE[La7]LUYA, A [Sib]A LE E LU U [La]YA.
+[00:00.00] [Re-]ALELUYA, [La7]ALELUYA, [Sib]A A LE E LU U [La]YA.
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [Re-]ALELUYA, [La7]ALELUYA, [Sib]A A LE E LU U [La]YA.

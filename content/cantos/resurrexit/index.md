@@ -10,24 +10,24 @@ resources:
 ```chordpro
 {start_of_chorus}
 [00:00.00] [La-]RESURREXIT, [Mi7]RESURREXIT,
-[00:00.00] [Fa]RESURREXIT, [Mi]RESURREXIT.
+[00:00.00] [Fa]RESURREXIT, RESURRE[Mi]XIT.
 [00:00.00] [La-]GLORIA, [Mi7]GLORIA, [Fa]GLORIA, [Mi]GLORIA.
 {end_of_chorus}
 {column_break}
 {start_of_verse: "S."}
-[00:00.00] [La-]Yo soy la [Mi7]Resurrección.
-[00:00.00] [Re-]la Resurrección, la [Mi7]Resurrección.
+[00:00.00] [La-]Yo soy la Resurrecc[Mi7]ión.
+[00:00.00] [Re-]la Resurrección, la Resurrecc[Mi7]ión.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]YO SOY LA [Mi7]RESURRECCIÓN.
+[00:00.00] [La-]YO SOY LA RESURRECCI[Mi7]ÓN.
 [00:00.00] [Re-]LA RESURRECCIÓN,
-[00:00.00] [Mi7]LA RESURRECCIÓN.
+[00:00.00] LA RESURRECCI[Mi7]ÓN.
 {end_of_chorus}
 {column_break}
 {start_of_verse: "S."}
-[00:00.00] [Re-]El que cree en mí, aunque muera [Mi7]vivirá,
-[00:00.00] [Re-]y todo el que vive y cree en [Fa]mí,
-[00:00.00] [Mi7]no morirá [Fa]jamás, no morirá [Mi]jamás.
+[00:00.00] [Re-]El que cree en mí, aunque muera viv[Mi7]irá,
+[00:00.00] [Re-]y todo el que vive y cree en m[Fa]í,
+[00:00.00] no morirá ja[Mi7]más, [Fa]no morirá ja[Mi7]más.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-]RESURREXIT, RESURREXIT [Mi7]...
@@ -37,7 +37,7 @@ resources:
 {start_of_verse: "S."}
 [00:00.00] [Re-]¿Crees tú [Mi7]esto? [Re-]¿Crees tú [Mi7]esto?
 [00:00.00] [Fa]Sí, yo creo que tú eres el Cristo,
-[00:00.00] [Mi7]el Hijo de [Fa]Dios, que ha de venir al [Mi7]mundo.
+[00:00.00] el Hijo de D[Mi7]ios, [Fa]que ha de venir al m[Mi7]undo.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-]RESURREXIT, RESURREXIT [Mi7]...
@@ -45,13 +45,13 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_chorus}
-[00:00.00] [La-]LA, LA, LA, LA, [Mi7]LA LA,
+[00:00.00] [La-]LA, LA, LA, LA, LA LA,
 [00:00.00] [Re-]LA LA LA LA LA, [Mi7]LA LA, LA LA;
 {end_of_chorus}
 {column_break}
 {start_of_chorus}
-[00:00.00] [La-]LA, LA, LA, LA, [Mi7]LA LA,
-[00:00.00] [La-]LA, [Mi7]LA LA LA.
+[00:00.00] [La-]LA, LA, LA, LA, LA LA,
+[00:00.00] [Re-]LA, LA LA L[Mi7]A.
 {end_of_chorus}
 {column_break}
 {start_of_chorus}
@@ -61,10 +61,10 @@ resources:
 {column_break}
 {start_of_chorus}
 [00:00.00] [La-]ALELUYA, [Mi7]ALELUYA,
-[00:00.00] [Fa]ALELUYA, [Mi]ALELUYA.
+[00:00.00] [Fa]ALELUYA, ALEL[Mi]UYA.
 {end_of_chorus}
 {column_break}
 {start_of_chorus}
-[00:00.00] [La-]ALELUYA.
+[00:00.00] ALELUY[La-]A.
 {end_of_chorus}
 ```

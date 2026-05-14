@@ -14,7 +14,7 @@ resources:
 {end_of_verse}
 {start_of_verse: S. A.}
 [00:00.00] [Mi-]Ven, VEN,
-[00:00.00] [La-]Siervo de los pobres,
+[00:00.00] Siervo de los [La-]pobres,
 {end_of_verse}
 {start_of_chorus: A.}
 [00:00.00] SIERVO DE LOS POBRES;
@@ -22,8 +22,8 @@ resources:
 [00:00.00] ¡Señor Jesús! [Mi-]¡SEÑOR JESÚS!
 {end_of_chorus}
 {start_of_verse: S.}
-[00:00.00] [Do]El Espíritu dice: [Mi-]¡Ven!
-[00:00.00] [Do]El que escucha [Si7]diga: ¡Ven!
+[00:00.00] El Esp[Do]íritu dice: ¡[Mi-]Ven!
+[00:00.00] El que es[Do]cucha diga: ¡[Si7]Ven!
 {end_of_verse}
 {start_of_chorus: A.}
 [00:00.00] ¡VEN! ¡VEN! ¡VEN!
@@ -42,7 +42,7 @@ resources:
 {end_of_verse}
 {column_break}
 {start_of_verse: S.}
-[00:00.00] [Do]La Esposa dice: [Mi-]¡Ven!
+[00:00.00] [Mi-]La Es[Do]posa dice: ¡[Mi-]Ven!
 [00:00.00] [Do]Y el que escucha diga: [Si7]¡Ven!
 {end_of_verse}
 {start_of_chorus: A.}

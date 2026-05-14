@@ -11,12 +11,12 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [Re-]Sube Dios entre [Sol-]aclamaciones,
-[00:00.00] [Re-]al son de las trompetas.
+[00:00.00] [Re-]Sube Dios entre aclamac[Sol-]iones,
+[00:00.00] al son de las trom[Re-]petas.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Re-]SUBE DIOS ENTRE [Sol-]ACLAMACIONES,
-[00:00.00] [Re-]AL SON DE LAS TROMPETAS.
+[00:00.00] [Re-]SUBE DIOS ENTRE ACLAMAC[Sol-]IONES,
+[00:00.00] AL SON DE LAS TROMP[Re-]ETAS.
 {end_of_chorus}
 {column_break}
 {start_of_verse}

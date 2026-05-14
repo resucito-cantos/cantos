@@ -12,16 +12,16 @@ resources:
 {capo: 2}
 
 {start_of_verse}
-[00:00.00] [Do]Pasado el sá[Mi]bado,
-[00:00.00] al alba del primer día de la se[Fa]mana,
+[00:00.00] [Do]Pasado el sábado[Mi],
+[00:00.00] al alba del primer día de la sem[Fa]ana,
 [00:00.00] María Magdalena y la otra Ma[Re-]ría
-[00:00.00] fueron al sepul[Mi]cro.
-[00:00.00] [Re-]Cuando de pronto se produjo un terre[Mi]moto,
+[00:00.00] fueron al sep[Mi]ulcro.
+[00:00.00] Cuando de p[Re-]ronto se produjo un terrem[Mi]oto,
 [00:00.00] [Fa]el Ángel del Se[Sol]ñor bajó del ci[Sol|Mi]elo,
 [00:00.00] e hizo rodar la piedra.
-[00:00.00] [Re-]Y el Ángel dijo a las mu[Mi]jeres:
-[00:00.00] [Re7]«No temáis, sé que buscáis a Je[Do7]sús,
-[00:00.00] [Re7]el Crucificado;
+[00:00.00] Y el [Re-]Ángel dijo a las muj[Mi]eres:
+[00:00.00] [Re7]«No temáis, [Do7]sé que buscáis a Jesús,
+[00:00.00] [Re7]el Crucificado[Sol-];
 {end_of_verse}
 
 {start_of_verse}
@@ -29,21 +29,21 @@ resources:
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] NO ESTÁ AQUÍ, HA RESU[Re7]CITA[Sol-]DO.
+[00:00.00] NO ESTÁ AQU[Re7]Í, HA RESUCI[Sol-]TADO.
 {end_of_chorus}
 
 {start_of_verse}
-[00:00.00] [Do-]No está aquí, resuci[Re7]tó,
+[00:00.00] No está aq[Do-]uí, resuci[Re7]tó,
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] [Do-]NO ESTÁ AQUÍ, RESUCI[Re7]TÓ.
+[00:00.00] NO ESTÁ AQU[Do-]Í, RESUCIT[Re7]Ó.
 {end_of_chorus}
 
 {start_of_verse}
 [00:00.00] [Sol-]«Id de prisa a decir a sus dis[Re7]cípulos:
 [00:00.00] Ha resucitado de entre los mu[Sol-]ertos.
-[00:00.00] Id de prisa a decir a sus dis[Re7]cípulos:
+[00:00.00] [Sol-]Id de prisa a decir a sus dis[Re7]cípulos:
 [00:00.00] Ha resucitado de entre los mu[Sol-]ertos
 {end_of_verse}
 
@@ -54,45 +54,19 @@ resources:
 {end_of_verse}
 
 {start_of_verse}
-[00:00.00] [Sol-]No está aquí, resu[Re7]ci[Sol-]tó,
+[00:00.00] [Sol-]No está aq[Re7]uí, resuci[Sol-]tó,
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] NO ESTÁ AQUÍ, RESU[Re7]CI[Sol-]TÓ.
+[00:00.00] NO ESTÁ AQ[Re7]UÍ, RESUCIT[Sol-]Ó.
 {end_of_chorus}
 
 {start_of_verse}
-[00:00.00] [Do-]No está aquí, resuci[Re7]tó,
+[00:00.00] No está aq[Do-]uí, resuc[Re7]itó,
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] [Do-]NO ESTÁ AQUÍ, RESUCI[Re7]TÓ.
-{end_of_chorus}
-
-{start_of_verse}
-[00:00.00] [Do-]Y os precede en Gali[Re7]lea,
-{end_of_verse}
-
-{start_of_chorus}
-[00:00.00] [Do-]Y OS PRECEDE EN GALI[Re7]LEA;
-[00:00.00] [Do-]allí le ve[Re7]réis,
-[00:00.00] [Do-]ALLÍ LE VE[Re7]RÉIS.
-{end_of_chorus}
-
-{start_of_verse}
-[00:00.00] [Sol-]No está aquí, resu[Re7]ci[Sol-]tó,
-{end_of_verse}
-
-{start_of_chorus}
-[00:00.00] NO ESTÁ AQUÍ, RESU[Re7]CI[Sol-]TÓ.
-{end_of_chorus}
-
-{start_of_verse}
-[00:00.00] [Do-]No está aquí, resuci[Re7]tó,
-{end_of_verse}
-
-{start_of_chorus}
-[00:00.00] [Do-]NO ESTÁ AQUÍ, RESUCI[Re7]TÓ.
+[00:00.00] NO ESTÁ AQU[Do-]Í, RESUCIT[Re7]Ó.
 {end_of_chorus}
 
 {start_of_verse}
@@ -102,6 +76,32 @@ resources:
 {start_of_chorus}
 [00:00.00] [Do-]Y OS PRECEDE EN GALI[Re7]LEA;
 [00:00.00] [Do-]allí le ve[Re7]réis,
-[00:00.00] [Do-]ALLÍ LE VE[Re7]RÉIS.
+[00:00.00] [Do-]ALLÍ LE VER[Re7]ÉIS.
+{end_of_chorus}
+
+{start_of_verse}
+[00:00.00] [Sol-]No está aq[Re7]uí, resuc[Sol-]itó,
+{end_of_verse}
+
+{start_of_chorus}
+[00:00.00] NO ESTÁ AQ[Re7]UÍ, RESUCI[Sol-]TÓ.
+{end_of_chorus}
+
+{start_of_verse}
+[00:00.00] No está aquí[Do-], resucit[Re7]ó,
+{end_of_verse}
+
+{start_of_chorus}
+[00:00.00] NO ESTÁ AQU[Do-]Í, RESUCIT[Re7]Ó.
+{end_of_chorus}
+
+{start_of_verse}
+[00:00.00] [Do-]Y os precede en Gali[Re7]lea,
+{end_of_verse}
+
+{start_of_chorus}
+[00:00.00] [Do-]Y OS PRECEDE EN GALI[Re7]LEA;
+[00:00.00] [Do-]allí le ve[Re7]réis,
+[00:00.00] [Do-]ALLÍ LE VER[Re7]ÉIS.
 {end_of_chorus}
 ```

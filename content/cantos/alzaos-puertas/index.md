@@ -22,20 +22,20 @@ resources:
 [00:00.00] Y TODO AQUELLO ¿QUE CONTIENE,
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [La]el orbe y sus [Si7]habitantes.
+[00:00.00] [La]el orbe y sus habi[Si7]tantes.
 {end_of_verse}
 {column_break}
 {start_of_chorus}
 [00:00.00] [Mi]ALZAOS PUERTAS,
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [Sol]ALZAD LOS DINTELES,
+[00:00.00] ALZ[Sol]AD LOS DINTELES,
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [La]PUERTAS ETERNAS,
+[00:00.00] PUERTAS ET[La]ERNAS,
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [Mi]DEBE ENTRAR EL REY
+[00:00.00] DEBE ENTRAR EL R[Mi]EY
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] DE LA GLORIA, DE LA GLORIA!
@@ -54,17 +54,17 @@ resources:
 [00:00.00] EL SEÑOR, EL FUERTE, EL VALIENTE,
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Sol]el Señor valiente en la [La]batalla,
+[00:00.00] el Señ[Sol]or valiente en la bat[La]alla,
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] VALIENTE EN LA [Si]BATALLA.
+[00:00.00] VALIENTE EN LA BAT[Si]ALLA.
 {end_of_chorus}
 {column_break}
 {start_of_verse}
 [00:00.00] [Sol]El es el Rey de la [La]gloria,
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] EL REY DE LA [Si]GLORIA.
+[00:00.00] EL REY DE LA GL[Si]ORIA.
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [Mi]ALZAOS PUERTAS ...
@@ -86,33 +86,33 @@ resources:
 [00:00.00] Y PURO CORAZÓN,
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Sol]el que no conduce su vida por [La]vanidad,
+[00:00.00] [Sol]el que no conduce su vida por vani[La]dad,
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] POR [Si]VANIDAD.
+[00:00.00] POR VANID[Si]AD.
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [Mi-]Y nosotros somos su [Si-]Iglesia,
+[00:00.00] [Mi-]Y nosotros somos su Ig[Si-]lesia,
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Mi-]Y NOSOTROS SOMOS SU [Si-]IGLESIA,
+[00:00.00] Y NOS[Mi-]OTROS SOMOS SU IGL[Si-]ESIA,
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Mi-]que hoy viene a tu [Si-]presencia,
+[00:00.00] que hoy vi[Mi-]ene a tu pres[Si-]encia,
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Mi-]¿QUE HOY VIENE A TU [Si-]PRESENCIA;
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Sol]que busca tu rostro, oh Dios de [La]Jacob,
+[00:00.00] [Sol]que busca tu rostro, oh Dios de Ja[La]cob,
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] OH DIOS DE [Si]JACOB.
+[00:00.00] OH DIOS DE JAC[Si]OB.
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [Mi-]El Señor de los [Si-]ejércitos.
+[00:00.00] [Mi-]El Señor de los e[Si-]jércitos.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Mi-]EL SEÑOR DE LOS [Si-]EJERCITOS.

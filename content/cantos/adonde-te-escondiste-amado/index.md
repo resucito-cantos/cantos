@@ -21,7 +21,7 @@ resources:
 
 {start_of_verse}
 [00:00.00] [Mi]
-[00:00.00] Pastores, los que fuerdes
+[00:00.00] [Mi]Pastores, los que fuerdes
 [00:00.00] allá, por las majadas, al otero,
 [00:00.00] si por ventura vierdes
 [00:00.00] aquel que yo más quiero,
@@ -30,7 +30,7 @@ resources:
 
 {start_of_verse}
 [00:00.00] [Mi]
-[00:00.00] Buscando mis amores,
+[00:00.00] [Mi]Buscando mis amores,
 [00:00.00] iré por esos montes y riberas;
 [00:00.00] ni cogeré las flores,
 [00:00.00] ni temeré las fieras,
@@ -39,7 +39,7 @@ resources:
 
 {start_of_verse}
 [00:00.00] [Mi]
-[00:00.00] ¡Oh bosques y espesuras,
+[00:00.00] [Mi]¡Oh bosques y espesuras,
 [00:00.00] plantadas por la mano del amado!
 {end_of_verse}
 
@@ -53,19 +53,19 @@ resources:
 
 {start_of_chorus}
 [00:00.00] [La-]MIL GRACIAS DERRAMANDO,
-[00:00.00] PASÓ POR ESTOS SOTOS CON [Sol]PRESURA,
-[00:00.00] Y YÉNDOLOS [Fa]MIRANDO,
+[00:00.00] PASÓ POR ESTOS SOTOS CON PRE[Sol]SURA,
+[00:00.00] Y YÉNDOLOS MIR[Fa]ANDO,
 [00:00.00] CON SOLA SU FIGURA
-[00:00.00] VESTIDOS LOS DEJÓ DE SU [Mi]HERMOSURA.
+[00:00.00] VESTIDOS LOS DEJÓ DE SU HERMOS[Mi]URA.
 {end_of_chorus}
 
 {start_of_verse}
 [00:00.00] [Mi]
-[00:00.00] ¡Ay, quién podrá sanarme!
+[00:00.00] [Mi]¡Ay, quién podrá sanarme!
 [00:00.00] Acaba de entregarte ya de [La-]vero;
 [00:00.00] no quieras enviarme
 [00:00.00] de hoy más [Sol]mensajero,
-[00:00.00] [Fa]que no saben decirme lo que [Mi]quiero.
+[00:00.00] que [Fa]no saben decirme lo que qu[Mi]iero.
 {end_of_verse}
 
 {start_of_verse}

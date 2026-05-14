@@ -16,46 +16,46 @@ resources:
 {end_of_verse}
 {start_of_chorus: A.}
 [00:00.00] [Mi]URÍ, URÍ, URÍ, URÁ, [La-]URÍ, URÍ, URÁ.
-[00:00.00] [Mi]URÍ, URÍ, URÍ, URÁ,
-[00:00.00] [La-]PAM PAM, PAM PAM, PAM PA RAM PAMPAM,
-[00:00.00] [Mi]PAM PAM, PAM PAM, PAM PA RAM PAMPAM.
-[00:00.00] [La-]LALA LA LA LA LA.
+[00:00.00] URÍ, URÍ, URÍ, UR[Mi]Á,
+[00:00.00] PAM PAM, PAM PAM, PAM PA RAM PAMP[La-]AM,
+[00:00.00] PAM PAM, PAM PAM, PAM PA RAM PAMP[Mi]AM.
+[00:00.00] LALA LA LA LA [La-]LA.
 {end_of_chorus}
 {start_of_verse: S.}
-[00:00.00] [La-]Un niño pequeño va a [Mi]nacer,
-[00:00.00] [La-]un niñito pequeño.
+[00:00.00] [La-]Un niño pequeño va a nac[Mi]er,
+[00:00.00] un niñito pequ[La-]eño.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] [Mi]UN NIÑO PEQUEÑO VA A [La-]NACER,
-[00:00.00] UN NIÑITO PEQUEÑO.
+[00:00.00] UN NIÑO PEQUEÑO VA A NAC[Mi]ER,
+[00:00.00] UN NIÑITO PEQU[La-]EÑO.
 {end_of_chorus}
 {start_of_verse: S.}
-[00:00.00] ¿Cómo se llamará?: ¡Enmanuel!
+[00:00.00] ¿Cómo se llamará?: ¡Enmanu[Mi]el!
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] ¿CÓMO SE LLAMARÁ?: [La-]¡ENMANUEL!
-[00:00.00] [Mi]¿CÓMO SE LLAMARÁ?: ¡ENMANUEL!
-[00:00.00] [La-]¡VEN CHIQUITITO, VEN!
+[00:00.00] ¿CÓMO SE LLAMARÁ?: ¡ENMANU[La-]EL!
+[00:00.00] ¿CÓMO SE LLAMARÁ?: ¡ENMANU[Mi]EL!
+[00:00.00] ¡VEN CHIQUITITO, V[La-]EN!
 {end_of_chorus}
 {start_of_chorus: A.}
 [00:00.00] [La-]URÍ, [Mi]URÍ, URÍ, URÁ ...
 {end_of_chorus}
 {column_break}
 {start_of_verse: S.}
-[00:00.00] [La-]Su madrecita está en [Mi]Belén,
-[00:00.00] [La-]su padre es carpintero.
+[00:00.00] [La-]Su madrecita está en Bel[Mi]én,
+[00:00.00] su padre es carpin[La-]tero.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] [Mi]SU MADRECITA ESTÁ EN [La-]BELÉN,
-[00:00.00] SU PADRE ES CARPINTERO.
+[00:00.00] SU MADRECITA ESTÁ EN BEL[Mi]ÉN,
+[00:00.00] SU PADRE ES CARPINT[La-]ERO.
 {end_of_chorus}
 {start_of_verse: S.}
-[00:00.00] ¿Cómo se llamará?: [Mi]¡Enmanuel!
+[00:00.00] ¿Cómo se llamará?: ¡Enmanu[Mi]el!
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] ¿CÓMO SE LLAMARÁ?: [La-]¡ENMANUEL!
-[00:00.00] [Mi]¿CÓMO SE LLAMARÁ?: ¡ENMANUEL!
-[00:00.00] [La-]¡VEN CHIQUITITO, VEN!
+[00:00.00] ¿CÓMO SE LLAMARÁ?: ¡ENMANU[La-]EL!
+[00:00.00] ¿CÓMO SE LLAMARÁ?: ¡ENMANU[Mi]EL!
+[00:00.00] ¡VEN CHIQUITITO, V[La-]EN!
 {end_of_chorus}
 {start_of_chorus: A.}
 [00:00.00] [La-]URÍ, [Mi]URÍ, URÍ, URÁ ...

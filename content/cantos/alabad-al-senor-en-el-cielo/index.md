@@ -33,7 +33,7 @@ resources:
 {end_of_chorus}
 
 {start_of_verse}
-[00:00.00] [Fa#-]alabadlo, todos sus ejércitos!
+[00:00.00] alabadlo, todos sus [Fa#-]ejércitos!
 {end_of_verse}
 
 {start_of_chorus}

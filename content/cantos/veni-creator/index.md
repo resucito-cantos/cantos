@@ -10,43 +10,43 @@ resources:
 ---
 ```chordpro
 {start_of_chorus: A.}
-[00:00.00] [La-]VEN, ESPÍRITU [Sol]CREADOR
-[00:00.00] VISITA NUESTRA [La-]MENTE;
-[00:00.00] LLENA DE TU [Sol]AMOR
-[00:00.00] EL CORAZÓN QUE HAS [La-]CREADO.
+[00:00.00] [La-]VEN, ESPÍRITU CREAD[Sol]OR
+[00:00.00] VISITA NUESTRA M[La-]ENTE;
+[00:00.00] LLENA DE TU AM[Sol]OR
+[00:00.00] EL CORAZÓN QUE HAS CRE[La-]ADO.
 {end_of_chorus}
 {start_of_verse: S.}
-[00:00.00] [La-]Oh dulce conso[Sol]lador,
-[00:00.00] don del Padre [La-]altísimo,
-[00:00.00] agua viva, fuego, [Sol]amor,
-[00:00.00] santo crisma [La-]del alma.
+[00:00.00] [La-]Oh dulce consola[Sol]dor,
+[00:00.00] don del Padre a[La-]ltísimo,
+[00:00.00] agua viva, fuego, am[Sol]or,
+[00:00.00] santo crisma del [La-]alma.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] [La-]DEDO DE LA MANO [Sol]DE DIOS,
-[00:00.00] PROMESA DEL [La-]SALVADOR,
-[00:00.00] DERRAMA TUS SIETE [Sol]DONES,
-[00:00.00] SUSCITA EN NOSOTROS [La-]LA PALABRA.
+[00:00.00] [La-]DEDO DE LA MANO DE D[Sol]IOS,
+[00:00.00] PROMESA DEL SALVAD[La-]OR,
+[00:00.00] DERRAMA TUS SIETE D[Sol]ONES,
+[00:00.00] SUSCITA EN NOSOTROS LA PAL[La-]ABRA.
 {end_of_chorus}
 {start_of_verse: S.}
 [00:00.00] [La-]Sé luz del inte[Sol]lecto,
-[00:00.00] llama ardiente en el [La-]corazón,
-[00:00.00] sana nuestras [Sol]heridas
-[00:00.00] con el bálsamo de tu [La-]amor.
+[00:00.00] llama ardiente en el cora[La-]zón,
+[00:00.00] sana nuestras he[Sol]ridas
+[00:00.00] con el bálsamo de tu am[La-]or.
 {end_of_verse}
 {column_break}
 {start_of_chorus: A.}
 [00:00.00] [La-]DEFIENDENOS DEL ENE[Sol]MIGO,
-[00:00.00] DANOS EL DON [La-]DE LA PAZ.
+[00:00.00] DANOS EL DON DE LA P[La-]AZ.
 [00:00.00] TU GUÍA INVEN[Sol]CIBLE
-[00:00.00] NOS PRESERVE [La-]DEL MAL.
+[00:00.00] NOS PRESERVE DEL M[La-]AL.
 {end_of_chorus}
 {start_of_verse: S.}
-[00:00.00] [La-]Oh Luz de eterna sabi[Sol]duría,
-[00:00.00] desvélanos el gran [La-]misterio
+[00:00.00] [La-]Oh Luz de eterna sabidu[Sol]ría,
+[00:00.00] desvélanos el gran mist[La-]erio
 [00:00.00] de Dios Padre y del [Sol]Hijo,
-[00:00.00] unidos en un solo [La-]amor.
+[00:00.00] unidos en un solo am[La-]or.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] [Sol]AMÉN.[La-]
+[00:00.00] [Sol]AM[La-]ÉN.
 {end_of_chorus}
 ```

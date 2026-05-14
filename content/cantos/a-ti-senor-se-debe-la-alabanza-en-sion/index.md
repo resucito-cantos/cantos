@@ -11,34 +11,34 @@ resources:
 ```chordpro
 {capo: 3}
 {start_of_verse}
-[00:00.00] [Re-]A ti, Señor, se debe la alabanza, en [La7]Sión.
-[00:00.00] [Re-]A ti se te cumple el voto, en Jerusalén.
+[00:00.00] [Re-]A ti, Señor, se debe la alabanza, en S[La7]ión.
+[00:00.00] A ti se te cumple el voto, en Jerusa[Re-]lén.
 {end_of_verse}
 
 {start_of_verse}
-[00:00.00] [Sol-]A ti que escuchas la or[Re-]ación
-[00:00.00] [La7]viene todo mortal, viene todo [Re-]mortal.
+[00:00.00] [Sol-]A ti que escuchas la ora[Re-]ción
+[00:00.00] viene todo mor[La7]tal, viene todo mort[Re-]al.
 {end_of_verse}
 
 {start_of_chorus}
 [00:00.00] [Sib]A TI ¿QUE ESCUCHAS LA OR[La7]ACIÓN
-[00:00.00] [Sib]VIENE TODO MORTAL,
-[00:00.00] [La7]VIENE TODO MORTAL.
+[00:00.00] [Sib7]VIENE TODO MORTAL,
+[00:00.00] VIENE TODO MORT[La7]AL.
 {end_of_chorus}
 
 {start_of_verse}
 [00:00.00] [Re-]Pesan sobre nosotros nuestros pe[La7]cados,
-[00:00.00] [Re-]mas tú perdonas nuestras culpas.
+[00:00.00] mas tú perdonas nuestras cul[Re-]pas.
 {end_of_verse}
 
 {start_of_verse}
-[00:00.00] [La7]Dichoso el que tú eliges, el que tú llamas,
-[00:00.00] [Re-]vivirá en tus atrios.
+[00:00.00] Dichoso el que tú eliges, el que tú [La7]llamas,
+[00:00.00] vivirá en tus [Re-]atrios.
 {end_of_verse}
 
 {start_of_verse}
-[00:00.00] [Sol-]A ti que escuchas la or[Re-]ación
-[00:00.00] [La7]viene todo mortal, viene todo [Re-]mortal.
+[00:00.00] [Sol-]A ti que escuchas la ora[Re-]ción
+[00:00.00] viene todo mor[La7]tal, viene todo mort[Re-]al.
 {end_of_verse}
 
 {start_of_chorus}
@@ -49,19 +49,19 @@ resources:
 
 {start_of_verse}
 [00:00.00] [Re-]Nos saciaremos de los bienes de tu [La7]casa,
-[00:00.00] [Re-]de la santidad de tu templo!
+[00:00.00] de la santidad de tu [Re-]templo!
 {end_of_verse}
 
 {start_of_verse}
 [00:00.00] Con los prodigios de tu amor
-[00:00.00] [La7]tú nos hablas,
+[00:00.00] tú nos [La7]hablas,
 [00:00.00] con los portentos de tu justicia
-[00:00.00] [Re-]nos respondes.
+[00:00.00] nos res[Re-]pondes.
 {end_of_verse}
 
 {start_of_verse}
-[00:00.00] [Sol-]A ti que escuchas la or[Re-]ación
-[00:00.00] [La7]viene todo mortal, viene todo [Re-]mortal.
+[00:00.00] [Sol-]A ti que escuchas la ora[Re-]ción
+[00:00.00] viene todo mor[La7]tal, viene todo mor[Re-]tal.
 {end_of_verse}
 
 {start_of_chorus}

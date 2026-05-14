@@ -10,22 +10,22 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [Re-]Misericordia [Do]mía, Miseri[Re-]cordia.
+[00:00.00] [Re-]Misericordia mía, [Do]Miseri[Re-]cordia.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] MISERICORDIA MÍA, MISERICORDIA.
+[00:00.00] MISERICORDIA MÍA, [Do]MISERI[Re-]CORDIA.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Re-]Misericordia, Dios mío, por tu bon[Fa]dad.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] POR TU INMENSA COMPASIÓN
-[00:00.00] BORRA MI CULPA;
+[00:00.00] POR TU INMENSA COMPAS[Sol-]IÓN
+[00:00.00] BORRA MI [Re-]CULPA;
 [00:00.00] [Re-]lava del todo mi de[Fa]lito.
-[00:00.00] [Do]LIMPIA MI PE[Re-]CADO.
+[00:00.00] LIMPIA MI PEC[Re-]ADO.
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [Do]MISERICORDIA MÍA, MISERI[Re-]CORDIA ...
+[00:00.00] [Re-]MISERICORDIA MÍA, [Do]MISERI[Re-]CORDIA ...
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] Pues yo reconozco mi culpa,
@@ -76,7 +76,7 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] Oh Dios, crea en mí un corazón puro,
+[00:00.00] [Re-]Oh Dios, crea en mí un corazón [Sol-]puro,
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] RENUÉVAME POR DENTRO

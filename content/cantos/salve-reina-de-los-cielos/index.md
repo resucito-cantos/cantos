@@ -12,17 +12,17 @@ resources:
 {start_of_verse: "S."}
 [00:00.00] [La-]Salve, reina de los cielos,
 [00:00.00] [Sol]señora, señora de los [Fa]ángeles;
-[00:00.00] [Mi]salve raíz, salve puerta,
+[00:00.00] salve raíz, salve pu[Mi]erta,
 [00:00.00] [Mi7]tú, tú, tú abriste el camino a nuestra [La-]luz.
 {end_of_verse}
 {column_break}
 {start_of_chorus}
-[00:00.00] [La-]ALÉGRATE, VIRGEN [Mi]MARÍA,
-[00:00.00] [La-]ENTRE TODAS LA MÁS BELLA;
-[00:00.00] [Re-]SALVE, ETERNA [La-]DONCELLA,
-[00:00.00] [Mi]RUEGA A CRISTO POR [La-]NOSOTROS.
-[00:00.00] [Re-]SALVE, ETERNA [La-]DONCELLA,
-[00:00.00] [Mi]RUEGA A CRISTO POR [La-]NOSOTROS.
+[00:00.00] [La-]ALÉGRATE, VIRGEN MARÍ[Mi]A,
+[00:00.00] ENTRE TODAS LA MÁS B[La-]ELLA;
+[00:00.00] [Re-]SALVE, ETERNA DONC[La-]ELLA,
+[00:00.00] RUEGA A CR[Mi]ISTO POR NOS[La-]OTROS.
+[00:00.00] [Re-]SALVE, ETERNA DONC[La-]ELLA,
+[00:00.00] RUEGA A CR[Mi]ISTO POR NOS[La-]OTROS.
 {end_of_chorus}
 {column_break}
 {start_of_verse: "S."}

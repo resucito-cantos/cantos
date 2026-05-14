@@ -11,24 +11,24 @@ resources:
 ```chordpro
 {start_of_chorus}
 [00:00.00] [Mi-]CONSOLAD A MI PUEBLO,
-[00:00.00] [La-]Y HABLAD AL CORAZÓN DE [Si7]JERUSALÉN
-[00:00.00] [Mi-]Y DECIDLE QUE SE ACABA SU ESCLAVITUD.
+[00:00.00] Y HABL[La-]AD AL CORAZÓN DE JERUSAL[Si7]ÉN
+[00:00.00] Y DECIDLE QUE SE ACABA SU ESCLAVIT[Mi-]UD.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Sol]¡Ohey! Una voz en el desierto [La]grita:[Si7]
-[00:00.00] [La-]«preparad el camino, la [Si7]senda al [Mi-]Señor.»
+[00:00.00] [Sol]¡Ohey! Una voz en el desierto [La]gri[Si7]ta:
+[00:00.00] [La-]«preparad el camino, la [Si7]senda al Señ[Mi-]or.»
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]PORQUE EL SEÑOR VIENE CON [Mi-]POTENCIA,
-[00:00.00] [Si7]TRAE CONSIGO EL PREMIO.
-[00:00.00] [La-]COMO EL PASTOR REÚNE SU [Mi-]REBAÑO;
-[00:00.00] [Si7]LLEVA AL CORDERILLO EN SUS [Mi-]BRAZOS.
+[00:00.00] PORQUE EL SEÑ[La-]OR VIENE CON POT[Mi-]ENCIA,
+[00:00.00] TRAE CONSIGO EL PR[Si7]EMIO.
+[00:00.00] COMO EL PAS[La-]TOR REÚNE SU REB[Mi-]AÑO;
+[00:00.00] LLEVA AL CORDER[Si7]ILLO EN SUS BR[Mi-]AZOS.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [La-]Como el pastor conduce con [Mi-]cuidado
-[00:00.00] [Si7]las ovejas que van a ser madres;
+[00:00.00] Como el pas[La-]tor conduce con cui[Mi-]dado
+[00:00.00] las ovejas que van a ser m[Si7]adres;
 [00:00.00] [La-]como el pastor que lleva a sus hombros
-[00:00.00] [Si7]la oveja perdida.
+[00:00.00] la oveja per[Si7]dida.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Mi-]CONSOLAD A MI PUEBLO ...

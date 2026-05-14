@@ -15,12 +15,12 @@ resources:
 [00:00.00] SALMODIAD PARA SU NOMBRE.
 [00:00.00] CANTAD A DIOS,
 [00:00.00] [Re-9]ALLANAD EL CAMINO
-[00:00.00] [Mi]AL QUE CABALGA EN LAS NUBES.
+[00:00.00] AL QUE CABALGA EN LAS N[Mi]UBES.
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [Mi]Señor es su Nombre, [Re-9]alegraos ante Él.
 [00:00.00] Padre de los huérfanos,
-[00:00.00] [Mi]defensor de las viudas, es Dios.
+[00:00.00] defensor de las viudas, es D[Mi]ios.
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [Re-9]A los más pobres hace habitar [Mi]en su casa,

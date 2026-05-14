@@ -9,32 +9,32 @@ resources:
 ---
 ```chordpro
 {start_of_verse: S.}
-[00:00.00] [Re-]Tú has cubierto de vergüenza la [La7]muerte,
-[00:00.00] [Re-]tú has llenado de luto el infierno.
-[00:00.00] [La7]Has golpeado la iniquidad,
-[00:00.00] [Re-]has privado a la injusticia de sus hijos,
-[00:00.00] [Sib7]como [La7]Moisés al Faraón,
-[00:00.00] [Sib7]como [La7]Moisés al Faraón.
+[00:00.00] [Re-]Tú has cubierto de vergüenza la mu[La7]erte,
+[00:00.00] tú has llenado de luto el in[Re-]fierno.
+[00:00.00] Has golpeado la iniqui[La7]dad,
+[00:00.00] has privado a la injusticia de sus [Re-]hijos,
+[00:00.00] como Moi[Sib7]sés al Far[La7]aón,
+[00:00.00] como Moi[Sib7]sés al Far[La7]aón.
 {end_of_verse}
 {start_of_verse: S.}
-[00:00.00] [La7]Tú eres la Pascua de nuestra salvación;
-[00:00.00] [Re-]tú eres el cordero nacido de María.
+[00:00.00] Tú eres la Pascua de nuestra salva[La7]ción;
+[00:00.00] tú eres el cordero nacido de Mar[Re-]ía.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] [Re-]MARÍA, [La7]CORDERA SIN MANCHA,
-[00:00.00] [Re-]MARÍA, LA INOCENTE CORDERA.
+[00:00.00] [Re-]MARÍA, CORDERA SIN M[La7]ANCHA,
+[00:00.00] MARÍA, LA INOCENTE CORD[Re-]ERA.
 {end_of_chorus}
 {column_break}
 {start_of_verse: S.}
-[00:00.00] [Re-]Tú has sido asesinado en Abel,
+[00:00.00] [Re-]Tú has sido asesinado en A[La7]bel,
 [00:00.00] [Re-]tú fuiste [La7]atado en Isaac, vendido en José,
-[00:00.00] [Re-]abandonado sobre las aguas en Moisés,
-[00:00.00] [La7]perseguido en David
-[00:00.00] [Re-]y despreciado en todos los profetas.
+[00:00.00] abandonado sobre las aguas en Mois[Re-]és,
+[00:00.00] perseguido en Da[La7]vid
+[00:00.00] y despreciado en todos los pro[Re-]fetas.
 {end_of_verse}
 {start_of_verse: S.}
-[00:00.00] [La7]Tú eres el cordero que no abre boca;
-[00:00.00] [Re-]tú eres el cordero nacido de María.
+[00:00.00] Tú eres el cordero que no abre [La7]boca;
+[00:00.00] tú eres el cordero nacido de Ma[Re-]ría.
 {end_of_verse}
 {start_of_chorus: A.}
 [00:00.00] [Re-]MARÍA, [La7]CORDERA SIN MANCHA ...
@@ -51,21 +51,21 @@ resources:
 {end_of_verse}
 {start_of_verse: S.}
 [00:00.00] [La7]Tú eres la Pascua de nuestra salvación;
-[00:00.00] [Re-]tú eres el cordero nacido de María.
+[00:00.00] tú eres el cordero nacido de Mar[Re-]ía.
 {end_of_verse}
 {start_of_chorus: A.}
 [00:00.00] [Re-]MARÍA, [La7]CORDERA SIN MANCHA ...
 {end_of_chorus}
 {column_break}
 {start_of_verse: S.}
-[00:00.00] [Re-]Tú fuiste cogido del [La7]rebaño,
+[00:00.00] [Re-]Tú fuiste cogido del re[La7]baño,
 [00:00.00] conducido al sacrificio, inmolado por la [Re-]tarde,
-[00:00.00] sepultado en la noche; sobre la cruz
+[00:00.00] sepultado en la n[La7]oche; sobre la cruz
 [00:00.00] [La7]no te fue roto ningún hueso, ni en la tierra
-[00:00.00] experimentaste la corrupción.
+[00:00.00] experimentaste la corrupc[Re-]ión.
 {end_of_verse}
 {start_of_verse: S.}
-[00:00.00] [La7]Tú eres el cordero que no abre boca;
+[00:00.00] Tú eres el cordero que no abre [La7]boca;
 [00:00.00] [Re-]tú eres el cordero nacido de María.
 {end_of_verse}
 {start_of_chorus: A.}

@@ -10,29 +10,29 @@ resources:
 ```chordpro
 {start_of_verse}
 [00:00.00] [Fa#sus4/7/9dim]SEÑOR, NO ME CORRIJAS EN TU [Sol]CÓLERA, [Fa#]
-[00:00.00] [Sol]EN TU FUROR NO ME [Fa#]CASTIGUES.
+[00:00.00] EN TU FUR[Sol]OR NO ME CAST[Fa#]IGUES.
 {end_of_verse}
 {comment: BIS Asamblea}
 {start_of_verse}
-[00:00.00] [Si-]Ten piedad de mí, ten piedad [La]Señor,
-[00:00.00] [Fa#]que estoy sin fuerzas,
-[00:00.00] [Si-]sáname tú, [La]Señor,
+[00:00.00] [Si-]Ten piedad de mí, ten piedad Señ[La]or,
+[00:00.00] que estoy sin f[Fa#]uerzas,
+[00:00.00] [Si-]sáname tú, Se[La]ñor,
 [00:00.00] que se desmoronan mis [Fa#]huesos.
 [00:00.00] [Sol]Hundida [Fa#]tengo el alma,
-[00:00.00] [La]y tú, Señor, [Fa#]¿hasta cuándo?
+[00:00.00] y [La]tú, Señor, ¿hasta c[Fa#]uándo?
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La]Y TÚ, SEÑOR, [Fa#]¿HASTA CUÁNDO?
+[00:00.00] Y [La]TÚ, SEÑOR, ¿HASTA CU[Fa#]ÁNDO?
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [Fa#sus4/7/9dim]SEÑOR, NO ME [Sol]CORRIJAS ...
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Si-]Vuélvete, Señor, [La]recobra mi [Fa#]alma,
-[00:00.00] [Si-]sáname tú, [La]Señor, por tu [Fa#]misericordia.
-[00:00.00] [La]QUE NADIE ENTRE LOS MUERTOS
-[00:00.00] [Fa#]TE RECUERDA, NI EN LOS [La]INFIERNOS
-[00:00.00] [Fa#]SE CANTA TU ALABANZA.
+[00:00.00] [Si-]Vuélvete, Señ[La]or, recobra mi [Fa#]alma,
+[00:00.00] [Si-]sáname tú, Señ[La]or, por tu miseri[Fa#]cordia.
+[00:00.00] QUE N[La]ADIE ENTRE LOS MUERTOS
+[00:00.00] TE RECU[Fa#]ERDA, NI EN LOS INF[La]IERNOS
+[00:00.00] SE CANTA TU ALAB[Fa#]ANZA.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Fa#sus4/7/9dim]SEÑOR, NO ME [Sol]CORRIJAS ...
@@ -40,22 +40,22 @@ resources:
 {column_break}
 {start_of_verse}
 [00:00.00] [Si-]Estoy cansado de gemir,
-[00:00.00] [La]inundo de lágrimas [Si-]mi cama,
-[00:00.00] mis ojos se consumen en la [La]angustia,
-[00:00.00] [Fa#]envejezco entre enemigos.
+[00:00.00] [La]inundo de lágrimas mi c[Si-]ama,
+[00:00.00] mis ojos se consumen en la ang[La]ustia,
+[00:00.00] envejezco entre enem[Fa#]igos.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [La]Apartaos de mí [Fa#]malvados,
-[00:00.00] [La]que el Señor escucha mis [Fa#]sollozos,
-[00:00.00] [La]que el Señor acoge mi [Fa#]oración.
+[00:00.00] [La]Apartaos de mí mal[Fa#]vados,
+[00:00.00] [La]que el Señor escucha mis so[Fa#]llozos,
+[00:00.00] que el Señ[La]or acoge mi orac[Fa#]ión.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Fa#sus4/7/9dim]SEÑOR, NO ME [Sol]CORRIJAS ...
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [La]Y tú, Señor, [Fa#]¿hasta cuándo?
+[00:00.00] Y [La]tú, Señor, ¿hasta c[Fa#]uándo?
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La]Y TÚ, SEÑOR, [Fa#]¿HASTA CUÁNDO?
+[00:00.00] Y [La]TÚ, SEÑOR, ¿HASTA CU[Fa#]ÁNDO?
 {end_of_chorus}
 ```

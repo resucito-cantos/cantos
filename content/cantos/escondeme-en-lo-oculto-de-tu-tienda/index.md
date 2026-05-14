@@ -12,32 +12,32 @@ resources:
 ```chordpro
 {start_of_chorus}
 [00:00.00] [Mi-]ESCÓNDEME
-[00:00.00] [Re]EN LO OCULTO DE TU TIENDA,
-[00:00.00] [Do]SOBRE TU ROCA [Si7]LEVÁNTAME.
+[00:00.00] EN LO OCULTO DE TU T[Re]IENDA,
+[00:00.00] SOBRE TU R[Do]OCA LEVÁNTAM[Si7]E.
 {end_of_chorus: BIS}
 {start_of_verse}
-[00:00.00] [Do]Yahveh es mi luz y mi salvación,
-[00:00.00] [Si7]¿a quién he de temer?
-[00:00.00] [Do]Yahveh es el refugio de mi vida,
-[00:00.00] [Si7]¿por quién he de temblar?
+[00:00.00] Yahveh es mi luz y mi salvac[Do]ión,
+[00:00.00] ¿a quién he de tem[Si7]er?
+[00:00.00] Yahveh es el refugio de mi [Do]vida,
+[00:00.00] ¿por quién he de temb[Si7]lar?
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] ESCÓNDEME ...
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Do]Cuando se acercan contra mí los malvados
-[00:00.00] [Si7]a devorar mi carne,
-[00:00.00] [Do]son ellos, mis adversarios y enemigos,
-[00:00.00] [Si7]los que tropiezan y sucumben.
+[00:00.00] Cuando se acercan contra mí los mal[Do]vados
+[00:00.00] a devorar mi c[Si7]arne,
+[00:00.00] son ellos, mis adversarios y enem[Do]igos,
+[00:00.00] los que tropiezan y su[Si7]cumben.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] ESCÓNDEME ...
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Do]Aunque acampe un ejército contra mí,
-[00:00.00] [Si7]mi corazón no teme;
-[00:00.00] [Do]aunque estalle una guerra contra mí,
-[00:00.00] [Si7]estoy seguro en ella.
+[00:00.00] Aunque acampe un ejército contra [Do]mí,
+[00:00.00] mi corazón no [Si7]teme;
+[00:00.00] aunque estalle una guerra contra [Do]mí,
+[00:00.00] estoy seguro en [Si7]ella.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] ESCÓNDEME ...

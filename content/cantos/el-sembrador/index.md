@@ -9,69 +9,69 @@ resources:
 ---
 ```chordpro
 {start_of_chorus}
-[00:00.00] [Re-]SALIÓ EL SEMBRADOR A [Do]SEMBRAR
-[00:00.00] [Re-]Y UNA PARTE CAYÓ EN EL CAMINO.
+[00:00.00] [Re-]SALIÓ EL SEMBRADOR A SEMBR[Do]AR
+[00:00.00] Y UNA P[Re-]ARTE CAYÓ EN EL CAMINO.
 {end_of_chorus}
 
 {start_of_verse}
-[00:00.00] [Fa]Vinieron las [Sol]aves, se la comieron,
-[00:00.00] [La]se la comieron.
+[00:00.00] [Fa]Vinieron las aves, [Sol]se la comieron,
+[00:00.00] se la comi[La]eron.
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] [Re-]SE LA COMIERON.
+[00:00.00] SE LA COM[Re-]IERON.
 {end_of_chorus}
 
 {column_break}
 
 {start_of_chorus}
-[00:00.00] [Re-]SALIÓ EL SEMBRADOR A [Do]SEMBRAR
-[00:00.00] [Re-]Y UNA PARTE CAYÓ EN LA PIEDRA.
+[00:00.00] [Re-]SALIÓ EL SEMBRADOR A SEMBR[Do]AR
+[00:00.00] Y UNA P[Re-]ARTE CAYÓ EN LA PIEDRA.
 {end_of_chorus}
 
 {start_of_verse}
-[00:00.00] [Fa]Salió el [Sol]sol, la secó, no [La]había tierra.
+[00:00.00] [Fa]Salió el sol, la se[Sol]có, no había [La]tierra.
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] [Re-]NO HABÍA TIERRA.
+[00:00.00] NO HABÍA T[Re-]IERRA.
 {end_of_chorus}
 
 {column_break}
 
 {start_of_chorus}
-[00:00.00] [Re-]SALIÓ EL SEMBRADOR A [Do]SEMBRAR
-[00:00.00] [Re-]Y UNA PARTE CAYÓ EN EL ESPINO.
+[00:00.00] [Re-]SALIÓ EL SEMBRADOR A SEMBR[Do]AR
+[00:00.00] Y UNA P[Re-]ARTE CAYÓ EN EL ESPINO.
 {end_of_chorus}
 
 {start_of_verse}
-[00:00.00] [Fa]Creció la semilla, [Sol]creció el espino, la [La]sofocó.
+[00:00.00] [Fa]Creció la semilla, [Sol]creció el espino, la sofoc[La]ó.
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] [Re-]LA SOFOCÓ.
+[00:00.00] LA SOFOC[Re-]Ó.
 {end_of_chorus}
 
 {column_break}
 
 {start_of_chorus}
-[00:00.00] [Re-]SALIÓ EL SEMBRADOR A SEMBRAR
-[00:00.00] [Re-]Y UNA PARTE CAYÓ EN LA [Do]TIERRA.
+[00:00.00] [Re-]SALIÓ EL SEMBRADOR A SEMBR[Do]AR
+[00:00.00] Y UNA P[Re-]ARTE CAYÓ EN LA TIERRA.
 {end_of_chorus}
 
 {start_of_verse}
-[00:00.00] [Fa]Y dio fruto, unos [Sol]treinta, otros [La]sesenta.
+[00:00.00] [Fa]Y dio fruto, [Sol]unos treinta, otros ses[La]enta.
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] [Re-]Y ALGUNOS CIENTO.
+[00:00.00] Y ALGUNOS C[Re-]IENTO.
 {end_of_chorus}
 
 {column_break}
 
 {start_of_verse}
 [00:00.00] [Sol-]»El que tenga [Re-]oídos
-[00:00.00] [Sol-]y quiera [La]oír, que [Re-]oiga.»
+[00:00.00] [Sol-]y quiera o[La]ír, que [Re-]oiga.»
 {end_of_verse}
 
 {start_of_chorus}
@@ -79,26 +79,26 @@ resources:
 {end_of_chorus}
 
 {start_of_chorus}
-[00:00.00] [Sol-]No seas [Re-]camino.
-[00:00.00] [Sol-]No seas la [Re-]piedra.
-[00:00.00] [Sol-]No seas [Re-]espino.
+[00:00.00] [Sol-]No seas cam[Re-]ino.
+[00:00.00] [Sol-]No seas la p[Re-]iedra.
+[00:00.00] [Sol-]No seas es[Re-]pino.
 {end_of_chorus}
 
 {column_break}
 
 {start_of_verse}
-[00:00.00] [Sol-]Que seas la [La]tierra,
+[00:00.00] [Sol-]Que seas la t[La]ierra,
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] [Sol-]LA BUENA [La]TIERRA,
+[00:00.00] [Sol-]LA BUENA T[La]IERRA,
 {end_of_chorus}
 
 {start_of_verse}
-[00:00.00] [Re-]donde [La7]Jesús [Re-]pueda crecer,
+[00:00.00] donde Jes[Re-]ús p[La7]ueda cre[Re-]cer,
 {end_of_verse}
 
 {start_of_chorus}
-[00:00.00] DONDE JESÚS [La7]PUEDA [Re-]CRECER.
+[00:00.00] DONDE JESÚS P[La7]UEDA CREC[Re-]ER.
 {end_of_chorus}
 ```

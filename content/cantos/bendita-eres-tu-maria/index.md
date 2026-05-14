@@ -12,12 +12,12 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [La-]Bendita eres tú, [Sol]María, [La-]
-[00:00.00] entre todas las [Sol]mujeres, [La-]María.
+[00:00.00] [La-]Bendita eres [Sol]tú, Mar[La-]ía,
+[00:00.00] entre todas las muj[Sol]eres, Ma[La-]ría.
 {end_of_verse}
 {start_of_verse}
 [00:00.00] Y bendito es el [Sol]fruto, [La-]María,
-[00:00.00] el fruto de tu [Sol]seno, [La-]Jesús.
+[00:00.00] el fruto de tu [Sol]seno, Jes[La-]ús.
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [Fa]María, tú has [Mi]creído!
@@ -29,10 +29,10 @@ resources:
 {start_of_verse}
 [00:00.00] [La-]Porque, apenas he sentido tu [Mi]voz,
 [00:00.00] [Re-]algo se ha movido dentro de [Mi]mí,
-[00:00.00] [Re-]mi niño ha exultado de [Mi]gozo.
+[00:00.00] [Re-]mi niño ha exultado de g[Mi]ozo.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]MARÍA, BENDITA [Fa]MARÍA,
+[00:00.00] [La-]MARÍA, BENDITA MAR[Fa]ÍA,
 [00:00.00] TÚ HAS CREÍDO
 [00:00.00] [Mi]LA PALABRA DEL SEÑOR. {bis}
 {end_of_chorus}

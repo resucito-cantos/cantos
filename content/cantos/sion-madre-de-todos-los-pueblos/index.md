@@ -11,12 +11,12 @@ resources:
 {start_of_verse}
 [00:00.00] [La-]Su fundación está sobre los montes santos:
 [00:00.00] [Fa]el Señor ama las puertas de Sión
-[00:00.00] [Mi]más que todas las moradas de Jacob.
+[00:00.00] más que todas las moradas de Jac[Mi]ob.
 {end_of_verse}
 {column_break}
 {start_of_verse}
 [00:00.00] [Si7]De ti se dicen cosas estupendas,
-[00:00.00] [Mi]ciudad de Dios:
+[00:00.00] ciudad de D[Mi]ios:
 {end_of_verse}
 {column_break}
 {start_of_verse}
@@ -26,15 +26,15 @@ resources:
 {column_break}
 {start_of_verse}
 [00:00.00] Cuando alguno nace en ellas
-[00:00.00] [Mi]se dice: fulano nació allí»,
-[00:00.00] [Si7]Mas de Sión se dice: [Mi]«Madre.»
+[00:00.00] se dice: fulano nació al[Mi]lí»,
+[00:00.00] [Si7]Mas de Sión se dice: «M[Mi]adre.»
 {end_of_verse}
 {column_break}
 {start_of_verse}
 [00:00.00] [La-]El Señor escribe en el libro de los pueblos:
 [00:00.00] [Fa]«Éste ha nacido en [Mi]ella»,
 [00:00.00] [Si7]y danzando cantarán:
-[00:00.00] [Mi]«están en ti todas mis fuentes.»
+[00:00.00] «están en ti todas mis f[Mi]uentes.»
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-]PORQUE TODOS HAN [Re-]NACIDO EN [Mi]ELLA. [La-] {BIS A.}

@@ -9,28 +9,28 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [La-]He aquí mi siervo a [Re-]quien [La-]elegí,
-[00:00.00] he aquí mi siervo a [Re-]quien [La-]elegí,
-[00:00.00] [Mi]mi amado en quien mi alma se [La-]complace,
-[00:00.00] [Mi]mi amado a quien [La-]elegí.
+[00:00.00] [La-]He aquí mi siervo a qu[Re-]ien ele[La-]gí,
+[00:00.00] he aquí mi siervo a qu[Re-]ien ele[La-]gí,
+[00:00.00] mi am[Mi]ado en quien mi alma se comp[La-]lace,
+[00:00.00] mi am[Mi]ado a quien ele[La-]gí.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [La7]Haré descansar mi espíritu sobre [Re-]él;
-[00:00.00] [La-]y anunciará el [Mi]derecho a las [La-]naciones,
-[00:00.00] [Mi]y anunciará el [La-]derecho a las [Mi7]naciones. [La-]
+[00:00.00] Haré descansar mi espíritu [La7]sobre [Re-]él;
+[00:00.00] y anuncia[La-]rá el de[Mi]recho a las nac[La-]iones,
+[00:00.00] y anuncia[Mi]rá el de[La-]recho a [Mi7]las nac[La-]iones.
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [Do]No disputará ni gritará,
-[00:00.00] [Fa]nadie oirá su [Mi]voz en las [La-]plazas.
+[00:00.00] [Fa]nadie oirá su v[Mi]oz en las pla[La-]zas.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]LA CAÑA CASCADA NO LA [Mi]QUEBRARÁ,
-[00:00.00] [La-]LA MECHA HUMEANTE NO APAGARÁ,
-[00:00.00] [Mi]HASTA HACER TRIUNFAR EL [La-]DERECHO,
-[00:00.00] [Mi]HASTA HACER TRIUNFAR EL [La-]DERECHO.
+[00:00.00] [La-]LA CAÑA CASCADA NO LA QUEBRAR[Mi]Á,
+[00:00.00] LA MECHA HUMEANTE NO APAGAR[La-]Á,
+[00:00.00] HASTA HAC[Mi]ER TRIUNFAR EL DER[La-]ECHO,
+[00:00.00] HASTA HAC[Mi]ER TRIUNFAR EL DERECH[La-]O.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [La-]Y en su nombre, y en su nombre
-[00:00.00] [Fa]pondrán las [Mi]naciones su [La-]esperanza.
+[00:00.00] pond[Fa]rán las nac[Mi]iones su esperan[La-]za.
 {end_of_verse}
 ```

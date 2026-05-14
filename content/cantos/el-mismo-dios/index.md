@@ -10,15 +10,15 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [Re]El mismo Dios que [Fa#-]dijo:
+[00:00.00] [Re]El mismo Dios que [Fa#]dijo:
 [00:00.00] [Si-]"De las tinieblas brille la luz",
 [00:00.00] [Fa#]es el mismo que ha hecho brillar la luz
 [00:00.00] en nuestros corazones,
-[00:00.00] [Si-]para irradiar el conocimiento de su gloria,
-[00:00.00] [La]que está en el rostro de [Si-]Cristo.
+[00:00.00] para irrad[Si-]iar el conocimiento de su gloria,
+[00:00.00] que es[La]tá en el rostro de C[Si-]risto.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La]QUE ESTÁ EN EL ROSTRO DE [Si-]CRISTO.
+[00:00.00] QUE EST[La]Á EN EL ROSTRO DE CR[Si-]ISTO.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Fa#]PERO LLEVAMOS ESTE TESORO
@@ -26,20 +26,20 @@ resources:
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [Si-]Para que se manifieste
-[00:00.00] [La]que lo sublime de este amor
-[00:00.00] [Si-]viene de Dios, [Sol]viene de Dios
-[00:00.00] [Fa#]y que no viene de nosotros.
+[00:00.00] que lo sublime de este am[La]or
+[00:00.00] viene de Di[Si-]os, [Sol]viene de Dios
+[00:00.00] y que no viene de nos[Fa#]otros.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Si-]LLEVANDO SIEMPRE
+[00:00.00] LLEVANDO S[Si-]IEMPRE
 [00:00.00] EN NUESTRO CUERPO
-[00:00.00] [La]EL MORIR DE JESÚS,
+[00:00.00] EL MORIR DE JES[La]ÚS,
 {end_of_chorus}
 {column_break}
 {start_of_chorus}
-[00:00.00] [Si-]PARA QUE SE [Sol]MANIFIESTE
+[00:00.00] PARA Q[Si-]UE [Sol]SE MANIFIESTE
 [00:00.00] EN NUESTRO CUERPO
-[00:00.00] [Fa#]QUE ESTÁ RESUCITADO.
+[00:00.00] QUE ESTÁ RESUCI[Fa#]TADO.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Fa#]Atribulados en todo, mas no desesperados;

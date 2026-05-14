@@ -19,7 +19,7 @@ resources:
 [00:00.00] [La]Y TODAS LAS POTENCIAS DEL CIELO:
 [00:00.00] [Si-]SANTO, SANTO, SANTO,
 [00:00.00] [Fa#]SANTO, SANTO, SANTO,
-[00:00.00] [Si-]EL SEÑOR DEL UNIVERSO.
+[00:00.00] EL SEÑOR DEL UNIV[Si-]ERSO.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] Los cielos y la tierra están llenos

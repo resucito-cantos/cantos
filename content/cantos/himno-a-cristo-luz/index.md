@@ -10,23 +10,23 @@ resources:
 ```chordpro
 {start_of_chorus}
 [00:00.00] [Mi-]TE BENDECIMOS EN ESTA HORA,
-[00:00.00] [La-]OH CRISTO MÍO, VERBO DE DIOS;
-[00:00.00] [Mi-]LUZ DE LA LUZ SIN COMIENZO.
-[00:00.00] [Si7]TE BENDECIMOS VERBO DE [Mi-]DIOS,
-[00:00.00] [Si7]TE BENDECIMOS VERBO DE [Mi-]DIOS.
+[00:00.00] OH CRISTO M[La-]ÍO, VERBO DE DIOS;
+[00:00.00] LUZ DE LA LUZ SIN COMI[Mi-]ENZO.
+[00:00.00] TE BENDEC[Si7]IMOS VERBO DE D[Mi-]IOS,
+[00:00.00] TE BENDEC[Si7]IMOS VERBO DE D[Mi-]IOS.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Re7]¡Te bendecimos oh triple [Sol]luz de una indivisa [Si7]gloria!
-[00:00.00] [Mi-]Has dominado las tinieblas,
-[00:00.00] [Si7]has resurgido la luz resucitando [Mi-]de la noche.
+[00:00.00] [Re7]¡Te bendecimos oh triple [Sol]luz de una indivisa g[Si7]loria!
+[00:00.00] Has dominado las ti[Mi-]nieblas,
+[00:00.00] has resurgido la [Si7]luz resucitando de la n[Mi-]oche.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Si7]Tú eres la eterna luz que ilumina [Mi-]nuestras vidas.
-[00:00.00] [Si7]Tú eres la eterna luz que alboreas [Mi-]sobre el mundo.
-[00:00.00] [Si7]Tú eres la eterna luz.
+[00:00.00] Tú eres la eterna [Si7]luz que ilumina nuestras [Mi-]vidas.
+[00:00.00] Tú eres la eterna [Si7]luz que alboreas sobre el m[Mi-]undo.
+[00:00.00] Tú eres la eterna [Si7]luz.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Mi-]¡Te bendecimos Señor!
+[00:00.00] ¡Te bendecimos Señ[Mi-]or!
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Mi-]TE BENDECIMOS EN ESTA HORA ...

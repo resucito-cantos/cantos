@@ -8,14 +8,14 @@ resources:
 ---
 ```chordpro
 {start_of_chorus}
-[00:04.00] ¡[Re-]ACLAMAD AL SEÑOR,
+[00:04.00] [Re-]¡ACLAMAD AL SEÑOR,
 [00:08.00] [Sol-]TODA LA T[Re-]IERRA,
-[00:12.00] SERV[Fa]ID AL SEÑ[Sol]OR CON ALEGR[La]ÍA! 
+[00:12.00] SERV[Fa]ID AL SEÑ[Sol]OR CON ALEGR[La]ÍA!
 {end_of_chorus}
 
 {start_of_verse}
 [00:18.00] ¡Acerc[Re-]aos a [La7]Él
-[00:32.00] con gritos de jú[Re-]bilo!
+[00:32.00] con gritos de júb[Re-]ilo!
 {end_of_verse}
 
 {start_of_chorus}
@@ -32,8 +32,8 @@ resources:
 {end_of_chorus}
 
 {start_of_verse}
-[01:29.00] ¡Entr[Re-]ad por sus puert[La7]as
-[01:40.00] con himnos de alegr[Re-]ía!
+[01:29.00] ¡Ent[Re-]rad por sus puer[La7]tas
+[01:40.00] con himnos de aleg[Re-]ría!
 {end_of_verse}
 
 {column_break}
@@ -43,7 +43,7 @@ resources:
 {end_of_chorus}
 
 {start_of_verse}
-[02:01.00] ¡Bendec[Re-]id su nomb[La7]re, 
+[02:01.00] ¡Bende[Re-]cid su nomb[La7]re,
 [02:18.00] dándole grac[Re-]ias!
 {end_of_verse}
 
@@ -52,8 +52,8 @@ resources:
 {end_of_chorus}
 
 {start_of_verse}
-[02:42.00] Porque es bu[Re-]eno el Seño[La7]r,  
-[02:55.00] es eterno su amor con nosot[Re-]ros. 
+[02:42.00] Porque es bu[Re-]eno el Se[La7]ñor,
+[02:55.00] es eterno su amor con nosotr[Re-]os.
 {end_of_verse}
 
 {start_of_chorus}

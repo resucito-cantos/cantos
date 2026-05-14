@@ -11,9 +11,9 @@ resources:
 ```chordpro
 {start_of_chorus}
 [00:00.00] [Mi-]¡OH PUEBLO MÍO, OH PUEBLO MÍO!
-[00:00.00] ¿QUÉ MAL YO TE HE HECHO?
 [00:00.00] [La-]¿QUÉ MAL YO TE HE HECHO?
-[00:00.00] ¿EN QUÉ TE HE CONTRISTADO?
+[00:00.00] [La-]¿QUÉ MAL YO TE HE HECHO?
+[00:00.00] [Si7]¿EN QUÉ TE HE CONTRISTADO?
 [00:00.00] RESPÓNDEME.
 [00:00.00] [Si7]¿EN QUÉ TE HE CONTRISTADO?
 {end_of_chorus}

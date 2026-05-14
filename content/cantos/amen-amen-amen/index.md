@@ -12,7 +12,7 @@ resources:
 {start_of_chorus}
 [00:00.00] [Do]AMÉN, AMÉN, AMÉN.
 [00:00.00] [La-]AMÉN, AMÉN, AMÉN.
-[00:00.00] [Sol7]AMÉN, AMÉN, [Do]AMÉN.
+[00:00.00] [Sol7]AMÉN, AMÉN, AMÉ[Do]N.
 {end_of_chorus}
 {column_break}
 {start_of_verse}
@@ -24,12 +24,12 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [Do]Honor y poder [Fa]y for[Mi]taleza;
-[00:00.00] [Fa]honor y poder [Mi]demos a Dios.
+[00:00.00] [Do]Honor y pod[Fa]er y forta[Mi]leza;
+[00:00.00] honor y pod[Fa]er demos a D[Mi]ios.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Sol7]BENDICIÓN Y [Do]GLORIA, [Sol]SABIDURÍA,
-[00:00.00] ACCIÓN DE GRACIAS [Do]DEMOS A DIOS.
+[00:00.00] [Sol7]BENDICIÓN Y GL[Do]ORIA, SABIDUR[Sol]ÍA,
+[00:00.00] ACCIÓN DE GRACIAS DEMOS A DI[Do]OS.
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [Do]AMÉN, AMÉN, AMÉN ...
@@ -51,10 +51,10 @@ resources:
 [00:00.00] [Sol]DE LA GRAN TRIBU[Do]LACION,
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [Fa]Y LAVARON SUS TÚNICAS
-[00:00.00] [Do]Y LAS BLANQUEARON
-[00:00.00] [Fa]EN LA SANGRE DEL [Mi]CORDERO,
-[00:00.00] [Fa]EN LA SANGRE DEL [Mi]CORDERO.
+[00:00.00] Y LAV[Fa]ARON SUS TÚNICAS
+[00:00.00] Y LAS BLANQUE[Do]ARON
+[00:00.00] EN LA S[Fa]ANGRE DEL CORD[Mi]ERO,
+[00:00.00] EN LA S[Fa]ANGRE DEL CORD[Mi]ERO.
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [Sol7]ESTOS SON LOS ¿QUE [Do]VIENEN ...

@@ -12,29 +12,29 @@ resources:
 ```chordpro
 {start_of_chorus: "A."}
 [00:00.00] [La-]HABIENDO ENTRADO JESÚS EN JERICÓ,
-[00:00.00] [Sol]ATRAVESABA LA CIUDAD.
-[00:00.00] [Fa]HABIENDO ENTRADO JESÚS EN JERICÓ,
-[00:00.00] [Mi]ATRAVESABA LA CIUDAD.
+[00:00.00] ATRAVESABA LA CIU[Sol]DAD.
+[00:00.00] HABIENDO ENTRADO JESÚS EN J[Fa]ERICÓ,
+[00:00.00] ATRAVESABA LA CIUD[Mi]AD.
 {end_of_chorus}
 {column_break}
 {start_of_verse: "S."}
 [00:00.00] [La-]Había un hombre llamado Zaqueo,
 [00:00.00] que era jefe de publicanos y muy [Sol]rico
-[00:00.00] [Fa]que trataba de ver a Jesús, pero no podía
-[00:00.00] porque era de pequeña [Mi]estatura.
-[00:00.00] [La-]Se adelantó [Fa]corriendo
-[00:00.00] y se subió a un [Sol]sicómoro,
+[00:00.00] que trataba de ver a Jes[Fa]ús, pero no podía
+[00:00.00] porque era de pequeña estat[Mi]ura.
+[00:00.00] [La-]Se adelantó corriendo
+[00:00.00] y se subió a un si[Sol]cómoro,
 [00:00.00] [Fa]pues iba a pasar por allí,
-[00:00.00] pues iba a pasar por [Mi]allí.
+[00:00.00] pues iba a pasar por al[Mi]lí.
 [00:00.00] [La-]Cuando llegó Jesús, alzó la vista y le [Sol]vio,
-[00:00.00] y le dijo: «Zaqueo, baja pronto;
+[00:00.00] [Fa]y le dijo: «Zaqueo, baja pronto;
 [00:00.00] porque conviene que hoy entre en tu [Mi]casa».
 [00:00.00] [Fa]Conviene que hoy entre en tu [Mi]casa».
 {end_of_verse}
 {column_break}
 {start_of_verse: "S."}
 [00:00.00] [La-]Bajó deprisa Zaqueo
-[00:00.00] y le recibió lleno de [Sol]alegría.
+[00:00.00] y le recibió lleno de aleg[Sol]ría.
 {end_of_verse}
 {column_break}
 {start_of_chorus: "A."}
@@ -42,7 +42,7 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse: "S."}
-[00:00.00] Al verlo, todos murmuraban:
+[00:00.00] Al verlo, todos murmur[Fa]aban:
 [00:00.00] [Fa]«Ha entrado en casa de un [Mi]pecador».
 {end_of_verse}
 {column_break}
@@ -57,7 +57,7 @@ resources:
 {end_of_verse}
 {column_break}
 {start_of_chorus: "A."}
-[00:00.00] [La-]«HOY, HA LLEGADO LA SALVACIÓN A ESTA [Sol]CASA.
+[00:00.00] [La-]«HOY, HA LLEGADO LA SALVACIÓN A ESTA C[Sol]ASA.
 [00:00.00] [Fa]HOY, HA LLEGADO LA SALVACIÓN A ESTA [Mi]CASA».
 {end_of_chorus}
 {column_break}
@@ -84,10 +84,10 @@ resources:
 [00:00.00] [Re-]BAJA [Mi]PRONTO.
 {end_of_chorus}
 {start_of_verse: "S."}
-[00:00.00] Conviene que hoy entre en tu [Mi]casa.
+[00:00.00] [Fa]Conviene que hoy entre en tu c[Mi]asa.
 {end_of_verse}
 {start_of_chorus: "A."}
-[00:00.00] [Fa]CONVIENE QUE HOY ENTRE EN TU [Mi]CASA.
+[00:00.00] [Fa]CONVIENE QUE HOY ENTRE EN TU C[Mi]ASA.
 {end_of_chorus}
 {column_break}
 {start_of_chorus: "A."}

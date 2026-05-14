@@ -11,50 +11,50 @@ resources:
 ```chordpro
 {start_of_verse}
 [00:00.00] [La-]Decidle a los de corazón cansado,[Re-9]
-[00:00.00] [La-]decídselo, decídselo a los pobres:
-[00:00.00] [Fa]¡Ánimo no te[Mi]máis,
-[00:00.00] [Fa]que vuestro Dios viene a sal[Mi]varos!
+[00:00.00] decídselo, decídselo a los p[La-]obres:
+[00:00.00] [Fa]¡Ánimo no tem[Mi]áis,
+[00:00.00] que vuestro D[Fa]ios viene a sal[Mi]varos!
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [La-]Ya se abren los ojos de los [Re-9]ciegos,
-[00:00.00] se abren [La-]los oídos de los sordos.
-[00:00.00] [Fa]El cojo salta como un [Mi]ciervo,
-[00:00.00] [Fa]grita de júbilo la lengua del [Mi]mudo.
+[00:00.00] se abren los oídos de los s[La-]ordos.
+[00:00.00] [Fa]El cojo salta como un c[Mi]iervo,
+[00:00.00] grita de j[Fa]úbilo la lengua del m[Mi]udo.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Do]PORQUE SE ABRIRÁ UN [Mi-]CAMINO,[Do]
-[00:00.00] [Mi-]UN CAMINO DE SALVA[La-]CIÓN;
-[00:00.00] [Do]UNA SENDA, UNA [Mi-]VÍA
-[00:00.00] [La-]PARA LOS POBRES.
+[00:00.00] [Do]PORQUE SE ABRI[Mi-]RÁ UN CAM[Do]INO,
+[00:00.00] UN CAM[Mi-]INO DE SALVACI[La-]ÓN;
+[00:00.00] UNA S[Do]ENDA, UNA [Mi-]VÍA
+[00:00.00] PARA LOS P[La-]OBRES.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Mi-]Y por ella retornarán
-[00:00.00] [La-]los rescatados del Señor.
+[00:00.00] Y por [Mi-]ella retornarán
+[00:00.00] los resca[La-]tados del Señor.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Mi-]Y POR ELLA RETORNARÁN
-[00:00.00] [La-]LOS RESCATADOS DEL SEÑOR.
+[00:00.00] Y POR [Mi-]ELLA RETORNARÁN
+[00:00.00] LOS RESCAT[La-]ADOS DEL SEÑOR.
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [Mi-]Todos los pobres, ciegos y cojos,
-[00:00.00] [La-]los alejados del Señor.
+[00:00.00] Todos los p[Mi-]obres, ciegos y cojos,
+[00:00.00] los ale[La-]jados del Señor.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Mi-]TODOS LOS POBRES, CIEGOS Y COJOS,
-[00:00.00] [La-]LOS ALEJADOS DEL SEÑOR.
+[00:00.00] TODOS LOS P[Mi-]OBRES, CIEGOS Y COJOS,
+[00:00.00] LOS ALE[La-]JADOS DEL SEÑOR.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Mi-]¡Los pecadores!
+[00:00.00] ¡Los pecad[Mi-]ores!
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Fa]Y CANTARÁN FELICI[Mi]DAD,
-[00:00.00] [Fa]Y CANTARÁN FELICI[Mi]DAD.
+[00:00.00] Y CANTAR[Fa]ÁN FELICID[Mi]AD,
+[00:00.00] Y CANTAR[Fa]ÁN FELICID[Mi]AD.
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [Fa]ALELUYA, ALE[Mi]LUYA.
-[00:00.00] [Fa]ALELUYA, ALE[Mi]LUYA.
-[00:00.00] [Fa]ALELUYA, ALE[Mi]LUYA.
-[00:00.00] [Fa]ALELUYA, ALE[Mi]LUYA.
+[00:00.00] ALELUY[Fa]A, ALELUY[Mi]A.
+[00:00.00] ALELUY[Fa]A, ALELUY[Mi]A.
+[00:00.00] ALELUY[Fa]A, ALELUY[Mi]A.
+[00:00.00] ALELUY[Fa]A, ALELUY[Mi]A.
 {end_of_chorus}
 ```

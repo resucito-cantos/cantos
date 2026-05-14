@@ -12,13 +12,13 @@ resources:
 {capo: 3}
 {start_of_chorus}
 [00:00.00] [Re-]A TI LEVANTO MIS [La7]OJOS,
-[00:00.00] [Sol-]A TI QUE HABITAS EN EL [La7]CIELO.
+[00:00.00] A [Sol-]TI QUE HABITAS EN EL C[La7]IELO.
 {end_of_chorus: BIS Asamblea}
 
 {start_of_verse}
 [00:00.00] [Re-]Como los ojos de los siervos están fijos en las manos de [La7]sus señores,
 [00:00.00] [Sol-]como los ojos de la esclava en las manos de [La7]su señora,
-[00:00.00] [Sib7]así nuestros ojos miran al [La7]Señor,
+[00:00.00] [Sib7]así nuestros ojos miran al Se[La7]ñor,
 [00:00.00] [Sib7]esperando que tenga [La7]piedad, esperando [Sib7]que tenga pi[La7]edad.
 {end_of_verse}
 

@@ -17,41 +17,41 @@ resources:
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [La7]Nadie tiene mayor amor
-[00:00.00] [Re-]que el que da su vida por sus amigos.
-[00:00.00] [Mi]Vosotros sois mis [La7]amigos,
-[00:00.00] [Fa]vosotros sois mis [Mi]amigos.
+[00:00.00] que el que da su vida por sus am[Re-]igos.
+[00:00.00] Vosotros sois mis am[Mi]igos,
+[00:00.00] [Fa]vosotros sois mis am[Mi]igos.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [La-]Vosotros sois mis [Sol]amigos,
-[00:00.00] [Fa]vosotros sois mis [Mi]amigos.
+[00:00.00] [La-]Vosotros sois mis am[Sol]igos,
+[00:00.00] [Fa]vosotros sois mis am[Mi]igos.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Re-]No me habéis elegido vosotros a [Mi]mí,
-[00:00.00] [Re-]NO ME HABÉIS ELEGIDO VOSOTROS A [Mi]MÍ,
-[00:00.00] [Re-]sino que yo os he elegido a [Mi]vosotros,
-[00:00.00] [Re-]SINO QUE YO OS HE ELEGIDO A [Mi]VOSOTROS.
+[00:00.00] [Re-]No me habéis elegido vosotros a m[Mi]í,
+[00:00.00] [Re-]NO ME HABÉIS ELEGIDO VOSOTROS A M[Mi]Í,
+[00:00.00] [Re-]sino que yo os he elegido a vos[Mi]otros,
+[00:00.00] [Re-]SINO QUE YO OS HE ELEGIDO A VOS[Mi]OTROS.
 {end_of_verse}
 {column_break}
 {start_of_verse}
 [00:00.00] [La7]«Si el mundo os odia sabed que antes
-[00:00.00] [Re-]me ha odiado a mí; si el mundo os [Mi]odia.»
-[00:00.00] [La7]Padre, como tú estás en mí y yo estoy en [Re-]ti,[Mi]
+[00:00.00] me ha odiado a [Re-]mí; si el mundo os [Mi]odia.»
+[00:00.00] [La7]Padre, como tú estás en [Re-]mí y yo estoy en [Mi]ti,
 [00:00.00] [Re-]que ellos sean uno en [Mi]nosotros,
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Re-]QUE ELLOS SEAN UNO EN [Mi]NOSOTROS,
+[00:00.00] QUE ELLOS SEAN [Re-]UNO EN NOS[Mi]OTROS,
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Fa]para que el mundo crea
-[00:00.00] [Mi]que tú me has enviado,
+[00:00.00] que tú me has env[Mi]iado,
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Fa]PARA QUE EL MUNDO CREA
-[00:00.00] [Mi]QUE TÚ ME HAS ENVIADO.
+[00:00.00] QUE TÚ ME HAS ENVI[Mi]ADO.
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [Re-]ESTE ES EL MANDAMIENTO [Mi]MÍO:
-[00:00.00] [Re-]QUE OS AMÉIS COMO YO OS HE [Mi]AMADO,
-[00:00.00] [Fa]QUE OS AMÉIS COMO YO OS HE [Mi]AMADO.
+[00:00.00] [Re-]ESTE ES EL MANDAMIENTO M[Mi]ÍO:
+[00:00.00] [Re-]QUE OS AMÉIS COMO YO OS HE AM[Mi]ADO,
+[00:00.00] [Fa]QUE OS AMÉIS COMO YO OS HE AM[Mi]ADO.
 {end_of_chorus}
 ```

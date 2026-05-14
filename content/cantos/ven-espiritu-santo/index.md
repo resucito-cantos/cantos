@@ -10,31 +10,31 @@ resources:
 ---
 ```chordpro
 {start_of_chorus: A.}
-[00:00.00] [Do]VEN, ESPÍ[Fa]RITU SANTO,
-[00:00.00] ENVÍA UN RAYO [Mi]DE TU LUZ.
+[00:00.00] [Do]VEN, ESPÍRITU S[Fa]ANTO,
+[00:00.00] ENVÍA UN RAYO DE TU L[Mi]UZ.
 {end_of_chorus}
 {start_of_verse: S.}
 [00:00.00] [Do]Ven, padre de los [Fa]pobres,
-[00:00.00] ven, luz del [Mi]corazón.
-[00:00.00] [Do]Ven, consolador bue[Fa]nísimo,
-[00:00.00] dulce huésped [Mi]del alma.
+[00:00.00] ven, luz del coraz[Mi]ón.
+[00:00.00] [Do]Ven, consolador buen[Fa]ísimo,
+[00:00.00] dulce huésped del [Mi]alma.
 {end_of_verse}
 {start_of_chorus: A.}
 [00:00.00] VEN, ESPÍRITU SANTO ...
 {end_of_chorus}
 {start_of_verse: S.}
-[00:00.00] [Do]Ven, dulce refri[Fa]gerio,
-[00:00.00] en la fatiga tú eres [Mi]descanso;
-[00:00.00] [Do]en el calor tú eres nuestro [Fa]alivio;
-[00:00.00] en el llanto eres [Mi]consuelo.
+[00:00.00] [Do]Ven, dulce refrig[Fa]erio,
+[00:00.00] en la fatiga tú eres desc[Mi]anso;
+[00:00.00] [Do]en el calor tú eres nuestro a[Fa]livio;
+[00:00.00] en el llanto eres consu[Mi]elo.
 {end_of_verse}
 {start_of_chorus: A.}
 [00:00.00] VEN, ESPÍRITU SANTO ...
 {end_of_chorus}
 {start_of_verse: S.}
 [00:00.00] [Do]Oh luz dicho[Fa]sísima
-[00:00.00] inunda de tu [Mi]resplandor
-[00:00.00] [Do]lo íntimo del corazón de tus [Fa]fieles,
+[00:00.00] inunda de tu respland[Mi]or
+[00:00.00] [Do]lo íntimo del corazón de tus f[Fa]ieles,
 [00:00.00] llega hasta el fondo del [Mi]alma.
 {end_of_verse}
 {start_of_chorus: A.}

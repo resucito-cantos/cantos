@@ -12,21 +12,21 @@ resources:
 {capo: 3}
 {start_of_verse}
 [00:00.00] [Do]Venid a mí vosotros [Mi]todos
-[00:00.00] [La-]que estáis cansados y agobiados,
-[00:00.00] [Fa]que yo os [Mi]aliviaré, [Fa]que yo os [Mi]aliviaré.
+[00:00.00] que estáis cansados y agob[La-]iados,
+[00:00.00] [Fa]que yo os alivia[Mi]ré, que [Fa]yo os alivia[Mi]ré.
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [Do]Tomad sobre vosotros mi yugo,
-[00:00.00] [Mi]y aprended de mí,
-[00:00.00] [La-]que soy manso y humilde de corazón;
-[00:00.00] [Fa]y hallaréis descanso para [Mi]vosotros,
-[00:00.00] [Fa]y encontraréis reposo para [Mi]vuestras almas.
+[00:00.00] y aprended de [Mi]mí,
+[00:00.00] que soy manso y humilde de cora[La-]zón;
+[00:00.00] [Fa]y hallaréis descanso para vos[Mi]otros,
+[00:00.00] y encontraréis re[Fa]poso para vuestras [Mi]almas.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Do]PORQUE MI YUGO ES [Mi]SUAVE,
-[00:00.00] [Fa]PORQUE MI YUGO ES SUAVE
-[00:00.00] [Mi]Y MI CARGA LIGERA,
-[00:00.00] [Fa]PORQUE MI YUGO ES SUAVE
+[00:00.00] [Do]PORQUE MI YUGO ES SU[Mi]AVE,
+[00:00.00] PORQUE MI YUGO ES SU[Fa]AVE
+[00:00.00] Y MI CARGA LIG[Mi]ERA,
+[00:00.00] PORQUE MI YUGO ES SU[Fa]AVE
 [00:00.00] [Mi]Y MI CARGA LIGERA. {comment: BIS Asamblea}
 {end_of_verse}
 {start_of_verse}

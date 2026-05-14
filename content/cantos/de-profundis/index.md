@@ -10,14 +10,14 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [La-]DE LO PROFUNDO A TI [Fa]GRITO, SE[Mi]ÑOR:[La-]
-[00:00.00] [Fa]¡SEÑOR ESCUCHA MI [Mi]VOZ!
+[00:00.00] [La-]DE LO PROFUNDO A TI GR[Fa7]ITO, SE[Mi]ÑO[La-]R:
+[00:00.00] ¡SE[Fa]ÑOR ESCUCHA MI V[Mi7]OZ!
 [00:00.00] [La-]ESTÉN TUS [Fa]OÍDOS A[Mi]TEN[La-]TOS
-[00:00.00] [Fa]A LA VOZ [Mi]DE MI SÚPLICA!
+[00:00.00] A LA V[Fa]OZ DE MI S[Mi]ÚPLICA!
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [La-]Si [Sol]llevas cuentas de los pecados, [Fa]Se[La-]ñor,
-[00:00.00] [Fa]¿quién se sal[Mi]vará?, ¿quién se salvará?
+[00:00.00] ¿quién se salvará?, ¿quién se sal[Fa7]var[Mi7]á?
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Fa]MÁS CERCA DE TI ESTÁ EL PER[Mi]DÓN,
@@ -29,7 +29,7 @@ resources:
 [00:00.00] Israel espera al Señor más [Fa]que el centinela espera a la [Mi]aurora.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Fa]PORQUE SOLO EN EL SEÑOR ESTÁ EL A[Mi]MOR,
+[00:00.00] PORQUE S[Fa]OLO EN EL SEÑOR ESTÁ EL AM[Mi7]OR,
 [00:00.00] [Fa]SOLO EN ÉL SE EN[La-]CUENTRA EL PERDÓN.
 {end_of_chorus}
 {start_of_verse}

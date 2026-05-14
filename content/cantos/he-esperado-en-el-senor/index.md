@@ -11,26 +11,26 @@ resources:
 ```chordpro
 {start_of_verse}
 [00:00.00] [La-]HE ESPERADO,
-[00:00.00] [Mi-]HE ESPERADO EN EL SEÑOR
-[00:00.00] [La-]Y ÉL HACIA MÍ SE HA [Mi-]INCLINADO,
-[00:00.00] [Fa]HA ESCUCHADO MI [Mi7]GRITO,
-[00:00.00] [Fa]ME HA SACADO
-[00:00.00] [Mi]DE LA FOSA DE LA MUERTE.
+[00:00.00] HE ESPERADO EN EL SEÑ[Mi-]OR
+[00:00.00] Y [La-]ÉL HACIA MÍ SE HA INCLI[Mi-]NADO,
+[00:00.00] HA ESCUCH[Fa]ADO MI GR[Mi7]ITO,
+[00:00.00] ME HA SAC[Fa]ADO
+[00:00.00] DE LA FOSA DE LA MU[Mi]ERTE.
 {end_of_verse: BIS A.}
 {start_of_verse}
-[00:00.00] [La-]Me ha sacado del fango de la [Mi-]ciénaga;
+[00:00.00] [La-]Me ha sacado del fango de la c[Mi-]iénaga;
 [00:00.00] [La-]ha puesto mis pies sobre la [Mi-]roca,
-[00:00.00] [Fa]ha establecido mis [Mi7]pasos
-[00:00.00] [Fa]en un camino, en un camino [Mi]de salvación.
+[00:00.00] ha estable[Fa]cido mis [Mi7]pasos
+[00:00.00] en un cam[Fa]ino, en un camino de salvac[Mi]ión.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-]HE ESPERADO ...
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [La-]Ha puesto en mi boca un [Mi-]cantar nuevo,
-[00:00.00] [La-]una alabanza, una alabanza a [Mi-]nuestro Dios;
-[00:00.00] [Fa]muchos vendrán y lo [Mi7]verán,
-[00:00.00] [Fa]y tantos en él [Mi]confiarán.
+[00:00.00] [La-]Ha puesto en mi boca un cantar n[Mi-]uevo,
+[00:00.00] una ala[La-]banza, una alabanza a nuestro D[Mi-]ios;
+[00:00.00] [Fa]muchos vendrán y lo ve[Mi7]rán,
+[00:00.00] y [Fa]tantos en él confia[Mi]rán.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-]HE ESPERADO ...

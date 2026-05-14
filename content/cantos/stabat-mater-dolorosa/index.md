@@ -12,49 +12,49 @@ resources:
 {start_of_verse}
 [00:00.00] [Re-add9]STABAT MATER DOLOROSA
 [00:00.00] [Do7]IUXTA CRUCEM [Sib7]LACRIMOSA {BIS A.}
-[00:00.00] [La]DUM PENDEBAT FILIUS.
+[00:00.00] DUM PENDEBAT FIL[La]IUS.
 {end_of_verse}
 {column_break}
 {start_of_verse}
 [00:00.00] [Re-]Era su alma un gemido,
-[00:00.00] [Do7]era un dolor, era un [Sib7]grito,
-[00:00.00] [La]cuando una espada la atravesó.
+[00:00.00] era un do[Do7]lor, era un g[Sib7]rito,
+[00:00.00] cuando una espada la atrave[La]só.
 {end_of_verse}
 {column_break}
 {start_of_verse}
 [00:00.00] [Re-]¡Oh qué triste y afligida
-[00:00.00] [Do7]está la bendita [Sib7]Madre del [La]Unigénito!
+[00:00.00] e[Do7]stá la bendita [Sib7]Madre del Unig[La]énito!
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Re-]STABAT MATER DOLOROSA ...
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Re-]¿Cuál es el hombre que no llora,
-[00:00.00] [Do7]al ver a la Madre de [Sib7]Cristo
-[00:00.00] [La]en tanto suplicio?
+[00:00.00] al [Do7]ver a la Madre de C[Sib7]risto
+[00:00.00] en tanto sup[La]licio?
 {end_of_verse}
 {column_break}
 {start_of_verse}
 [00:00.00] [Re-]Por los pecados de su gente
-[00:00.00] [Do7]ella ve a Jesús en [Sib7]tormentos,
-[00:00.00] [La]y sometido a los azotes.
+[00:00.00] ella [Do7]ve a Jesús en torm[Sib7]entos,
+[00:00.00] y sometido a los az[La]otes.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Re-]STABAT MATER DOLOROSA ...
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Re-]Ella ve a su Hijo amado
-[00:00.00] [Do7]que muere [Sib7]desolado,
-[00:00.00] [La]y que entrega su Espíritu.
+[00:00.00] que m[Do7]uere deso[Sib7]lado,
+[00:00.00] y que entrega su Esp[La]íritu.
 {end_of_verse}
 {column_break}
 {start_of_verse}
 [00:00.00] [Re-]Oh, Cristo, cuando yo deba [Sol-]morir, [melisma]
 [00:00.00] por tu bendita Madre
-[00:00.00] [Sib7]hazme conseguir
-[00:00.00] [La]la palma de la victoria.
+[00:00.00] hazme conseg[Sib7]uir
+[00:00.00] la palma de la vic[La]toria.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Re-]AMÉN, [Sib7]AMÉN, [La7]AMÉN.
+[00:00.00] AM[Re-]ÉN, AM[Sib7]ÉN, AM[La7]ÉN.
 {end_of_chorus}
 ```

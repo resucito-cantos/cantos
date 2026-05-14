@@ -14,17 +14,17 @@ resources:
 [00:00.00] cuando el pueblo se ofrece voluntario:
 {end_of_verse}
 {start_of_chorus}
+[00:00.00] BENDECID A YAHV[Mi]EH,
+[00:00.00] [Mi-]BENDECID A YAHV[Fa]EH,
 [00:00.00] [Mi-]BENDECID A YAHVEH,[Fa]
-[00:00.00] BENDECID A YAHVEH,[Mi]
-[00:00.00] [Mi-]BENDECID A YAHVEH,[Fa]
-[00:00.00] QUE A YAHVEH QUIERO CAN[Mi]TAR!
+[00:00.00] QUE A YAHVEH QUIERO CANT[Mi]AR!
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [La-]DESPIERTA DÉBORA,
-[00:00.00] [Fa]DESPIERTA DÉBORA!
+[00:00.00] DESPI[La-]ERTA DÉBORA,
+[00:00.00] DESPI[Fa]ERTA DÉBORA!
 [00:00.00] [Mi]ENTONA EL CANTAR!
 [00:00.00] [La-]DESPIERTA DÉBORA,
-[00:00.00] [Fa]DESPIERTA DÉBORA!
+[00:00.00] DESPI[Fa]ERTA DÉBORA!
 [00:00.00] [Mi]ARRIBA BARAC!
 {end_of_chorus}
 {column_break}

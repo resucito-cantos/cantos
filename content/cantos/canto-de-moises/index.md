@@ -11,22 +11,22 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [Do7]Cantemos al Señor, [Fa]cantemos al [La7]Señor
-[00:00.00] [Re7]que se cubrió de gloria, de gloria, de gloria,
-[00:00.00] [Sol7]precipitó en el mar [Do7]caballo y caballero.
+[00:00.00] [Do7]Cantemos al Señ[Fa]or, cantemos al Se[La7]ñor
+[00:00.00] que se cubrió de g[Re7]loria, de gloria, de gloria,
+[00:00.00] precipitó en el m[Sol7]ar caballo y cabal[Do7]lero.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Fa]MI FUERZA Y MI CANCIÓN
-[00:00.00] [La7]ES EL SEÑOR.
-[00:00.00] [Re7]ÉL ES MI SALVACIÓN,
-[00:00.00] [Sol7]ES MI DIOS, Y YO LO ENSALZARÉ.
-[00:00.00] [Do7]PRECIPITÓ EN EL MAR
+[00:00.00] MI FUERZA Y MI CANCI[Fa]ÓN
+[00:00.00] ES EL SEÑ[La7]OR.
+[00:00.00] ÉL ES MI SALVAC[Re7]IÓN,
+[00:00.00] ES MI DIOS, Y YO LO ENSALZA[Sol7]RÉ.
+[00:00.00] PRECIPITÓ EN EL M[Do7]AR
 [00:00.00] CABALLO Y CABALLERO,
 [00:00.00] CABALLO Y CABALLERO.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Fa]¡El Señor es un guerrero,
-[00:00.00] [La7]su nombre es Yahveh!
+[00:00.00] [Do7]¡El Señor es un guerr[Fa]ero,
+[00:00.00] su nombre es Yah[La7]veh!
 [00:00.00] [Re7]Precipitó en el mar a los valientes,
 [00:00.00] [Sol7]la flor del Faraón.
 {end_of_verse}

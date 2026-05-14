@@ -10,35 +10,35 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [Do]¡Abbá [Sol]Padre, [Fa]Pa[Do]dre!
+[00:00.00] [Do]¡Abbá [Sol]Padre, [Fa]Padr[Do]e!
 {end_of_verse}
 
 {start_of_verse}
 [00:00.00] [La-]No hemos recibido
-[00:00.00] [Re-]el espíritu de [La-]siervos
-[00:00.00] [Fa]para recaer en el te[Mi]mor,
-[00:00.00] [Fa]para recaer en el te[Mi]mor.
+[00:00.00] el esp[Re-]íritu de s[La-]iervos
+[00:00.00] [Fa]para recaer en el tem[Mi]or,
+[00:00.00] [Fa]para recaer en el tem[Mi]or.
 {end_of_verse}
 
 {start_of_chorus}
 [00:00.00] [La-]ESTE MISMO ESPÍRITU
-[00:00.00] [Re-]DA TESTIMONIO A [La-]NUESTRO [Fa]ESPÍRITU [Mi]
-[00:00.00] [Mi7]DE QUE SOMOS HIJOS DE [La-]DIOS.
+[00:00.00] [Re-]DA TESTIM[La-]ONIO [Fa]A NUESTRO ESP[Mi]ÍRITU
+[00:00.00] [Mi7]DE QUE SOMOS HIJOS DE D[La-]IOS.
 {end_of_chorus}
 
 {start_of_chorus}
-[00:00.00] [Sol7]Y, SI HIJOS, TAMBIÉN HER[Do]EDEROS;
-[00:00.00] [Mi7]COHEREDEROS DE CRISTO,
-[00:00.00] [La-]HEREDEROS DE DIOS.
+[00:00.00] Y, SI [Sol7]HIJOS, TAMBIÉN HERED[Do]EROS;
+[00:00.00] COHEREDEROS DE C[Mi7]RISTO,
+[00:00.00] HEREDEROS DE DI[La-]OS.
 {end_of_chorus}
 
 {start_of_chorus}
-[00:00.00] [Sol7]Y, SI HIJOS, TAMBIÉN HER[Do]EDEROS;
-[00:00.00] [Mi7]COHEREDEROS DE CRISTO,
-[00:00.00] [La-]HEREDEROS DE DIOS.
+[00:00.00] Y, SI [Sol7]HIJOS, TAMBIÉN HERED[Do]EROS;
+[00:00.00] COHEREDEROS DE C[Mi7]RISTO,
+[00:00.00] HEREDEROS DE DI[La-]OS.
 {end_of_chorus}
 
 {start_of_chorus}
-[00:00.00] [Do]¡ABBÁ [Sol]PADRE, [Fa]PA[Do]DRE!
+[00:00.00] [Do]¡ABBÁ [Sol]PADRE, [Fa]PADR[Do]E!
 {end_of_chorus}
 ```

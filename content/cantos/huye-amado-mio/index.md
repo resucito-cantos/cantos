@@ -11,21 +11,21 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [La-]¡Tú, que vives en los [Re-]jardines,
-[00:00.00] donde tus compañeros te están [Mi7]escuchando:
-[00:00.00] [Fa]hazme oír tu voz, [Mi]hazme oír tu voz!
+[00:00.00] [La-]¡Tú, que vives en los jar[Re-]dines,
+[00:00.00] donde tus compañeros te están escuch[Mi7]ando:
+[00:00.00] [Fa]hazme oír tu voz, hazme oír tu [Mi]voz!
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La]¡HUYE, AMADO MÍO,
-[00:00.00] [Mi]COMO UNA GACELA,
+[00:00.00] COMO UNA GAC[Mi]ELA,
 [00:00.00] [Fa#-]COMO UN CERVATILLO,
-[00:00.00] [Mi]HASTA EL MONTE DE [La]LAS BALSAMERAS!
+[00:00.00] [Mi]HASTA EL MONTE DE LAS BALSAM[La]ERAS!
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [La-]Yo soy para mi [Re-]amado
-[00:00.00] como aquella que encontró [La-]la paz.
-[00:00.00] [Mi]Mi viña está aquí, está [La-]ante mí,
-[00:00.00] [Mi]mi viña está aquí, está [La-]ante mí.
+[00:00.00] [La-]Yo soy para mi am[Re-]ado
+[00:00.00] como aquella que encontró la [La-]paz.
+[00:00.00] Mi viña está aqu[Mi]í, está ante [La-]mí,
+[00:00.00] mi viña está aqu[Mi]í, está ante [La-]mí.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La]¡HUYE, AMADO MÍO ...

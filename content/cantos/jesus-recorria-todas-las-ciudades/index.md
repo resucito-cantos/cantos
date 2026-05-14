@@ -9,79 +9,79 @@ resources:
 ---
 ```chordpro
 {start_of_verse}
-[00:00.00] [La-]Jesús recorría todas las [Fa]ciudades,
-[00:00.00] Jesús de pueblo en pueblo
-[00:00.00] [La-]anunciaba el [Re-]Reino. Y viendo las gentes
+[00:00.00] [La-]Jesús recorr[Fa]ía todas las ciu[La-]dades,
+[00:00.00] Jesús de pueblo en p[Fa]ueblo
+[00:00.00] anunciaba el R[La-]eino. [Re-]Y viendo las gentes
 [00:00.00] [Mi7]que lo seguían se [La-]conmovió.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [Mi-]ESTABAN CANSADOS,
-[00:00.00] [Fa]ESTABAN ABATIDOS
-[00:00.00] [Mi]COMO OVEJAS SIN PASTOR.
+[00:00.00] ESTABAN ABAT[Fa]IDOS
+[00:00.00] COMO OVEJAS SIN PAST[Mi]OR.
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [La-]Entonces Jesús [Fa]dijo a sus [Mi7]discípulos:
+[00:00.00] [La-]Entonces Je[Fa]sús dijo a sus dis[Mi7]cípulos:
 [00:00.00] [La-]«La mies es grande,
-[00:00.00] [Sol]es verdaderamente grande
-[00:00.00] [La-]y los obreros son [Mi]pocos.
-[00:00.00] [La-]Rogad, hermanos, al Dueño de la [Sol]mies
+[00:00.00] es verdaderamente g[Sol]rande
+[00:00.00] y los ob[La-]reros son p[Mi]ocos.
+[00:00.00] Rogad, herm[La-]anos, al Dueño de la m[Sol]ies
 [00:00.00] [La-]que envíe obreros a su [Mi]mies».
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Do]«Mirad que yo os [Sol]envío
-[00:00.00] [La-]como ovejas entre [Sol]lobos.
-[00:00.00] Sed prudentes como [Do]serpientes,
+[00:00.00] [Do]«Mirad que yo os en[Sol]vío
+[00:00.00] como o[La-]vejas entre [Sol]lobos.
+[00:00.00] Sed pru[Do]dentes como serp[Sol]ientes,
 [00:00.00] [La-]y sencillos como [Sol]palomas».
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]COMO PALOMAS.
+[00:00.00] COMO PAL[La-]OMAS.
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [Do]«No llevéis ni bolsa ni [Sol]dinero,
-[00:00.00] [La-]ni alforja, ni [Sol]calzado.
+[00:00.00] [Do]«No llevéis ni bolsa ni di[Sol]nero,
+[00:00.00] ni al[La-]forja, ni cal[Sol]zado.
 [00:00.00] [Do]Y anunciad que el Reino está [Sol]cerca».
-[00:00.00] [La-]¡Cristo ha resucitado y viene con [Sol]nosotros!
+[00:00.00] ¡Cristo ha resuci[La-]tado y viene con no[Sol]sotros!
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] ¡VIENE CON NOSOTROS!
+[00:00.00] ¡VIENE CON NOS[La-]OTROS!
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Do]El que ama a su padre
 [00:00.00] o a su madre más que a mí,
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Sol]NO ES DIGNO DE MÍ, [La-]NO ES DIGNO DE MÍ.
+[00:00.00] NO ES [Sol]DIGNO DE MÍ, NO ES [La-]DIGNO DE MÍ.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] El que ama a su hijo o a su hija más que a mí,
+[00:00.00] [Do]El que ama a su hijo o a su hija más que a mí,
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Do]NO ES DIGNO DE MÍ, [La-]NO ES DIGNO DE MÍ.
+[00:00.00] NO ES [Sol]DIGNO DE MÍ, NO ES [La-]DIGNO DE MÍ.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] El que no tome su cruz y me siga,
+[00:00.00] [Do]El que no tome su cruz y me siga,
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Sol]NO ES DIGNO DE MÍ, [La-]NO ES DIGNO DE MÍ.
+[00:00.00] NO ES [Sol]DIGNO DE MÍ, NO ES [La-]DIGNO DE MÍ.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] Porque el que busca en este mundo su vida,
+[00:00.00] [Do]Porque el que busca en este mundo su vida,
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Sol]LA PERDERÁ, [La-]LA PERDERÁ.
+[00:00.00] LA PERDER[Sol]Á, LA PERDER[La-]Á.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Do]Y el que pierda su vida por el amor mío,
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Sol]LA ENCONTRARÁ, [La-]LA ENCONTRARÁ.
+[00:00.00] LA ENCONTRAR[Sol]Á, LA ENCONTRAR[La-]Á.
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] [Sol]Quien os escucha [La-]ME ESCUCHA A MÍ.
 [00:00.00] [Sol]Quien os acoge [La-]ME ACOGE A MÍ.
-[00:00.00] [Sol]QUIEN ME ACOGE A MÍ
-[00:00.00] [Fa]ACOGE A DIOS, [Mi]ACOGE A DIOS.
+[00:00.00] QUIEN ME ACOGE A M[Sol]Í
+[00:00.00] ACOGE A D[Fa]IOS, ACOGE A DI[Mi]OS.
 {end_of_chorus}
 ```

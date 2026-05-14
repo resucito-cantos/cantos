@@ -18,52 +18,52 @@ resources:
 [00:00.00] EL BENDITO PARA SIEMPRE.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Do#-]Ciñe la espada a tu flanco, oh [Sol#]valiente,
-[00:00.00] [La]y marcha lleno de gloria y [Sol#]esplendor,
+[00:00.00] [Do#-]Ciñe la espada a tu flanco, oh va[Sol#]liente,
+[00:00.00] y m[La]archa lleno de gloria y esplen[Sol#]dor,
 [00:00.00] [Fa#-]cabalga por la verdad,
-[00:00.00] [Sol#]la mansedumbre, la justicia.
+[00:00.00] la mansedumbre, la ju[Sol#]sticia.
 {end_of_verse}
 {start_of_verse}
 [00:00.00] ¡Tensa tu arco,
-[00:00.00] [La]que hace temible tu [Sol#]derecha!
-[00:00.00] [Fa#-]Agudas son tus [Sol#]flechas,
-[00:00.00] [Si]te han sido [La]entregados los [Sol#]pueblos.
+[00:00.00] que hace tem[La]ible tu de[Sol#]recha!
+[00:00.00] [Fa#-]Agudas son tus f[Sol#]lechas,
+[00:00.00] [Si]te han sido entre[La]gados los p[Sol#]ueblos.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Si]TE HAN SIDO [La]ENTREGADOS LOS [Sol#]PUEBLOS.
+[00:00.00] [Si]TE HAN SIDO ENTREG[La]ADOS LOS PU[Sol#]EBLOS.
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [Mi]ERES HERMOSO ...
+[00:00.00] ERES HERM[Mi]OSO ...
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [Do#-]Desde los palacios de [Sol#]marfil
-[00:00.00] [La]las cítaras cantan para [Sol#]ti.
-[00:00.00] [Fa#-]Hijas de reyes son tus [Sol#]favoritas;
-[00:00.00] [Si]a tu derecha está la [La]reina,
-[00:00.00] [Sol#]en oro de Ofir.
+[00:00.00] [Do#-]Desde los palacios de ma[Sol#]rfil
+[00:00.00] las [La]cítaras cantan par[Sol#]a ti.
+[00:00.00] [Fa#-]Hijas de reyes son tus favo[Sol#]ritas;
+[00:00.00] a tu de[Si]recha está la [La]reina,
+[00:00.00] en oro de [Sol#]Ofir.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Si]A TU DERECHA ESTÁ LA [La]REINA,
-[00:00.00] [Sol#]EN ORO DE OFIR.
+[00:00.00] A TU DER[Si]ECHA ESTÁ LA R[La]EINA,
+[00:00.00] EN ORO DE O[Sol#]FIR.
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] [Mi]ERES HERMOSO ...
+[00:00.00] ERES HERM[Mi]OSO ...
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Do#-] [Sol#] [La] [Sol#]Escucha, hija y mira, inclina el oído,
-[00:00.00] [Fa#-]olvida tu pueblo y la casa de tu [Sol#]padre,
-[00:00.00] [Si]y el rey se prendará de tu [La]belleza.[Sol#]
+[00:00.00] [Do#-]Escucha, hija y [Sol#]mira, inc[La]lina el [Sol#]oído,
+[00:00.00] o[Fa#-]lvida tu pueblo y la casa de tu [Sol#]padre,
+[00:00.00] y el [Si]rey se prenda[La]rá de tu be[Sol#]lleza.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Si]Y EL REY SE PRENDARÁ DE TU [La]BELLEZA.[Sol#]
+[00:00.00] Y EL R[Si]EY SE PRENDAR[La]Á DE TU BELL[Sol#]EZA.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Fa#-] [Sol#]Él es tu Señor, [Fa#-]¡entrégate a [Sol#]él!
+[00:00.00] [Fa#-]Él es tu Se[Sol#]ñor, ¡en[Fa#-]trégate a [Sol#]él!
 [00:00.00] [Si]Y en lugar de padres, tendrás [La]hijos,
-[00:00.00] [Sol#]que serán príncipes sobre la tierra.
+[00:00.00] que serán príncipes sobre la [Sol#]tierra.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Mi]ERES HERMOSO ...
+[00:00.00] ERES HERM[Mi]OSO ...
 {end_of_chorus}
 ```

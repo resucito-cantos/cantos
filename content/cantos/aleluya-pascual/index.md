@@ -12,13 +12,13 @@ resources:
 [00:00.00] [La]Cristo Jesús [Mi]ha resucitado.[La]
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] ALELUYA, ALE[Mi]LUYA, ALE[La]LUYA.
+[00:00.00] ALELUYA, [Mi]ALELUYA, [La]ALELUYA.
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] ALELUYA, ALE[Mi]LUYA, ALE[La]LUYA.
+[00:00.00] ALELUYA, ALEL[Mi]UYA, ALEL[La]UYA.
 {end_of_chorus}
 {start_of_chorus}
-[00:00.00] ALELUYA, ALE[Mi]LUYA, ALE[La]LUYA.
+[00:00.00] ALELUYA, ALEL[Mi]UYA, ALEL[La]UYA.
 {end_of_chorus}
 {start_of_chorus}
 [00:00.00] ALELUYA, ALE[Mi]LUYA, ALE[La]LUYA.

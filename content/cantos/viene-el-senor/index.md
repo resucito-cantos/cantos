@@ -12,28 +12,28 @@ resources:
 {capo: 2}
 {start_of_chorus: A.}
 [00:00.00] [Mi-]VIENE EL SEÑOR
-[00:00.00] VESTIDO DE [La-]MAJESTAD,
-[00:00.00] VESTIDO Y CEÑIDO [Mi-]DE PODER.
+[00:00.00] VESTIDO DE MAJEST[La-]AD,
+[00:00.00] VESTIDO Y CEÑIDO DE POD[Mi-]ER.
 {end_of_chorus}
 {comment: BIS}
 {start_of_verse: S.}
-[00:00.00] [Mi-]Así está firme el orbe y no [La-]vacila,
-[00:00.00] la santidad es el adorno [Mi-]de tu casa;
-[00:00.00] tu trono está firme desde [La-]siempre,
-[00:00.00] desde siempre tú eres [Mi-]Señor.
+[00:00.00] [Mi-]Así está firme el orbe y no va[La-]cila,
+[00:00.00] la santidad es el adorno de tu c[Mi-]asa;
+[00:00.00] tu trono está firme desde s[La-]iempre,
+[00:00.00] desde siempre tú eres Señ[Mi-]or.
 {end_of_verse}
 {start_of_chorus: A.}
 [00:00.00] [Mi-]VIENE EL SEÑOR ...
 {end_of_chorus}
 {start_of_verse: S.}
-[00:00.00] [Mi-]A aquel, a aquel que nos [La-]amó,
-[00:00.00] que nos libró de todos [Mi-]los pecados,
-[00:00.00] a aquel, a aquel que nos [La-]amó,
-[00:00.00] que nos ha hecho sacerdotes [Mi-]de su reino.
+[00:00.00] [Mi-]A aquel, a aquel que nos a[La-]mó,
+[00:00.00] que nos libró de todos los pec[Mi-]ados,
+[00:00.00] a aquel, a aquel que nos a[La-]mó,
+[00:00.00] que nos ha hecho sacerdotes de su r[Mi-]eino.
 {end_of_verse}
 {start_of_chorus: A.}
-[00:00.00] [Mi-]A ÉL LA GLORIA Y [La-]EL PODER
-[00:00.00] POR LOS SIGLOS DE [Mi-]LOS SIGLOS.
+[00:00.00] [Mi-]A ÉL LA GLORIA Y EL POD[La-]ER
+[00:00.00] POR LOS SIGLOS DE LOS S[Mi-]IGLOS.
 {end_of_chorus}
 {comment: BIS}
 {start_of_chorus: A.}
@@ -41,10 +41,10 @@ resources:
 {end_of_chorus}
 {column_break}
 {start_of_verse: S.}
-[00:00.00] [Mi-]Él viene en las nubes y todos le [La-]verán,
-[00:00.00] también aquellos que le tras[Mi-]pasaron;
-[00:00.00] todos los reyes y pueblos [La-]de la tierra
-[00:00.00] se lamentarán, se lamen[Mi-]tarán.
+[00:00.00] [Mi-]Él viene en las nubes y todos le ve[La-]rán,
+[00:00.00] también aquellos que le traspa[Mi-]saron;
+[00:00.00] todos los reyes y pueblos de la [La-]tierra
+[00:00.00] se lamentarán, se lamentar[Mi-]án.
 {end_of_verse}
 {start_of_chorus: A.}
 [00:00.00] [Mi-]A ÉL LA GLORIA Y [La-]EL PODER ...

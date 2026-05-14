@@ -10,43 +10,43 @@ resources:
 ```chordpro
 {start_of_chorus}
 [00:00.00] [La-]DICHOSO EL HOMBRE
-[00:00.00] [Fa]QUE NO SIGUE EL CONSEJO DE LOS [La-]IMPÍOS,
+[00:00.00] [Fa]QUE NO SIGUE EL CONSEJO DE LOS IMP[La-]ÍOS,
 [00:00.00] [Fa]NI EN LA SENDA DE LOS PECADORES SE [La-]DETIENE
-[00:00.00] [Fa]NI EN EL BANCO DE LOS BURLONES SE [La-]SIENTA.
+[00:00.00] NI EN EL B[Fa]ANCO DE LOS BURLONES SE S[La-]IENTA.
 [00:00.00] [Sol]MAS SE COMPLACE EN LA PALABRA DEL [Mi]SEÑOR,
-[00:00.00] [Sol]SUS [Fa]SALMOS SUSURRA [Mi]DÍA Y NOCHE.
+[00:00.00] SUS [Sol]SALMOS SUS[Fa]URRA DÍA Y N[Mi]OCHE.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [La-]Será como árbol [Fa]plantado
-[00:00.00] [La-]junto a corrientes de agua,
+[00:00.00] [La-]Será como árbol plan[Fa]tado
+[00:00.00] junto a corrientes de [La-]agua,
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Fa]SERÁ COMO ÁRBOL PLANTADO
-[00:00.00] [La-]JUNTO A CORRIENTES DE AGUA,
+[00:00.00] SERÁ COMO ÁRBOL PLANT[Fa]ADO
+[00:00.00] JUNTO A CORRIENTES DE [La-]AGUA,
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Fa]que da fruto a su [Mi]tiempo,
-[00:00.00] [Fa]nunca se marchitarán sus [Mi]hojas;
-[00:00.00] [Sol] [Fa]todo lo que emprende le sale [Mi]bien,
-[00:00.00] [Sol] [Fa]todo lo que emprende le sale [Mi]bien.
+[00:00.00] [Fa]que da fruto a su t[Mi]iempo,
+[00:00.00] [Fa]nunca se marchitarán sus h[Mi]ojas;
+[00:00.00] [Sol]todo lo que emp[Fa]rende le sale b[Mi]ien,
+[00:00.00] [Sol]todo lo que emp[Fa]rende le sale b[Mi]ien.
 {end_of_verse}
 {start_of_verse}
 [00:00.00] [La-]¡No así los impíos, no así!
-[00:00.00] [Fa]que son como la paja que se lleva el [La-]viento.
+[00:00.00] que [Fa]son como la paja que se lleva el v[La-]iento.
 {end_of_verse}
 {column_break}
 {start_of_chorus}
 [00:00.00] [La-]¡NO ASÍ LOS IMPÍOS, NO ASÍ!
-[00:00.00] [Fa]QUE SON COMO LA PAJA
-[00:00.00] [La-]QUE SE LLEVA EL VIENTO.
+[00:00.00] QUE S[Fa]ON COMO LA PAJA
+[00:00.00] QUE SE LLEVA EL V[La-]IENTO.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Fa]No resistirán en el juicio los [Mi]impíos,
-[00:00.00] [Fa]ni los pecadores
-[00:00.00] [Mi]en la comunidad de los santos.
-[00:00.00] [Sol] [Fa]Porque el Señor cuida el camino de sus [Mi]fieles,
+[00:00.00] [Fa]No resistirán en el juicio los imp[Mi]íos,
+[00:00.00] ni los pecad[Fa]ores
+[00:00.00] en la comunidad de los [Mi]santos.
+[00:00.00] [Sol]Porque el Señor cuida el cam[Fa]ino de sus [Mi]fieles,
 [00:00.00] [Fa]mas el camino de los impíos
-[00:00.00] [Mi] [Fa]acaba mal, acaba mal, acaba [Mi]mal.
+[00:00.00] acaba m[Mi]al, acaba m[Fa]al, acaba m[Mi]al.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] [La-]DICHOSO EL HOMBRE ...

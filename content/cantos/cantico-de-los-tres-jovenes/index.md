@@ -13,13 +13,13 @@ resources:
 [00:00.00] [La-]Criaturas todas del Señor.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Mi7]BENDECID [La-]AL SEÑOR.
+[00:00.00] BENDEC[Mi7]ID AL SEÑ[La-]OR.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Mi7]Ensalzadlo
+[00:00.00] Ensal[Mi7]zadlo
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]CON HIMNOS POR LOS SIGLOS.
+[00:00.00] CON HIMNOS POR LOS S[La-]IGLOS.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] Ángeles del Señor.
@@ -117,10 +117,10 @@ resources:
 [00:00.00] BENDECID ...
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Mi7]Ensalzadlo
+[00:00.00] Ensal[Mi7]zadlo
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]CON HIMNOS POR LOS SIGLOS.
+[00:00.00] CON HIMNOS POR LOS [La-]SIGLOS.
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] Hijos de los hombres.
@@ -153,16 +153,16 @@ resources:
 [00:00.00] BENDECID ...
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Mi7]Ensalzadlo
+[00:00.00] Ensal[Mi7]zadlo
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]CON HIMNOS POR LOS SIGLOS.
+[00:00.00] CON HIMNOS POR LOS S[La-]IGLOS.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] Bendiga la tierra al Señor.
+[00:00.00] Ben[Mi7]diga la tierra al Señor.
 {end_of_verse}
 {start_of_chorus}
 [00:00.00] LO ENSALCE
-[00:00.00] [La-]CON HIMNOS POR LOS SIGLOS.
+[00:00.00] CON HIMNOS POR LOS S[La-]IGLOS.
 {end_of_chorus}
 ```
