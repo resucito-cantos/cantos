@@ -50,23 +50,13 @@ export function TessituraBadge({ slug, chords }: Props) {
 	}
 
 	return (
-		<div
-			className={`flex items-center gap-1.5 rounded-full px-3 py-1 text-xs font-medium shadow outline-1 outline-black/5 ${tone}`}
+		<Link
+			to="/tesitura"
+			className={`flex items-center gap-1.5 rounded-full px-3 py-1 text-xs font-medium no-underline shadow outline-1 outline-black/5 hover:underline ${tone}`}
 			title={`Acordes del canto: ${songKey} (${formatPitch(fit.songLow)}–${formatPitch(fit.songHigh)}). Tu rango: ${formatPitch(range.low)}–${formatPitch(range.high)}.`}
 		>
 			{fit.status === "fits" && <CheckCircleIcon className="size-3.5" />}
-			<Link to="/tesitura" className="no-underline hover:underline">
-				{label}
-			</Link>
-			{fit.status !== "fits" && fit.suggestedSemitones !== 0 && (
-				<button
-					type="button"
-					onClick={() => transposition.adjust(fit.suggestedSemitones)}
-					className="ml-1 rounded bg-white/60 px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wide hover:bg-white"
-				>
-					Aplicar
-				</button>
-			)}
-		</div>
+			<span>{label}</span>
+		</Link>
 	);
 }

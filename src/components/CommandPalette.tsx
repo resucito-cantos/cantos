@@ -15,12 +15,17 @@ import {
 	ExclamationCircleIcon,
 	EyeIcon,
 	EyeSlashIcon,
+	MicrophoneIcon,
 	MusicalNoteIcon,
 } from "@heroicons/react/24/outline";
 import { useNavigate } from "@tanstack/react-router";
+import { allCantos } from "content-collections";
 import { useChordsVisible } from "../hooks/useChordsVisible";
+import type { CantoEntry } from "../hooks/useSearch";
 import { useSearch, type SearchResult } from "../hooks/useSearch";
 import { useTransposition } from "../hooks/useTransposition";
+import { useVoiceRange } from "../hooks/useVoiceRange";
+import { analyzeFit, getSongChordRange } from "../lib/voice-range";
 
 const CATEGORY_COLORS: Record<string, string> = {
 	precatecumenado: "bg-white outline outline-1 outline-gray-300",
@@ -176,6 +181,7 @@ export function CommandPaletteDialog({
 }: CommandPaletteDialogProps) {
 	const { chordsVisible, toggleChords } = useChordsVisible();
 	const transposition = useTransposition(cantoSlug ?? "");
+	const { range: voiceRange } = useVoiceRange();
 
 	const actions: ActionItem[] = [
 		{
@@ -188,6 +194,29 @@ export function CommandPaletteDialog({
 
 	if (cantoSlug) {
 		const current = transposition.semitones;
+
+		// Voice-range suggestion — only when the user has a calibrated range
+		// and the song needs an adjustment relative to where it is now.
+		if (voiceRange) {
+			const canto = (allCantos as CantoEntry[]).find((c) => c.slug === cantoSlug);
+			const songRange = canto ? getSongChordRange(canto.ast.chords) : null;
+			if (songRange) {
+				const fit = analyzeFit(
+					songRange,
+					voiceRange.low - current,
+					voiceRange.high - current,
+				);
+				if (fit.suggestedSemitones !== 0) {
+					actions.push({
+						id: "transpose-to-tesitura",
+						name: `Ajustar a mi tesitura (${formatSemitones(fit.suggestedSemitones)})`,
+						icon: MicrophoneIcon,
+						action: () => transposition.adjust(fit.suggestedSemitones),
+					});
+				}
+			}
+		}
+
 		actions.push(
 			{
 				id: "transpose-reset",
