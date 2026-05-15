@@ -70,7 +70,12 @@ function RootDocument({ children }: { children: React.ReactNode }) {
 
 function RootComponent() {
 	const [paletteOpen, setPaletteOpen] = useState(false);
-	const [chordsVisible, setChordsVisible] = useState(() => loadSettings().chordsVisible);
+	// Start with the default (true) so SSR and first client render agree.
+	// useEffect below hydrates from localStorage after mount.
+	const [chordsVisible, setChordsVisible] = useState(true);
+	useEffect(() => {
+		setChordsVisible(loadSettings().chordsVisible);
+	}, []);
 	const transposition = useTranspositionProvider();
 	const matches = useMatches();
 	const lastMatch = matches[matches.length - 1];

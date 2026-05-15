@@ -37,7 +37,15 @@ export const TranspositionContext = createContext<TranspositionContextType>({
 });
 
 export function useTranspositionProvider(): TranspositionContextType {
-	const [map, setMap] = useState<Map>(() => load());
+	// Always start empty so server + client first render match. After mount,
+	// hydrate from localStorage in an effect — any persisted transpositions
+	// apply on the next render.
+	const [map, setMap] = useState<Map>({});
+
+	useEffect(() => {
+		const stored = load();
+		if (Object.keys(stored).length > 0) setMap(stored);
+	}, []);
 
 	const set = useCallback((slug: string, semitones: number) => {
 		setMap((prev) => {
