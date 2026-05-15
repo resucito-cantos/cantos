@@ -27,49 +27,49 @@ resources:
 [00:50.047] [La-]HIJO MIO, HIJO MIO Y DIOS [Si7]MIO!
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Mi-]Nunca hubiera podido imaginar
-[00:00.00] [La-]que llegaria a verte en este estado,
-[00:00.00] nunca hubiera creido
-[00:00.00] que llegarian a tal punto de odio y de furor,
-[00:00.00] [Si7]apresandote contra toda justicia.
+[00:58.150] [Mi-]Nunca hubiera podido imaginar
+[01:04.709] [La-]que llegaria a verte en este estado,
+[01:08.185] nunca hubiera creido
+[01:10.832] que llegarian a tal punto de odio y de furor,
+[01:14.436] [Si7]apresandote contra toda justicia.
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Do]Quisiera comprender! [La-]Ay de mi!
+[01:19.183] [Do]Quisiera comprender! [La-]Ay de mi!
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Do]QUISIERA COMPRENDER! [La-]AY DE MI!
+[01:25.929] [Do]QUISIERA COMPRENDER! [La-]AY DE MI!
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Si7]¿Como es posible que la luz se apague!
+[01:32.565] [Si7]¿Como es posible que la luz se apague!
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]COMO ES POSIBLE ¿QUE LA LUZ SE [Si7]APAGUE!
+[01:37.747] [La-]COMO ES POSIBLE ¿QUE LA LUZ SE [Si7]APAGUE!
 {end_of_chorus}
 {column_break}
 {start_of_verse}
-[00:00.00] [La-]¿Como es posible que te claven en una [Si7]cruz!
-[00:00.00] [La-]Hijo mio, Hijo mio y Dios [Si7]mio!
+[01:44.899] [La-]¿Como es posible que te claven en una [Si7]cruz!
+[01:52.764] [La-]Hijo mio, Hijo mio y Dios [Si7]mio!
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]HIJO MIO, HIJO MIO Y DIOS [Si7]MIO!.
+[02:00.148] [La-]HIJO MIO, HIJO MIO Y DIOS [Si7]MIO!.
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Mi-]¿Por qué lloras, por que lloras, [La-]madre mia?
-[00:00.00] [Mi-]¿Por qué lloras, por que lloras, madre mia?
-[00:00.00] [La-6]Acaso no deberia sufrir?
-[00:00.00] [Si7]Acaso no debo morir?
-[00:00.00] [Do]Entonces, como podria salvar a [Si7]Adan?
-[00:00.00] [La-]Entonces, como podrias ver a Eva
-[00:00.00] [Si7]que vuelve a la vida?.
+[02:08.666] [Mi-]¿Por qué lloras, por que lloras, [La-]madre mia?
+[02:17.953] [Mi-]¿Por qué lloras, por que lloras, madre mia?
+[02:22.872] [La-6]Acaso no deberia sufrir?
+[02:27.242] [Si7]Acaso no debo morir?
+[02:30.413] [Do]Entonces, como podria salvar a [Si7]Adan?
+[02:36.324] [La-]Entonces, como podrias ver a Eva
+[02:39.513] [Si7]que vuelve a la vida?.
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [Mi-]COMO OVEJA ¿QUE VE COMO SE LLEVAN ...
+[02:44.891] [Mi-]COMO OVEJA ¿QUE VE COMO SE LLEVAN ...
 {end_of_chorus}
 {start_of_verse}
-[00:00.00] [Do]Hablame: no pases, te ruego, sin [Si7]hablarme,
-[00:00.00] [La-]Hijo mio, Hijo mio y Dios [Si7]mio!
+[03:12.795] [Do]Hablame: no pases, te ruego, sin [Si7]hablarme,
+[03:20.298] [La-]Hijo mio, Hijo mio y Dios [Si7]mio!
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]HIJO MIO, HIJO MIO Y DIOS MIO!
+[03:21.966] [La-]HIJO MIO, HIJO MIO Y DIOS MIO!
 {end_of_chorus}
 ```
