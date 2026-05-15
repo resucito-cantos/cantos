@@ -6,6 +6,7 @@ import { Player } from "../../components/Player";
 import { SongSheet } from "../../components/SongSheet";
 import { useChordsVisible } from "../../hooks/useChordsVisible";
 import { useOfflineAudio } from "../../hooks/useOfflineAudio";
+import { useScreenWakeLock } from "../../hooks/useScreenWakeLock";
 import { useTransposition } from "../../hooks/useTransposition";
 import type { CantoEntry } from "../../hooks/useSearch";
 import type { CantoAST } from "../../lib/chordpro";
@@ -112,6 +113,7 @@ function CantoPage() {
 	const bg = CATEGORY_BG[canto.category?.toLowerCase() ?? ""] ?? "bg-white";
 	const jsonLd = buildJsonLd(canto);
 	const { status, download } = useOfflineAudio(canto.audioSrc);
+	useScreenWakeLock();
 
 	return (
 		<main className={`min-h-screen pb-24 ${bg}`}>
