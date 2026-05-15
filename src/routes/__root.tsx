@@ -15,6 +15,10 @@ import {
 	loadSettings,
 	saveSettings,
 } from "../hooks/useChordsVisible";
+import {
+	TranspositionContext,
+	useTranspositionProvider,
+} from "../hooks/useTransposition";
 import appCss from "../styles.css?url";
 
 interface MyRouterContext {
@@ -67,8 +71,14 @@ function RootDocument({ children }: { children: React.ReactNode }) {
 function RootComponent() {
 	const [paletteOpen, setPaletteOpen] = useState(false);
 	const [chordsVisible, setChordsVisible] = useState(() => loadSettings().chordsVisible);
+	const transposition = useTranspositionProvider();
 	const matches = useMatches();
-	const isHomePage = matches[matches.length - 1]?.fullPath === "/";
+	const lastMatch = matches[matches.length - 1];
+	const isHomePage = lastMatch?.fullPath === "/";
+	const cantoSlug =
+		lastMatch?.fullPath === "/cantos/$slug"
+			? (lastMatch.params as { slug?: string }).slug ?? null
+			: null;
 
 	const toggleChords = useCallback(() => {
 		setChordsVisible((v) => {
@@ -97,24 +107,27 @@ function RootComponent() {
 	}, []);
 
 	return (
-		<ChordsVisibleContext value={{ chordsVisible, toggleChords }}>
-			{!isHomePage && (
-				<button
-					type="button"
-					onClick={() => setPaletteOpen(true)}
-					className="fixed top-4 right-4 z-40 flex size-10 items-center justify-center rounded-lg bg-white shadow-md outline-1 outline-black/5 transition hover:bg-gray-50"
-					aria-label="Buscar cantos"
-				>
-					<Bars3Icon className="size-5 text-gray-600" />
-				</button>
-			)}
+		<TranspositionContext value={transposition}>
+			<ChordsVisibleContext value={{ chordsVisible, toggleChords }}>
+				{!isHomePage && (
+					<button
+						type="button"
+						onClick={() => setPaletteOpen(true)}
+						className="fixed top-4 right-4 z-40 flex size-10 items-center justify-center rounded-lg bg-white shadow-md outline-1 outline-black/5 transition hover:bg-gray-50"
+						aria-label="Buscar cantos"
+					>
+						<Bars3Icon className="size-5 text-gray-600" />
+					</button>
+				)}
 
-			<CommandPaletteDialog
-				open={paletteOpen}
-				onClose={() => setPaletteOpen(false)}
-			/>
+				<CommandPaletteDialog
+					open={paletteOpen}
+					onClose={() => setPaletteOpen(false)}
+					cantoSlug={cantoSlug}
+				/>
 
-			<Outlet />
-		</ChordsVisibleContext>
+				<Outlet />
+			</ChordsVisibleContext>
+		</TranspositionContext>
 	);
 }

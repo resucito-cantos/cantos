@@ -9,6 +9,9 @@ import {
 } from "@headlessui/react";
 import { MagnifyingGlassIcon } from "@heroicons/react/20/solid";
 import {
+	ArrowDownIcon,
+	ArrowPathIcon,
+	ArrowUpIcon,
 	ExclamationCircleIcon,
 	EyeIcon,
 	EyeSlashIcon,
@@ -17,6 +20,7 @@ import {
 import { useNavigate } from "@tanstack/react-router";
 import { useChordsVisible } from "../hooks/useChordsVisible";
 import { useSearch, type SearchResult } from "../hooks/useSearch";
+import { useTransposition } from "../hooks/useTransposition";
 
 const CATEGORY_COLORS: Record<string, string> = {
 	precatecumenado: "bg-white outline outline-1 outline-gray-300",
@@ -24,6 +28,16 @@ const CATEGORY_COLORS: Record<string, string> = {
 	"elección": "bg-[#d5f0d5]",
 	"litúrgico": "bg-[#fef9c3]",
 };
+
+function formatSemitones(n: number): string {
+	if (n === 0) return "tono original";
+	if (n === 1) return "+½ tono";
+	if (n === -1) return "−½ tono";
+	if (n === 2) return "+1 tono";
+	if (n === -2) return "−1 tono";
+	const sign = n > 0 ? "+" : "−";
+	return `${sign}${Math.abs(n)} semitonos`;
+}
 
 type ActionItem = {
 	id: string;
@@ -152,13 +166,16 @@ function PaletteContent({
 type CommandPaletteDialogProps = {
 	open: boolean;
 	onClose: () => void;
+	cantoSlug?: string | null;
 };
 
 export function CommandPaletteDialog({
 	open,
 	onClose,
+	cantoSlug,
 }: CommandPaletteDialogProps) {
 	const { chordsVisible, toggleChords } = useChordsVisible();
+	const transposition = useTransposition(cantoSlug ?? "");
 
 	const actions: ActionItem[] = [
 		{
@@ -168,6 +185,45 @@ export function CommandPaletteDialog({
 			action: toggleChords,
 		},
 	];
+
+	if (cantoSlug) {
+		const current = transposition.semitones;
+		actions.push(
+			{
+				id: "transpose-reset",
+				name:
+					current === 0
+						? "Tono original"
+						: `Tono original (actual: ${formatSemitones(current)})`,
+				icon: ArrowPathIcon,
+				action: () => transposition.reset(),
+			},
+			{
+				id: "transpose-up-half",
+				name: "Subir medio tono",
+				icon: ArrowUpIcon,
+				action: () => transposition.adjust(1),
+			},
+			{
+				id: "transpose-up-whole",
+				name: "Subir un tono",
+				icon: ArrowUpIcon,
+				action: () => transposition.adjust(2),
+			},
+			{
+				id: "transpose-down-whole",
+				name: "Bajar un tono",
+				icon: ArrowDownIcon,
+				action: () => transposition.adjust(-2),
+			},
+			{
+				id: "transpose-down-half",
+				name: "Bajar medio tono",
+				icon: ArrowDownIcon,
+				action: () => transposition.adjust(-1),
+			},
+		);
+	}
 
 	return (
 		<Dialog className="relative z-50" open={open} onClose={onClose}>

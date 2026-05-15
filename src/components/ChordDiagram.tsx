@@ -1,5 +1,6 @@
 import { useEffect, useRef } from "react";
 import { ChordStyle, SVGuitarChord } from "svguitar";
+import { transposeChord } from "../lib/transpose";
 
 // Chord database: maps chord names to svguitar chord data
 // Frets are [string, fret, optionalText], strings numbered 1-6 from high E to low E
@@ -183,14 +184,23 @@ export function ChordDiagram({ name, width = 80 }: ChordDiagramProps) {
 
 type ChordDiagramsProps = {
 	chords: string[];
+	transposition?: number;
 };
 
-export function ChordDiagrams({ chords }: ChordDiagramsProps) {
+export function ChordDiagrams({ chords, transposition = 0 }: ChordDiagramsProps) {
 	if (chords.length === 0) return null;
+
+	const displayed =
+		transposition === 0
+			? chords
+			: // Transpose and de-dupe (different originals may collapse onto the same chord).
+				Array.from(
+					new Set(chords.map((c) => transposeChord(c, transposition))),
+				);
 
 	return (
 		<div className="mt-8 flex flex-wrap gap-4 justify-center px-8">
-			{chords.map((chord) => (
+			{displayed.map((chord) => (
 				<ChordDiagram key={chord} name={chord} />
 			))}
 		</div>

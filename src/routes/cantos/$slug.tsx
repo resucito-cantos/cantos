@@ -6,6 +6,7 @@ import { Player } from "../../components/Player";
 import { SongSheet } from "../../components/SongSheet";
 import { useChordsVisible } from "../../hooks/useChordsVisible";
 import { useOfflineAudio } from "../../hooks/useOfflineAudio";
+import { useTransposition } from "../../hooks/useTransposition";
 import type { CantoEntry } from "../../hooks/useSearch";
 import type { CantoAST } from "../../lib/chordpro";
 
@@ -107,6 +108,7 @@ const CATEGORY_BG: Record<string, string> = {
 function CantoPage() {
 	const canto = Route.useLoaderData();
 	const { chordsVisible } = useChordsVisible();
+	const { semitones } = useTransposition(canto.slug);
 	const bg = CATEGORY_BG[canto.category?.toLowerCase() ?? ""] ?? "bg-white";
 	const jsonLd = buildJsonLd(canto);
 	const { status, download } = useOfflineAudio(canto.audioSrc);
@@ -122,8 +124,11 @@ function CantoPage() {
 				subtitle={canto.subtitle}
 				ast={canto.ast}
 				category={canto.category}
+				transposition={semitones}
 			/>
-			{chordsVisible && <ChordDiagrams chords={canto.ast.chords} />}
+			{chordsVisible && (
+				<ChordDiagrams chords={canto.ast.chords} transposition={semitones} />
+			)}
 			<footer className="song-footer">
 				SOLO para uso interno del Camino Neocatecumenal
 			</footer>

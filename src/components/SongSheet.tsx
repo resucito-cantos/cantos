@@ -1,18 +1,28 @@
 import type { CantoAST, Line, Section, Segment } from "../lib/chordpro";
+import { transposeChord } from "../lib/transpose";
 
 type SongSheetProps = {
 	title: string;
 	subtitle?: string | null;
 	category?: string | null;
 	ast: CantoAST;
+	transposition?: number;
 	onLineClick?: (timecode: string) => void;
 };
 
-function ChordSegment({ segment }: { segment: Segment }) {
+function ChordSegment({
+	segment,
+	transposition,
+}: {
+	segment: Segment;
+	transposition: number;
+}) {
 	if (segment.chord) {
+		const chord =
+			transposition === 0 ? segment.chord : transposeChord(segment.chord, transposition);
 		return (
 			<span className="chord-a">
-				<span className="chord">{segment.chord}</span>
+				<span className="chord">{chord}</span>
 				{segment.text || "\u00A0"}
 			</span>
 		);
@@ -22,9 +32,11 @@ function ChordSegment({ segment }: { segment: Segment }) {
 
 function VoiceLine({
 	line,
+	transposition,
 	onLineClick,
 }: {
 	line: Line;
+	transposition: number;
 	onLineClick?: (timecode: string) => void;
 }) {
 	return (
@@ -39,7 +51,7 @@ function VoiceLine({
 			style={line.timecode && onLineClick ? { cursor: "pointer" } : undefined}
 		>
 			{line.segments.map((seg, i) => (
-				<ChordSegment key={i} segment={seg} />
+				<ChordSegment key={i} segment={seg} transposition={transposition} />
 			))}
 		</p>
 	);
@@ -47,13 +59,20 @@ function VoiceLine({
 
 function SongSection({
 	section,
+	transposition,
 	onLineClick,
 }: {
 	section: Section;
+	transposition: number;
 	onLineClick?: (timecode: string) => void;
 }) {
 	const lines = section.lines.map((line, i) => (
-		<VoiceLine key={i} line={line} onLineClick={onLineClick} />
+		<VoiceLine
+			key={i}
+			line={line}
+			transposition={transposition}
+			onLineClick={onLineClick}
+		/>
 	));
 
 	if (section.bis) {
@@ -73,6 +92,7 @@ export function SongSheet({
 	subtitle,
 	category,
 	ast,
+	transposition = 0,
 	onLineClick,
 }: SongSheetProps) {
 	// Split sections into columns at columnBreak markers
@@ -104,6 +124,7 @@ export function SongSheet({
 							<SongSection
 								key={secIdx}
 								section={section}
+								transposition={transposition}
 								onLineClick={onLineClick}
 							/>
 						))}
