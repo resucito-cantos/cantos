@@ -9,12 +9,18 @@
 // Additionally, you should also exclude this file from your linter and/or formatter to prevent it from being checked or modified.
 
 import { Route as rootRouteImport } from './routes/__root'
+import { Route as TesituraRouteImport } from './routes/tesitura'
 import { Route as SyncRouteRouteImport } from './routes/sync/route'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as SyncIndexRouteImport } from './routes/sync/index'
 import { Route as SyncSlugRouteImport } from './routes/sync/$slug'
 import { Route as CantosSlugRouteImport } from './routes/cantos/$slug'
 
+const TesituraRoute = TesituraRouteImport.update({
+  id: '/tesitura',
+  path: '/tesitura',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const SyncRouteRoute = SyncRouteRouteImport.update({
   id: '/sync',
   path: '/sync',
@@ -44,12 +50,14 @@ const CantosSlugRoute = CantosSlugRouteImport.update({
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/sync': typeof SyncRouteRouteWithChildren
+  '/tesitura': typeof TesituraRoute
   '/cantos/$slug': typeof CantosSlugRoute
   '/sync/$slug': typeof SyncSlugRoute
   '/sync/': typeof SyncIndexRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/tesitura': typeof TesituraRoute
   '/cantos/$slug': typeof CantosSlugRoute
   '/sync/$slug': typeof SyncSlugRoute
   '/sync': typeof SyncIndexRoute
@@ -58,26 +66,48 @@ export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/sync': typeof SyncRouteRouteWithChildren
+  '/tesitura': typeof TesituraRoute
   '/cantos/$slug': typeof CantosSlugRoute
   '/sync/$slug': typeof SyncSlugRoute
   '/sync/': typeof SyncIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/sync' | '/cantos/$slug' | '/sync/$slug' | '/sync/'
+  fullPaths:
+    | '/'
+    | '/sync'
+    | '/tesitura'
+    | '/cantos/$slug'
+    | '/sync/$slug'
+    | '/sync/'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/cantos/$slug' | '/sync/$slug' | '/sync'
-  id: '__root__' | '/' | '/sync' | '/cantos/$slug' | '/sync/$slug' | '/sync/'
+  to: '/' | '/tesitura' | '/cantos/$slug' | '/sync/$slug' | '/sync'
+  id:
+    | '__root__'
+    | '/'
+    | '/sync'
+    | '/tesitura'
+    | '/cantos/$slug'
+    | '/sync/$slug'
+    | '/sync/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   SyncRouteRoute: typeof SyncRouteRouteWithChildren
+  TesituraRoute: typeof TesituraRoute
   CantosSlugRoute: typeof CantosSlugRoute
 }
 
 declare module '@tanstack/react-router' {
   interface FileRoutesByPath {
+    '/tesitura': {
+      id: '/tesitura'
+      path: '/tesitura'
+      fullPath: '/tesitura'
+      preLoaderRoute: typeof TesituraRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/sync': {
       id: '/sync'
       path: '/sync'
@@ -133,6 +163,7 @@ const SyncRouteRouteWithChildren = SyncRouteRoute._addFileChildren(
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   SyncRouteRoute: SyncRouteRouteWithChildren,
+  TesituraRoute: TesituraRoute,
   CantosSlugRoute: CantosSlugRoute,
 }
 export const routeTree = rootRouteImport

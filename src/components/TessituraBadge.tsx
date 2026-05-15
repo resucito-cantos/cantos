@@ -1,5 +1,5 @@
-import { CheckCircleIcon, MusicalNoteIcon } from "@heroicons/react/24/outline";
-import { useState } from "react";
+import { Link } from "@tanstack/react-router";
+import { CheckCircleIcon } from "@heroicons/react/24/outline";
 import {
 	analyzeFit,
 	formatPitch,
@@ -8,7 +8,6 @@ import {
 } from "../lib/voice-range";
 import { useTransposition } from "../hooks/useTransposition";
 import { useVoiceRange } from "../hooks/useVoiceRange";
-import { VoiceRangePicker } from "./VoiceRangePicker";
 
 type Props = {
 	slug: string;
@@ -18,36 +17,15 @@ type Props = {
 export function TessituraBadge({ slug, chords }: Props) {
 	const { range } = useVoiceRange();
 	const transposition = useTransposition(slug);
-	const [pickerOpen, setPickerOpen] = useState(false);
 
-	const songRange = getSongChordRange(
-		// Apply current transposition before analyzing so the suggestion accounts
-		// for anything the user has already shifted by hand.
-		chords.map((c) => c),
-	);
-
+	const songRange = getSongChordRange(chords);
 	if (!songRange) return null;
 
-	if (!range) {
-		return (
-			<>
-				<button
-					type="button"
-					onClick={() => setPickerOpen(true)}
-					className="flex items-center gap-1.5 rounded-full bg-white px-3 py-1 text-xs text-gray-600 shadow outline-1 outline-black/5 hover:bg-gray-50"
-					title="Configurar mi tesitura"
-				>
-					<MusicalNoteIcon className="size-3.5" />
-					<span>Configurar mi tesitura</span>
-				</button>
-				<VoiceRangePicker open={pickerOpen} onClose={() => setPickerOpen(false)} />
-			</>
-		);
-	}
+	// Hidden until the user has calibrated their voice on /tesitura.
+	if (!range) return null;
 
-	// We pass the user's range shifted DOWN by the current transposition so the
-	// analysis describes the song in its original key — the suggestion already
-	// accounts for whatever the user has set.
+	// User's range, virtually shifted down by the current transposition so the
+	// analysis still describes the song in its original key.
 	const fit = analyzeFit(
 		songRange,
 		range.low - transposition.semitones,
@@ -55,7 +33,10 @@ export function TessituraBadge({ slug, chords }: Props) {
 	);
 
 	const songKey = pitchClassName(songRange.lowestPc);
-	const tone = fit.status === "fits" ? "bg-green-100 text-green-700" : "bg-amber-100 text-amber-700";
+	const tone =
+		fit.status === "fits"
+			? "bg-green-100 text-green-700"
+			: "bg-amber-100 text-amber-700";
 
 	let label: string;
 	if (fit.status === "fits") {
@@ -69,30 +50,23 @@ export function TessituraBadge({ slug, chords }: Props) {
 	}
 
 	return (
-		<>
-			<div
-				className={`flex items-center gap-1.5 rounded-full px-3 py-1 text-xs font-medium shadow outline-1 outline-black/5 ${tone}`}
-				title={`Acordes del canto: ${songKey} (${formatPitch(fit.songLow)}–${formatPitch(fit.songHigh)}). Tu rango: ${formatPitch(range.low)}–${formatPitch(range.high)}.`}
-			>
-				{fit.status === "fits" && <CheckCircleIcon className="size-3.5" />}
+		<div
+			className={`flex items-center gap-1.5 rounded-full px-3 py-1 text-xs font-medium shadow outline-1 outline-black/5 ${tone}`}
+			title={`Acordes del canto: ${songKey} (${formatPitch(fit.songLow)}–${formatPitch(fit.songHigh)}). Tu rango: ${formatPitch(range.low)}–${formatPitch(range.high)}.`}
+		>
+			{fit.status === "fits" && <CheckCircleIcon className="size-3.5" />}
+			<Link to="/tesitura" className="no-underline hover:underline">
+				{label}
+			</Link>
+			{fit.status !== "fits" && fit.suggestedSemitones !== 0 && (
 				<button
 					type="button"
-					onClick={() => setPickerOpen(true)}
-					className="hover:underline"
+					onClick={() => transposition.adjust(fit.suggestedSemitones)}
+					className="ml-1 rounded bg-white/60 px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wide hover:bg-white"
 				>
-					{label}
+					Aplicar
 				</button>
-				{fit.status !== "fits" && fit.suggestedSemitones !== 0 && (
-					<button
-						type="button"
-						onClick={() => transposition.adjust(fit.suggestedSemitones)}
-						className="ml-1 rounded bg-white/60 px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wide hover:bg-white"
-					>
-						Aplicar
-					</button>
-				)}
-			</div>
-			<VoiceRangePicker open={pickerOpen} onClose={() => setPickerOpen(false)} />
-		</>
+			)}
+		</div>
 	);
 }

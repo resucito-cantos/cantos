@@ -1,4 +1,4 @@
-import { createFileRoute } from "@tanstack/react-router";
+import { createFileRoute, Link } from "@tanstack/react-router";
 import { CommandPaletteInline } from "../components/CommandPalette";
 
 const siteJsonLd = {
@@ -62,6 +62,12 @@ function HomePage() {
 				className="mb-8 h-10 w-auto"
 			/>
 			<CommandPaletteInline />
+			<Link
+				to="/tesitura"
+				className="mt-4 text-xs uppercase tracking-wider text-gray-400 no-underline hover:text-gray-600"
+			>
+				Mi tesitura
+			</Link>
 		</main>
 	);
 }
