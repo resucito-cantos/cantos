@@ -19,6 +19,10 @@ import {
 	TranspositionContext,
 	useTranspositionProvider,
 } from "../hooks/useTransposition";
+import {
+	VoiceRangeContext,
+	useVoiceRangeProvider,
+} from "../hooks/useVoiceRange";
 import appCss from "../styles.css?url";
 
 interface MyRouterContext {
@@ -77,6 +81,7 @@ function RootComponent() {
 		setChordsVisible(loadSettings().chordsVisible);
 	}, []);
 	const transposition = useTranspositionProvider();
+	const voiceRange = useVoiceRangeProvider();
 	const matches = useMatches();
 	const lastMatch = matches[matches.length - 1];
 	const isHomePage = lastMatch?.fullPath === "/";
@@ -112,6 +117,7 @@ function RootComponent() {
 	}, []);
 
 	return (
+		<VoiceRangeContext value={voiceRange}>
 		<TranspositionContext value={transposition}>
 			<ChordsVisibleContext value={{ chordsVisible, toggleChords }}>
 				{!isHomePage && (
@@ -134,5 +140,6 @@ function RootComponent() {
 				<Outlet />
 			</ChordsVisibleContext>
 		</TranspositionContext>
+		</VoiceRangeContext>
 	);
 }

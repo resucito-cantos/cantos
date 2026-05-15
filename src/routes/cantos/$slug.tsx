@@ -4,6 +4,7 @@ import { ChordDiagrams } from "../../components/ChordDiagram";
 import { NotFound } from "../../components/NotFound";
 import { Player } from "../../components/Player";
 import { SongSheet } from "../../components/SongSheet";
+import { TessituraBadge } from "../../components/TessituraBadge";
 import { useChordsVisible } from "../../hooks/useChordsVisible";
 import { useOfflineAudio } from "../../hooks/useOfflineAudio";
 import { useScreenWakeLock } from "../../hooks/useScreenWakeLock";
@@ -131,6 +132,9 @@ function CantoPage() {
 			{chordsVisible && (
 				<ChordDiagrams chords={canto.ast.chords} transposition={semitones} />
 			)}
+			<div className="mt-6 flex justify-center">
+				<TessituraBadge slug={canto.slug} chords={canto.ast.chords} />
+			</div>
 			<footer className="song-footer">
 				SOLO para uso interno del Camino Neocatecumenal
 			</footer>
