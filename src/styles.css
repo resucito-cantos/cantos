@@ -137,6 +137,15 @@ body {
 	white-space: nowrap;
 	line-height: 1;
 	height: 1em;
+	/* Padding so consecutive trailing-transition chords (e.g. `[Fa7+5dim] [Mi]`
+	   with no lyric below) don't visually merge. For normal segments the
+	   lyric text below drives column width, so this is invisible. */
+	padding-right: 0.4em;
+}
+
+.chord-text {
+	min-height: 1em;
+	white-space: pre;
 }
 
 .song-chords .chorus .chord {

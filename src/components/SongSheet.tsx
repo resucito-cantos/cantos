@@ -20,10 +20,13 @@ function ChordSegment({
 	if (segment.chord) {
 		const chord =
 			transposition === 0 ? segment.chord : transposeChord(segment.chord, transposition);
+		// Wrap the text in a span so chord segments with empty/whitespace text
+		// (trailing transition chords like `[Fa7+5dim] [Mi]`) keep the full
+		// lyric-line height and the chord stays in the chord row.
 		return (
 			<span className="chord-a">
 				<span className="chord">{chord}</span>
-				{segment.text || "\u00A0"}
+				<span className="chord-text">{segment.text || "\u00A0"}</span>
 			</span>
 		);
 	}
