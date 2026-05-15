@@ -7,6 +7,7 @@ import { tanstackStart } from "@tanstack/react-start/plugin/vite";
 import viteReact from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
 import contentCollections from "@content-collections/vite";
+import { devSearchIndexPlugin } from "./scripts/vite-plugin-dev-search-index";
 import { lyricSyncPlugin } from "./scripts/vite-plugin-lyric-sync";
 
 const cantoSlugs = readdirSync("content/cantos");
@@ -73,6 +74,7 @@ const config = defineConfig({
 			},
 		}),
 		lyricSyncPlugin(),
+		devSearchIndexPlugin(),
 	],
 });
 

@@ -1,29 +1,30 @@
 ---
-title: "¿Como Oveja ¿Que Ve ¿Como Se Llevan Su Corderito Al Matadero"
-subtitle: "Kontakion con motivo del Viernes de Pasion, de san Romano el Meloda"
+title: "Como oveja que ve cómo se llevan su corderito al matadero"
+subtitle: "Kontákion con motivo del Viernes de Pasion, de san Romano el Meloda"
 category: "Litúrgico"
 tags: []
 resources:
-- name: audio
-  src: como-oveja-que-ve-como-se-llevan-su-corderito-al-matadero.mp3
+  - name: audio
+    src: como-oveja-que-ve-como-se-llevan-su-corderito-al-matadero.mp3
 ---
+
 ```chordpro
 {start_of_verse}
-[00:00.00] [Mi-]¿Como oveja que ve como se llevan
-[00:00.00] [La-]su corderito al matadero,
-[00:00.00] [Mi-]Maria lo seguia consumida de dolor.
-[00:00.00] [La-]Y le decia: ¿Donde te llevan, Hijo mio?
+[00:07.192] [Mi-]Como oveja que ve como se llevan
+[00:11.865] [La-]su corderito al matadero,
+[00:15.722] [Mi-]Maria lo seguia consumida de dolor.
+[00:21.225] [La-]Y le decia: ¿Donde te llevan, Hijo mio?
 {end_of_verse}
 {start_of_verse}
-[00:00.00] ¿Como se acaba tan pronto
-[00:00.00] [Si7]el curso de tu vida?
+[00:26.974] ¿Como se acaba tan pronto
+[00:28.949] [Si7]el curso de tu vida?
 {end_of_verse}
 {start_of_verse}
-[00:00.00] [Do]Hablame: no pases, te ruego, sin [Si7]hablarme,
-[00:00.00] [La-]Hijo mio, Hijo mio y Dios [Si7]mio!
+[00:30.883] [Do]Hablame: no pases, te ruego, sin [Si7]hablarme,
+[00:40.967] [La-]Hijo mio, Hijo mio y Dios [Si7]mio!
 {end_of_verse}
 {start_of_chorus}
-[00:00.00] [La-]HIJO MIO, HIJO MIO Y DIOS [Si7]MIO!
+[00:50.047] [La-]HIJO MIO, HIJO MIO Y DIOS [Si7]MIO!
 {end_of_chorus}
 {start_of_verse}
 [00:00.00] [Mi-]Nunca hubiera podido imaginar
