@@ -98,11 +98,13 @@ export function getSongChordRange(chords: string[]): SongRange | null {
 }
 
 // Place the chord roots in a concrete octave so we can compare against the
-// user's absolute voice range. We default to octave 3 — typical for guitar
-// playing position. The function returns absolute midi numbers.
+// user's absolute voice range. We default to octave 4 — typical melodic
+// position for Spanish flamenco / neocatecumenal singing, where the cantaor
+// usually carries the root one octave above the guitar bass. The function
+// returns absolute midi numbers.
 export function placeChordsInOctave(
 	range: SongRange,
-	octave: number = 3,
+	octave: number = 4,
 ): { low: number; high: number } {
 	return {
 		low: midiOf(range.lowestPc, octave),
