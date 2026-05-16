@@ -139,10 +139,14 @@ export function analyzeFit(
 		return "fits";
 	})();
 
-	// Suggested transposition: center the song's range inside the user's range.
+	// Suggested transposition: center the song's range inside the user's range,
+	// then bias half a tone DOWN. In practice the cantaor's actual melody sits
+	// a little above where the chord root would place it, so a pure centering
+	// suggestion lands slightly high — empirically a −½ tone bias matches what
+	// the user actually picks by ear.
 	const songCenter = (placed.low + placed.high) / 2;
 	const userCenter = (userLow + userHigh) / 2;
-	const suggestedSemitones = Math.round(userCenter - songCenter);
+	const suggestedSemitones = Math.round(userCenter - songCenter) - 1;
 
 	return {
 		status,

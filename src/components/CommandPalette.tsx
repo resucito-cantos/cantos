@@ -179,6 +179,7 @@ export function CommandPaletteDialog({
 	onClose,
 	cantoSlug,
 }: CommandPaletteDialogProps) {
+	const navigate = useNavigate();
 	const { chordsVisible, toggleChords } = useChordsVisible();
 	const transposition = useTransposition(cantoSlug ?? "");
 	const { range: voiceRange } = useVoiceRange();
@@ -189,6 +190,12 @@ export function CommandPaletteDialog({
 			name: chordsVisible ? "Ocultar diagramas de acordes" : "Mostrar diagramas de acordes",
 			icon: chordsVisible ? EyeSlashIcon : EyeIcon,
 			action: toggleChords,
+		},
+		{
+			id: "open-tesitura",
+			name: "Mi tesitura",
+			icon: MicrophoneIcon,
+			action: () => navigate({ to: "/tesitura" }),
 		},
 	];
 
